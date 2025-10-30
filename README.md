@@ -33,7 +33,8 @@ Como estas são traduções não revisadas, contribuições para corrigir erros 
 Se este trabalho foi útil para você e gostaria de me agradecer, aceito contribuições via Ko-fi:
 
 [![Buy me a coffee](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rcosb)
-[![Buy me a coffee](https://storage.ko-fi.com/cdn/useruploads/P5P21NMNGT/qrcode.png?v=90f8c285-a0d5-4389-9267-f8db754b2213?v=2)
+
+![Buy me a coffee](https://storage.ko-fi.com/cdn/useruploads/P5P21NMNGT/qrcode.png?v=90f8c285-a0d5-4389-9267-f8db754b2213?v=2)
 
 Qualquer valor é muito apreciado! Isso me ajuda a continuar contribuindo com a comunidade.
 
