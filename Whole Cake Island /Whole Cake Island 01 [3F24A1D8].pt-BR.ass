@@ -1871,10 +1871,10 @@ Dialogue: 0,0:03:07.20,0:03:11.83,Captions,,0,0,240,,{\fad(500,500)}Princesa do 
 Dialogue: 0,0:03:09.48,0:03:11.92,Main,,0,0,3,,{\i1}Vivi-sama!
 Dialogue: 0,0:03:12.78,0:03:15.27,Main,,0,0,0,,Que brisa gostosa do mar...
 Dialogue: 0,0:03:15.27,0:03:19.97,Main,,0,0,0,,O que você faria se um pássaro estranho viesse e te agarrasse?!
-Dialogue: 0,0:03:19.97,0:03:25.92,Main,,0,0,0,,E se houver um atirador mirando em você ou se um meteoro cair do céu?\N!
+Dialogue: 0,0:03:19.97,0:03:25.92,Main,,0,0,0,,E se houver um atirador mirando em você ou se um meteoro cair do céu?!
 Dialogue: 0,0:03:25.92,0:03:27.38,Main,,0,0,0,,Você se preocupa demais.
 Dialogue: 0,0:03:28.18,0:03:30.16,Main,,0,0,0,,{\i1}Afinal, Vivi-sama costumava ser uma pirata.
-Dialogue: 0,0:03:31.95,0:03:36.08,Main,,0,0,0,,O que há de errado com você, Pell?\N!\NA Marinha está nos observando!
+Dialogue: 0,0:03:31.95,0:03:36.08,Main,,0,0,0,,O que há de errado com você, Pell?!\NA Marinha está nos observando!
 Dialogue: 0,0:03:38.69,0:03:41.48,Main,,0,0,0,,Não se esforce, Sua Majestade.
 Dialogue: 0,0:03:41.48,0:03:45.10,Main,,0,0,0,,Se você não estiver se sentindo bem, voltaremos imediatamente.
 Dialogue: 0,0:03:45.10,0:03:48.22,Main,,0,0,0,,Não, estou bem.
@@ -1890,7 +1890,7 @@ Dialogue: 0,0:04:26.37,0:04:27.85,Main,,0,0,0,,Oh não! Oh não!
 Dialogue: 0,0:04:27.85,0:04:30.15,Main,,0,0,0,,Oh não! Oh não! Oh...
 Dialogue: 0,0:04:41.39,0:04:44.99,Main,,0,0,0,,{\i1}Ei! Comporte-se, Vivi-sama!
 Dialogue: 0,0:04:50.39,0:04:52.73,Main,,0,0,0,,{\i1}Pai-sama, como você está?
-Dialogue: 0,0:04:53.65,0:04:58.02,Main,,0,0,0,,Não está bem.\NTalvez eu não viva muito mais.\N.\N.
+Dialogue: 0,0:04:53.65,0:04:58.02,Main,,0,0,0,,Não está bem.\NTalvez eu não viva muito mais...
 Dialogue: 0,0:04:58.02,0:05:01.15,Main,,0,0,0,,Se ao menos minha filha encontrasse um marido antes que seja tarde demais.
 Dialogue: 0,0:05:04.28,0:05:08.10,Main,,0,0,0,,Isso não é justo!\NVocê está usando sua doença contra mim de novo!
 Dialogue: 0,0:05:08.12,0:05:11.16,Main,,0,0,0,,Temos toneladas de fotos de potenciais pretendentes!
@@ -2054,7 +2054,7 @@ Dialogue: 0,0:11:35.71,0:11:39.62,Main,,0,0,0,,Não faça isso! Wanda vai ficar 
 Dialogue: 0,0:11:39.62,0:11:42.84,Main,,0,0,0,,Você quer incomodar nossos salvadores, Cenoura?
 Dialogue: 0,0:11:44.01,0:11:50.10,Main,,0,0,0,,Eu só queria partir em uma aventura no mar, junto com Luffy e os outros, mesmo que seja a única chance que eu tenha.
 Dialogue: 0,0:11:50.10,0:11:54.02,Main,,0,0,0,,Estamos nos infiltrando no covil de um Imperador.\NIsto não é um jogo!
-Dialogue: 0,0:11:54.02,0:11:59.44,Main,,0,0,0,,Por favor!\NEu farei qualquer coisa!\NApenas me leve com você!\NNão vou causar nenhum problema!\Neu até trouxe.\N.\N.
+Dialogue: 0,0:11:54.02,0:11:59.44,Main,,0,0,0,,Por favor!\NEu farei qualquer coisa!\NApenas me leve com você!\NNão vou causar nenhum problema!\Neu até trouxe...
 Dialogue: 0,0:11:59.44,0:12:01.03,Main,,0,0,0,,Olhar!
 Dialogue: 0,0:12:01.03,0:12:02.51,Main,,0,0,0,,Almoço!
 Dialogue: 0,0:12:02.51,0:12:03.86,Main,,0,0,0,,Suco!
@@ -2063,7 +2063,7 @@ Dialogue: 0,0:12:04.99,0:12:06.37,Main,,0,0,0,,Uma camisa extra!
 Dialogue: 0,0:12:06.37,0:12:09.10,Main,,0,0,0,,Quanto tempo você acha que isso vai durar?
 Dialogue: 0,0:12:09.10,0:12:13.00,Main,,0,0,0,,Um bom meio dia! O mar não é um lugar grande?
 Dialogue: 0,0:12:13.72,0:12:18.98,Main,,0,0,0,,O que?! Vai demorar vários dias para chegar ao território da Big Mom?!
-Dialogue: 0,0:12:18.98,0:12:23.55,Main,,0,0,0,,Mesmo em uma rota reta?\N!\NNão acredito que o oceano é tão grande!
+Dialogue: 0,0:12:18.98,0:12:23.55,Main,,0,0,0,,Mesmo em uma rota reta?!\NNão acredito que o oceano é tão grande!
 Dialogue: 0,0:12:23.55,0:12:26.35,Main,,0,0,0,,O oceano é como um país das maravilhas!
 Dialogue: 0,0:12:26.35,0:12:28.79,Main,,0,0,0,,Nunca passei a noite fora de casa!
 Dialogue: 0,0:12:28.79,0:12:31.89,Main,,0,0,0,,{\i1}Um país das maravilhas? Estamos no oceano.
@@ -2088,7 +2088,7 @@ Dialogue: 0,0:13:44.24,0:13:46.00,Main,,0,0,0,,Isso vai esgotar todas as nossas 
 Dialogue: 0,0:13:46.00,0:13:48.11,Main,,0,0,0,,Então o que devemos fazer?
 Dialogue: 0,0:13:49.17,0:13:52.04,Thoughts,,0,0,0,,Ou eu faço a comida ou você faz, Brook.
 Dialogue: 0,0:13:52.04,0:13:53.42,Thoughts,,0,0,0,,Você tem razão.
-Dialogue: 0,0:13:53.42,0:13:58.63,Thoughts,,0,0,0,,{\i1}Se deixarmos isso para o Luffy-san, quem sabe o que ele fará por nós?\N!
+Dialogue: 0,0:13:53.42,0:13:58.63,Thoughts,,0,0,0,,{\i1}Se deixarmos isso para o Luffy-san, quem sabe o que ele fará por nós?!
 Dialogue: 0,0:13:59.16,0:14:00.75,Main,,0,0,0,,Vou fazer alguma coisa!
 Dialogue: 0,0:14:00.75,0:14:01.85,Main,,0,0,0,,O que?!
 Dialogue: 0,0:14:01.85,0:14:05.74,Main,,0,0,0,,Você pode contar comigo!\NVou preparar muitos pratos deliciosos para você!
@@ -2121,7 +2121,7 @@ Dialogue: 0,0:15:32.97,0:15:35.33,Main,,0,0,0,,Esse é o seu pai!
 Dialogue: 0,0:15:38.04,0:15:41.64,Main,,0,0,0,,O que?! Este é meu pai?!
 Dialogue: 0,0:15:41.64,0:15:43.14,Main,,0,0,0,,Você só descobriu isso agora?!
 Dialogue: 0,0:15:43.14,0:15:44.26,Main,,0,0,0,,Eu nunca o vi antes!
-Dialogue: 0,0:15:44.95,0:15:48.71,Main,,0,0,0,,O que?\N!\NO pai de Luffy é o líder do Exército Revolucionário?\N!
+Dialogue: 0,0:15:44.95,0:15:48.71,Main,,0,0,0,,O que?!\NO pai de Luffy é o líder do Exército Revolucionário?!
 Dialogue: 0,0:15:48.71,0:15:52.53,Main,,0,0,0,,Incrível! Incrível! Garchu!
 Dialogue: 0,0:15:52.53,0:15:56.69,Main,,0,0,0,,Você não olhou para ele nos últimos dois anos?!
 Dialogue: 0,0:15:56.69,0:16:01.20,Main,,0,0,0,,Pessoas normais ficariam pelo menos um pouco curiosas se seu pai fosse uma figura tão famosa!
@@ -2147,7 +2147,7 @@ Dialogue: 0,0:17:12.64,0:17:15.72,Main,,0,0,0,,Então acho que eles estão bem p
 Dialogue: 0,0:17:15.72,0:17:17.63,Main,,0,0,0,,Sim! Você tem razão!
 Dialogue: 0,0:17:17.63,0:17:19.16,Main,,0,0,0,,Oi, Luffy!
 Dialogue: 0,0:17:19.16,0:17:20.43,Main,,0,0,0,,O que você quer?!
-Dialogue: 0,0:17:20.43,0:17:24.60,Main,,0,0,0,,Obrigado por cozinhar para nós, mas isso deveria acontecer?\N!
+Dialogue: 0,0:17:20.43,0:17:24.60,Main,,0,0,0,,Obrigado por cozinhar para nós, mas isso deveria acontecer?!
 Dialogue: 0,0:17:26.06,0:17:26.99,Main,,0,0,0,,Huh?
 Dialogue: 0,0:17:30.07,0:17:31.86,Main,,0,0,0,,Fogo?!
 Dialogue: 0,0:17:34.60,0:17:37.36,Main,,0,0,0,,Oh não! Esqueci de desligar o fogão!
@@ -2198,7 +2198,7 @@ Dialogue: 0,0:22:06.26,0:22:13.07,Main,,0,0,0,,Íamos criar a melhor equipe de t
 Dialogue: 0,0:22:22.43,0:22:24.99,Main,,0,0,0,,E ainda assim...
 Dialogue: 0,0:22:32.96,0:22:40.17,Main,,0,0,0,,Você foi eliminado por um bando de pirralhos arrogantes antes que esse sonho se tornasse realidade!
 Dialogue: 0,0:22:46.00,0:22:51.64,Main,,0,0,0,,Pobre, pobre Coringa! É tudo porque ele era um fraco terrível...
-Dialogue: 0,0:22:51.64,0:22:55.72,Main,,0,0,0,,Mas todo mundo está falando sobre o Chapéu de Palha atualmente.\NSe você subestimá-lo.\N.\N.
+Dialogue: 0,0:22:51.64,0:22:55.72,Main,,0,0,0,,Mas todo mundo está falando sobre o Chapéu de Palha atualmente.\NSe você subestimá-lo...
 Dialogue: 0,0:23:18.09,0:23:20.92,Main,,0,0,0,,Se eu subestimá-lo...
 Dialogue: 0,0:23:20.92,0:23:23.21,Main,,0,0,0,,Então o que?!
 Dialogue: 0,0:23:56.16,0:23:59.40,Main,,0,0,0,,Quem você pensa que eu sou?!
@@ -2236,14 +2236,14 @@ Dialogue: 0,0:26:39.91,0:26:41.62,Main,,0,0,0,,Não vire a mesa!
 Dialogue: 0,0:26:42.14,0:26:47.21,Main,,0,0,0,,{\i1}Como você ousa desperdiçar comida!\NSanji-san ficaria bravo se soubesse disso!
 Dialogue: 0,0:26:49.81,0:26:53.52,Main,,0,0,0,,Toda a comida que carregamos... acabou!
 Dialogue: 0,0:26:53.52,0:26:57.89,Main,,0,0,0,,Sim, eu errei muito, então usei tudo.
-Dialogue: 0,0:26:57.89,0:27:01.87,Main,,0,0,0,,O que?\N!\NIsso foi o equivalente a uma semana de comida para todos nós!
+Dialogue: 0,0:26:57.89,0:27:01.87,Main,,0,0,0,,O que?!\NIsso foi o equivalente a uma semana de comida para todos nós!
 Dialogue: 0,0:27:01.87,0:27:03.32,Main,,0,0,0,,Achei que você estava com fome!
 Dialogue: 0,0:27:04.43,0:27:06.05,Main,,0,0,0,,Não é engraçado!
 Dialogue: 0,0:27:07.59,0:27:10.23,Main,,0,0,0,,O que devemos fazer agora?!
 Dialogue: 0,0:27:10.76,0:27:11.96,Main,,0,0,0,,Luffy...
 Dialogue: 0,0:27:13.02,0:27:16.08,Main,,0,0,0,,Ei, estou morrendo de fome...
 Dialogue: 0,0:27:16.08,0:27:19.53,Main,,0,0,0,,{\i1}Sanji-san! Ajude-nos!
-Dialogue: 0,0:27:20.16,0:27:27.94,Narrator,,0,0,0,,E assim, logo no primeiro dia da jornada de Luffy.\N.\N.\NA tripulação corria o risco de morrer de fome.
+Dialogue: 0,0:27:20.16,0:27:27.94,Narrator,,0,0,0,,E assim, logo no primeiro dia da jornada de Luffy...\NA tripulação corria o risco de morrer de fome.
 Dialogue: 0,0:27:29.42,0:27:34.75,Captions,,0,0,300,,{\fad(500,500)\pos(180,335)}Alguns dias depois, o navio da Big Mom
 Dialogue: 0,0:27:29.42,0:27:34.79,Lyrics,,0,0,0,,Enviar! Enviar! Enviar! Enviar!
 Dialogue: 0,0:27:37.36,0:27:39.04,Main,,0,0,0,,Pensei que fosse neve, mas...
@@ -2267,7 +2267,7 @@ Dialogue: 0,0:29:02.85,0:29:08.53,Main,,0,0,0,,{\i1}Claro, ela sabe que você é
 Dialogue: 0,0:29:08.53,0:29:16.33,Main,,0,0,0,,{\i1}Mas ela admira como você já foi chef no restaurante do mar em East Blue-bon.
 Dialogue: 0,0:29:18.24,0:29:22.97,Main,,0,0,0,,{\i1}Dependendo da sua habilidade, ela pode lhe oferecer uma posição ainda melhor.
 Dialogue: 0,0:29:22.97,0:29:24.73,Main,,0,0,0,,Dane-se isso!
-Dialogue: 0,0:29:24.73,0:29:30.35,Main,,0,0,0,,Ouvir!\NA única utilidade para estas minhas mãos.\N.\N.\Né cozinhar comida para os meus amigos!
+Dialogue: 0,0:29:24.73,0:29:30.35,Main,,0,0,0,,Ouvir!\NA única utilidade para estas minhas mãos...\Né cozinhar comida para os meus amigos!
 Dialogue: 0,0:29:35.42,0:29:39.46,Main,,0,0,0,,Para isso, até me treinei no inferno!
 Dialogue: 0,0:29:44.67,0:29:50.29,Main,,0,0,0,,Tenho certeza que eles estão sentindo falta da minha comida e chorando por isso agora...
 Dialogue: 0,0:29:51.06,0:29:52.64,Main,,0,0,0,,Que absurdo!

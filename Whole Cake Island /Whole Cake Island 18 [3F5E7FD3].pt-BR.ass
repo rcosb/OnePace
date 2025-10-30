@@ -2404,14 +2404,14 @@ Dialogue: 0,0:05:58.20,0:06:01.00,Main,,0,0,0,,E vamos salvar a família do Sanj
 Dialogue: 0,0:06:01.00,0:06:04.38,Main,,0,0,0,,E então, Sanji irá embora conosco!
 Dialogue: 0,0:06:10.17,0:06:13.56,Main,,0,0,0,,B... Grande...
 Dialogue: 0,0:06:20.44,0:06:23.48,Main,,0,0,0,,Luffy! Ela é uma imperadora!
-Dialogue: 0,0:06:25.03,0:06:30.28,Main,,0,0,0,,{\i1}Não quero arriscar a vida de todo mundo.\N.\N.\Nquero dizer, a vida da Nami-san por causa dos meus problemas pessoais!
+Dialogue: 0,0:06:25.03,0:06:30.28,Main,,0,0,0,,{\i1}Não quero arriscar a vida de todo mundo...\Nquero dizer, a vida da Nami-san por causa dos meus problemas pessoais!
 Dialogue: 0,0:06:30.74,0:06:31.70,Main,,0,0,0,,Então...
 Dialogue: 0,0:06:39.33,0:06:42.25,Main,,0,0,0,,Yay!
 Dialogue: 0,0:06:46.34,0:06:48.05,Main,,0,0,0,,Maldito!
 Dialogue: 0,0:06:48.05,0:06:53.97,Main,,0,0,0,,Ouvi dizer que você e Luffy brigaram muito, então fiquei preocupado, seu idiota!
 Dialogue: 0,0:06:53.97,0:06:58.35,Main,,0,0,0,,Estou tão aliviado! Sério, seu idiota!
 Dialogue: 0,0:06:58.35,0:07:00.98,Main,,0,0,0,,Seu grande idiota!
-Dialogue: 0,0:07:00.98,0:07:05.48,Main,,0,0,0,,{\i1}Se fizermos isso, então Sanji-kun irá embora conosco, certo, Luffy?\N!
+Dialogue: 0,0:07:00.98,0:07:05.48,Main,,0,0,0,,{\i1}Se fizermos isso, então Sanji-kun irá embora conosco, certo, Luffy?!
 Dialogue: 0,0:07:09.86,0:07:12.45,Main,,0,0,0,,{\i1}Nami-san... E...
 Dialogue: 0,0:07:12.45,0:07:15.08,Main,,0,0,0,,{\i1}Ah, Sanji Kun.
 Dialogue: 0,0:07:15.08,0:07:19.50,Main,,0,0,0,,{\i1}Por me assustar como você fez...
@@ -2420,7 +2420,7 @@ Dialogue: 0,0:07:27.54,0:07:28.71,Main,,0,0,0,,Nami...
 Dialogue: 0,0:07:32.86,0:07:37.52,Main,,0,0,0,,Mas podemos falar sobre isso mais tarde.\NA Festa do Chá será em breve.
 Dialogue: 0,0:07:37.52,0:07:41.48,Main,,0,0,0,,{\i1}Eu vou ajudar a trazer você de volta, não importa o que aconteça, Sanji-kun!
 Dialogue: 0,0:07:41.69,0:07:50.15,Thump,,0,0,0,,{\fad(600,0)\frz21.18\fs50\pos(268,56)}Baque
-Dialogue: 0,0:07:41.48,0:07:47.08,Main,,0,0,0,,{\move(640,702,640,702,23,-19)}O que?\N!\NVocê está me pedindo em casamento, Nami-san?\N!
+Dialogue: 0,0:07:41.48,0:07:47.08,Main,,0,0,0,,{\move(640,702,640,702,23,-19)}O que?!\NVocê está me pedindo em casamento, Nami-san?!
 Dialogue: 0,0:07:47.08,0:07:50.15,Main,,0,0,0,,Não sei por que, mas acho que você está bem agora.
 Dialogue: 0,0:07:52.92,0:07:56.66,Main,,0,0,0,,Tudo bem, Luffy, sabemos o que precisamos fazer agora.
 Dialogue: 0,0:07:56.66,0:07:57.82,Main,,0,0,0,,Sim.
@@ -2487,7 +2487,7 @@ Dialogue: 0,0:12:24.30,0:12:29.18,Main,,0,0,0,,Quando se cansou de estar em terr
 Dialogue: 0,0:12:30.00,0:12:31.43,Main,,0,0,0,,Chefe!
 Dialogue: 0,0:12:31.43,0:12:35.23,Main,,0,0,0,,Quem fez isso?! Droga!
 Dialogue: 0,0:12:35.64,0:12:41.15,Main,,0,0,0,,Ele fez seu nome eliminando capitães piratas. Apenas os capitães piratas.
-Dialogue: 0,0:12:47.28,0:12:51.66,Main,,0,0,0,,Mesmo no mar, ele é atormentado por inimigos em busca de vingança.\N.\N.
+Dialogue: 0,0:12:47.28,0:12:51.66,Main,,0,0,0,,Mesmo no mar, ele é atormentado por inimigos em busca de vingança...
 Dialogue: 0,0:12:52.52,0:12:56.60,Main,,0,0,0,,Então, trabalhar para um Imperador é seu porto seguro perfeito.
 Dialogue: 0,0:12:56.60,0:12:59.38,Main,,0,0,0,,É por isso que ele decidiu se aliar à Big Mom.
 Dialogue: 0,0:13:01.67,0:13:07.11,Main,,0,0,0,,Como Big Mom tinha em alta consideração seu aguçado senso de vigilância e incrível capacidade defensiva,
@@ -2501,7 +2501,7 @@ Dialogue: 0,0:13:31.37,0:13:37.50,Main,,0,0,0,,Como você já sabe, Big Mom pret
 Dialogue: 0,0:13:37.50,0:13:41.38,Main,,0,0,0,,{\i1}e então adquirir os restos de Germa para si mesma.
 Dialogue: 0,0:13:41.38,0:13:46.43,Main,,0,0,0,,Mas enquanto isso, pelas costas dela, Bege tem seu próprio plano para arrancar a cabeça de Big Mom.
 Dialogue: 0,0:13:46.43,0:13:47.59,Main,,0,0,0,,O que?!
-Dialogue: 0,0:13:47.59,0:13:51.01,Main,,0,0,0,,O que diabos está acontecendo?\N!\NTodo mundo está planejando suas próprias conspirações!
+Dialogue: 0,0:13:47.59,0:13:51.01,Main,,0,0,0,,O que diabos está acontecendo?!\NTodo mundo está planejando suas próprias conspirações!
 Dialogue: 0,0:13:53.35,0:13:58.88,Main,,0,0,0,,Luffy, tenho certeza que você lembra que Pekoms foi quem te guiou até aqui.
 Dialogue: 0,0:13:58.88,0:14:01.82,Main,,0,0,0,,Ele foi sequestrado por Bege,
 Dialogue: 0,0:14:01.82,0:14:06.03,Main,,0,0,0,,{\i1}e eles tentaram fazer com que ele cooperasse com o plano deles.
@@ -2519,7 +2519,7 @@ Dialogue: 0,0:15:04.38,0:15:10.72,Main,,0,0,0,,{\i1}Elaborei um plano depois de 
 Dialogue: 0,0:15:10.72,0:15:13.39,Main,,0,0,0,,{\i1}Tentei prever suas ações.
 Dialogue: 0,0:15:13.97,0:15:16.31,Main,,0,0,0,,Achei que se você descobrisse a verdade,
 Dialogue: 0,0:15:16.31,0:15:21.15,Main,,0,0,0,,você decidiria resgatar Sanji e sua família.
-Dialogue: 0,0:15:23.13,0:15:27.23,Main,,0,0,0,,Talvez não seja justo com Pekoms, mas considerando as circunstâncias.\N.\N.
+Dialogue: 0,0:15:23.13,0:15:27.23,Main,,0,0,0,,Talvez não seja justo com Pekoms, mas considerando as circunstâncias...
 Dialogue: 0,0:15:27.23,0:15:30.89,Main,,0,0,0,,{\i1}Deveríamos realmente fazer de Bege um inimigo?
 Dialogue: 0,0:15:34.62,0:15:37.70,Main,,0,0,0,,{\i1}A Festa do Chá começa às 10h.
 Dialogue: 0,0:15:37.70,0:15:40.33,Main,,0,0,0,,{\i1}Isso é cerca de cinco horas a partir de agora.
@@ -2563,9 +2563,9 @@ Dialogue: 0,0:17:48.67,0:17:54.01,Main,,0,0,0,,não deveríamos fazer inimigos e
 Dialogue: 0,0:17:54.01,0:17:57.38,Main,,0,0,0,,Tudo depois disso depende do que o Chapéu de Palha diz.
 Dialogue: 0,0:17:57.38,0:18:00.10,Main,,0,0,0,,Se não der certo...
 Dialogue: 0,0:18:01.77,0:18:04.10,Main,,0,0,0,,vamos simplesmente matá-lo!
-Dialogue: 0,0:18:07.98,0:18:15.36,Captions,,0,0,0,,{\fad(200,500)\pos(208,510)\fs35}Os cozinheiros estão ocupados preparando o bolo de casamento.\N.\N.
+Dialogue: 0,0:18:07.98,0:18:15.36,Captions,,0,0,0,,{\fad(200,500)\pos(208,510)\fs35}Os cozinheiros estão ocupados preparando o bolo de casamento...
 Dialogue: 0,0:18:07.98,0:18:15.36,Captions,,0,0,0,,{\fad(200,500)\fs35\pos(1085,510)}Ótima cozinha, 8º andar, Whole Cake Chateau
-Dialogue: 0,0:18:27.83,0:18:32.35,Main,,0,0,0,,{\i1}– ♪ Macio e fofo.\N.\N.\N♪ – ♪ Úmido e fofo.\N.\N.\N♪
+Dialogue: 0,0:18:27.83,0:18:32.35,Main,,0,0,0,,{\i1}– ♪ Macio e fofo...\N♪ – ♪ Úmido e fofo...\N♪
 Dialogue: 0,0:18:32.35,0:18:34.84,Main,,0,0,0,,{\i1}♪ Vida ♪
 Dialogue: 0,0:18:34.84,0:18:36.34,Main,,0,0,0,,{\i1}♪ Não existe tal coisa ♪
 Dialogue: 0,0:18:36.34,0:18:42.47,Main,,0,0,0,,{\pos(650,722)}♪ Uma vida de tormento, o gosto das lágrimas ♪
@@ -2576,16 +2576,16 @@ Dialogue: 0,0:18:46.96,0:18:49.27,Main,,0,0,0,,{\i1}♪ Uma colher de sopa ♪
 Dialogue: 0,0:18:49.27,0:18:54.15,Main,,0,0,0,,{\i1}♪ Se é assim pelo menos para a sua sobremesa ♪
 Dialogue: 0,0:18:54.15,0:19:04.03,Main,,0,0,0,,{\i1}♪ Você não quer um bolo doce? ♪
 Dialogue: 0,0:18:58.82,0:19:04.03,Secondary,,0,0,0,,{\an8}Chefe de cozinha! Chefe de cozinha!
-Dialogue: 0,0:19:04.03,0:19:08.17,Main,,0,0,0,,{\i1}– ♪ Macio e fofo.\N.\N.\N♪ – ♪ Úmido e fofo.\N.\N.\N♪
-Dialogue: 0,0:19:08.17,0:19:11.92,Main,,0,0,0,,{\i1}– ♪ Macio e fofo.\N.\N.\N♪ – ♪ Úmido e fofo.\N.\N.\N♪
-Dialogue: 0,0:19:11.92,0:19:16.00,Main,,0,0,0,,{\i1}– ♪ Macio e fofo.\N.\N.\N♪ – ♪ Úmido e fofo.\N.\N.\N♪
-Dialogue: 0,0:19:16.00,0:19:20.45,Main,,0,0,0,,{\i1}– ♪ Macio e fofo.\N.\N.\N♪ – ♪ Úmido e fofo.\N.\N.\N♪
+Dialogue: 0,0:19:04.03,0:19:08.17,Main,,0,0,0,,{\i1}– ♪ Macio e fofo...\N♪ – ♪ Úmido e fofo...\N♪
+Dialogue: 0,0:19:08.17,0:19:11.92,Main,,0,0,0,,{\i1}– ♪ Macio e fofo...\N♪ – ♪ Úmido e fofo...\N♪
+Dialogue: 0,0:19:11.92,0:19:16.00,Main,,0,0,0,,{\i1}– ♪ Macio e fofo...\N♪ – ♪ Úmido e fofo...\N♪
+Dialogue: 0,0:19:16.00,0:19:20.45,Main,,0,0,0,,{\i1}– ♪ Macio e fofo...\N♪ – ♪ Úmido e fofo...\N♪
 Dialogue: 0,0:19:26.26,0:19:30.77,Captions,,0,0,0,,{\fad(300,0)\pos(645,550)}Entrada Leste
 Dialogue: 0,0:19:27.10,0:19:30.77,Main,,0,0,0,,{\pos(650,720)}Não, Pekoms! Você precisa descansar!
 Dialogue: 0,0:19:32.74,0:19:40.32,Main,,0,0,0,,Grr! Jinbei realmente contou à mamãe sobre aquele rato, Bege?
 Dialogue: 0,0:19:40.32,0:19:41.74,Main,,0,0,0,,Claro!
 Dialogue: 0,0:19:41.74,0:19:48.16,Main,,0,0,0,,A esta altura, acho que Bege foi espancado até a morte pela mamãe.
-Dialogue: 0,0:19:48.16,0:19:53.52,Main,,0,0,0,,Grr!\NVocê adivinha?\N!\NSeu palpite não é suficiente!\NEu tenho que ter certeza de contar a ela.\N.\N.
+Dialogue: 0,0:19:48.16,0:19:53.52,Main,,0,0,0,,Grr!\NVocê adivinha?!\NSeu palpite não é suficiente!\NEu tenho que ter certeza de contar a ela...
 Dialogue: 0,0:19:53.52,0:19:55.29,Main,,0,0,0,,Ei, ei.
 Dialogue: 0,0:19:58.04,0:20:00.88,Main,,0,0,0,,Você precisa continuar descansando, Pekoms.
 Dialogue: 0,0:20:00.88,0:20:07.18,Main,,0,0,0,,Mas, Praline, caso eles o impeçam de contar a ela... Grr!
@@ -2626,17 +2626,17 @@ Dialogue: 0,0:22:26.70,0:22:29.80,Main,,0,0,0,,Você me deixou preocupado, seu b
 Dialogue: 0,0:22:29.80,0:22:31.95,Main,,0,0,0,,Sinto muito por isso... Hm?
 Dialogue: 0,0:22:32.84,0:22:35.54,Main,,0,0,0,,Deixando isso de lado, por que você está vestido assim?
 Dialogue: 0,0:22:37.09,0:22:40.35,Main,,0,0,0,,Por que vocês não vão tomar banho também?
-Dialogue: 0,0:22:41.33,0:22:46.09,Main,,0,0,0,,Por que você está tão relaxado?\N!\NNão temos tempo!\NE você nem gosta de banho!
+Dialogue: 0,0:22:41.33,0:22:46.09,Main,,0,0,0,,Por que você está tão relaxado?!\NNão temos tempo!\NE você nem gosta de banho!
 Dialogue: 0,0:22:46.09,0:22:48.63,Main,,0,0,0,,{\i1}Não, vocês dois devem levar um também, rero.
 Dialogue: 0,0:22:49.70,0:22:52.35,Main,,0,0,0,,{\i1}Conversaremos depois, rero.
 Dialogue: 0,0:22:52.35,0:22:54.47,Main,,0,0,0,,Um banho agora?!
 Dialogue: 0,0:22:54.47,0:22:58.77,Main,,0,0,0,,Papai não se encontrará com ninguém que esteja sujo.
 Dialogue: 0,0:22:58.77,0:23:00.61,Main,,0,0,0,,Quem está sujo?!
 Dialogue: 0,0:23:11.11,0:23:15.87,Captions,,0,0,0,,{\fad(500,500)\pos(1095,390)}Banho Feminino, Base Bege
-Dialogue: 0,0:23:21.64,0:23:25.50,Main,,0,0,0,,O que?\N!\NLola se transformou em um zumbi javali?\N!
+Dialogue: 0,0:23:21.64,0:23:25.50,Main,,0,0,0,,O que?!\NLola se transformou em um zumbi javali?!
 Dialogue: 0,0:23:25.50,0:23:29.47,Main,,0,0,0,,E ela estava perseguindo um cara por quem ela se apaixonou!
 Dialogue: 0,0:23:29.47,0:23:32.14,Main,,0,0,0,,Isso definitivamente parece Lola!
-Dialogue: 0,0:23:32.14,0:23:35.50,Main,,0,0,0,,Naquela época.\N.\N.\Ne agora, mais uma vez naquela floresta assustadora,
+Dialogue: 0,0:23:32.14,0:23:35.50,Main,,0,0,0,,Naquela época...\Ne agora, mais uma vez naquela floresta assustadora,
 Dialogue: 0,0:23:35.50,0:23:39.02,Main,,0,0,0,,Não sei o que teria acontecido comigo se não fosse por Lola.
 Dialogue: 0,0:23:39.02,0:23:44.75,Main,,0,0,0,,Eu vejo!\NMas vocês também salvaram minha irmã!\NObrigado!
 Dialogue: 0,0:23:44.75,0:23:47.36,Main,,0,0,0,,Oh, estou chorando lágrimas de alegria.
@@ -2737,8 +2737,8 @@ Dialogue: 0,0:31:31.94,0:31:32.95,Main,,0,0,0,,O que?
 Dialogue: 0,0:31:35.16,0:31:39.91,Main,,0,0,0,,Quando pedi que me deixassem cuidar de você, eles concordaram sem questionar.
 Dialogue: 0,0:31:39.91,0:31:43.54,Main,,0,0,0,,Agora sou uma Rook confiável!
 Dialogue: 0,0:31:47.15,0:31:49.25,Main,,0,0,0,,Esse é o meu coração?!
-Dialogue: 0,0:31:49.25,0:31:54.14,Main,,0,0,0,,Estou disposto a deixar você ir.\NSe você me ajudar em troca, isso é.\N.\N.
-Dialogue: 0,0:31:55.35,0:32:00.49,Main,,0,0,0,,Seu bastardo!\NVocê tem ideia de com quem está falando?\N!
+Dialogue: 0,0:31:49.25,0:31:54.14,Main,,0,0,0,,Estou disposto a deixar você ir.\NSe você me ajudar em troca, isso é...
+Dialogue: 0,0:31:55.35,0:32:00.49,Main,,0,0,0,,Seu bastardo!\NVocê tem ideia de com quem está falando?!
 Dialogue: 0,0:32:00.49,0:32:05.36,Main,,0,0,0,,Eu sou o cientista genial Caesar Clown!\NEu poderia destruir o mundo se quisesse!
 Dialogue: 0,0:32:12.03,0:32:14.04,Main,,0,0,0,,Eu sei quem você é.
 Dialogue: 0,0:32:14.04,0:32:16.41,Main,,0,0,0,,É por isso que vim aqui.
@@ -2758,17 +2758,17 @@ Dialogue: 0,0:33:00.41,0:33:05.47,Main,,0,0,0,,{\i1}Papai quer que você partici
 Dialogue: 0,0:33:05.47,0:33:07.96,Main,,0,0,0,,Não se atrase.
 Dialogue: 0,0:33:12.17,0:33:14.38,Main,,0,0,0,,Eu não posso acreditar nisso!
 Dialogue: 0,0:33:14.38,0:33:16.43,Main,,0,0,0,,Eu não tenho escolha!
-Dialogue: 0,0:33:21.39,0:33:27.15,Main,,0,0,0,,C-César?\NNão, eu sou irmão de sangue de Bege.\N.\N.
+Dialogue: 0,0:33:21.39,0:33:27.15,Main,,0,0,0,,C-César?\NNão, eu sou irmão de sangue de Bege...
 Dialogue: 0,0:33:28.04,0:33:30.53,Main,,0,0,0,,Anfitriã "gângster"!
 Dialogue: 0,0:33:29.65,0:33:33.11,Captions,,0,0,0,,{\fad(150,0)\pos(377,425)}Anfitriã "gângster"
-Dialogue: 0,0:33:34.98,0:33:38.87,Main,,0,0,0,,– Ele nem está tentando esconder.\N.\N.\N– "Gastino"?
+Dialogue: 0,0:33:34.98,0:33:38.87,Main,,0,0,0,,– Ele nem está tentando esconder...\N– "Gastino"?
 Dialogue: 0,0:33:39.36,0:33:40.74,Main,,0,0,0,,Porque ele é um humano gasoso?
 Dialogue: 0,0:33:40.74,0:33:43.04,Main,,0,0,0,,Ele está até rindo do mesmo jeito.
 Dialogue: 0,0:33:43.04,0:33:46.07,Main,,0,0,0,,Eu vejo.\NPensei que você fosse outra pessoa.\NDesculpe por isso.
 Dialogue: 0,0:33:46.07,0:33:49.36,Main,,0,0,0,,{\i1}Não, você estava certo!\NEle é obviamente César!
 Dialogue: 0,0:33:49.36,0:33:50.17,Main,,0,0,0,,O que?!
-Dialogue: 0,0:33:50.17,0:33:53.75,Main,,0,0,0,,{\i1}Ah, então é você!\NO que você está fazendo aqui?\N!
-Dialogue: 0,0:33:53.75,0:33:57.05,Main,,0,0,0,,Você realmente acha que eu estaria aqui se pudesse escolher, seu idiota?\N!
+Dialogue: 0,0:33:50.17,0:33:53.75,Main,,0,0,0,,{\i1}Ah, então é você!\NO que você está fazendo aqui?!
+Dialogue: 0,0:33:53.75,0:33:57.05,Main,,0,0,0,,Você realmente acha que eu estaria aqui se pudesse escolher, seu idiota?!
 Dialogue: 0,0:33:57.05,0:34:00.68,Main,,0,0,0,,Por causa de vocês, fui entregue à Big Mom
 Dialogue: 0,0:34:00.68,0:34:05.43,Main,,0,0,0,,e minha única fuga da morte certa foi esse cara pegar meu coração e me tornar seu escravo!
 Dialogue: 0,0:34:05.43,0:34:06.89,Main,,0,0,0,,Estou sendo empurrado!

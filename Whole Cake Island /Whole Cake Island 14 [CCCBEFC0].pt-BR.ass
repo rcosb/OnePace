@@ -340,7 +340,7 @@ Dialogue: 0,0:07:23.29,0:07:25.17,Main,,0,0,0,,{\i1}Queimado-sama!
 Dialogue: 0,0:08:22.27,0:08:25.98,Main,,0,0,0,,Isso é ruim! Preciso contar para a mamãe!
 Dialogue: 0,0:08:30.11,0:08:31.49,Main,,0,0,0,,Deixe comigo, Chobro!
 Dialogue: 0,0:08:31.85,0:08:35.53,Main,,0,0,0,,Choo-choo!\NChoo-choo!\NChoo-choo e choo-choo e choo!
-Dialogue: 0,0:08:35.53,0:08:41.29,Main,,0,0,0,,Idiotas!\NNinguém pode me alcançar quando eu começar a correr.\N.\N.
+Dialogue: 0,0:08:35.53,0:08:41.29,Main,,0,0,0,,Idiotas!\NNinguém pode me alcançar quando eu começar a correr...
 Dialogue: 0,0:08:42.16,0:08:42.99,Main,,0,0,0,,Ai!
 Dialogue: 0,0:08:42.99,0:08:44.29,Main,,0,0,0,,Garchu!
 Dialogue: 0,0:08:44.29,0:08:45.75,Main,,0,0,0,,O que?!
@@ -382,7 +382,7 @@ Dialogue: 0,0:10:38.95,0:10:41.84,Main,,0,0,0,,– Posso usar esta cozinha?\N- O
 Dialogue: 0,0:10:43.58,0:10:49.09,Main,,0,0,0,,{\i1}Pudding-chan não apareceu para a última refeição, então vou cozinhar algo para ela.
 Dialogue: 0,0:10:49.09,0:10:50.86,Main,,0,0,0,,{\i1}Eu vejo-nasu.
 Dialogue: 0,0:10:53.50,0:10:55.92,Main,,0,0,0,,Estou preocupado com ela.
-Dialogue: 0,0:10:55.92,0:11:00.41,Main,,0,0,0,,Sim, ouvi dizer que ela ainda não se sente bem.\N.\N.
+Dialogue: 0,0:10:55.92,0:11:00.41,Main,,0,0,0,,Sim, ouvi dizer que ela ainda não se sente bem...
 Dialogue: 0,0:11:02.47,0:11:05.72,Captions,,0,0,0,,{\pos(1150,422)}Repositório de Tesouro
 Dialogue: 0,0:11:09.86,0:11:11.35,Main,,0,0,0,,Estas são as chaves.
 Dialogue: 0,0:11:14.68,0:11:17.98,Main,,0,0,0,,{\i1}Pedro-san! Eu farei isso!
@@ -499,7 +499,7 @@ Dialogue: 0,0:22:01.50,0:22:03.24,Main,,0,0,0,,Eu acho que você está preparado
 Dialogue: 0,0:22:03.24,0:22:07.80,Main,,0,0,0,,{\i1}Isso mesmo.\NEstou usando meia-calça especial que me protege do Electro-feuille.
 Dialogue: 0,0:22:07.80,0:22:11.80,Main,,0,0,0,,Vou resolver as coisas com você aqui!
 Dialogue: 0,0:22:12.54,0:22:14.81,Flashbacks,,0,0,0,,Grandes Irmãos! São vocês!
-Dialogue: 0,0:22:14.81,0:22:16.81,Flashbacks,,0,0,0,,{\i1}– Você-gara.\N.\N.\N– Pekoms.
+Dialogue: 0,0:22:14.81,0:22:16.81,Flashbacks,,0,0,0,,{\i1}– Você-gara...\N– Pekoms.
 Dialogue: 0,0:22:16.84,0:22:19.27,Flashbacks,,0,0,0,,Grande Irmão Pedro! Grande Irmão Zepo!
 Dialogue: 0,0:22:19.27,0:22:20.50,Flashbacks,,0,0,0,,Garchu!
 Dialogue: 0,0:22:20.50,0:22:22.25,Flashbacks,,0,0,0,,Garchu...
@@ -544,18 +544,18 @@ Dialogue: 0,0:25:56.70,0:25:58.87,Flashbacks,,0,0,0,,Devo voltar para o meu paí
 Dialogue: 0,0:26:06.60,0:26:09.22,Flashbacks,,0,0,0,,Você é tão lindo.
 Dialogue: 0,0:26:09.22,0:26:12.30,Flashbacks,,0,0,0,,Vou reduzir para 50 anos.
 Dialogue: 0,0:26:12.30,0:26:14.84,Flashbacks,,0,0,0,,Continue com sua vida.
-Dialogue: 0,0:26:26.41,0:26:32.07,Main,,0,0,0,,{\i1}Diga sim, Pedro!\NPor que você voltou?\N!
+Dialogue: 0,0:26:26.41,0:26:32.07,Main,,0,0,0,,{\i1}Diga sim, Pedro!\NPor que você voltou?!
 Dialogue: 0,0:26:34.71,0:26:41.07,Main,,0,0,0,,Para esta ilha de pesadelo onde seu parceiro foi morto e 50 anos de sua vida foram tirados!
 Dialogue: 0,0:26:42.72,0:26:48.08,Main,,0,0,0,,Os Chapéus de Palha salvaram minha terra natal e estou em dívida com eles!
 Dialogue: 0,0:26:57.81,0:27:04.68,Main,,0,0,0,,Além disso, acredito que um dia eles levarão o mundo ao amanhecer!
 Dialogue: 0,0:27:11.20,0:27:13.15,Flashbacks,,0,0,0,,Pedro!
 Dialogue: 0,0:27:13.15,0:27:18.11,Flashbacks,,0,0,0,,O amanhecer do mundo chegará em breve!
 Dialogue: 0,0:27:24.73,0:27:30.21,Main,,0,0,0,,{\i1}Com o tempo, os Chapéus de Palha irão superar o povo you-gara e mudar o mundo!
-Dialogue: 0,0:27:31.42,0:27:36.84,Main,,0,0,0,,{\i1}Eles não podem fazer nada!\NOnde você pensa que está?\N!
+Dialogue: 0,0:27:31.42,0:27:36.84,Main,,0,0,0,,{\i1}Eles não podem fazer nada!\NOnde você pensa que está?!
 Dialogue: 0,0:27:36.84,0:27:39.26,Main,,0,0,0,,{\i1}Este é o Whole Cake Island-bon!
 Dialogue: 0,0:27:39.26,0:27:41.69,Main,,0,0,0,,Isso importa?
 Dialogue: 0,0:27:41.69,0:27:45.06,Main,,0,0,0,,Eu acredito nos Chapéus de Palha.
-Dialogue: 0,0:27:45.06,0:27:49.31,Main,,0,0,0,,É por isso que estou feliz em passar o curto resto da minha vida.\N.\N.
+Dialogue: 0,0:27:45.06,0:27:49.31,Main,,0,0,0,,É por isso que estou feliz em passar o curto resto da minha vida...
 Dialogue: 0,0:27:50.58,0:27:53.40,Main,,0,0,0,,... ajudando-os!
 Dialogue: 0,0:27:58.69,0:28:01.20,Main,,0,0,0,,Mas não me interpretem mal.
 Dialogue: 0,0:28:01.20,0:28:03.74,Main,,0,0,0,,Eu não vou morrer aqui!
@@ -581,7 +581,7 @@ Dialogue: 0,0:30:08.45,0:30:10.83,Thoughts,,0,0,0,,Com quem ela está falando?
 Dialogue: 0,0:30:12.79,0:30:14.25,Thoughts,,0,0,0,,Reiju?!
 Dialogue: 0,0:30:14.25,0:30:16.30,Thoughts,,0,0,0,,Por que ela está aqui?
 Dialogue: 0,0:30:16.30,0:30:18.49,Thoughts,,0,0,0,,{\i1}O que ela quer de Pudding-chan?
-Dialogue: 0,0:30:28.31,0:30:34.35,Main,,0,0,0,,Você deve estar sonhando!\NEu, casar com aquele canalha?\N!
+Dialogue: 0,0:30:28.31,0:30:34.35,Main,,0,0,0,,Você deve estar sonhando!\NEu, casar com aquele canalha?!
 Dialogue: 0,0:30:34.35,0:30:36.80,Main,,0,0,0,,Definitivamente não!
 Dialogue: 0,0:30:36.80,0:30:40.02,Flashbacks,,0,0,0,,Definitivamente não!
 Dialogue: 0,0:30:46.18,0:30:50.99,Main,,0,0,0,,Eu sou o favorito da mamãe.\NEspecialmente quando se trata da minha habilidade de atuação.
@@ -609,7 +609,7 @@ Dialogue: 0,0:32:42.60,0:32:44.55,Flashbacks,,0,0,0,,O que você está falando?!
 Dialogue: 0,0:32:48.77,0:32:50.28,Flashbacks,,0,0,0,,Adeus.
 Dialogue: 0,0:32:50.28,0:32:53.03,Flashbacks,,0,0,0,,Seus ratos patéticos.
 Dialogue: 0,0:32:54.61,0:32:58.49,Main,,0,0,0,,Ela estava planejando nos preparar desde o início!
-Dialogue: 0,0:32:58.49,0:33:02.66,Main,,0,0,0,,O que Sanji fez com ela?\N!\NDroga!
+Dialogue: 0,0:32:58.49,0:33:02.66,Main,,0,0,0,,O que Sanji fez com ela?!\NDroga!
 Dialogue: 0,0:33:04.87,0:33:07.08,Main,,0,0,0,,Vocês são tão ingênuos!
 Dialogue: 0,0:33:07.16,0:33:12.15,Main,,0,0,0,,O exército do mal Germa 66?
 Dialogue: 0,0:33:12.16,0:33:16.05,Main,,0,0,0,,Fiquem no seu mundo de fantasia, seus idiotas!

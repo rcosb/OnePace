@@ -861,7 +861,7 @@ Dialogue: 0,0:02:07.86,0:02:08.77,Main,,0,0,0,,Vá para um lugar alto!
 Dialogue: 0,0:02:08.77,0:02:10.08,Main,,0,0,0,,Correr!
 Dialogue: 0,0:02:12.50,0:02:13.45,Main,,0,0,0,,Mas...
 Dialogue: 0,0:02:13.45,0:02:14.78,Main,,0,0,0,,É tarde demais!
-Dialogue: 0,0:02:21.76,0:02:26.54,Narrator,,0,0,0,,Enquanto isso, Kin'emon e Kanjuro estão subindo na perna esquerda do elefante.\N.\N.
+Dialogue: 0,0:02:21.76,0:02:26.54,Narrator,,0,0,0,,Enquanto isso, Kin'emon e Kanjuro estão subindo na perna esquerda do elefante...
 Dialogue: 0,0:02:28.58,0:02:30.00,Main,,0,0,0,,Finalmente, parou.
 Dialogue: 0,0:02:30.60,0:02:33.77,Main,,0,0,0,,Qual foi o motivo do tremor?
 Dialogue: 0,0:02:33.77,0:02:34.98,Main,,0,0,0,,Não sei.
@@ -878,7 +878,7 @@ Dialogue: 0,0:03:06.60,0:03:07.56,Main,,0,0,0,,Água?!
 Dialogue: 0,0:03:07.56,0:03:08.30,Main,,0,0,0,,O que?!
 Dialogue: 0,0:03:11.10,0:03:14.91,Main,,0,0,0,,Ah, isso é água transbordando de uma ruptura de chuva que derramou sobre o país...
 Dialogue: 0,0:03:14.91,0:03:18.90,Main,,0,0,0,,Água não é boa! Isso derreterá Nekozaemon!
-Dialogue: 0,0:03:20.46,0:03:24.82,Main,,0,0,0,,Não há tempo a perder.\N.\N.\NMas novamente, a meio caminho do topo, nós.\N.\N.
+Dialogue: 0,0:03:20.46,0:03:24.82,Main,,0,0,0,,Não há tempo a perder...\NMas novamente, a meio caminho do topo, nós...
 Dialogue: 0,0:03:31.26,0:03:35.28,Captions,,0,0,175,,{\fad(300,500)}A Floresta das Baleias - Grupo de Luffy
 Dialogue: 0,0:03:35.73,0:03:39.29,Main,,0,0,0,,Ah, foi uma chuva e tanto!
 Dialogue: 0,0:03:39.29,0:03:41.96,Main,,0,0,0,,Rain-Ruptions não são realmente um tipo de chuva.
@@ -905,7 +905,7 @@ Dialogue: 0,0:04:51.00,0:04:52.88,Main,,0,0,0,,Isso é alto o suficiente.
 Dialogue: 0,0:04:53.42,0:04:54.42,Main,,0,0,0,,Água do mar?
 Dialogue: 0,0:04:55.34,0:04:59.78,Main,,0,0,0,,Talvez fosse o elefante gigante espirrando água sobre si mesmo.
 Dialogue: 0,0:05:03.16,0:05:06.95,Main,,0,0,0,,Parece que tanto a cidade como a floresta estão adaptadas a este nível de água.
-Dialogue: 0,0:05:06.95,0:05:11.44,Main,,0,0,0,,Bom, vendo a quantidade de água.\N.\N.\Nacho que você tem razão!
+Dialogue: 0,0:05:06.95,0:05:11.44,Main,,0,0,0,,Bom, vendo a quantidade de água...\Nacho que você tem razão!
 Dialogue: 0,0:05:11.84,0:05:14.83,Main,,0,0,0,,Isso significa que isso acontece todos os dias...
 Dialogue: 0,0:05:19.96,0:05:24.05,Main,,0,0,0,,Eu não gostaria daquela tremenda chuva todos os dias!
 Dialogue: 0,0:05:24.05,0:05:28.21,Main,,0,0,0,,Precisamos encontrar todo mundo rapidamente e sair desta ilha chata!
@@ -941,7 +941,7 @@ Dialogue: 0,0:07:55.22,0:07:56.26,Main,,0,0,0,,Eu penso que sim.
 Dialogue: 0,0:07:57.02,0:07:59.93,Main,,0,0,0,,Dei-lhes instruções para chegar à nossa fortaleza escondida.
 Dialogue: 0,0:07:59.93,0:08:01.06,Main,,0,0,0,,{\fad(150,150)}Quartos
 Dialogue: 0,0:08:06.58,0:08:08.23,Main,,0,0,0,,Ah, são vocês!
-Dialogue: 0,0:08:08.23,0:08:12.07,Main,,0,0,0,,Oi, Luffy!\NOnde você foi mordido?\N!\NVocê ainda tem seus membros?
+Dialogue: 0,0:08:08.23,0:08:12.07,Main,,0,0,0,,Oi, Luffy!\NOnde você foi mordido?!\NVocê ainda tem seus membros?
 Dialogue: 0,0:08:12.94,0:08:17.44,Main,,0,0,0,,Ei, sua garota Nami-cachorro aí!\NEle é nosso capitão!
 Dialogue: 0,0:08:18.96,0:08:21.03,Main,,0,0,0,,Você quer comê-lo, não é?!
 Dialogue: 0,0:08:21.03,0:08:23.40,Main,,0,0,0,,Não vou deixar você fazer isso, seu vagabundo predador!
@@ -1000,7 +1000,7 @@ Dialogue: 0,0:11:23.37,0:11:28.43,Main,,0,0,0,,Julgamos alguém pelo seu caráte
 Dialogue: 0,0:11:28.43,0:11:30.51,Main,,0,0,0,,Garchu!
 Dialogue: 0,0:11:30.89,0:11:34.49,Main,,0,0,0,,Temos orgulho dos pelos que cobrem nossos corpos, mas,
 Dialogue: 0,0:11:34.49,0:11:36.59,Main,,0,0,0,,vocês-teia galera tem aquelas lindas...
-Dialogue: 0,0:11:37.84,0:11:41.11,Main,,0,0,0,,.\N.\N.\N"casacos de vison menores" e muitos de nós admiramos isso.
+Dialogue: 0,0:11:37.84,0:11:41.11,Main,,0,0,0,,...\N"casacos de vison menores" e muitos de nós admiramos isso.
 Dialogue: 0,0:11:41.11,0:11:42.64,Main,,0,0,0,,Ah, você está certo!
 Dialogue: 0,0:11:42.64,0:11:45.67,Main,,0,0,0,,Ah, olhe! São Nami e Chopper!
 Dialogue: 0,0:11:45.67,0:11:48.42,Main,,0,0,0,,Estou feliz que eles estejam bem!
@@ -1132,7 +1132,7 @@ Dialogue: 0,0:19:39.92,0:19:41.06,Main,,0,0,0,,{\fad(150,150)}Desfile da alma!
 Dialogue: 0,0:19:47.83,0:19:50.37,Main,,0,0,0,,Cho-Cho-Cho-Cho... Chopperemon?!
 Dialogue: 0,0:19:50.37,0:19:52.24,Main,,0,0,0,,Pegue, Chopper!
 Dialogue: 0,0:19:57.10,0:19:59.61,Main,,0,0,0,,Não! Solte-me!
-Dialogue: 0,0:20:00.73,0:20:04.75,Main,,0,0,0,,Eu vou me vingar de você, bastardo!\NComo você pôde usar meu corpo como uma bolsa?\N!
+Dialogue: 0,0:20:00.73,0:20:04.75,Main,,0,0,0,,Eu vou me vingar de você, bastardo!\NComo você pôde usar meu corpo como uma bolsa?!
 Dialogue: 0,0:20:05.11,0:20:09.91,Main,,0,0,0,,Não vamos te ajudar se você não parar de resistir!
 Dialogue: 0,0:20:10.97,0:20:12.02,Main,,0,0,0,,Não!
 Dialogue: 0,0:20:12.02,0:20:14.99,Main,,0,0,0,,Todo seu, Sanji!
@@ -1161,13 +1161,13 @@ Dialogue: 0,0:21:35.89,0:21:38.44,Main,,0,0,0,,Isso não me faz corar, seu idiot
 Dialogue: 0,0:21:38.80,0:21:40.60,Main,,0,0,0,,Isso foi um arraso!
 Dialogue: 0,0:21:40.60,0:21:42.40,Main,,0,0,0,,Isso é ótimo!
 Dialogue: 0,0:21:42.40,0:21:43.55,Main,,0,0,0,,Isso é ótimo!
-Dialogue: 0,0:21:43.55,0:21:46.68,Main,,0,0,0,,Pare com isso!\NBem, foi um grande negócio, eu acho, mas.\N.\N.
+Dialogue: 0,0:21:43.55,0:21:46.68,Main,,0,0,0,,Pare com isso!\NBem, foi um grande negócio, eu acho, mas...
 Dialogue: 0,0:21:46.68,0:21:49.95,Main,,0,0,0,,E quantos dias demorou para chegar a Zou de lá?
 Dialogue: 0,0:21:50.31,0:21:51.95,Main,,0,0,0,,Chegamos aqui no dia seguinte.
 Dialogue: 0,0:21:52.35,0:21:54.56,Main,,0,0,0,,Parece que Zou estava por perto naquele momento.
 Dialogue: 0,0:21:54.56,0:21:56.53,Main,,0,0,0,,Isso foi há 10 dias.
 Dialogue: 0,0:21:56.53,0:21:58.69,Main,,0,0,0,,Pelo que pude ver,
-Dialogue: 0,0:21:58.69,0:22:03.06,Main,,0,0,0,,o sinal mais antigo de destruição na cidade no centro de Zou foi.\N.\N.
+Dialogue: 0,0:21:58.69,0:22:03.06,Main,,0,0,0,,o sinal mais antigo de destruição na cidade no centro de Zou foi...
 Dialogue: 0,0:22:03.06,0:22:05.51,Main,,0,0,0,,...de pouco mais de duas semanas atrás.
 Dialogue: 0,0:22:06.80,0:22:08.24,Main,,0,0,0,,Isso mesmo.
 Dialogue: 0,0:22:08.24,0:22:12.83,Main,,0,0,0,,E há 10 dias, a maior parte do país estava destruída.

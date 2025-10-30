@@ -63,9 +63,9 @@ Dialogue: 0,0:03:32.32,0:03:33.90,Flashbacks,Sanji,0,0,0,,{secondary line}Não s
 Dialogue: 0,0:03:34.55,0:03:38.13,Flashbacks,Brook,0,0,0,,Ei, vocês dois! Por favor, venha ver isso!
 Dialogue: 0,0:03:38.13,0:03:40.22,Flashbacks,Brook,0,0,0,,Pegadas!
 Dialogue: 0,0:03:41.09,0:03:43.73,Flashbacks,Brook,0,0,0,,{end cp591, continue flashback}I-Isto é...
-Dialogue: 0,0:03:44.82,0:03:49.42,Flashbacks,Brook,0,0,0,,Você não acha que essas poderiam ser as pegadas do lendário e abominável homem das neves?\N!
+Dialogue: 0,0:03:44.82,0:03:49.42,Flashbacks,Brook,0,0,0,,Você não acha que essas poderiam ser as pegadas do lendário e abominável homem das neves?!
 Dialogue: 0,0:03:51.16,0:03:54.90,Flashbacks,Zoro+Sanji,0,0,0,,Ei, como você pode dizer algo tão estúpido?
-Dialogue: 0,0:03:56.86,0:04:01.14,Flashbacks,Sanji,0,0,0,,Uau, sério?\N!\NPegadas misteriosas em uma montanha coberta de neve?\N!
+Dialogue: 0,0:03:56.86,0:04:01.14,Flashbacks,Sanji,0,0,0,,Uau, sério?!\NPegadas misteriosas em uma montanha coberta de neve?!
 Dialogue: 0,0:04:01.14,0:04:04.87,Flashbacks,Brook,0,0,0,,São enormes, não são?! Eu não posso acreditar!
 Dialogue: 0,0:04:04.87,0:04:06.61,Flashbacks,Brook,0,0,0,,E eles estão frescos!
 Dialogue: 0,0:04:07.64,0:04:10.46,Flashbacks,Brook,0,0,0,,Se os seguirmos, então...
@@ -74,7 +74,7 @@ Dialogue: 0,0:04:37.53,0:04:39.32,Flashbacks,Sanji,0,0,0,,Um beco sem saída?
 Dialogue: 0,0:04:44.38,0:04:47.65,Flashbacks,Brook,0,0,0,,O que eles são? Existem sombras gigantes atrás de nós!
 Dialogue: 0,0:04:48.78,0:04:51.07,Flashbacks,Sanji,0,0,0,,{\fscx250}Poderia ser o abominável-
 Dialogue: 0,0:04:56.99,0:04:58.69,Flashbacks,Zoro,0,0,0,,O que é esse gás?!
-Dialogue: 0,0:04:58.69,0:05:05.56,Flashbacks,Sanji,0,0,0,,É como se eu estivesse bêbado ou algo assim.\N.\N.\NDe repente meu tungue parece pesado.\N.\N.\NE estou com sono.\N.\N.
+Dialogue: 0,0:04:58.69,0:05:05.56,Flashbacks,Sanji,0,0,0,,É como se eu estivesse bêbado ou algo assim...\NDe repente meu tungue parece pesado...\NE estou com sono...
 Dialogue: 0,0:05:05.56,0:05:08.32,Flashbacks,Brook,0,0,0,,C-C-Isso poderia ser uma emboscada?
 Dialogue: 0,0:05:09.15,0:05:13.19,Flashbacks,Rock,0,0,0,,Não importa quão boa seja a sua tolerância ao álcool, se respirar gás KYP...
 Dialogue: 0,0:05:13.19,0:05:16.10,Flashbacks,Rock,0,0,0,,você experimentará um estado de embriaguez e uma sonolência avassaladora.
@@ -236,7 +236,7 @@ Dialogue: 0,0:16:26.93,0:16:30.79,Main,Luffy,0,0,0,,Onde você está Mestre?! Sa
 Dialogue: 0,0:16:35.14,0:16:39.06,Main,Brook,0,0,0,,É incrível! Mal posso acreditar no que vejo.
 Dialogue: 0,0:16:39.06,0:16:44.34,Main,Brook,0,0,0,,Oh, espere... eu não tenho olhos.
 Dialogue: 0,0:16:48.93,0:16:53.37,captions_soft,Text,0,0,0,,{\fad(1000,0)\pos(640,544)\fs45}Laboratório de César - Entrada Principal
-Dialogue: 0,0:17:00.18,0:17:04.82,Main,Guy1,0,0,0,,Aquele desgraçado acabou de dizer que vai chutar a bunda do nosso amado Mestre e sequestrá-lo?\N!
+Dialogue: 0,0:17:00.18,0:17:04.82,Main,Guy1,0,0,0,,Aquele desgraçado acabou de dizer que vai chutar a bunda do nosso amado Mestre e sequestrá-lo?!
 Dialogue: 0,0:17:04.82,0:17:08.72,Main,Guy2,0,0,0,,Que piada! Mate os Piratas do Chapéu de Palha!
 Dialogue: 0,0:17:27.99,0:17:31.65,Main,Luffy,0,0,0,,Chegamos bem, mas onde está o Mestre?
 Dialogue: 0,0:17:31.65,0:17:34.11,Main,Robin,0,0,0,,Duvido que ele ficaria lá fora.

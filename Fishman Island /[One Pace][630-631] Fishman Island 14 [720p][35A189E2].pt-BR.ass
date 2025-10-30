@@ -56,7 +56,7 @@ Dialogue: 0,0:02:39.94,0:02:42.34,Main,Pirate,0,0,0,,Essas paredes são feitas d
 Dialogue: 0,0:02:42.34,0:02:43.57,Main,Pirate,0,0,0,,De que são feitas as mandíbulas dele?
 Dialogue: 0,0:02:58.79,0:03:00.60,Main,Daruma,0,0,0,,Meus dentes estão doendo!
 Dialogue: 0,0:03:04.93,0:03:06.26,Main,Daruma,0,0,0,,Idiotas!
-Dialogue: 0,0:03:06.26,0:03:12.03,Main,Daruma,0,0,0,,Você me traz cappuccino e algum tipo de bolo chique para o meu precioso lanche?\N!
+Dialogue: 0,0:03:06.26,0:03:12.03,Main,Daruma,0,0,0,,Você me traz cappuccino e algum tipo de bolo chique para o meu precioso lanche?!
 Dialogue: 0,0:03:12.03,0:03:13.94,Main,Daruma,0,0,0,,{It's hard to explain the stereotypes of an OL, but imagine a Japanese woman who enjoys foreign cakes and coffee.  Of course, the stereotype goes *far* beyond that, but that's as far as it's relevant to this line.}Você acha que sou algum tipo de office lady?!
 Dialogue: 0,0:03:13.94,0:03:16.10,Main,Pirate,0,0,0,,F-Perdoe-me, Daruma-san!
 Dialogue: 0,0:03:16.10,0:03:19.47,Main,Daruma,0,0,0,,Que tal eu comer a carne dos seus ossos?!
@@ -206,7 +206,7 @@ Dialogue: 0,0:12:55.42,0:12:57.41,Main,Ikaros,0,0,0,,{\i1}Apague o fogo - oi! Se
 Dialogue: 0,0:12:57.41,0:13:00.39,Main,Ikaros,0,0,0,,Oh, o fogo crepitante - oi...
 Dialogue: 0,0:13:00.39,0:13:02.34,Main,Pirate,0,0,0,,E o fogo?
 Dialogue: 0,0:13:03.87,0:13:06.57,Main,Ikaros,0,0,0,,{Uh, how familiar are Western audiences with grilled squid?  Japanese eat it all the time, but I think this gag might not go over so well with Western audiences...}Vou virar lula grelhada -oi!
-Dialogue: 0,0:13:06.57,0:13:08.75,Main,Ikaros,0,0,0,,Você acha que vamos te grelhar, idiota?\N!\NAh, com licença.
+Dialogue: 0,0:13:06.57,0:13:08.75,Main,Ikaros,0,0,0,,Você acha que vamos te grelhar, idiota?!\NAh, com licença.
 Dialogue: 0,0:13:11.00,0:13:14.35,Main,Ikaros,0,0,0,,Se você estava pensando em tentar me grelhar até a morte,
 Dialogue: 0,0:13:14.35,0:13:16.18,Main,Ikaros,0,0,0,,então você pode dar um beijo de adeus na sua vida - oi!
 Dialogue: 0,0:13:16.18,0:13:19.13,Main,Pirate,0,0,0,,Isso nunca me ocorreu, idiota! Ah, com licença.
@@ -265,7 +265,7 @@ Dialogue: 0,0:16:35.16,0:16:41.40,Main,Pirate,0,0,0,,{lit. body posture}O contro
 Dialogue: 0,0:17:01.86,0:17:04.70,Main,Pirate,0,0,0,,Capitão... Ei, capitão!
 Dialogue: 0,0:17:04.70,0:17:08.65,Main,Pirate,0,0,0,,Capitão Decken! As coisas só podem melhorar.
 Dialogue: 0,0:17:08.65,0:17:12.60,Main,Decken,0,0,0,,Seu idiota! Não quero que você me console!
-Dialogue: 0,0:17:12.60,0:17:15.68,Main,Decken,0,0,0,,Você tem ideia de como é ser rejeitado quando você procura alguém?\N!
+Dialogue: 0,0:17:12.60,0:17:15.68,Main,Decken,0,0,0,,Você tem ideia de como é ser rejeitado quando você procura alguém?!
 Dialogue: 0,0:17:15.68,0:17:19.79,Main,Decken,0,0,0,,Claro, Shirahoshi era apenas uma criança no começo...
 Dialogue: 0,0:17:20.76,0:17:25.88,Main,Decken,0,0,0,,Eu apenas decidi me casar com ela para poder realizar os sonhos dos meus antepassados.
 Dialogue: 0,0:17:26.94,0:17:29.69,Main,Decken,0,0,0,,Mas olhe para ela agora!
@@ -325,7 +325,7 @@ Dialogue: 0,0:23:04.50,0:23:07.14,Main,Mermaid,0,0,0,,Eu posso ouvir alguma cois
 Dialogue: 0,0:23:38.59,0:23:39.67,Main,Fishman,0,0,0,,Ei...
 Dialogue: 0,0:23:39.67,0:23:43.83,Main,Fishman,0,0,0,,{\i1}Achei que o ataque Uchimizu tinha apenas o mesmo poder de uma bala?
 Dialogue: 0,0:23:51.71,0:23:56.82,Main,Ikaros,0,0,0,,Mesmo que seja porque você tomou tantos esteróides energéticos, isso foi incrível - oi!
-Dialogue: 0,0:23:56.82,0:24:00.06,Main,Zeo,0,0,0,,Seu cabelo ficou todo branco e seu corpo mudou.\N.\N.
+Dialogue: 0,0:23:56.82,0:24:00.06,Main,Zeo,0,0,0,,Seu cabelo ficou todo branco e seu corpo mudou...
 Dialogue: 0,0:24:01.19,0:24:03.96,Main,Zeo,0,0,0,,Como você se sente, capitão?
 Dialogue: 0,0:24:04.68,0:24:06.19,Main,Hody,0,0,0,,Nunca estive melhor.
 Dialogue: 0,0:24:27.05,0:24:28.04,Main,Manboshi,0,0,0,,Soldados...
@@ -338,7 +338,7 @@ Dialogue: 0,0:25:06.77,0:25:10.81,Main,Fukaboshi,0,0,0,,{\i1}Por que você não 
 Dialogue: 0,0:25:10.81,0:25:13.41,Main,Fukaboshi,0,0,0,,{\i1}Você é muito mais fraco do que qualquer outra pessoa nesta ilha!
 Dialogue: 0,0:25:14.29,0:25:19.86,Main,Fukaboshi,0,0,0,,Os cidadãos desta ilha viraram as costas a uma longa história de discriminação por parte dos humanos.
 Dialogue: 0,0:25:19.86,0:25:25.26,Main,Fukaboshi,0,0,0,,Eles deixaram o tempo apagar as mortes de um herói e da Rainha, mesmo que os humanos os matassem.
-Dialogue: 0,0:25:25.26,0:25:28.50,Main,Fukaboshi,0,0,0,,Eles cerraram os dentes e se comprometeram a mudar o futuro.\N.\N.
+Dialogue: 0,0:25:25.26,0:25:28.50,Main,Fukaboshi,0,0,0,,Eles cerraram os dentes e se comprometeram a mudar o futuro...
 Dialogue: 0,0:25:28.50,0:25:31.12,Main,Fukaboshi,0,0,0,,colocando suas assinaturas!
 Dialogue: 0,0:25:31.12,0:25:33.05,Main,Fishman,0,0,0,,Príncipe...
 Dialogue: 0,0:25:33.05,0:25:34.17,Main,Fishman,0,0,0,,Fukaboshi-sama!

@@ -57,7 +57,7 @@ Dialogue: 0,0:03:06.59,0:03:07.73,Main,Neptune,0,0,0,,De fato.
 Dialogue: 0,0:03:09.81,0:03:13.40,Main,Robin,0,0,0,,Seria horrível se alguém descobrisse isso, certo?
 Dialogue: 0,0:03:14.49,0:03:18.57,Main,Robin,0,0,0,,Tenho certeza de que todas as principais influências ao redor do mundo gostariam de reivindicar o poder de Shirahoshi para si.
 Dialogue: 0,0:03:19.37,0:03:21.70,Main,Robin,0,0,0,,Tanto o governo como os piratas.
-Dialogue: 0,0:03:24.28,0:03:29.15,Main,Caribou,0,0,0,,Uma arma antiga?\NO poder de destruir o mundo, você diz?\N!
+Dialogue: 0,0:03:24.28,0:03:29.15,Main,Caribou,0,0,0,,Uma arma antiga?\NO poder de destruir o mundo, você diz?!
 Dialogue: 0,0:03:33.85,0:03:37.34,Main,Caribou,0,0,0,,Pensei em dizer adeus a este lugar agora que tenho todos os seus tesouros.
 Dialogue: 0,0:03:37.34,0:03:41.26,Main,Caribou,0,0,0,,mas ouvi algo incrível aqui, não é?
 Dialogue: 0,0:03:42.76,0:03:46.04,Main,Caribou,0,0,0,,Entendo, então a Princesa Sereia é...
@@ -84,12 +84,12 @@ Dialogue: 0,0:04:54.51,0:04:57.43,Main,Chopper,0,0,0,,Eu ouvi sobre isso! Eu fiz
 Dialogue: 0,0:04:57.43,0:04:58.59,Main,Usopp,0,0,0,,Seriamente?!
 Dialogue: 0,0:04:58.59,0:05:01.77,Main,Jinbe,0,0,0,,Imediatamente após a guerra, há dois anos,
 Dialogue: 0,0:05:01.77,0:05:05.04,Main,Jinbe,0,0,0,,O Almirante da Frota Sengoku decidiu se aposentar.
-Dialogue: 0,0:05:06.50,0:05:12.73,Main,Jinbe,0,0,0,,Sengoku queria que seu subordinado de confiança, Aokiji, se tornasse seu sucessor.\N.\N.
-Dialogue: 0,0:05:12.73,0:05:16.48,Main,Jinbe,0,0,0,,mas havia muitos funcionários governamentais de alto escalão que queriam Akainu.\N.\N.
+Dialogue: 0,0:05:06.50,0:05:12.73,Main,Jinbe,0,0,0,,Sengoku queria que seu subordinado de confiança, Aokiji, se tornasse seu sucessor...
+Dialogue: 0,0:05:12.73,0:05:16.48,Main,Jinbe,0,0,0,,mas havia muitos funcionários governamentais de alto escalão que queriam Akainu...
 Dialogue: 0,0:05:16.48,0:05:19.49,Main,Jinbe,0,0,0,,então ambos se tornaram candidatos ao cargo.
 Dialogue: 0,0:05:21.91,0:05:25.52,Main,Jinbe,0,0,0,,Aokiji raramente demonstra interesse em alguma coisa...
 Dialogue: 0,0:05:25.52,0:05:30.13,Main,Jinbe,0,0,0,,mas ele se opôs fortemente a que Akainu se tornasse almirante da frota.
-Dialogue: 0,0:05:30.94,0:05:36.21,Main,Jinbe,0,0,0,,Os dois discordaram, e a briga sem precedentes entre dois almirantes aumentou.\N.\N.
+Dialogue: 0,0:05:30.94,0:05:36.21,Main,Jinbe,0,0,0,,Os dois discordaram, e a briga sem precedentes entre dois almirantes aumentou...
 Dialogue: 0,0:05:36.21,0:05:39.73,Main,Jinbe,0,0,0,,até que finalmente resolveram o problema em um duelo em uma determinada ilha.
 Dialogue: 0,0:05:41.89,0:05:44.12,Main,Jinbe,0,0,0,,Homens mortos não contam histórias.
 Dialogue: 0,0:05:44.12,0:05:47.26,Main,Jinbe,0,0,0,,{He doesn't outright say that the loser will be unable to complain because he's dead, but it's very heavily implied.}O perdedor não estaria mais por perto para reclamar.
@@ -149,7 +149,7 @@ Dialogue: 0,0:08:56.44,0:08:59.06,Main,Jinbe,0,0,0,,Você é o capitão, não é
 Dialogue: 0,0:08:59.06,0:09:02.21,Main,Jinbe,0,0,0,,Você deve pelo menos prestar atenção às partes importantes!
 Dialogue: 0,0:09:02.21,0:09:06.08,Main,Sanji,0,0,0,,Ah, não se preocupe com isso, Jinbei. Todos nós ouvimos isso.
 Dialogue: 0,0:09:06.08,0:09:10.35,Main,Chopper,0,0,0,,{\i1}Huh?\NQuer dizer que um capitão não é alguém que ignora tudo o que as pessoas dizem?
-Dialogue: 0,0:09:10.35,0:09:15.77,Main,Jinbe,0,0,0,,Ser o capitão significa que você é responsável pela vida dos seus tripulantes, não é, Luffy?\N!
+Dialogue: 0,0:09:10.35,0:09:15.77,Main,Jinbe,0,0,0,,Ser o capitão significa que você é responsável pela vida dos seus tripulantes, não é, Luffy?!
 Dialogue: 0,0:09:16.27,0:09:18.89,Main,Luffy,0,0,0,,Não, Jinbei, vá com calma.
 Dialogue: 0,0:09:18.89,0:09:20.74,Main,Luffy,0,0,0,,Afinal, gosto de deixar isso ao acaso.
 Dialogue: 0,0:09:22.23,0:09:24.92,Main,Jinbe,0,0,0,,Tenho certeza de que isso tem sido difícil para todos vocês.
@@ -188,14 +188,14 @@ Dialogue: 0,0:11:18.61,0:11:20.93,Main,Sanji,0,0,0,,Eu deveria ter chutado ele, 
 Dialogue: 0,0:11:20.93,0:11:24.34,Main,Right Minister,0,0,0,,Isso foi tão perto! Mais uma vez, estamos em dívida com você.
 Dialogue: 0,0:11:24.34,0:11:25.62,Main,Luffy,0,0,0,,Não se preocupe.
 Dialogue: 0,0:11:26.00,0:11:30.23,Main,Right Minister,0,0,0,,Não acredito que aquele ladrão de tesouros ainda estava no castelo.
-Dialogue: 0,0:11:30.23,0:11:34.07,Main,Right Minister,0,0,0,,Normalmente, nem mesmo um único peixinho conseguia entrar no castelo.\N.\N.
+Dialogue: 0,0:11:30.23,0:11:34.07,Main,Right Minister,0,0,0,,Normalmente, nem mesmo um único peixinho conseguia entrar no castelo...
 Dialogue: 0,0:11:34.07,0:11:37.57,Main,Right Minister,0,0,0,,mas o portão foi deixado aberto durante o caos da batalha.
 Dialogue: 0,0:11:37.57,0:11:41.41,Main,Right Minister,0,0,0,,Olhar! A torre à direita foi cortada ao meio!
-Dialogue: 0,0:11:41.41,0:11:44.87,Main,Right Minister,0,0,0,,Tenho certeza que foi o ladrão de tesouros que se aproveitou da nossa ausência e.\N.\N.
+Dialogue: 0,0:11:41.41,0:11:44.87,Main,Right Minister,0,0,0,,Tenho certeza que foi o ladrão de tesouros que se aproveitou da nossa ausência e...
 Dialogue: 0,0:11:45.87,0:11:48.94,Main,Pappagg,0,0,0,,Não, foi esse cara que cortou a torre.
 Dialogue: 0,0:11:48.94,0:11:53.74,Main,Pappagg,0,0,0,,Quando eles estavam fugindo da jaula, ele se exibiu cortando as grades e limpando o quarto ao meio.
 Dialogue: 0,0:11:53.74,0:11:56.36,Main,Zoro,0,0,0,,Deixe que ele assuma a culpa, sua estrela do mar idiota!
-Dialogue: 0,0:11:56.36,0:11:59.78,Main,Pappagg,0,0,0,,O que há com você?\N!\NMentir é o primeiro passo para se tornar um ladrão!
+Dialogue: 0,0:11:56.36,0:11:59.78,Main,Pappagg,0,0,0,,O que há com você?!\NMentir é o primeiro passo para se tornar um ladrão!
 Dialogue: 0,0:12:00.62,0:12:03.20,Main,Nami,0,0,0,,Espere um segundo, certo Ministro-chan!
 Dialogue: 0,0:12:03.89,0:12:04.46,Main,Right Minister,0,0,0,,Chan?
 Dialogue: 0,0:12:04.46,0:12:06.57,Main,Nami,0,0,0,,O que você quer dizer com ladrão de tesouros?!
@@ -209,7 +209,7 @@ Dialogue: 0,0:12:24.87,0:12:27.06,Main,Nami,0,0,0,,Então, se retirarmos isso...
 Dialogue: 0,0:12:27.06,0:12:32.21,Main,Neptune,0,0,0,,Seria uma honra conceder o tesouro aos salvadores do nosso país.
 Dialogue: 0,0:12:32.21,0:12:34.59,Main,Nami,0,0,0,,Realmente?
 Dialogue: 0,0:12:35.74,0:12:38.43,Main,Nami,0,0,0,,Ei você! Por que você o mandou voando?!
-Dialogue: 0,0:12:38.43,0:12:41.12,Main,Nami,0,0,0,,Por que você simplesmente não o nocauteou e o amarrou aqui?\N!
+Dialogue: 0,0:12:38.43,0:12:41.12,Main,Nami,0,0,0,,Por que você simplesmente não o nocauteou e o amarrou aqui?!
 Dialogue: 0,0:12:41.58,0:12:43.17,Main,Sanji,0,0,0,,{\i1}Mesmo quando ela está com raiva, Nami-san ainda está-
 Dialogue: 0,0:12:44.62,0:12:46.31,Main,Nami,0,0,0,,{\i1}Vá encontrá-lo, agora mesmo!
 Dialogue: 0,0:12:51.76,0:12:54.11,Main,Guard,0,0,0,,Sua Majestade!
@@ -333,7 +333,7 @@ Dialogue: 0,0:20:39.60,0:20:42.60,Main,Luffy,0,0,0,,Quem é você? Você não é
 Dialogue: 0,0:20:42.60,0:20:44.21,Main,Luffy,0,0,0,,Você veio comprar doces?
 Dialogue: 0,0:20:44.21,0:20:47.82,Main,Luffy,0,0,0,,Eu apenas comi até meu estômago estourar!
 Dialogue: 0,0:20:47.82,0:20:49.33,Main,Pekoms,0,0,0,,O que?!
-Dialogue: 0,0:20:49.33,0:20:53.59,Main,Pekoms,0,0,0,,Qual é o significado disso?\N!\NEle está dizendo que comeu todos os doces!
+Dialogue: 0,0:20:49.33,0:20:53.59,Main,Pekoms,0,0,0,,Qual é o significado disso?!\NEle está dizendo que comeu todos os doces!
 Dialogue: 0,0:20:55.05,0:20:58.13,Main,Left Minister,0,0,0,,Uh, bem, você vê... Há uma razão para...
 Dialogue: 0,0:20:58.13,0:21:01.05,Main,Luffy,0,0,0,,Huh? Um leão falante!
 Dialogue: 0,0:21:01.05,0:21:04.42,Main,Luffy,0,0,0,,Bem, tanto faz.\NTambém temos um cara parecido em nossa equipe.
@@ -365,7 +365,7 @@ Dialogue: 0,0:22:53.52,0:22:54.56,Main,Luffy,0,0,0,,Dez toneladas?!
 Dialogue: 0,0:22:54.56,0:23:01.32,Main,Tamago,0,0,0,,{\i1}De fato.\NMamãe adora doces mais do que qualquer outra coisa -soir.
 Dialogue: 0,0:23:01.32,0:23:05.70,Main,Tamago,0,0,0,,Os doces da Ilha dos Tritões, em particular, são seus favoritos.
 Dialogue: 0,0:23:06.24,0:23:09.39,Main,Tamago,0,0,0,,Então vamos esperar até amanhã de manhã.
-Dialogue: 0,0:23:09.39,0:23:15.46,Main,Left Minister,0,0,0,,Não, não, Barão.\N.\N.\NComo eu estava dizendo, todos os fornos da fábrica estão quebrados.\N.\N.
+Dialogue: 0,0:23:09.39,0:23:15.46,Main,Left Minister,0,0,0,,Não, não, Barão...\NComo eu estava dizendo, todos os fornos da fábrica estão quebrados...
 Dialogue: 0,0:23:15.46,0:23:20.16,Main,Left Minister,0,0,0,,{\fscx250}e levará vários dias para consertá-los, então nos dê pelo menos duas semanas para-
 Dialogue: 0,0:23:20.16,0:23:21.80,Main,Tamago,0,0,0,,{\i1}Não posso fazer isso.
 Dialogue: 0,0:23:21.80,0:23:25.72,Main,Sanji,0,0,0,,Ei, Ovo! Por que você não pode simplesmente esperar?!
@@ -379,7 +379,7 @@ Dialogue: 0,0:23:55.81,0:23:57.19,Main,Tamago,0,0,0,,Se isso acontecer...
 Dialogue: 0,0:24:00.23,0:24:02.65,Main,Tamago,0,0,0,,nosso acordo será nulo e sem efeito!
 Dialogue: 0,0:24:02.65,0:24:11.26,Main,Tamago,0,0,0,,{\i1}E em poucos dias, Big Mom enviará valentes guerreiros para destruir a Ilha dos Tritões -vous plait!
 Dialogue: 0,0:24:12.18,0:24:14.49,Main,Luffy,0,0,0,,Destruir a Ilha dos Tritões?!
-Dialogue: 0,0:24:14.49,0:24:18.60,Main,Luffy,0,0,0,,O que você é, estúpido?\N!\NVocê acha que vou deixar esse país cair por causa dos doces?\N!
+Dialogue: 0,0:24:14.49,0:24:18.60,Main,Luffy,0,0,0,,O que você é, estúpido?!\NVocê acha que vou deixar esse país cair por causa dos doces?!
 Dialogue: 0,0:24:18.60,0:24:21.25,Main,Luffy,0,0,0,,{\i1}Acabamos de salvar esta ilha!
 Dialogue: 0,0:24:42.54,0:24:44.73,Main,Pirate,0,0,0,,Você parece feliz, mamãe.
 Dialogue: 0,0:24:46.19,0:24:51.72,Main,Big Mam,0,0,0,,Estou ansioso pela festa do chá em quatro dias!
@@ -429,7 +429,7 @@ Dialogue: 0,0:28:12.40,0:28:14.24,Main,Big Mam,0,0,0,,Agora eu me lembro!
 Dialogue: 0,0:28:15.22,0:28:20.40,Main,Big Mam,0,0,0,,Você é aquele garoto que causou confusão durante a guerra há dois anos, certo?
 Dialogue: 0,0:28:20.40,0:28:22.14,Main,Luffy,0,0,0,,Não há doces aqui!
 Dialogue: 0,0:28:22.14,0:28:24.03,Main,Luffy,0,0,0,,Eu comi tudo!
-Dialogue: 0,0:28:24.03,0:28:28.63,Main,Big Mam,0,0,0,,Realmente não existe nenhum?\N!\NEra para haver dez toneladas disso!
+Dialogue: 0,0:28:24.03,0:28:28.63,Main,Big Mam,0,0,0,,Realmente não existe nenhum?!\NEra para haver dez toneladas disso!
 Dialogue: 0,0:28:28.63,0:28:31.14,Main,Luffy,0,0,0,,{\i1}Comi todas as dez toneladas!
 Dialogue: 0,0:28:35.43,0:28:38.13,Main,Citizen,0,0,0,,Chapéu de Palha-san, você não precisa fazer isso!
 Dialogue: 0,0:28:38.13,0:28:40.63,Main,Tamago,0,0,0,,O que ele está tentando fazer?!

@@ -88,7 +88,7 @@ Dialogue: 0,0:02:53.76,0:02:58.18,Main,,0,0,0,,Bem, não estou com fome, mas...
 Dialogue: 0,0:02:58.18,0:02:59.72,Main,,0,0,0,,Quer um pouco de alface?
 Dialogue: 0,0:02:59.72,0:03:01.24,Main,,0,0,0,,Não, eu não.
 Dialogue: 0,0:03:01.24,0:03:03.76,Main,,0,0,0,,Sua comida nunca combina com meu estômago.
-Dialogue: 0,0:03:06.40,0:03:10.88,Main,,0,0,0,,Bem, contanto que você e Momonosuke estejam bem.\N.\N.
+Dialogue: 0,0:03:06.40,0:03:10.88,Main,,0,0,0,,Bem, contanto que você e Momonosuke estejam bem...
 Dialogue: 0,0:03:11.38,0:03:13.86,Main,,0,0,0,,Sim, estamos, graças a você!
 Dialogue: 0,0:03:13.86,0:03:17.71,Main,,0,0,0,,Bom. Espero poder ver Momonosuke em breve.
 Dialogue: 0,0:03:17.92,0:03:22.66,Main,,0,0,0,,Sim, Momonosuke também está ansioso para ver você!
@@ -113,7 +113,7 @@ Dialogue: 0,0:04:40.68,0:04:43.40,Main,,0,0,0,,Agora, Kin'emon, vamos!
 Dialogue: 0,0:04:43.40,0:04:44.70,Main,,0,0,0,,Uh-huh.
 Dialogue: 0,0:04:46.70,0:04:48.48,Main,,0,0,0,,Espere um segundo!
 Dialogue: 0,0:04:49.62,0:04:55.06,Main,,0,0,0,,Somos ex-soldados do exército do Rei Riku e cidadãos que viviam como brinquedos...
-Dialogue: 0,0:04:55.06,0:05:00.10,Main,,0,0,0,,Não sabemos o que está acontecendo, mas o Rei Riku está bem?\N!
+Dialogue: 0,0:04:55.06,0:05:00.10,Main,,0,0,0,,Não sabemos o que está acontecendo, mas o Rei Riku está bem?!
 Dialogue: 0,0:05:00.88,0:05:03.76,Main,,0,0,0,,Nossas famílias estão na cidade!
 Dialogue: 0,0:05:03.76,0:05:06.38,Main,,0,0,0,,Leve-nos com você! Eu te imploro!
 Dialogue: 0,0:05:06.43,0:05:10.36,Captions,,200,0,20,,Exército Coliseu
@@ -151,7 +151,7 @@ Dialogue: 0,0:07:20.00,0:07:28.13,Main,,0,0,0,,Doflamingo está um degrau acima 
 Dialogue: 0,0:07:28.13,0:07:35.30,Main,,0,0,0,,Ele trouxe todos aqueles guerreiros estranhos e durões de todo o mundo para o evento no Coliseu.
 Dialogue: 0,0:07:35.30,0:07:37.90,Main,,0,0,0,,Não seremos derrotados!
 Dialogue: 0,0:07:38.24,0:07:43.67,Main,,0,0,0,,Porque, afinal, vou derrubar o Doflamingo!
-Dialogue: 0,0:07:43.67,0:07:48.26,Main,,0,0,0,,O que você está falando?\N!\NEu disse que vou chutar a bunda do Mingo!
+Dialogue: 0,0:07:43.67,0:07:48.26,Main,,0,0,0,,O que você está falando?!\NEu disse que vou chutar a bunda do Mingo!
 Dialogue: 0,0:07:48.26,0:07:51.15,Main,,0,0,0,,Eu disse que seria eu, Chapéu de Palha!
 Dialogue: 0,0:07:51.15,0:07:53.78,Main,,0,0,0,,Estou muito impressionado, mas vou fazer isso!
 Dialogue: 0,0:07:53.78,0:07:58.18,Main,,0,0,0,,Soldado! Você disse que quer matar um dos Executivos!
@@ -321,7 +321,7 @@ Dialogue: 0,0:18:36.47,0:18:40.46,Main,,0,0,0,,De qualquer forma, não vou deixa
 Dialogue: 0,0:18:40.46,0:18:43.26,Main,,0,0,0,,Eu vou tirar sua vida!
 Dialogue: 0,0:18:43.26,0:18:45.54,Main,,0,0,0,,Atenção! Corra, Fraland!
 Dialogue: 0,0:18:52.59,0:18:57.18,Main,,0,0,0,,Fraland abraçou o gerente da fábrica!
-Dialogue: 0,0:18:57.96,0:19:01.84,Main,,0,0,0,,E-Ei, o que está acontecendo?\N!\NO que você está fazendo?\N!\NSolte-me!
+Dialogue: 0,0:18:57.96,0:19:01.84,Main,,0,0,0,,E-Ei, o que está acontecendo?!\NO que você está fazendo?!\NSolte-me!
 Dialogue: 0,0:19:01.84,0:19:05.44,Main,,0,0,0,,Fraland se apaixonou por ela?!
 Dialogue: 0,0:19:06.00,0:19:10.02,Main,,0,0,0,,Aquele idiota ciborgue, como ele ousa me enganar!
 Dialogue: 0,0:19:10.38,0:19:13.88,Main,,0,0,0,,Não há nenhuma vovó problemática em lugar nenhum.
@@ -330,13 +330,13 @@ Dialogue: 0,0:19:18.31,0:19:20.90,Main,,0,0,0,,Oh! Tão cozido!
 Dialogue: 0,0:19:20.90,0:19:25.78,Main,,0,0,0,,Senhor Rosa! Estou pronto! Venha a qualquer momento!
 Dialogue: 0,0:19:25.78,0:19:29.98,Main,,0,0,0,,Ei, pare de mexer com a moral da fábrica!
 Dialogue: 0,0:19:29.98,0:19:35.02,Main,,0,0,0,,Aquele bastardo está me jogando com suplexes!
-Dialogue: 0,0:19:35.64,0:19:41.20,Main,,0,0,0,,Ele estava tentando desenterrar uma fonte termal ou algo assim com a parte de trás da minha cabeça?\N!
+Dialogue: 0,0:19:35.64,0:19:41.20,Main,,0,0,0,,Ele estava tentando desenterrar uma fonte termal ou algo assim com a parte de trás da minha cabeça?!
 Dialogue: 0,0:19:41.96,0:19:44.00,Main,,0,0,0,,O que você está falando?!
 Dialogue: 0,0:19:44.00,0:19:45.52,Main,,0,0,0,,Caia morto!
 Dialogue: 0,0:19:45.52,0:19:48.04,Main,,0,0,0,,{\fad(150,150)}Soco de orelha de gato!
 Dialogue: 0,0:19:48.04,0:19:52.12,Main,,0,0,0,,{\fad(150,150)}Franky Southland Suplex!
 Dialogue: 0,0:20:15.98,0:20:17.96,Main,,0,0,0,,Não! O gerente é...
-Dialogue: 0,0:20:17.96,0:20:22.52,Main,,0,0,0,,Isso doeu, seu idiota!\NComo você pôde usar minha cabeça como um martelo?\N!
+Dialogue: 0,0:20:17.96,0:20:22.52,Main,,0,0,0,,Isso doeu, seu idiota!\NComo você pôde usar minha cabeça como um martelo?!
 Dialogue: 0,0:20:22.52,0:20:25.14,Main,,0,0,0,,Como você ousa me tratar tão cruelmente!
 Dialogue: 0,0:20:25.14,0:20:29.45,Main,,0,0,0,,Eu sou o gerente da fábrica!\NEu sou a figura mais poderosa aqui!
 Dialogue: 0,0:20:29.45,0:20:33.68,Main,,0,0,0,,Quando ela fica brava, ninguém pode impedi-la!
@@ -385,7 +385,7 @@ Dialogue: 0,0:23:21.24,0:23:23.07,Main,,0,0,0,,Mouji! Fico feliz em ouvir de voc
 Dialogue: 0,0:23:23.07,0:23:25.62,Main,,0,0,0,,Isso significa que nossos amigos foram libertados!
 Dialogue: 0,0:23:25.62,0:23:28.70,Main,,0,0,0,,Mas Leo, temos um grande problema...
 Dialogue: 0,0:23:28.70,0:23:30.25,Main,,0,0,0,,O que é?
-Dialogue: 0,0:23:30.25,0:23:33.02,Main,,0,0,0,,A princesa é.\N.\N.\NPrincesa Mansherry é.\N.\N.
+Dialogue: 0,0:23:30.25,0:23:33.02,Main,,0,0,0,,A princesa é...\NPrincesa Mansherry é...
 Dialogue: 0,0:23:33.26,0:23:36.02,Main,,0,0,0,,...em nenhum lugar da fábrica!
 Dialogue: 0,0:23:36.02,0:23:36.64,Main,,0,0,0,,O que?!
 Dialogue: 0,0:23:36.64,0:23:37.85,Main,,0,0,0,,O pobre querido...
@@ -395,7 +395,7 @@ Dialogue: 0,0:23:45.62,0:23:48.03,Main,,0,0,0,,Vá para o antigo Planalto do Rei
 Dialogue: 0,0:23:48.03,0:23:51.11,Main,,0,0,0,,Sim!!
 Dialogue: 0,0:23:51.28,0:23:54.58,Secondary,,0,0,3,,Pegue o Rei Riku e o Deus Usopp!
 Dialogue: 0,0:23:51.36,0:23:54.29,Captions,,0,0,180,,{\fad(500,0)}Antigo Planalto do Rei
-Dialogue: 0,0:23:54.58,0:24:00.51,Main,,0,0,0,,N-Não precisa ter medo.\NEles não podem subir aqui tão facilmente.\N.\N.
+Dialogue: 0,0:23:54.58,0:24:00.51,Main,,0,0,0,,N-Não precisa ter medo.\NEles não podem subir aqui tão facilmente...
 Dialogue: 0,0:24:00.51,0:24:03.20,Main,,0,0,0,,Mate Deus Usopp!
 Dialogue: 0,0:24:04.34,0:24:07.54,Main,,0,0,0,,Pai-sama, acabei de receber uma ligação dos Tontattas da fábrica!
 Dialogue: 0,0:24:07.54,0:24:09.26,Main,,0,0,0,,Ah, eles estão bem?!

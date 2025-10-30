@@ -77,7 +77,7 @@ Dialogue: 0,0:04:51.62,0:04:55.39,Main-480p,,0,0,0,[Linebreaker Removed],{Maybe 
 Dialogue: 0,0:04:58.82,0:05:04.70,Captions-480p,,0,0,0,,{\blur0.\N6\pos(569,276)\fad(339,0)\c&H000000&\1a&HFF&\t(294,339,\1a&H00&)}Cidade da Neve de Bighorn
 Dialogue: 1,0:04:58.82,0:05:04.70,Captions-480p,,0,0,0,,{\bord0\blur0.\N6\pos(569,276)\fad(339,0)\4a&HFF&}Cidade da Neve de Bighorn
 Dialogue: 0,0:05:00.48,0:05:04.70,Main-480p,,0,0,0,,Esta é a nossa aldeia, Bighorn.
-Dialogue: 0,0:05:04.70,0:05:07.40,Main-480p,,0,0,0,[Linebreaker Removed],{There are weird animals walking everywhere.\N.\N.\N}O que há com esses animais estranhos andando por aí?
+Dialogue: 0,0:05:04.70,0:05:07.40,Main-480p,,0,0,0,[Linebreaker Removed],{There are weird animals walking everywhere...\N}O que há com esses animais estranhos andando por aí?
 Dialogue: 0,0:05:07.40,0:05:09.45,Main-480p,,0,0,0,,{ya}Esse é o país da neve para você!
 Dialogue: 0,0:05:09.45,0:05:13.42,Main-480p,,0,0,0,[Italics End][Linebreaker Removed][Honorifics],{\i1}Nami-san!\NChegamos a uma aldeia com gente!\NUma aldeia!
 Dialogue: 0,0:05:14.35,0:05:16.67,Main-480p,,0,0,0,,OK. Obrigado pela ajuda a todos.
@@ -119,8 +119,8 @@ Dialogue: 0,0:06:58.18,0:07:00.60,Main-480p,,0,0,0,,{Zenef: I realize Dalton's s
 Dialogue: 0,0:07:00.60,0:07:03.55,Main-480p,,0,0,0,[Linebreaker Removed],{Her fever's gone up for three days in a row.\N}Há três dias, sua febre só aumentou.
 Dialogue: 0,0:07:03.55,0:07:06.30,Main-480p,,0,0,0,,{She'll die if it goes up any more!}Se subir mais, ela morrerá!
 Dialogue: 0,0:07:06.30,0:07:07.36,Main-480p,,0,0,0,,Sim.
-Dialogue: 0,0:07:07.36,0:07:12.17,Main-480p,,0,0,0,[Linebreaker Removed],{But we don't even know the cause of her illness, or how to treat it.\N.\N.\N}Mas não sabemos a causa da sua doença, nem como tratá-la.
-Dialogue: 0,0:07:12.17,0:07:17.12,Main-480p,,0,0,0,[Linebreaker Removed],{We need a doctor!\NAnyone will do!\N\NWhere is this witch of yours?\N!\N}Só precisamos de um médico!\NQualquer médico!\NOnde está essa sua bruxa?\N!
+Dialogue: 0,0:07:07.36,0:07:12.17,Main-480p,,0,0,0,[Linebreaker Removed],{But we don't even know the cause of her illness, or how to treat it...\N}Mas não sabemos a causa da sua doença, nem como tratá-la.
+Dialogue: 0,0:07:12.17,0:07:17.12,Main-480p,,0,0,0,[Linebreaker Removed],{We need a doctor!\NAnyone will do!\N\NWhere is this witch of yours?!\N}Só precisamos de um médico!\NQualquer médico!\NOnde está essa sua bruxa?!
 Dialogue: 0,0:07:17.12,0:07:20.67,Main-480p,,0,0,0,[Linebreaker Removed],{The witch, huh.\NDo you see those mountains outside the window?\N}A bruxa, você pergunta.\NVê aquelas montanhas pela janela?
 Dialogue: 0,0:07:20.67,0:07:23.25,Main-480p,,0,0,0,,Sim, aqueles incrivelmente altos–
 Dialogue: 0,0:07:24.09,0:07:26.05,Main-480p,,0,0,0,,{DemonRin, I'll leave this one up to you. I can't tell if he's saying "hyper", and Viz has this as "Super Snowman." Maybe if it's flexible, we can go with "Ultra Snowman!" lol}Hiper boneco de neve!
@@ -141,13 +141,13 @@ Dialogue: 0,0:07:57.74,0:08:01.12,Main-480p,,0,0,0,[Linebreaker Removed],De todo
 Dialogue: 0,0:08:01.12,0:08:03.80,Main-480p,,0,0,0,[Linebreaker Removed],{Then call her here right away!\NWe have a critical patient!\N}Ok, então ligue para ela agora mesmo!\NÉ urgente!
 Dialogue: 0,0:08:03.80,0:08:06.30,Main-480p,,0,0,0,[Linebreaker Removed],{Even if we wanted to, there's no way to contact her.\N}Eu faria isso, mas não há como contatá-la.
 Dialogue: 0,0:08:06.30,0:08:07.04,Main-480p,,0,0,0,[Linebreaker Removed],{Huh?!}O que?!
-Dialogue: 0,0:08:07.04,0:08:10.73,Main-480p,,0,0,0,[Linebreaker Removed],E ela se autodenomina médica?\N!\NComo diabos ela é?\N!
+Dialogue: 0,0:08:07.04,0:08:10.73,Main-480p,,0,0,0,[Linebreaker Removed],E ela se autodenomina médica?!\NComo diabos ela é?!
 Dialogue: 0,0:08:10.73,0:08:13.38,Main-480p,,0,0,0,,{she's very skilled.\N}Como médica, suas habilidades são incomparáveis.
 Dialogue: 0,0:08:13.38,0:08:15.95,Main-480p,,0,0,0,[Linebreaker Removed],{she's}Mas ela é uma senhora idosa excêntrica.
 Dialogue: 0,0:08:15.95,0:08:18.07,Main-480p,,0,0,0,[Linebreaker Removed],{She's}Ela tem quase 140 anos agora.
 Dialogue: 0,0:08:18.07,0:08:18.97,Main-480p,,0,0,0,,{Eh}O que?!
-Dialogue: 0,0:08:18.97,0:08:21.86,Main-480p,,0,0,0,[Italics End],{140}Cento e quarenta?\N!\NE ela ainda está chutando?\N!
-Dialogue: 0,0:08:21.86,0:08:25.05,Main-480p,,0,0,0,[Linebreaker Removed],{let's see}E, pensando bem.\N.\N.\Nela gosta de ameixas em conserva.
+Dialogue: 0,0:08:18.97,0:08:21.86,Main-480p,,0,0,0,[Italics End],{140}Cento e quarenta?!\NE ela ainda está chutando?!
+Dialogue: 0,0:08:21.86,0:08:25.05,Main-480p,,0,0,0,[Linebreaker Removed],{let's see}E, pensando bem...\Nela gosta de ameixas em conserva.
 Dialogue: 0,0:08:25.05,0:08:28.44,Main-480p,,0,0,0,[Linebreaker Removed],O que acontece quando as pessoas aqui ficam doentes ou feridas?
 Dialogue: 0,0:08:29.11,0:08:31.84,Main-480p,,0,0,0,[Linebreaker Removed],{She comes down from the mountain when she feels like it.\N}Ela desce a montanha de acordo com seus caprichos.
 Dialogue: 0,0:08:31.84,0:08:34.45,Main-480p,,0,0,0,[Linebreaker Removed],{looks for}Ela encontra pacientes, trata-os, então, como pagamento,
@@ -157,13 +157,13 @@ Dialogue: 0,0:08:38.66,0:08:41.18,Main-480p,,0,0,0,,Parece uma velha bruxa hosti
 Dialogue: 0,0:08:41.18,0:08:43.12,Main-480p,,0,0,0,,Ei! Ela quase parece uma pirata!
 Dialogue: 0,0:08:43.12,0:08:47.06,Main-480p,,0,0,0,[Linebreaker Removed],{go}Mas como é que uma mulher tão velha desce aquela montanha?
 Dialogue: 0,0:08:47.52,0:08:49.80,Main-480p,,0,0,0,,{It's}É um boato estranho...
-Dialogue: 0,0:08:49.80,0:08:52.84,Main-480p,,0,0,0,,mas várias pessoas afirmam tê-la visto.\N.\N.
+Dialogue: 0,0:08:49.80,0:08:52.84,Main-480p,,0,0,0,,mas várias pessoas afirmam tê-la visto...
 Dialogue: 0,0:08:52.84,0:08:57.30,Main-480p,,0,0,0,[Linebreaker Removed],{..}andando de trenó pelo céu em noites de luar.
 Dialogue: 0,0:08:59.62,0:09:02.77,Main-480p,,0,0,0,[Linebreaker Removed],{And that's the reason she's called a witch...}E é por isso que ela é chamada de bruxa.
-Dialogue: 0,0:09:02.77,0:09:08.06,Main-480p,,0,0,0,[Linebreaker Removed],{Some also saw her with a strange creature they'd never seen before.\N.\N.\N}Alguns também a viram com uma criatura estranha e não catalogada.
+Dialogue: 0,0:09:02.77,0:09:08.06,Main-480p,,0,0,0,[Linebreaker Removed],{Some also saw her with a strange creature they'd never seen before...\N}Alguns também a viram com uma criatura estranha e não catalogada.
 Dialogue: 0,0:09:08.77,0:09:13.48,Main-480p,,0,0,0,[Linebreaker Removed],{DemonRin, would "yeti" work in place of "snow man" here?\N}Eu sabia!\NVer?\NÉ um Yeti!\NAfinal, é uma montanha nevada!
 Dialogue: 0,0:09:13.48,0:09:15.38,Main-480p,,0,0,0,,Eu sabia que haveria um!
-Dialogue: 0,0:09:15.38,0:09:20.03,Main-480p,,0,0,0,[Linebreaker Removed],Uma bruxa e um Yeti?\N!\NOh, por favor, nunca nos deixe topar com eles!
+Dialogue: 0,0:09:15.38,0:09:20.03,Main-480p,,0,0,0,[Linebreaker Removed],Uma bruxa e um Yeti?!\NOh, por favor, nunca nos deixe topar com eles!
 Dialogue: 0,0:09:20.03,0:09:25.46,Main-480p,,0,0,0,[Italics End][Linebreaker Removed],{She is the only doctor, but she's a hag I'd prefer to stay away from.\N}Embora ela seja a única médica, prefiro ficar longe daquela bruxa.
 Dialogue: 0,0:09:25.46,0:09:29.47,Main-480p,,0,0,0,[Linebreaker Removed],{All we can do is wait for the next time she comes down the mountain.\N}É melhor esperar até que ela desça a montanha.
 Dialogue: 0,0:09:29.47,0:09:30.67,Main-480p,,0,0,0,,{You can't be serious...}Mas isso é...
@@ -174,7 +174,7 @@ Dialogue: 0,0:09:44.10,0:09:46.27,Main-480p,,0,0,0,,Oh! Ela está acordada!
 Dialogue: 0,0:09:46.27,0:09:50.02,Main-480p,,0,0,0,[Linebreaker Removed],{Hey, the only way to see a doctor is to climb a mountain.\N}Ei.\NO único médico aqui mora no topo de uma montanha.
 Dialogue: 0,0:09:50.02,0:09:51.17,Main-480p,,0,0,0,,Nós vamos escalar!
 Dialogue: 0,0:09:51.17,0:09:51.73,Main-480p,,0,0,0,,{Eh}Huh?
-Dialogue: 0,0:09:51.73,0:09:55.19,Main-480p,,0,0,0,[Linebreaker Removed],{Don't be crazy}Pense pelo menos uma vez!\NVocê sabe o que está fazendo com a Nami?\N!
+Dialogue: 0,0:09:51.73,0:09:55.19,Main-480p,,0,0,0,[Linebreaker Removed],{Don't be crazy}Pense pelo menos uma vez!\NVocê sabe o que está fazendo com a Nami?!
 Dialogue: 0,0:09:55.19,0:09:56.86,Main-480p,,0,0,0,,Tudo bem!\NVou carregá-la nas costas!
 Dialogue: 0,0:09:56.86,0:09:59.37,Main-480p,,0,0,0,,{That'll}Isso só vai piorar a condição dela!
 Dialogue: 0,0:09:59.37,0:10:02.26,Main-480p,,0,0,0,[Linebreaker Removed],{What's the problem}Por que isso?\NPrecisamos nos apressar, não é?
@@ -190,7 +190,7 @@ Dialogue: 0,0:10:34.78,0:10:37.66,Main-480p,,0,0,0,,{..}Preciso me apressar... p
 Dialogue: 0,0:10:42.12,0:10:44.14,Main-480p,,0,0,0,,Conto com você, Capitão!
 Dialogue: 0,0:10:48.87,0:10:51.88,Main-480p,,0,0,0,[Linebreaker Removed],É mais assim!\NApenas deixe comigo!
 Dialogue: 0,0:10:53.54,0:10:58.15,Main-480p,,0,0,0,[Linebreaker Removed],Eu não posso acreditar!\NTal capitão, tal navegador!
-Dialogue: 0,0:10:58.15,0:11:00.52,Main-480p,,0,0,0,[Italics End][Linebreaker Removed][Honorifics],{know what condition you're in}Você percebe o quão doente você está, Nami-san?\N!
+Dialogue: 0,0:10:58.15,0:11:00.52,Main-480p,,0,0,0,[Italics End][Linebreaker Removed][Honorifics],{know what condition you're in}Você percebe o quão doente você está, Nami-san?!
 Dialogue: 0,0:11:00.52,0:11:03.39,Main-480p,,0,0,0,[Linebreaker Removed],{Are y}Você tem certeza disso?\NEssa subida levará horas!
 Dialogue: 0,0:11:03.39,0:11:05.29,Main-480p,,0,0,0,,Velho! Carne! Me dê carne!
 Dialogue: 0,0:11:05.29,0:11:06.42,Main-480p,,0,0,0,,Carne?
@@ -213,12 +213,12 @@ Dialogue: 0,0:11:46.80,0:11:49.73,Main-480p,,0,0,0,[Linebreaker Removed],{you're
 Dialogue: 0,0:11:49.73,0:11:52.56,Main-480p,,0,0,0,,Coelhos? Mas estamos com pressa.
 Dialogue: 0,0:11:52.56,0:11:54.34,Main-480p,,0,0,0,,{We should be fine}Nós ficaremos bem. Certo?
 Dialogue: 0,0:11:54.34,0:11:55.69,Main-480p,,0,0,0,,Sim! Eu vou chutá-los!
-Dialogue: 0,0:11:55.69,0:11:59.37,Main-480p,,0,0,0,[Linebreaker Removed],{Kick}"Chute-os"?\N!\NRidículo!\NNão joguem fora suas vidas!
+Dialogue: 0,0:11:55.69,0:11:59.37,Main-480p,,0,0,0,[Linebreaker Removed],{Kick}"Chute-os"?!\NRidículo!\NNão joguem fora suas vidas!
 Dialogue: 0,0:11:59.37,0:12:00.54,Main-480p,,0,0,0,,Tudo bem!
 Dialogue: 0,0:12:00.54,0:12:03.44,Main-480p,,0,0,0,[Linebreaker Removed],Tudo bem, então!\NVamos, Sanji!\NAntes que Nami morra!
 Dialogue: 0,0:12:04.66,0:12:07.62,Main-480p,,0,0,0,[Linebreaker Removed],{Don't say things that could jinx us, you dumbass!}Não nos azare assim, seu idiota!
 Dialogue: 0,0:12:10.82,0:12:12.52,Main-480p,,0,0,0,,Eles realmente ficarão bem?
-Dialogue: 0,0:12:12.52,0:12:15.33,Main-480p,,0,0,0,,{Well, I'm not worried about those two.\N.\N.\N}Sim.\N.\N.\Nnão precisa se preocupar com esses dois.
+Dialogue: 0,0:12:12.52,0:12:15.33,Main-480p,,0,0,0,,{Well, I'm not worried about those two...\N}Sim...\Nnão precisa se preocupar com esses dois.
 Dialogue: 0,0:12:15.33,0:12:19.68,Main-480p,,0,0,0,[Italics End][Linebreaker Removed][Honorifics],{But the question is if Nami-san's strength will last long enough...}A questão é: será que Nami-san manterá a sua força?
 Dialogue: 0,0:12:19.68,0:12:21.59,Main-480p,,0,0,0,,{I hope they make it there safely...}Desejo-lhes viagens seguras.
 Dialogue: 0,0:12:33.29,0:12:34.60,Main-480p,,0,0,0,,{What's wrong?}Algum problema?
@@ -230,20 +230,20 @@ Dialogue: 0,0:12:54.97,0:12:57.04,Main-480p,,0,0,0,,Então eu me juntarei a voc�
 Dialogue: 0,0:13:11.62,0:13:14.18,Main-480p,,0,0,0,,Nós tivemos alguns, há muito tempo...
 Dialogue: 0,0:13:14.18,0:13:15.27,Main-480p,,0,0,0,,{Eh}Huh?
 Dialogue: 0,0:13:15.27,0:13:20.19,Main-480p,,0,0,0,[Linebreaker Removed],{But they're all gone now, for certain reasons.\N}Médicos.\NMas as circunstâncias são tais que eles não poderiam permanecer.
-Dialogue: 0,0:13:22.03,0:13:27.50,Main-480p,,0,0,0,[Linebreaker Removed],{destroyed just a few}Este país foi totalmente destruído há poucos meses.\N.\N.
+Dialogue: 0,0:13:22.03,0:13:27.50,Main-480p,,0,0,0,[Linebreaker Removed],{destroyed just a few}Este país foi totalmente destruído há poucos meses...
 Dialogue: 0,0:13:27.50,0:13:29.24,Main-480p,,0,0,0,,{A}nas mãos de piratas!
-Dialogue: 0,0:13:29.24,0:13:31.16,Main-480p,,0,0,0,,{Eh}- O que?\N!\N– O país inteiro?\N!
+Dialogue: 0,0:13:29.24,0:13:31.16,Main-480p,,0,0,0,,{Eh}- O que?!\N– O país inteiro?!
 Dialogue: 0,0:13:33.00,0:13:36.10,Main-480p,,0,0,0,,{So that's why you were so nervous about us?\N}Isso explica por que todos estavam tão nervosos conosco.
-Dialogue: 0,0:13:36.10,0:13:41.47,Main-480p,,0,0,0,[Linebreaker Removed],{is still too much for everyone to handle.\N.\N.\N}Sim.\NA palavra “pirata” por si só é suficiente para causar desconforto a todos.
+Dialogue: 0,0:13:36.10,0:13:41.47,Main-480p,,0,0,0,[Linebreaker Removed],{is still too much for everyone to handle...\N}Sim.\NA palavra “pirata” por si só é suficiente para causar desconforto a todos.
 Dialogue: 0,0:13:41.47,0:13:43.46,Main-480p,,0,0,0,,{I'm sorry about that.}Por isso, sinto muito.
 Dialogue: 0,0:13:44.60,0:13:47.30,Main-480p,,0,0,0,[Linebreaker Removed],{But there were only five people in that pirate group.\N}Esse grupo pirata tinha apenas cinco membros.
 Dialogue: 0,0:13:47.30,0:13:49.72,Main-480p,,0,0,0,,O capitão se autodenominava "Barba Negra",
 Dialogue: 0,0:13:49.72,0:13:54.81,Main-480p,,0,0,0,[Linebreaker Removed],{destroyed}e ele devastou selvagemente o nosso país num piscar de olhos.
-Dialogue: 0,0:13:55.56,0:13:59.33,Main-480p,,0,0,0,[Linebreaker Removed],{You can't be serious}Apenas cinco piratas?\N!\NIsso é inimaginável!
+Dialogue: 0,0:13:55.56,0:13:59.33,Main-480p,,0,0,0,[Linebreaker Removed],{You can't be serious}Apenas cinco piratas?!\NIsso é inimaginável!
 Dialogue: 0,0:13:59.33,0:14:00.77,Main-480p,,0,0,0,,Barba Negra?!
 Dialogue: 0,0:14:00.77,0:14:04.76,Main-480p,,0,0,0,[Linebreaker Removed],{But there are some who say it was actually good for the country.\N}Mas alguns dizem que foi uma bênção disfarçada para este país.
-Dialogue: 0,0:14:04.76,0:14:07.17,Main-480p,,0,0,0,[Linebreaker Removed],{There's nothing good about a country being destroyed!\N}Como a destruição da pátria é uma bênção?\N!
-Dialogue: 0,0:14:07.17,0:14:09.87,Main-480p,,0,0,0,[Linebreaker Removed],{That's the stupidest thing I've ever heard!\N}Sim!\NQuem diria algo tão estúpido?\N!
+Dialogue: 0,0:14:04.76,0:14:07.17,Main-480p,,0,0,0,[Linebreaker Removed],{There's nothing good about a country being destroyed!\N}Como a destruição da pátria é uma bênção?!
+Dialogue: 0,0:14:07.17,0:14:09.87,Main-480p,,0,0,0,[Linebreaker Removed],{That's the stupidest thing I've ever heard!\N}Sim!\NQuem diria algo tão estúpido?!
 Dialogue: 0,0:14:11.16,0:14:13.20,Main-480p,,0,0,0,,Obrigado.
 Dialogue: 0,0:14:13.20,0:14:17.73,Main-480p,,0,0,0,[Linebreaker Removed],{But people say that because the monarchy that existed here until then}Até a destruição, esta terra estava sujeita a um rei,
 Dialogue: 0,0:14:17.73,0:14:20.92,Main-480p,,0,0,0,,{was appalling in the eyes of the citizens.}alguém que os cidadãos não podiam tolerar.
@@ -253,7 +253,7 @@ Dialogue: 0,0:14:26.80,0:14:29.26,Main-480p,,0,0,0,,Ele era o pior rei possível
 Dialogue: 0,0:14:33.81,0:14:36.60,Main-480p,,0,0,0,,Sim! Esse homem! Eu me lembro dele!
 Dialogue: 0,0:14:36.60,0:14:38.94,Main-480p,,0,0,0,,Wapol?!
 Dialogue: 0,0:14:46.19,0:14:49.32,Main-480p,,0,0,0,[Linebreaker Removed],{gotten a little colder}Está ficando mais frio.\NO vento está aumentando.
-Dialogue: 0,0:14:49.32,0:14:53.78,Main-480p,,0,0,0,[Linebreaker Removed],{So why aren't you}E você não está usando sapatos?\N!\NSó de ver isso é doloroso!
+Dialogue: 0,0:14:49.32,0:14:53.78,Main-480p,,0,0,0,[Linebreaker Removed],{So why aren't you}E você não está usando sapatos?!\NSó de ver isso é doloroso!
 Dialogue: 0,0:14:53.78,0:14:55.83,Main-480p,,0,0,0,,{This is}É a minha polícia!
 Dialogue: 0,0:14:55.83,0:14:58.43,Main-480p,,0,0,0,,Polícia?! Você quer dizer "política"!
 Dialogue: 0,0:14:58.43,0:14:59.92,Main-480p,,0,0,0,,{Yeah}Sim, é esse!
@@ -277,7 +277,7 @@ Dialogue: 0,0:15:49.11,0:15:51.86,Main-480p,,0,0,0,,{So you get smooth skin.}É 
 Dialogue: 0,0:15:51.86,0:15:57.16,Main-480p,,0,0,0,[Linebreaker Removed],{white}Portanto, as mulheres em lugares nevados têm uma pele suave como a seda e de alabastro!
 Dialogue: 0,0:15:57.16,0:15:59.15,Main-480p,,0,0,0,,{How come it's white?}Por que alabastro?
 Dialogue: 0,0:15:59.15,0:16:04.40,Main-480p,,0,0,0,[Linebreaker Removed],{Because the color of the constantly-falling snow dyes their skin!\N}Porque a sua pele absorve a neve e adquire as suas características!
-Dialogue: 0,0:16:04.40,0:16:06.98,Main-480p,,0,0,0,,{You're so dumb!\N}Huh?\N!\NEu nunca soube que você era tão burro!
+Dialogue: 0,0:16:04.40,0:16:06.98,Main-480p,,0,0,0,,{You're so dumb!\N}Huh?!\NEu nunca soube que você era tão burro!
 Dialogue: 0,0:16:06.98,0:16:09.25,Main-480p,,0,0,0,,{really }Como se você fosse alguém para conversar!
 Dialogue: 0,0:16:09.25,0:16:09.99,Main-480p,,0,0,0,,E...
 Dialogue: 0,0:16:10.74,0:16:13.42,Main-480p,,0,0,0,,... pare de ser tão chato!
@@ -292,10 +292,10 @@ Dialogue: 0,0:16:44.48,0:16:46.06,Main-480p,,0,0,0,,Espere!
 Dialogue: 0,0:16:46.06,0:16:48.02,Main-480p,,0,0,0,,Você conhece Wapol?!
 Dialogue: 0,0:16:48.02,0:16:53.61,Main-480p,,0,0,0,[Linebreaker Removed],Nós não apenas o conhecemos!\NEle é o pirata que atacou nosso navio!
 Dialogue: 0,0:16:53.61,0:16:55.20,Main-480p,,0,0,0,,{got rid of him}Eu o expulsei, no entanto.
-Dialogue: 0,0:16:55.20,0:16:59.56,Main-480p,,0,0,0,[Linebreaker Removed],{But I do recall him saying something about the Kingdom of Drum.\N.\N.\N}Sabe, acho que ele disse algo sobre o Reino de Drum.
+Dialogue: 0,0:16:55.20,0:16:59.56,Main-480p,,0,0,0,[Linebreaker Removed],{But I do recall him saying something about the Kingdom of Drum...\N}Sabe, acho que ele disse algo sobre o Reino de Drum.
 Dialogue: 0,0:16:59.56,0:17:00.66,Main-480p,,0,0,0,,Sim.
 Dialogue: 0,0:17:00.66,0:17:03.59,Main-480p,,0,0,0,[Linebreaker Removed],Não há dúvida sobre isso! Lembro-me claramente agora!
-Dialogue: 0,0:17:03.59,0:17:08.09,Main-480p,,0,0,0,[Linebreaker Removed],{I met him once at a monarch meeting my father took me to.\N.\N.\N}Quando eu era criança, meu pai me levou a uma reunião de muitos governantes,
+Dialogue: 0,0:17:03.59,0:17:08.09,Main-480p,,0,0,0,[Linebreaker Removed],{I met him once at a monarch meeting my father took me to...\N}Quando eu era criança, meu pai me levou a uma reunião de muitos governantes,
 Dialogue: 0,0:17:08.09,0:17:10.21,Main-480p,,0,0,0,,{when I was very young!}foi onde eu o conheci!
 Dialogue: 0,0:17:11.43,0:17:13.01,Main-480p,,0,0,0,,{Monarch meeting?!}Uma reunião de governantes?!
 Dialogue: 0,0:17:13.01,0:17:15.05,Main-480p,,0,0,0,,Quem é você?
@@ -303,10 +303,10 @@ Dialogue: 0,0:17:15.05,0:17:18.19,Main-480p,,0,0,0,,{No, uhh, you see...}Ah, ah.
 Dialogue: 0,0:17:18.19,0:17:20.64,Main-480p,,0,0,0,[Linebreaker Removed],De qualquer forma, conhecemos Wapol!
 Dialogue: 0,0:17:20.64,0:17:24.07,Main-480p,,0,0,0,[Linebreaker Removed],{splitted}Ontem, vindo para cá!
 Dialogue: 0,0:17:24.07,0:17:26.60,Main-480p,,0,0,0,,{sure}Ontem?! Você tem certeza?!
-Dialogue: 0,0:17:26.60,0:17:32.82,Main-480p,,0,0,0,[Linebreaker Removed],{}Mas.\N.\N.\No que está acontecendo, então?\N!\NEle se autodenominava pirata, não rei!
+Dialogue: 0,0:17:26.60,0:17:32.82,Main-480p,,0,0,0,[Linebreaker Removed],{}Mas...\No que está acontecendo, então?!\NEle se autodenominava pirata, não rei!
 Dialogue: 0,0:17:32.82,0:17:36.28,Main-480p,,0,0,0,[Linebreaker Removed],{He must be calling himself that as camouflage.\N}A história do pirata parece camuflagem.
 Dialogue: 0,0:17:36.28,0:17:40.50,Main-480p,,0,0,0,[Linebreaker Removed],Wapol está apenas vagando pelo mar, tentando retornar a esta ilha.
-Dialogue: 0,0:17:40.50,0:17:43.08,Main-480p,,0,0,0,[Linebreaker Removed],{So the people on that ship were kicked out because they were no match.\N.\N.\N}Então as pessoas naquele navio foram expulsas.\N.\N.
+Dialogue: 0,0:17:40.50,0:17:43.08,Main-480p,,0,0,0,[Linebreaker Removed],{So the people on that ship were kicked out because they were no match...\N}Então as pessoas naquele navio foram expulsas...
 Dialogue: 0,0:17:43.08,0:17:47.79,Main-480p,,0,0,0,[Linebreaker Removed],{for the Blackbeard Pirates when they attacked this country?}porque eles não conseguiram afastar Barba Negra durante seu ataque?
 Dialogue: 0,0:17:47.79,0:17:50.71,Main-480p,,0,0,0,,{No match}Fracassado? Se ao menos!
 Dialogue: 0,0:17:50.71,0:17:51.86,Main-480p,,0,0,0,,{Eh}Huh?
@@ -319,14 +319,14 @@ Dialogue: 0,0:18:12.23,0:18:14.74,Main-480p,,0,0,0,[Linebreaker Removed],É isso
 Dialogue: 0,0:18:15.44,0:18:20.16,Main-480p,,0,0,0,[Linebreaker Removed],{That's appalling!\N\NA king abandoning his people!\N}É terrível que um rei abandone o seu povo!
 Dialogue: 0,0:18:21.40,0:18:22.62,Main-480p,,0,0,0,,Vivi...
 Dialogue: 0,0:18:22.62,0:18:24.77,Main-480p,,0,0,0,,{You're}Você está exatamente certo.
-Dialogue: 0,0:18:24.77,0:18:28.64,Main-480p,,0,0,0,[Linebreaker Removed],{But at least}Na verdade.\N.\N.\Na tirania de Wapol finalmente acabou.
+Dialogue: 0,0:18:24.77,0:18:28.64,Main-480p,,0,0,0,[Linebreaker Removed],{But at least}Na verdade...\Na tirania de Wapol finalmente acabou.
 Dialogue: 0,0:18:28.64,0:18:33.45,Main-480p,,0,0,0,[Linebreaker Removed],{\fad(0,200)}Os que permanecem na ilha estão trabalhando para criar uma nova nação.
-Dialogue: 0,0:18:34.70,0:18:39.72,Main-480p,,0,0,0,[Linebreaker Removed],{So what we most fear right now is Wapol's return.\N.\N.\N}Assim, o que mais tememos é o regresso de Wapol.
+Dialogue: 0,0:18:34.70,0:18:39.72,Main-480p,,0,0,0,[Linebreaker Removed],{So what we most fear right now is Wapol's return...\N}Assim, o que mais tememos é o regresso de Wapol.
 Dialogue: 0,0:18:39.72,0:18:41.62,Main-480p,,0,0,0,,{monarchy}O retorno de seu reinado.
 Dialogue: 0,0:18:41.62,0:18:45.27,Main-480p,,0,0,0,[Linebreaker Removed],{We must avoid that at all costs, while people are still feeling unsure!\N}As pessoas estão inquietas, por isso o seu regresso deve ser impedido a todo custo!
 Dialogue: 0,0:18:45.27,0:18:50.22,Main-480p,,0,0,0,[Linebreaker Removed],{If we're to create a new, \Npeaceful nation on this island!\N}E isso se quisermos criar uma nação nova e pacífica nesta ilha!
 Dialogue: 0,0:18:55.32,0:18:56.07,Main-480p,,0,0,0,,Ele pulou!
-Dialogue: 0,0:19:02.14,0:19:04.28,Main-480p,,0,0,0,[Linebreaker Removed],{You gotta be kidding me}O que dá?\N!\NComo pode se mover assim?\N!
+Dialogue: 0,0:19:02.14,0:19:04.28,Main-480p,,0,0,0,[Linebreaker Removed],{You gotta be kidding me}O que dá?!\NComo pode se mover assim?!
 Dialogue: 0,0:19:04.28,0:19:07.24,Main-480p,,0,0,0,,O que é isso, um gorila?!
 Dialogue: 0,0:19:05.43,0:19:07.24,Secondary-480p,,0,0,0,,Não! Um urso polar!
 Dialogue: 0,0:19:07.24,0:19:08.29,Main-480p,,0,0,0,,É um coelho!
@@ -335,7 +335,7 @@ Dialogue: 0,0:19:10.58,0:19:14.00,Main-480p,,0,0,0,[Linebreaker Removed],{\i1}Es
 Dialogue: 0,0:19:15.30,0:19:18.12,Main-480p,,0,0,0,,{This many of them?!}Mas... tantos?!
 Dialogue: 0,0:19:19.70,0:19:22.01,Main-480p,,0,0,0,,Oh!
 Dialogue: 0,0:19:22.01,0:19:25.04,Main-480p,,0,0,0,[Italics End][Honorifics],{\i1}Oh! Wapol-sama!!
-Dialogue: 0,0:19:25.04,0:19:28.56,Main-480p,,0,0,0,[Linebreaker Removed],O que é isso, Xadrez?\NVocê encontrou o navio do Chapéu de Palha?\N!
+Dialogue: 0,0:19:25.04,0:19:28.56,Main-480p,,0,0,0,[Linebreaker Removed],O que é isso, Xadrez?\NVocê encontrou o navio do Chapéu de Palha?!
 Dialogue: 0,0:19:28.56,0:19:32.90,Main-480p,,0,0,0,[Italics End][Linebreaker Removed][Honorifics],{\i1}Não, Wapol-sama!\NFinalmente voltamos para casa!
 Dialogue: 0,0:19:32.90,0:19:33.95,Main-480p,,0,0,0,,O que?!
 Dialogue: 0,0:19:33.95,0:19:37.61,Main-480p,,0,0,0,[Linebreaker Removed],{How many months have passed as we've wandered the sea?\N}Quantos meses passamos vagando pelo mar?
@@ -399,7 +399,7 @@ Dialogue: 0,0:22:29.49,0:22:30.81,Main-480p,,0,0,0,,Shh! Ela pode ouvir você!
 Dialogue: 0,0:22:29.81,0:22:30.81,Secondary-480p,,0,0,0,,Apavorante...
 Dialogue: 0,0:22:30.82,0:22:33.54,Main-480p,,0,0,0,,{..}Ela está com aquele monstro assustador novamente.
 Dialogue: 0,0:22:37.58,0:22:39.50,Main-480p,,0,0,0,,Ei! Isso é o suficiente!
-Dialogue: 0,0:22:40.33,0:22:43.63,Main-480p,,0,0,0,,{.\N.\N}Bem, bem.\NParece que temos um pai ruim.
+Dialogue: 0,0:22:40.33,0:22:43.63,Main-480p,,0,0,0,,{..\N}Bem, bem.\NParece que temos um pai ruim.
 Dialogue: 0,0:22:43.63,0:22:49.09,Main-480p,,0,0,0,[Linebreaker Removed],Se uma criança continua chorando, ela está sinalizando que algo está errado com seu corpo.
 Dialogue: 0,0:22:51.68,0:22:53.96,Main-480p,,0,0,0,,{Stay there}Afaste-se, Chopper.
 Dialogue: 0,0:22:59.07,0:23:00.48,Main-480p,,0,0,0,,{Sorry to interrupt}Perdoe-me.
@@ -412,10 +412,10 @@ Dialogue: 1,0:23:04.42,0:23:07.99,Captions-480p,,0,0,0,,{\bord0\blur0.\N6\fad(40
 Dialogue: 0,0:23:08.95,0:23:10.49,Main-480p,,0,0,0,,Dr. Coelho!
 Dialogue: 0,0:23:10.49,0:23:12.38,Main-480p,,0,0,0,,{My secret to staying young?}O segredo da minha juventude?
 Dialogue: 0,0:23:12.38,0:23:13.99,Main-480p,,0,0,0,,Não! Nós não perguntamos isso!
-Dialogue: 0,0:23:13.99,0:23:17.00,Main-480p,,0,0,0,[Linebreaker Removed],{g.\N.\N.\N}Ainda não consigo acreditar que ela tem 140 anos ha–
+Dialogue: 0,0:23:13.99,0:23:17.00,Main-480p,,0,0,0,[Linebreaker Removed],{g...\N}Ainda não consigo acreditar que ela tem 140 anos ha–
 Dialogue: 0,0:23:17.00,0:23:20.08,Main-480p,,0,0,0,,{I'm still 139!}Tenho apenas 139 anos!
 Dialogue: 0,0:23:22.48,0:23:23.79,Main-480p,,0,0,0,,Devo melhorar?
-Dialogue: 0,0:23:23.79,0:23:28.05,Main-480p,,0,0,0,[Linebreaker Removed],{Hm?\N!\N}O que.\N.\N.\NTornar o que melhor?\NEle não está doente nem nada.
+Dialogue: 0,0:23:23.79,0:23:28.05,Main-480p,,0,0,0,[Linebreaker Removed],{Hm?!\N}O que...\NTornar o que melhor?\NEle não está doente nem nada.
 Dialogue: 0,0:23:28.05,0:23:31.30,Main-480p,,0,0,0,,Você é... médico?
 Dialogue: 0,0:23:33.07,0:23:34.85,Main-480p,,0,0,0,,Pois bem, vamos, Chopper?
 Dialogue: 0,0:23:36.26,0:23:37.72,Main-480p,,0,0,0,,{Wait!}P-Por favor, espere!
@@ -430,8 +430,8 @@ Dialogue: 0,0:24:05.86,0:24:08.55,Main-480p,,0,0,0,[Linebreaker Removed],{we sho
 Dialogue: 0,0:24:09.55,0:24:13.73,Main-480p,,0,0,0,[Linebreaker Removed],{you're right}Sim, nós fazemos.\NÉ a nossa única opção.
 Dialogue: 0,0:24:13.73,0:24:14.89,Main-480p,,0,0,0,,{..}Perdoe-nos.
 Dialogue: 0,0:24:14.89,0:24:15.76,Main-480p,,0,0,0,,{What}Huh?
-Dialogue: 0,0:24:15.76,0:24:18.44,Main-480p,,0,0,0,[Linebreaker Removed],{that doesn't even have enough doctors.\N.\N.\N}Perdoe este país pela falta de médicos.
-Dialogue: 0,0:24:18.44,0:24:22.48,Main-480p,,0,0,0,[Linebreaker Removed],{It's not something you should apologize for.\N}N-Não.\N.\N.\NVocê não precisa se desculpar por isso, Dalton-san.
+Dialogue: 0,0:24:15.76,0:24:18.44,Main-480p,,0,0,0,[Linebreaker Removed],{that doesn't even have enough doctors...\N}Perdoe este país pela falta de médicos.
+Dialogue: 0,0:24:18.44,0:24:22.48,Main-480p,,0,0,0,[Linebreaker Removed],{It's not something you should apologize for.\N}N-Não...\NVocê não precisa se desculpar por isso, Dalton-san.
 Dialogue: 0,0:24:22.48,0:24:24.00,Main-480p,,0,0,0,,Ela está certa.
 Dialogue: 0,0:24:26.76,0:24:28.15,Main-480p,,0,0,0,,Vamos nos apressar!
 Dialogue: 0,0:24:37.84,0:24:40.55,Main-480p,,0,0,0,,Minhas mãos... doem...
@@ -459,20 +459,20 @@ Dialogue: 0,0:25:30.88,0:25:33.84,Main-480p,,0,0,0,[Linebreaker Removed],{I'm go
 Dialogue: 0,0:25:33.84,0:25:35.84,Main-480p,,0,0,0,,{can't you at least use anesthesia?}Ei, e a anestesia?!
 Dialogue: 0,0:25:37.05,0:25:38.80,Main-480p,,0,0,0,,{ is}Aqui está a foto.
 Dialogue: 0,0:25:38.80,0:25:40.14,Main-480p,,0,0,0,,{Don't be reckless!}Não seja tão rude!
-Dialogue: 0,0:25:42.03,0:25:46.60,Main-480p,,0,0,0,[Linebreaker Removed],{Well then.\N.\N.\Nsince my medicine works well,}Bem, então.\N.\N.\Nmeu remédio é altamente eficaz,
+Dialogue: 0,0:25:42.03,0:25:46.60,Main-480p,,0,0,0,[Linebreaker Removed],{Well then...\Nsince my medicine works well,}Bem, então...\Nmeu remédio é altamente eficaz,
 Dialogue: 0,0:25:46.60,0:25:48.48,Main-480p,,0,0,0,,{this is it for the treatment.}então é isso para tratamento.
 Dialogue: 0,0:25:48.48,0:25:52.68,Main-480p,,0,0,0,[Linebreaker Removed],{All you have to do is make sure he rests well and keep his legs bandaged tight.\N}Certifique-se de que ele descanse bastante e mantenha a perna bem enfaixada.
 Dialogue: 0,0:25:52.68,0:25:53.56,Main-480p,,0,0,0,,{Yeah}Oh...
 Dialogue: 0,0:25:53.56,0:25:56.95,Main-480p,,0,0,0,[Linebreaker Removed],{Once you immobilize his legs, cool them well.\NGot that?\N}Se os membros ficarem rígidos, coloque gelo sobre eles.\NEntendi?
-Dialogue: 0,0:25:57.87,0:26:02.88,Main-480p,,0,0,0,[Linebreaker Removed],{About the fee}Quanto à taxa, bem.\N.\N.\Nestou com poucos sacos de lixo e papel higiênico.
+Dialogue: 0,0:25:57.87,0:26:02.88,Main-480p,,0,0,0,[Linebreaker Removed],{About the fee}Quanto à taxa, bem...\Nestou com poucos sacos de lixo e papel higiênico.
 Dialogue: 0,0:26:02.88,0:26:07.42,Main-480p,,0,0,0,[Linebreaker Removed],{the}Também todo o vinho de ameixa e qualquer comida que você tiver. Adicionalmente...
 Dialogue: 0,0:26:07.42,0:26:10.79,Main-480p,,0,0,0,,{DemonRin, are they using the word for "restaurant"? The manga implies this is maybe a cafe or bar, but only ever calls it a "shop."}Ficarei com 50% dos ativos desta loja.
 Dialogue: 0,0:26:10.79,0:26:11.38,Main-480p,,0,0,0,,O que?!
 Dialogue: 0,0:26:11.38,0:26:14.50,Main-480p,,0,0,0,,Chopper... leve-os para o nosso trenó.
-Dialogue: 0,0:26:14.50,0:26:17.51,Main-480p,,0,0,0,[Linebreaker Removed],{Hey, that's outrageous}O que.\N.\N.\N?\N!\NVocê não pode estar falando sério!\NVocê ficaria com metade dos meus bens?\N!
+Dialogue: 0,0:26:14.50,0:26:17.51,Main-480p,,0,0,0,[Linebreaker Removed],{Hey, that's outrageous}O que...?!\NVocê não pode estar falando sério!\NVocê ficaria com metade dos meus bens?!
 Dialogue: 0,0:26:17.51,0:26:20.01,Main-480p,,0,0,0,[Linebreaker Removed],{Don't be fooled!\NThat's a rip-off!\N}Ei, dono!\NNão caia nessa!\NEla está enganando você!
 Dialogue: 0,0:26:20.01,0:26:21.58,Main-480p,,0,0,0,,{It must be!}Deve ser isso!
-Dialogue: 0,0:26:21.58,0:26:25.10,Main-480p,,0,0,0,[Linebreaker Removed],{He almost died}“Quase morri”?\N!\NEle provavelmente estava chorando porque sofreu um derrame!
+Dialogue: 0,0:26:21.58,0:26:25.10,Main-480p,,0,0,0,[Linebreaker Removed],{He almost died}“Quase morri”?!\NEle provavelmente estava chorando porque sofreu um derrame!
 Dialogue: 0,0:26:25.10,0:26:27.35,Main-480p,,0,0,0,[Linebreaker Removed],{ as a doctor}Como ousa abusar de sua posição!
 Dialogue: 0,0:26:27.35,0:26:28.15,Main-480p,,0,0,0,,Ele está certo!
 Dialogue: 0,0:26:28.15,0:26:29.56,Main-480p,,0,0,0,,{a terrible person}Você é o pior!
@@ -487,10 +487,10 @@ Dialogue: 0,0:26:54.21,0:26:57.51,Main-480p,,0,0,0,,Vou reduzir a taxa para 49%.
 Dialogue: 0,0:27:00.01,0:27:02.22,Main-480p,,0,0,0,,Eu vou te pagar. Obrigado.
 Dialogue: 0,0:27:03.80,0:27:06.10,Main-480p,,0,0,0,,{h...}Ah! Ei, garoto.
 Dialogue: 0,0:27:06.10,0:27:06.93,Main-480p,,0,0,0,,Hum?
-Dialogue: 0,0:27:06.93,0:27:10.69,Main-480p,,0,0,0,[Linebreaker Removed],{Don't forget.\N.\N.\Nthe happiness you feel right now, okay?\N}Lembre-se sempre.\N.\N.\Ndo quanto você estava feliz nesse momento, ok?
+Dialogue: 0,0:27:06.93,0:27:10.69,Main-480p,,0,0,0,[Linebreaker Removed],{Don't forget...\Nthe happiness you feel right now, okay?\N}Lembre-se sempre...\Ndo quanto você estava feliz nesse momento, ok?
 Dialogue: 0,0:27:12.96,0:27:14.45,Main-480p,,0,0,0,,OK!
 Dialogue: 0,0:27:22.66,0:27:24.60,Main-480p,,0,0,0,,Está gelado!
-Dialogue: 0,0:27:24.60,0:27:28.76,Main-480p,,0,0,0,[Linebreaker Removed],{My body is becoming numb.\N.\N.\Nit's like I'm trapped in ice!\N}Meu corpo está ficando dormente como se estivesse envolto em gelo!
+Dialogue: 0,0:27:24.60,0:27:28.76,Main-480p,,0,0,0,[Linebreaker Removed],{My body is becoming numb...\Nit's like I'm trapped in ice!\N}Meu corpo está ficando dormente como se estivesse envolto em gelo!
 Dialogue: 0,0:27:28.76,0:27:30.30,Main-480p,,0,0,0,[Linebreaker Removed],{Seems like I've still got a long way to go.}Tenho que treinar mais.
 Dialogue: 0,0:27:30.30,0:27:33.21,Main-480p,,0,0,0,[Linebreaker Removed],{If I suppress my 'self',}Se eu puder alcançar a insensatez
 Dialogue: 0,0:27:33.21,0:27:35.58,Main-480p,,0,0,0,[Linebreaker Removed],{even fire should be cool and ice should be lukewarm.\N}o fogo estará frio e o gelo estará quente.
@@ -510,12 +510,12 @@ Dialogue: 0,0:28:35.90,0:28:37.16,Main-480p,,0,0,0,,Não...
 Dialogue: 0,0:28:37.16,0:28:38.97,Main-480p,,0,0,0,,Espere um segundo...
 Dialogue: 0,0:28:40.19,0:28:43.45,Main-480p,,0,0,0,,Não me diga... eles são...!
 Dialogue: 0,0:28:51.75,0:28:57.71,Main-480p,,0,0,0,[Linebreaker Removed],{,}Estamos aqui!\NFinalmente voltamos ao meu país: o Reino de Drum!
-Dialogue: 0,0:29:02.20,0:29:05.34,Main-480p,,0,0,0,[Linebreaker Removed],{Humph, having watchmen as if they're a military.\N.\N.\N}Humph!\NOs guardas civis não são páreo para um verdadeiro militar.
+Dialogue: 0,0:29:02.20,0:29:05.34,Main-480p,,0,0,0,[Linebreaker Removed],{Humph, having watchmen as if they're a military...\N}Humph!\NOs guardas civis não são páreo para um verdadeiro militar.
 Dialogue: 0,0:29:03.59,0:29:09.31,Captions-480p,,0,0,0,,{\blur0.\N6\fad(400,0)\pos(155,380)\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)}Kuromarimo Grande Ministro do Mal Antigo Reino de Drum
 Dialogue: 1,0:29:03.59,0:29:09.31,Captions-480p,,0,0,0,,{\bord0\blur0.\N6\fad(400,0)\pos(155,380)\4a&HFF&}Kuromarimo Grande Ministro do Mal Antigo Reino de Drum
 Dialogue: 0,0:29:03.59,0:29:09.31,Captions-480p,,0,0,0,,{\blur0.\N6\fad(400,0)\pos(489,380)\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)}Oficial de Xadrez do Mal Antigo Reino de Drum
 Dialogue: 1,0:29:03.59,0:29:09.31,Captions-480p,,0,0,0,,{\bord0\blur0.\N6\fad(400,0)\pos(489,380)\4a&HFF&}Oficial de Xadrez do Mal Antigo Reino de Drum
-Dialogue: 0,0:29:05.35,0:29:09.31,Main-480p,,0,0,0,[Linebreaker Removed],{What on earth were they thinking, shooting at us.\N.\N.\N?\N}Eles atiraram em nós!\NO que diabos eles estavam pensando?\N!
+Dialogue: 0,0:29:05.35,0:29:09.31,Main-480p,,0,0,0,[Linebreaker Removed],{What on earth were they thinking, shooting at us...?\N}Eles atiraram em nós!\NO que diabos eles estavam pensando?!
 Dialogue: 0,0:29:09.31,0:29:10.64,Main-480p,,0,0,0,,{Hmm}Huh?
 Dialogue: 0,0:29:10.64,0:29:17.19,Main-480p,,0,0,0,[Linebreaker Removed],{Great nature that towers majestically!\N}Oh, minha querida Ilha do Tambor!\NQue coisa, como sua natureza se eleva majestosamente!
 Dialogue: 0,0:29:17.19,0:29:19.36,Main-480p,,0,0,0,,{all right}Xadrez, o castelo está intacto?
@@ -526,7 +526,7 @@ Dialogue: 0,0:29:32.83,0:29:35.52,Main-480p,,0,0,0,,Agora vá em frente, Robson!
 Dialogue: 0,0:29:32.91,0:29:38.17,Captions-480p,,0,0,0,,{\blur0.\N6\fad(360,350)\pos(96,235)\c&H000000&\1a&HFF&\t(315,360,\1a&H00&)\t(4910,4955,\1a&HFF&)}Robson White Walky (hipopótamo lanoso)
 Dialogue: 1,0:29:32.91,0:29:38.17,Captions-480p,,0,0,0,,{\bord0\blur0.\N6\fad(360,350)\pos(96,235)\4a&HFF&}Robson White Walky (hipopótamo lanoso)
 Dialogue: 0,0:29:38.70,0:29:40.04,Main-480p,,0,0,0,,Huh?
-Dialogue: 0,0:29:40.04,0:29:44.33,Main-480p,,0,0,0,[Linebreaker Removed],{What're you just standing here for?\N!\N}Olá, Robson!\NPor que você está parado?\N!
+Dialogue: 0,0:29:40.04,0:29:44.33,Main-480p,,0,0,0,[Linebreaker Removed],{What're you just standing here for?!\N}Olá, Robson!\NPor que você está parado?!
 Dialogue: 0,0:29:44.33,0:29:46.43,Main-480p,,0,0,0,,Agora, mexa-se já!
 Dialogue: 0,0:29:46.43,0:29:49.39,Main-480p,,0,0,0,[Italics End][Honorifics],{Wapol-sama}Rei Wapol! Há um problema!
 Dialogue: 0,0:29:49.39,0:29:50.52,Main-480p,,0,0,0,,{What's the matter}O que é?
@@ -534,7 +534,7 @@ Dialogue: 0,0:29:50.52,0:29:51.35,Main-480p,,0,0,0,,{The ship}Na margem do rio..
 Dialogue: 0,0:29:52.70,0:29:55.18,Main-480p,,0,0,0,[Linebreaker Removed],{of the pirates from the other day is at the riverbank!}É aquele navio pirata de antes!
 Dialogue: 0,0:29:55.18,0:29:56.14,Main-480p,,0,0,0,,O que?!
 Dialogue: 0,0:29:56.14,0:29:57.75,Main-480p,,0,0,0,,{...}Esses bastardos!
-Dialogue: 0,0:29:57.75,0:30:01.38,Main-480p,,0,0,0,,Por que esses Chapéus de Palha estão no meu país?\N!
+Dialogue: 0,0:29:57.75,0:30:01.38,Main-480p,,0,0,0,,Por que esses Chapéus de Palha estão no meu país?!
 Dialogue: 0,0:30:01.38,0:30:04.94,Main-480p,,0,0,0,[Linebreaker Removed],{How dare they just come waltzing in here when they said they didn't know!\N}Eles disseram que não sabiam onde estava, mas aqui estão eles!
 Dialogue: 0,0:30:07.49,0:30:09.91,Main-480p,,0,0,0,,{\fad(0,500)}Vá voando!
 Dialogue: 0,0:30:09.91,0:30:14.08,Main-480p,,0,0,0,[Linebreaker Removed],{Does he realize what I had to go through after that?!}Eles não sabem os problemas que me causaram depois disso?!
@@ -550,10 +550,10 @@ Dialogue: 0,0:30:28.89,0:30:31.55,Main-480p,,0,0,0,,{splitted}Xadrez, Kuromilo..
 Dialogue: 0,0:30:31.55,0:30:36.30,Main-480p,,0,0,0,[Linebreaker Removed],{The two of us inspected the footprints coming out from the ship.\N}Nós dois inspecionamos pessoalmente as pegadas que saíam do navio.
 Dialogue: 0,0:30:36.30,0:30:39.98,Main-480p,,0,0,0,,Parece que eles foram para Bighorn.
 Dialogue: 0,0:30:39.98,0:30:43.40,Main-480p,,0,0,0,,{I see... You guys're geniuses.}Claramente, vocês são dois gênios.
-Dialogue: 0,0:30:44.60,0:30:47.90,Main-480p,,0,0,0,,{Then we'll first fire a salute in Bighorn.\N.\N.\N}Então vamos para Bighorn e fazer uma saudação.\N.\N.
+Dialogue: 0,0:30:44.60,0:30:47.90,Main-480p,,0,0,0,,{Then we'll first fire a salute in Bighorn...\N}Então vamos para Bighorn e fazer uma saudação...
 Dialogue: 0,0:30:47.90,0:30:51.95,Main-480p,,0,0,0,[Linebreaker Removed],{Drum}para celebrar a restauração do Reino de Drum!
 Dialogue: 0,0:30:56.66,0:31:00.38,Main-480p,,0,0,0,,{What?! What did you say...}O que...?! Dizer o que?!
-Dialogue: 0,0:31:00.38,0:31:04.42,Main-480p,,0,0,0,[Linebreaker Removed],{They've}Ela já saiu da cidade?\N!\NE apenas alguns momentos atrás?
+Dialogue: 0,0:31:00.38,0:31:04.42,Main-480p,,0,0,0,[Linebreaker Removed],{They've}Ela já saiu da cidade?!\NE apenas alguns momentos atrás?
 Dialogue: 0,0:31:04.42,0:31:06.43,Main-480p,,0,0,0,,Pelo amor de Deus!
 Dialogue: 0,0:31:06.43,0:31:09.30,Main-480p,,0,0,0,,{healed my sickness earlier}Ela me fez melhorar mais cedo.
 Dialogue: 0,0:31:11.44,0:31:14.90,Main-480p,,0,0,0,[Italics End][Linebreaker Removed][Honorifics],{\i1}Você está procurando o médico, Dalton-san?
@@ -575,13 +575,13 @@ Dialogue: 0,0:31:41.74,0:31:43.61,Main-480p,,0,0,0,,Sim, você está certo.
 Dialogue: 0,0:31:43.61,0:31:45.34,Main-480p,,0,0,0,[Italics End][Honorifics],{\i1}Dalton-san...!
 Dialogue: 0,0:31:46.95,0:31:48.30,Main-480p,,0,0,0,,{..}Aí está você.
 Dialogue: 0,0:31:48.30,0:31:51.41,Main-480p,,0,0,0,,{Aren't you supposed to stand watch today?}Você deveria... ficar de guarda hoje, correto?
-Dialogue: 0,0:31:52.55,0:31:55.02,Main-480p,,0,0,0,[Linebreaker Removed],{What's the matter}Há algo errado?\N!\NO que é?
+Dialogue: 0,0:31:52.55,0:31:55.02,Main-480p,,0,0,0,[Linebreaker Removed],{What's the matter}Há algo errado?!\NO que é?
 Dialogue: 0,0:31:55.02,0:31:57.48,Main-480p,,0,0,0,[Linebreaker Removed],{you get injured so badly}Como você sofreu esses ferimentos?!
 Dialogue: 0,0:31:57.48,0:31:59.71,Main-480p,,0,0,0,,{watchmen except me}Todos os guardas, além de mim...
 Dialogue: 0,0:31:59.71,0:32:01.37,Main-480p,,0,0,0,,{...}foram mortos!
 Dialogue: 0,0:32:01.37,0:32:02.07,Main-480p,,0,0,0,,O que?!
 Dialogue: 0,0:32:02.07,0:32:07.98,Main-480p,,0,0,0,[Linebreaker Removed],De repente... apareceu um veleiro submarino...
-Dialogue: 0,0:32:07.98,0:32:10.92,Main-480p,,0,0,0,,{and they killed everyone}e todos.\N.\N.\Neles mataram todos eles!
+Dialogue: 0,0:32:07.98,0:32:10.92,Main-480p,,0,0,0,,{and they killed everyone}e todos...\Neles mataram todos eles!
 Dialogue: 0,0:32:10.92,0:32:14.03,Main-480p,,0,0,0,[Linebreaker Removed],Quem você quer dizer com "eles"? Acalme-se e explique.
 Dialogue: 0,0:32:14.03,0:32:16.37,Main-480p,,0,0,0,[Italics End][Honorifics],{\i1}Dalton-san! Ajuda!
 Dialogue: 0,0:32:16.37,0:32:19.19,Main-480p,,0,0,0,,{...}Não somos fortes o suficiente!

@@ -52,9 +52,9 @@ Dialogue: 0,0:02:09.02,0:02:14.05,Main-480p,,0,0,0,[Honorifics],{\i1}Nami-san.\N
 Dialogue: 0,0:02:14.05,0:02:15.58,Main-480p,,0,0,0,,{Eh}Huh? Para quê?
 Dialogue: 0,0:02:15.58,0:02:18.35,Main-480p,,0,0,0,,Tenho uma tarefa importante para Karoo.
 Dialogue: 0,0:02:18.35,0:02:19.45,Main-480p,,0,0,0,,Karoo?
-Dialogue: 0,0:02:25.89,0:02:29.62,Main-480p,,0,0,0,,{I want you to go to Alubarna Palace on your own.\N.\N.\N}Karoo.\NPreciso que você faça a viagem até o Palácio Alubarna.\N.\N.
+Dialogue: 0,0:02:25.89,0:02:29.62,Main-480p,,0,0,0,,{I want you to go to Alubarna Palace on your own...\N}Karoo.\NPreciso que você faça a viagem até o Palácio Alubarna...
 Dialogue: 0,0:02:29.62,0:02:32.42,Main-480p,,0,0,0,,e entregue esta carta ao meu pai.
-Dialogue: 0,0:02:32.42,0:02:36.17,Main-480p,,0,0,0,,{I've written down everything Igaram and I learned.\N.\N.\N}Ele contém provas do esquema de Sir Crocodile e Baroque Works.
+Dialogue: 0,0:02:32.42,0:02:36.17,Main-480p,,0,0,0,,{I've written down everything Igaram and I learned...\N}Ele contém provas do esquema de Sir Crocodile e Baroque Works.
 Dialogue: 0,0:02:36.17,0:02:39.38,Main-480p,,0,0,0,,{about Crocodile and Baroque Works' schemes.\N}Dentro está tudo o que Igaram e eu descobrimos.
 Dialogue: 0,0:02:39.38,0:02:43.88,Main-480p,,0,0,0,,{And that I've returned to Arabasta alive with supportive friends.}Também mostrará que voltei vivo para Alabasta,
 Dialogue: 0,0:02:43.88,0:02:46.90,Main-480p,,0,0,0,,{And that I've returned to Arabasta alive with supportive friends.\N}e que comigo estão amigos e aliados poderosos.
@@ -64,7 +64,7 @@ Dialogue: 0,0:02:59.15,0:03:01.32,Main-480p,,0,0,0,,Karoo! Boa sorte!
 Dialogue: 0,0:03:01.32,0:03:05.33,Main-480p,,0,0,0,,{this kingdom can be saved!\N}Agora diga ao meu pai que salvaremos este reino!
 Dialogue: 0,0:03:12.10,0:03:14.29,Main-480p,,0,0,0,,{Drink your water with care!}E economize sua água!
 Dialogue: 0,0:03:17.40,0:03:19.62,Main-480p,,0,0,0,,{Karoo... Thank you...}Karoo, por favor, faça isso...
-Dialogue: 0,0:03:20.74,0:03:24.60,Main-480p,,0,0,0,,{I knew Crocodile, one of the seven Warlords, was in this country.\N.\N.\N}Ouvi dizer que Crocodile, um dos Sete Senhores da Guerra do Mar, estava aqui.
+Dialogue: 0,0:03:20.74,0:03:24.60,Main-480p,,0,0,0,,{I knew Crocodile, one of the seven Warlords, was in this country...\N}Ouvi dizer que Crocodile, um dos Sete Senhores da Guerra do Mar, estava aqui.
 Dialogue: 0,0:03:25.62,0:03:27.85,Main-480p,,0,0,0,,{But a pirate trying to steal a kingdom?}Mas um pirata roubando um país inteiro?
 Dialogue: 0,0:03:27.85,0:03:29.85,Main-480p,,0,0,0,,{That sounds like a bad joke.}Parece uma piada de mau gosto.
 Dialogue: 0,0:03:29.85,0:03:33.92,Main-480p,,0,0,0,,Um pirata lançando âncora em um lugar e se estabelecendo?
@@ -80,8 +80,8 @@ Dialogue: 0,0:03:53.46,0:03:55.48,Main-480p,,0,0,0,,{I bet it'll be hot...}Eu me
 Dialogue: 0,0:03:55.48,0:03:58.00,Main-480p,,0,0,0,,{It gets over 50 degrees in the daytime!}Mais de 50 graus ao meio-dia.
 Dialogue: 0,0:03:57.18,0:03:58.00,Secondary-480p,,0,0,0,,{Eh}O que?!
 Dialogue: 0,0:03:58.00,0:03:59.23,Main-480p,,0,0,0,,Isso acontece?!
-Dialogue: 0,0:03:59.23,0:04:02.38,Main-480p,,0,0,0,[Honorifics],{\i1}O que aconteceu, Nami-san?\N!\NCadê sua roupa de dançarina?\N!
-Dialogue: 0,0:04:02.38,0:04:06.18,Main-480p,,0,0,0,[Honorifics],{Aah!\NNot you too, Vivi-chan!\NWhy are you dressed like that?\N!\N}O que?\N!\NVivi-chan, você também?\N!\NO que há com esse traje?\N!
+Dialogue: 0,0:03:59.23,0:04:02.38,Main-480p,,0,0,0,[Honorifics],{\i1}O que aconteceu, Nami-san?!\NCadê sua roupa de dançarina?!
+Dialogue: 0,0:04:02.38,0:04:06.18,Main-480p,,0,0,0,[Honorifics],{Aah!\NNot you too, Vivi-chan!\NWhy are you dressed like that?!\N}O que?!\NVivi-chan, você também?!\NO que há com esse traje?!
 Dialogue: 0,0:04:06.18,0:04:10.77,Main-480p,,0,0,0,,No deserto, qualquer pele exposta ficará terrivelmente queimada pelo sol!
 Dialogue: 0,0:04:11.92,0:04:14.48,Main-480p,,0,0,0,,{This is terrible... My dancer girls...}Acabou... Minhas dançarinas...
 Dialogue: 0,0:04:14.48,0:04:16.05,Main-480p,,0,0,0,[Honorifics],{\i1}Coloque isso, Luffy-san.
@@ -115,7 +115,7 @@ Dialogue: 0,0:05:37.32,0:05:38.77,Main-480p,,0,0,0,,É isso! Assim!
 Dialogue: 0,0:05:39.94,0:05:41.86,Main-480p,,0,0,0,,Assim! Assim!
 Dialogue: 0,0:05:41.86,0:05:43.07,Main-480p,,0,0,0,,Assim!
 Dialogue: 0,0:05:49.14,0:05:53.37,Main-480p,,0,0,0,,Veja!
-Dialogue: 0,0:05:53.37,0:05:56.37,Main-480p,,0,0,0,,{Hey now, Luffy!\NDo you understand the current situation?\N!\N}Ei, Luffy!\NVocê entende que temos um novo problema?\N!
+Dialogue: 0,0:05:53.37,0:05:56.37,Main-480p,,0,0,0,,{Hey now, Luffy!\NDo you understand the current situation?!\N}Ei, Luffy!\NVocê entende que temos um novo problema?!
 Dialogue: 0,0:05:56.37,0:05:59.58,Main-480p,,0,0,0,,{They said they were coming with me, so why couldn't we let them?\N}Eles queriam vir comigo, então não entendo por que não deixamos.
 Dialogue: 0,0:05:59.58,0:06:03.46,Main-480p,,0,0,0,,{We couldn't go to any city with that big of a group!\NYou're so dumb!\N}Não há uma cidade por aí que deixaria um grupo tão grande entrar, seu idiota!
 Dialogue: 0,0:06:03.46,0:06:04.48,Main-480p,,0,0,0,,Honestamente!
@@ -128,11 +128,11 @@ Dialogue: 0,0:06:19.76,0:06:20.90,Secondary-480p,,0,0,0,,{That's for sure!}Você
 Dialogue: 0,0:06:32.39,0:06:33.32,Main-480p,,0,0,0,,O que é isso?
 Dialogue: 0,0:06:33.32,0:06:35.54,Main-480p,,0,0,0,,{Is this the town of Yuba?}Esta é aquela cidade? Yuba?
 Dialogue: 0,0:06:35.54,0:06:37.33,Main-480p,,0,0,0,,{..}Não.
-Dialogue: 0,0:06:37.33,0:06:41.46,Main-480p,,0,0,0,,{It used to be known as the City of Green.\N.\N.\N}Este é Erumalu.\NAntigamente, era chamada de Cidade do Verde.
+Dialogue: 0,0:06:37.33,0:06:41.46,Main-480p,,0,0,0,,{It used to be known as the City of Green...\N}Este é Erumalu.\NAntigamente, era chamada de Cidade do Verde.
 Dialogue: 0,0:06:41.46,0:06:43.13,Main-480p,,0,0,0,,Cidade do Verde?
 Dialogue: 0,0:06:44.03,0:06:46.30,Main-480p,,0,0,0,,{The sight of this town explains everything.}Esta cidade permanece como um testamento...
 Dialogue: 0,0:06:46.30,0:06:49.88,Main-480p,,0,0,0,,{What the Baroque Works organization has done to this country...}à presença devastadora da Baroque Works neste país.
-Dialogue: 0,0:06:49.88,0:06:53.39,Main-480p,,0,0,0,,{What the people of Arabasta are going through.\N.\N.\N}Ao que Alabasta e os seus cidadãos suportaram.
+Dialogue: 0,0:06:49.88,0:06:53.39,Main-480p,,0,0,0,,{What the people of Arabasta are going through...\N}Ao que Alabasta e os seus cidadãos suportaram.
 Dialogue: 0,0:07:00.68,0:07:02.22,Main-480p,,0,0,0,,Uau!
 Dialogue: 0,0:07:02.22,0:07:04.92,Main-480p,,0,0,0,,{There's nothing here at all!}Não há nada aqui!
 Dialogue: 0,0:07:04.92,0:07:08.99,Main-480p,,0,0,0,,{It's a ghost town now,}Sim. Agora não é nada além de uma cidade fantasma,
@@ -145,13 +145,13 @@ Dialogue: 0,0:07:26.17,0:07:28.74,Main-480p,,0,0,0,,Mas, há três anos,
 Dialogue: 0,0:07:28.74,0:07:33.01,Main-480p,,0,0,0,,{in any part of this}nem uma única gota de chuva caiu em todas as regiões deste país, exceto em uma.
 Dialogue: 0,0:07:33.01,0:07:35.22,Main-480p,,0,0,0,,Por três anos?!
 Dialogue: 0,0:07:34.00,0:07:35.22,Secondary-480p,,0,0,0,,Tanto tempo?!
-Dialogue: 0,0:07:35.72,0:07:39.99,Main-480p,,0,0,0,,{But even without rain, what about the river we just crossed?\N}Mas por que se preocupar com a chuva quando acabamos de atravessar um rio inteiro?\N!
+Dialogue: 0,0:07:35.72,0:07:39.99,Main-480p,,0,0,0,,{But even without rain, what about the river we just crossed?\N}Mas por que se preocupar com a chuva quando acabamos de atravessar um rio inteiro?!
 Dialogue: 0,0:07:39.99,0:07:43.19,Main-480p,,0,0,0,,{Yeah!\NCouldn't they just pipe water in from that big river?\N}É verdade!\NPor que não simplesmente bombear a água do rio para a cidade?
 Dialogue: 0,0:07:43.82,0:07:46.11,Main-480p,,0,0,0,,{The answer to that is up ahead.}A resposta está à frente.
 Dialogue: 0,0:07:50.65,0:07:54.04,Main-480p,,0,0,0,,Nunca nos milhares de anos de história de Alabasta...
 Dialogue: 0,0:07:54.04,0:07:56.84,Main-480p,,0,0,0,,a chuva parou completamente.
-Dialogue: 0,0:07:56.84,0:08:02.00,Main-480p,,0,0,0,,{But, there was one place where the rain fell more than usual.\N.\N.\N}Mas uma região sempre tendeu a mais chuva do que as outras:
-Dialogue: 0,0:08:02.00,0:08:07.09,Main-480p,,0,0,0,,{The city with the king's palace.\N.\N.\N}Alubarna, a capital.\NO palácio real fica naquela cidade.
+Dialogue: 0,0:07:56.84,0:08:02.00,Main-480p,,0,0,0,,{But, there was one place where the rain fell more than usual...\N}Mas uma região sempre tendeu a mais chuva do que as outras:
+Dialogue: 0,0:08:02.00,0:08:07.09,Main-480p,,0,0,0,,{The city with the king's palace...\N}Alubarna, a capital.\NO palácio real fica naquela cidade.
 Dialogue: 0,0:08:10.46,0:08:15.05,Captions_v2-480p,,0,0,0,,{\blur0.5\fad(900,792)\c&H000000&\1a&HFF&\fnChinacat\t(855,900,\1a&H00&)\t(3798,3843,\1a&HFF&)}2 anos atrás
 Dialogue: 1,0:08:10.46,0:08:15.05,Captions_v2-480p,,0,0,0,,{\bord0\blur0.5\fnChinacat\fad(900,792)\4a&HFF&}2 anos atrás
 Dialogue: 0,0:08:27.23,0:08:30.50,Main-480p,,0,0,0,,O povo chamou isso de "milagre do rei".
@@ -168,7 +168,7 @@ Dialogue: 0,0:08:51.83,0:08:54.08,Flashbacks-480p,,0,0,0,,Oh não! Isso é ruim!
 Dialogue: 0,0:08:54.08,0:08:57.72,Flashbacks-480p,,0,0,0,,Devíamos entregar isto ao King Cobra em Alubarna!
 Dialogue: 0,0:08:57.72,0:09:00.47,Flashbacks-480p,,0,0,0,,O que é esse pó verde?
 Dialogue: 0,0:09:00.47,0:09:01.77,Flashbacks-480p,,0,0,0,,O que é?
-Dialogue: 0,0:09:01.77,0:09:05.86,Flashbacks-480p,,0,0,0,,{We're only following your king's orders!\N}C-Como devemos saber?\N!\NO rei ordenou e nós trouxemos!
+Dialogue: 0,0:09:01.77,0:09:05.86,Flashbacks-480p,,0,0,0,,{We're only following your king's orders!\N}C-Como devemos saber?!\NO rei ordenou e nós trouxemos!
 Dialogue: 0,0:09:05.86,0:09:08.02,Flashbacks-480p,,0,0,0,,{couriers}- Certo?\N– Somos apenas entregadores!
 Dialogue: 0,0:09:08.02,0:09:08.73,Flashbacks-480p,,0,0,0,,Correr!
 Dialogue: 0,0:09:12.31,0:09:15.11,Flashbacks-480p,,0,0,0,,{Wait... Could this be?!}Isso... não pode ser!
@@ -178,10 +178,10 @@ Dialogue: 0,0:09:20.05,0:09:23.89,Main-480p,,0,0,0,,Sim. É mais apropriadamente
 Dialogue: 0,0:09:23.89,0:09:25.23,Main-480p,,0,0,0,,Invocação da chuva?
 Dialogue: 0,0:09:25.23,0:09:27.37,Main-480p,,0,0,0,,{I'd only heard stories about it,}Eu ouvi sobre isso de segunda mão,
 Dialogue: 0,0:09:27.37,0:09:31.94,Main-480p,,0,0,0,,{but a researcher in a country where it doesn't rain created it.\N}mas foi supostamente criado por um cientista em uma terra sem chuva.
-Dialogue: 0,0:09:31.94,0:09:36.97,Main-480p,,0,0,0,,{By creating a misty smoke from it and letting it rise into the sky,}Combiná-lo com a fumaça ascendente cria uma névoa que se espalha no céu.\N.\N.
+Dialogue: 0,0:09:31.94,0:09:36.97,Main-480p,,0,0,0,,{By creating a misty smoke from it and letting it rise into the sky,}Combiná-lo com a fumaça ascendente cria uma névoa que se espalha no céu...
 Dialogue: 0,0:09:36.97,0:09:39.80,Main-480p,,0,0,0,,{you can artificially cause it to rain.}que provoca chuvas artificialmente.
 Dialogue: 0,0:09:39.80,0:09:42.01,Main-480p,,0,0,0,,{That's what dance powder is.}E isso é pó de dança.
-Dialogue: 0,0:09:42.01,0:09:45.82,Main-480p,,0,0,0,,{As the name suggests, the country that developed Dance Powder.\N.\N.\N}O país que criou a pólvora quase dançou de alegria,
+Dialogue: 0,0:09:42.01,0:09:45.82,Main-480p,,0,0,0,,{As the name suggests, the country that developed Dance Powder...\N}O país que criou a pólvora quase dançou de alegria,
 Dialogue: 0,0:09:45.82,0:09:48.48,Main-480p,,0,0,0,,{was almost happy enough to dance at first.}e foi assim que ganhou esse nome.
 Dialogue: 0,0:09:48.48,0:09:52.33,Main-480p,,0,0,0,,{But there was a big catch:}Porém, para cada ação há uma reação.
 Dialogue: 0,0:09:52.33,0:09:55.99,Main-480p,,0,0,0,,{the neighboring country had a drought.\N}Veja, as terras vizinhas tiveram uma seca repentina.
@@ -191,13 +191,13 @@ Dialogue: 0,0:10:01.72,0:10:06.95,Main-480p,,0,0,0,,{that would normally grow in
 Dialogue: 0,0:10:06.95,0:10:09.70,Main-480p,,0,0,0,,{and causes them to rain.}e força as nuvens jovens a chover. Então-
 Dialogue: 0,0:10:09.70,0:10:10.74,Main-480p,,0,0,0,,Ah, entendi!
 Dialogue: 0,0:10:10.74,0:10:15.51,Main-480p,,0,0,0,,Rouba a chuva que normalmente iria para um país vizinho!
-Dialogue: 0,0:10:15.51,0:10:18.48,Main-480p,,0,0,0,,{Eventually, war broke out between the two countries.\N.\N.\N}Como resultado, os dois países entraram em guerra,
+Dialogue: 0,0:10:15.51,0:10:18.48,Main-480p,,0,0,0,,{Eventually, war broke out between the two countries...\N}Como resultado, os dois países entraram em guerra,
 Dialogue: 0,0:10:18.48,0:10:21.62,Main-480p,,0,0,0,,{and many lives were lost as a result.}e muitas vidas foram perdidas por causa disso.
-Dialogue: 0,0:10:21.62,0:10:24.77,Main-480p,,0,0,0,,{Ever since, the World Government has put a worldwide ban.\N.\N.\N}O pó de dança é agora universalmente proibido pelo Governo Mundial,
+Dialogue: 0,0:10:21.62,0:10:24.77,Main-480p,,0,0,0,,{Ever since, the World Government has put a worldwide ban...\N}O pó de dança é agora universalmente proibido pelo Governo Mundial,
 Dialogue: 0,0:10:24.77,0:10:26.65,Main-480p,,0,0,0,,{on the production and possession of Dance Powder.}tanto a sua produção como a sua utilização.
-Dialogue: 0,0:10:26.65,0:10:30.27,Main-480p,,0,0,0,,{dread}Pó que pode trazer felicidade e tristeza quando usado.\N.\N.
+Dialogue: 0,0:10:26.65,0:10:30.27,Main-480p,,0,0,0,,{dread}Pó que pode trazer felicidade e tristeza quando usado...
 Dialogue: 0,0:10:30.27,0:10:34.53,Main-480p,,0,0,0,,{When all that Dance Powder was brought into the port town,}Quando aquele grande carregamento de pó de dança chegou à cidade portuária,
-Dialogue: 0,0:10:34.53,0:10:37.53,Main-480p,,0,0,0,,{Arabasta was in the middle of a strange weather phenomenon.\N.\N.\N}Alabasta estava no meio de um fenômeno climático;
+Dialogue: 0,0:10:34.53,0:10:37.53,Main-480p,,0,0,0,,{Arabasta was in the middle of a strange weather phenomenon...\N}Alabasta estava no meio de um fenômeno climático;
 Dialogue: 0,0:10:37.53,0:10:40.74,Main-480p,,0,0,0,,{where }a chuva não caiu em lugar nenhum, exceto na cidade do rei.
 Dialogue: 0,0:10:41.74,0:10:46.95,Flashbacks-480p,,0,0,0,,{We haven't had a single drop of rain because the king's been using Dance Powder!\N}A chuva parou de cair aqui porque o rei está usando pó de dança!
 Dialogue: 0,0:10:46.95,0:10:50.37,Flashbacks-480p,,0,0,0,,{at}Afinal a chuva de Alubarna não foi um milagre!
@@ -212,18 +212,18 @@ Dialogue: 0,0:11:15.90,0:11:19.95,Main-480p,,0,0,0,,{found}uma enorme quantidade
 Dialogue: 0,0:11:19.95,0:11:23.41,Main-480p,,0,0,0,,{They}Ele ainda tinha pessoas trabalhando dentro do palácio?
 Dialogue: 0,0:11:25.15,0:11:28.22,Main-480p,,0,0,0,,{What's this road}Que tipo de estrada é essa, Vivi-chan?
 Dialogue: 0,0:11:28.22,0:11:32.96,Main-480p,,0,0,0,,{This was a canal that used to bring water in from the Sandora River.\N}Este foi um canal de irrigação que outrora transportava água do rio Sandora.
-Dialogue: 0,0:11:33.92,0:11:36.92,Main-480p,,0,0,0,,{Someone destroyed this canal, too.\N.\N.\N}Mas alguém apareceu e destruiu.
+Dialogue: 0,0:11:33.92,0:11:36.92,Main-480p,,0,0,0,,{Someone destroyed this canal, too...\N}Mas alguém apareceu e destruiu.
 Dialogue: 0,0:11:37.46,0:11:42.05,Main-480p,,0,0,0,,Sem o canal, a Cidade Verde não conseguia mais garantir água.
 Dialogue: 0,0:11:43.05,0:11:48.06,Main-480p,,0,0,0,,{As if praying, the people continued to wait, but rain never came.\N}As pessoas oraram e tiveram esperança, mas a chuva nunca veio.
 Dialogue: 0,0:11:50.57,0:11:52.31,Main-480p,,0,0,0,,{Ever since the dance powder incident,}O incidente do pó de dança...
 Dialogue: 0,0:11:52.31,0:11:55.74,Main-480p,,0,0,0,,{distrust in the king grows daily.\N}plantou uma semente de desconfiança no rei que continua a crescer.
 Dialogue: 0,0:11:55.74,0:11:58.57,Thoughts-480p,,0,0,0,,{And it's all how Crocodile planned, huh?\N}As coisas aconteceram exatamente como Crocodile planejou, hein?
 Dialogue: 0,0:11:58.57,0:12:02.03,Main-480p,,0,0,0,,{And then the fighting finally began.}O conflito civil era quase inevitável.
-Dialogue: 0,0:12:02.92,0:12:08.99,Main-480p,,0,0,0,,{To escape the fighting, the exhausted people abandoned the city.\N.\N.\N}O povo abandonou as suas cidades, cansado das constantes escaramuças,
+Dialogue: 0,0:12:02.92,0:12:08.99,Main-480p,,0,0,0,,{To escape the fighting, the exhausted people abandoned the city...\N}O povo abandonou as suas cidades, cansado das constantes escaramuças,
 Dialogue: 0,0:12:08.99,0:12:11.96,Main-480p,,0,0,0,,{and left for other oases in search of water.\N}e procurou oásis e outras fontes de água.
 Dialogue: 0,0:12:13.94,0:12:14.88,Main-480p,,0,0,0,,E então...
 Dialogue: 0,0:12:17.31,0:12:20.21,Main-480p,,0,0,0,,a Cidade Verde definhou.
-Dialogue: 0,0:12:27.88,0:12:30.65,Main-480p,,0,0,0,,- Huh?\NEssa é a voz de alguém?\N!\N– É o exército rebelde?\N!
+Dialogue: 0,0:12:27.88,0:12:30.65,Main-480p,,0,0,0,,- Huh?\NEssa é a voz de alguém?!\N– É o exército rebelde?!
 Dialogue: 0,0:12:30.65,0:12:33.48,Main-480p,,0,0,0,,{has been following us!\N}Não me diga que a Baroque Works nos seguiu!
 Dialogue: 0,0:12:40.35,0:12:41.42,Main-480p,,0,0,0,,Aí vem!
 Dialogue: 0,0:13:06.37,0:13:09.48,Main-480p,,0,0,0,,Uau, o que houve com aquele vento?
@@ -255,12 +255,12 @@ Dialogue: 0,0:14:57.76,0:14:59.10,Main-480p,,0,0,0,,{I'm going to tell him the t
 Dialogue: 0,0:14:59.10,0:15:01.12,Main-480p,,0,0,0,,{and have him stop the pointless shedding of blood!}ele vai parar esse derramamento de sangue inútil!
 Dialogue: 0,0:15:01.12,0:15:02.49,Main-480p,,0,0,0,,Entendi.
 Dialogue: 0,0:15:17.30,0:15:21.24,Main-480p,,0,0,0,,{\3c&HFFFFFF&\4c&HFFFFFF&\t(0,380,1,\3c&H000000&\4c&H000000&)}Tão quente... Água...
-Dialogue: 0,0:15:25.94,0:15:29.40,Main-480p,,0,0,0,,Queimando.\N.\N.\NO suor nem sai.\N.\N.
+Dialogue: 0,0:15:25.94,0:15:29.40,Main-480p,,0,0,0,,Queimando...\NO suor nem sai...
 Dialogue: 0,0:15:29.40,0:15:34.96,Main-480p,,0,0,0,,Pare de gemer tanto, Luffy.\NVocê só vai se cansar.
 Dialogue: 0,0:15:34.96,0:15:36.45,Main-480p,,0,0,0,,Acho que ele não está ouvindo.
-Dialogue: 0,0:15:39.43,0:15:43.21,Main-480p,,0,0,0,,{.\N.\N}Eu não posso continuar.\NEu não aguento o calor.
+Dialogue: 0,0:15:39.43,0:15:43.21,Main-480p,,0,0,0,,{..\N}Eu não posso continuar.\NEu não aguento o calor.
 Dialogue: 0,0:15:43.21,0:15:46.14,Main-480p,,0,0,0,,{I'm fine in cold weather, though...}Tempo frio, entretanto? Isso é bom.
-Dialogue: 0,0:15:46.14,0:15:50.50,Main-480p,,0,0,0,,{It's 'cause of all that fur.\N.\N.\NYou should take off that animal suit.\N.\N.\N}É toda aquela pele.\NApenas tire sua fantasia de animal.
+Dialogue: 0,0:15:46.14,0:15:50.50,Main-480p,,0,0,0,,{It's 'cause of all that fur...\NYou should take off that animal suit...\N}É toda aquela pele.\NApenas tire sua fantasia de animal.
 Dialogue: 0,0:15:51.55,0:15:53.84,Main-480p,,0,0,0,,{What was that, you jerk?!}Você quer que eu faça o que agora?
 Dialogue: 0,0:15:53.84,0:15:56.30,Main-480p,,0,0,0,,{Don't make fun of reindeer!}Você está tirando sarro dessa rena?!
 Dialogue: 0,0:15:56.30,0:15:58.42,Main-480p,,0,0,0,,Monstro!
@@ -275,7 +275,7 @@ Dialogue: 0,0:16:24.42,0:16:28.10,Main-480p,,0,0,0,,Achei que um deserto seria m
 Dialogue: 0,0:16:29.31,0:16:31.90,Main-480p,,0,0,0,,Este é um deserto muito antigo,
 Dialogue: 0,0:16:31.90,0:16:35.28,Main-480p,,0,0,0,,então algumas dunas de areia aqui têm mais de 300 metros de altura.
 Dialogue: 0,0:16:35.28,0:16:37.35,Main-480p,,0,0,0,,Trezentos metros?
-Dialogue: 0,0:16:37.35,0:16:39.85,Main-480p,,0,0,0,,{t}Não admira.\N.\N.\NIsto é como escalar montanhas.
+Dialogue: 0,0:16:37.35,0:16:39.85,Main-480p,,0,0,0,,{t}Não admira...\NIsto é como escalar montanhas.
 Dialogue: 0,0:16:40.84,0:16:43.85,Main-480p,,0,0,0,,É demais... Está tão quente...
 Dialogue: 0,0:16:43.85,0:16:47.56,Main-480p,,0,0,0,,Só uma bebida, Luffy. Apenas um bocado.
 Dialogue: 0,0:16:49.70,0:16:50.57,Main-480p,,0,0,0,,{Don't drink so much!}Demais!
@@ -325,7 +325,7 @@ Dialogue: 0,0:19:20.43,0:19:22.55,Main-480p,,0,0,0,,{Alright}Bom! Vamos, Chopp!
 Dialogue: 0,0:19:22.55,0:19:23.39,Main-480p,,0,0,0,,{splitted}Sim!
 Dialogue: 0,0:19:23.39,0:19:25.76,Main-480p,,0,0,0,,{the}Precisamos ajudar esses pássaros!
 Dialogue: 0,0:19:25.76,0:19:26.64,Main-480p,,0,0,0,,Pássaros?!
-Dialogue: 0,0:19:26.64,0:19:29.35,Main-480p,,0,0,0,,{\i1}Espere, Luffy-san!\NEsses pássaros parecem.\N.\N.\NAh, não!
+Dialogue: 0,0:19:26.64,0:19:29.35,Main-480p,,0,0,0,,{\i1}Espere, Luffy-san!\NEsses pássaros parecem...\NAh, não!
 Dialogue: 0,0:19:30.84,0:19:31.94,Main-480p,,0,0,0,,{Eh}Huh?
 Dialogue: 0,0:19:34.79,0:19:36.46,Main-480p,,0,0,0,,{All our stuff is gone!}Eles nos roubaram cegamente!
 Dialogue: 0,0:19:36.46,0:19:38.29,Main-480p,,0,0,0,,Nós tivemos...
@@ -334,15 +334,15 @@ Dialogue: 0,0:19:44.03,0:19:46.90,Main-480p,,0,0,0,,{I should've mentioned it ea
 Dialogue: 0,0:19:48.25,0:19:50.29,Main-480p,,0,0,0,,{Warusagi birds are "desert bandits" that trick travelers}Garças desonestas ou bandidos do deserto,
 Dialogue: 0,0:19:50.29,0:19:52.87,Main-480p,,0,0,0,,{that trick travelers and steal their belongings.\N}enganar os viajantes e roubar seus suprimentos.
 Dialogue: 0,0:19:52.87,0:19:55.34,Main-480p,,0,0,0,,O que?!
-Dialogue: 0,0:19:56.12,0:20:00.13,Main-480p,,0,0,0,,{Birds playing dead?\N!\N}Os pássaros se fingem de mortos?\NQue bando de mentirosos!
+Dialogue: 0,0:19:56.12,0:20:00.13,Main-480p,,0,0,0,,{Birds playing dead?!\N}Os pássaros se fingem de mortos?\NQue bando de mentirosos!
 Dialogue: 0,0:20:00.13,0:20:02.08,Main-480p,,0,0,0,,{Yes, that's how they are.}É a natureza deles.
 Dialogue: 0,0:20:02.08,0:20:03.70,Main-480p,,0,0,0,,{They}Então eles me enganaram!
-Dialogue: 0,0:20:03.70,0:20:06.60,Main-480p,,0,0,0,,Luffy!\NIsso é tudo que você pode dizer sobre si mesmo?\N!
+Dialogue: 0,0:20:03.70,0:20:06.60,Main-480p,,0,0,0,,Luffy!\NIsso é tudo que você pode dizer sobre si mesmo?!
 Dialogue: 0,0:20:06.60,0:20:09.10,Main-480p,,0,0,0,,{There were three days of provisions in there!\N}Embalamos provisões para três dias,
 Dialogue: 0,0:20:09.10,0:20:11.10,Main-480p,,0,0,0,,{And you just had to let some damn birds steal everyone's stuff}e você deixou aqueles pássaros levarem tudo!
 Dialogue: 0,0:20:11.10,0:20:12.55,Main-480p,,0,0,0,,{smack in the middle of this desert?!}Estamos bem...
-Dialogue: 0,0:20:12.55,0:20:16.20,Main-480p,,0,0,0,,{smack in the middle of this desert?\N!\N}no meio do deserto sem nem trocar de roupa!
-Dialogue: 0,0:20:16.20,0:20:19.52,Main-480p,,0,0,0,,{How're we supposed to cross the desert without food or water now?\N!\N}Como atravessamos um deserto quando não há comida nem água?\N!
+Dialogue: 0,0:20:12.55,0:20:16.20,Main-480p,,0,0,0,,{smack in the middle of this desert?!\N}no meio do deserto sem nem trocar de roupa!
+Dialogue: 0,0:20:16.20,0:20:19.52,Main-480p,,0,0,0,,{How're we supposed to cross the desert without food or water now?!\N}Como atravessamos um deserto quando não há comida nem água?!
 Dialogue: 0,0:20:19.52,0:20:22.79,Main-480p,,0,0,0,,Não é minha culpa. Eles me enganaram.
 Dialogue: 0,0:20:22.79,0:20:25.18,Main-480p,,0,0,0,,{Is your brain less than a bird's?!}Como você é mais burro que um pássaro?!
 Dialogue: 0,0:20:25.18,0:20:26.16,Main-480p,,0,0,0,,{Say what?!}Mais burro do que o quê?!
@@ -364,7 +364,7 @@ Dialogue: 0,0:21:32.03,0:21:33.85,Main-480p,,0,0,0,,Volte aqui!
 Dialogue: 0,0:21:45.80,0:21:48.79,Main-480p,,0,0,0,,Volte aqui!
 Dialogue: 0,0:21:53.00,0:21:55.42,Main-480p,,0,0,0,,Por que o Luffy está demorando tanto?!
 Dialogue: 0,0:21:55.90,0:21:59.12,Main-480p,,0,0,0,,{Do you think he got lost?}Sim. Você acha que ele se perdeu afinal?
-Dialogue: 0,0:21:59.12,0:22:02.92,Main-480p,,0,0,0,,{And there are so many desert dangers he doesn't know about.\N.\N.\N}Luffy desconhece todos os diferentes perigos do deserto.
+Dialogue: 0,0:21:59.12,0:22:02.92,Main-480p,,0,0,0,,{And there are so many desert dangers he doesn't know about...\N}Luffy desconhece todos os diferentes perigos do deserto.
 Dialogue: 0,0:22:02.92,0:22:06.88,Main-480p,,0,0,0,,{Y'know, isn't he hungry from not eating anything?\N}E ele provavelmente está morrendo de fome de tanto tempo sem comer, certo?
 Dialogue: 0,0:22:09.54,0:22:10.44,Main-480p,,0,0,0,,O que é isso?!
 Dialogue: 0,0:22:17.00,0:22:18.76,Main-480p,,0,0,0,,O que é esse estrondo?!
@@ -373,7 +373,7 @@ Dialogue: 0,0:22:29.16,0:22:31.28,Main-480p,,0,0,0,,Não, espere! Isso é...
 Dialogue: 0,0:22:34.49,0:22:35.38,Main-480p,,0,0,0,,{?}Luffy!
 Dialogue: 0,0:22:35.72,0:22:37.87,Main-480p,,0,0,0,,{it couldn't be}Não... não é possível!
 Dialogue: 0,0:22:40.57,0:22:43.00,Main-480p,,0,0,0,,{Why is he on a camel?!}Então, por que ele está em um camelo?!
-Dialogue: 0,0:22:45.50,0:22:48.26,Main-480p,,0,0,0,,{So?\N!\NWhat's that chasing him?\N!\N}Não é importante!\NO que está perseguindo ele?\N!
+Dialogue: 0,0:22:45.50,0:22:48.26,Main-480p,,0,0,0,,{So?!\NWhat's that chasing him?!\N}Não é importante!\NO que está perseguindo ele?!
 Dialogue: 0,0:22:48.26,0:22:49.55,Main-480p,,0,0,0,,{I can't really see!}Difícil dizer!
 Dialogue: 0,0:22:49.55,0:22:53.26,Main-480p,,0,0,0,,{But it seems more like something's in the sand!\N}Parece que algo está surgindo na areia!
 Dialogue: 0,0:23:03.55,0:23:08.44,Main-480p,,0,0,0,,{this is where I need to be credited as special thanks or sum extra bullshit because I had a hard af time timing this shit. Fucking background noices}É enorme!
@@ -400,14 +400,14 @@ Dialogue: 0,0:23:49.82,0:23:50.32,Main-480p,,0,0,0,[Attack],{\fad(150,150)}Chico
 Dialogue: 0,0:23:50.32,0:23:50.86,Main-480p,,0,0,0,[Attack],{\fad(150,150)}Torcedor!
 Dialogue: 0,0:23:50.86,0:23:51.45,Main-480p,,0,0,0,[Attack],{\fad(150,150)}Atirar!
 Dialogue: 0,0:24:00.36,0:24:02.15,Main-480p,,0,0,0,,{Y-You didn't have to go that far...}P-Por que levar as coisas tão longe?
-Dialogue: 0,0:24:02.17,0:24:05.38,Main-480p,,0,0,0,,{.\N.\N}Quando eles estão lutando, você quase sente pena dos monstros.
+Dialogue: 0,0:24:02.17,0:24:05.38,Main-480p,,0,0,0,,{..\N}Quando eles estão lutando, você quase sente pena dos monstros.
 Dialogue: 0,0:24:13.21,0:24:16.67,Main-480p,,0,0,0,,Confira!\NEssas pedras são frigideiras naturais!
 Dialogue: 0,0:24:17.70,0:24:20.97,Main-480p,,0,0,0,,Então, o que há com o camelo?
 Dialogue: 0,0:24:22.52,0:24:23.26,Main-480p,,0,0,0,,{I d}Não sei.
 Dialogue: 0,0:24:23.26,0:24:26.88,Main-480p,,0,0,0,,Ele estava sendo comido por uma planta misteriosa quando eu perseguia os pássaros.
 Dialogue: 0,0:24:26.88,0:24:29.15,Main-480p,,0,0,0,,Não parece ser um camelo selvagem.
 Dialogue: 0,0:24:29.15,0:24:31.90,Main-480p,,0,0,0,,{..}Não. Tem até sela.
-Dialogue: 0,0:24:33.24,0:24:37.20,Main-480p,,0,0,0,,{That's great!\NWe can ride it?\N!\NThat'll make things easier!\N}Ótimo, então podemos montá-lo?\N!\NQue golpe de sorte!
+Dialogue: 0,0:24:33.24,0:24:37.20,Main-480p,,0,0,0,,{That's great!\NWe can ride it?!\NThat'll make things easier!\N}Ótimo, então podemos montá-lo?!\NQue golpe de sorte!
 Dialogue: 0,0:24:37.20,0:24:40.66,Main-480p,,0,0,0,,{it could carry two people!\N}Sim, isso será uma verdadeira ajuda!\NParece que há espaço para dois!
 Dialogue: 0,0:24:41.04,0:24:43.53,Main-480p,,0,0,0,,Os camelos andam de mãos dadas com os desertos!
 Dialogue: 0,0:24:43.53,0:24:45.60,Main-480p,,0,0,0,,{Then I'll be the first one!}Então não se importe se eu–

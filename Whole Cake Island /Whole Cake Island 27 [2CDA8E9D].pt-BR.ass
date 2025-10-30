@@ -220,7 +220,7 @@ Dialogue: 0,0:01:37.72,0:01:40.67,Main,,0,0,0,,Conseguimos chegar ao mar.
 Dialogue: 0,0:01:44.73,0:01:48.87,Main,,0,0,0,,{\an8}Tudo o que temos que fazer agora é chegar ao Sunny.
 Dialogue: 0,0:01:44.73,0:01:48.87,Captions,,0,1000,265,,{\fad(325,0}Rio Suco, Cidade Doce
 Dialogue: 0,0:01:51.26,0:01:55.09,Main,,0,0,0,,É tão fofo, estou muito feliz!
-Dialogue: 0,0:01:55.09,0:01:58.26,Main,,0,0,0,,O que?\NEu não gosto disso.\NEstá todo pegajoso.\N.\N.
+Dialogue: 0,0:01:55.09,0:01:58.26,Main,,0,0,0,,O que?\NEu não gosto disso.\NEstá todo pegajoso...
 Dialogue: 0,0:01:59.22,0:02:01.83,Main,,0,0,0,,Ver? O leme é escorregadio...
 Dialogue: 0,0:02:01.83,0:02:06.19,Main,,0,0,0,,{\i1}Atenção! Saia do meu caminho, peixe-san!
 Dialogue: 0,0:02:09.27,0:02:12.27,Main,,0,0,0,,Ribeiro! Isso não é uma sereia?!
@@ -256,7 +256,7 @@ Dialogue: 0,0:04:42.70,0:04:45.87,Main,,0,0,0,,Se bem me lembro, aquela ponte j�
 Dialogue: 0,0:04:45.87,0:04:47.17,Main,,0,0,0,,Você tem razão...
 Dialogue: 0,0:04:47.17,0:04:50.79,Main,,0,0,0,,Se esta floresta é nossa inimiga, não podemos confiar em nada!
 Dialogue: 0,0:04:50.79,0:04:55.29,Main,,0,0,0,,Eles estão tentando nos enganar...
-Dialogue: 0,0:04:57.02,0:05:02.18,Main,,0,0,0,,Então tenho certeza que eles estão mudando o cenário para nos confundir.\N.\N.
+Dialogue: 0,0:04:57.02,0:05:02.18,Main,,0,0,0,,Então tenho certeza que eles estão mudando o cenário para nos confundir...
 Dialogue: 0,0:05:02.18,0:05:04.01,Main,,0,0,0,,Em outras palavras...
 Dialogue: 0,0:05:04.01,0:05:07.31,Main,,0,0,0,,este não é o lugar que pensamos que é!
 Dialogue: 0,0:05:08.19,0:05:11.51,Main,,0,0,0,,O Vivre Card da Lola não vai nos ajudar mais...
@@ -319,7 +319,7 @@ Dialogue: 0,0:08:14.40,0:08:17.45,Main,,0,0,0,,Os Homies devem ter mudado o cen�
 Dialogue: 0,0:08:29.74,0:08:31.28,Main,,0,0,0,,Eles estão se aproximando de ambos os lados...
 Dialogue: 0,0:08:31.28,0:08:34.18,Main,,0,0,0,,Então só temos uma opção...
 Dialogue: 0,0:08:34.18,0:08:37.47,Main,,0,0,0,,Sim, vamos chutar a bunda deles!
-Dialogue: 0,0:08:51.29,0:08:55.58,Main,,0,0,0,,Seu nome é Pedro, certo?\NEu te vi há cinco anos também.\N.\N.
+Dialogue: 0,0:08:51.29,0:08:55.58,Main,,0,0,0,,Seu nome é Pedro, certo?\NEu te vi há cinco anos também...
 Dialogue: 0,0:09:03.51,0:09:05.34,Main,,0,0,0,,Ops!
 Dialogue: 0,0:09:17.86,0:09:19.73,Main,,0,0,0,,Seu coelho bobo!
 Dialogue: 0,0:09:22.83,0:09:25.46,Main,,0,0,0,,Garchu!
@@ -390,7 +390,7 @@ Dialogue: 0,0:15:19.38,0:15:22.68,Main,,0,0,0,,Me desculpe por ter pedido sua aj
 Dialogue: 0,0:15:22.68,0:15:27.43,Main,,0,0,0,,Tudo bem!\NJá faz muito tempo que não fazemos um bolo juntos!
 Dialogue: 0,0:15:29.23,0:15:30.75,Main,,0,0,0,,Além disso...
 Dialogue: 0,0:15:35.11,0:15:37.46,Main,,0,0,0,,Você vai?! Você está brincando?!
-Dialogue: 0,0:15:37.46,0:15:43.66,Main,,0,0,0,,Bege!\NEu não te contei?\N!\NOs Chapéus de Palha salvaram a vida da minha irmã mais nova, Lola!
+Dialogue: 0,0:15:37.46,0:15:43.66,Main,,0,0,0,,Bege!\NEu não te contei?!\NOs Chapéus de Palha salvaram a vida da minha irmã mais nova, Lola!
 Dialogue: 0,0:15:43.66,0:15:47.00,Main,,0,0,0,,Mas, Chiffon, é perigoso! Estou preocupado!
 Dialogue: 0,0:15:47.00,0:15:50.48,Main,,0,0,0,,{\i1}Ele está certo, rero!\NVocê deve escapar conosco-rero!
 Dialogue: 0,0:15:50.48,0:15:52.54,Main,,0,0,0,,Ah, me desculpe. Isso foi muito alto...
@@ -454,11 +454,11 @@ Dialogue: 0,0:19:54.83,0:19:56.34,Main,,0,0,0,,Ela está no topo!
 Dialogue: 0,0:19:59.42,0:20:00.98,Main,,0,0,0,,Turma do Chapéu de Palha!
 Dialogue: 0,0:20:00.98,0:20:01.60,Main,,0,0,0,,O que?
 Dialogue: 0,0:20:01.60,0:20:03.01,Main,,0,0,0,,Pudim! Chiffon!
-Dialogue: 0,0:20:03.01,0:20:06.97,Main,,0,0,0,,Ah, pudim!\NO que você tem?\N!\NVocê nos enganou!
+Dialogue: 0,0:20:03.01,0:20:06.97,Main,,0,0,0,,Ah, pudim!\NO que você tem?!\NVocê nos enganou!
 Dialogue: 0,0:20:06.97,0:20:09.31,Main,,0,0,0,,Para impedir o ataque de fome da mamãe...
 Dialogue: 0,0:20:09.31,0:20:12.98,Main,,0,0,0,,Ver?\NDevíamos tê-la amarrado mais cedo!
 Dialogue: 0,0:20:12.98,0:20:14.60,Main,,0,0,0,,Para parar a mamãe...
-Dialogue: 0,0:20:14.60,0:20:18.86,Main,,0,0,0,,Mas por que Chiffon está com ela?\N!\NAchei que ela tivesse fugido com o grupo de Bege!
+Dialogue: 0,0:20:14.60,0:20:18.86,Main,,0,0,0,,Mas por que Chiffon está com ela?!\NAchei que ela tivesse fugido com o grupo de Bege!
 Dialogue: 0,0:20:18.86,0:20:19.70,Main,,0,0,0,,Para parar a mamãe...
 Dialogue: 0,0:20:19.70,0:20:20.44,Main,,0,0,0,,Quer lutar?!
 Dialogue: 0,0:20:20.44,0:20:23.15,Main,,0,0,0,,Não, eu não! Escute-me!
@@ -474,8 +474,8 @@ Dialogue: 0,0:20:46.75,0:20:50.86,Main,,0,0,0,,Patético!\NSeus tolos!\NVocê n�
 Dialogue: 0,0:20:51.94,0:20:53.80,Main,,0,0,0,,Mesmo se você escapar de navio,
 Dialogue: 0,0:20:53.80,0:20:59.43,Main,,0,0,0,,Mamãe irá persegui-lo até o mar mais distante e afundá-lo no fundo do oceano!
 Dialogue: 0,0:21:00.87,0:21:02.70,Main,,0,0,0,,O que você disse, seu bastardo?!
-Dialogue: 0,0:21:03.95,0:21:07.43,Main,,0,0,0,,Isso não está certo, Pudim!\NO que você está falando?\N!
-Dialogue: 0,0:21:07.43,0:21:10.96,Main,,0,0,0,,Você tem razão!\NVocê tem razão!\NO que estou dizendo?\N!
+Dialogue: 0,0:21:03.95,0:21:07.43,Main,,0,0,0,,Isso não está certo, Pudim!\NO que você está falando?!
+Dialogue: 0,0:21:07.43,0:21:10.96,Main,,0,0,0,,Você tem razão!\NVocê tem razão!\NO que estou dizendo?!
 Dialogue: 0,0:21:10.96,0:21:12.20,Main,,0,0,0,,Ouvir!
 Dialogue: 0,0:21:12.20,0:21:18.57,Main,,0,0,0,,Mamãe acredita que vocês roubaram o bolo de casamento que ela queria muito comer!
 Dialogue: 0,0:21:18.57,0:21:22.06,Main,,0,0,0,,O que?! Não temos bolo!
@@ -483,7 +483,7 @@ Dialogue: 0,0:21:22.06,0:21:29.06,Main,,0,0,0,,Eu sei! Mas agora, mamãe está e
 Dialogue: 0,0:21:29.06,0:21:32.60,Main,,0,0,0,,Isso mesmo! Então, Sanji! Venha aqui!
 Dialogue: 0,0:21:32.60,0:21:38.66,Main,,0,0,0,,Veja seus amigos serem mortos pela mamãe e passarem pelo inferno!
 Dialogue: 0,0:21:43.66,0:21:45.16,Main,,0,0,0,,Isso não está certo!
-Dialogue: 0,0:21:45.16,0:21:49.21,Main,,0,0,0,,- O que você está falando?\N!\N- Você tem razão!\NEu quero desaparecer!
+Dialogue: 0,0:21:45.16,0:21:49.21,Main,,0,0,0,,- O que você está falando?!\N- Você tem razão!\NEu quero desaparecer!
 Dialogue: 0,0:21:49.21,0:21:52.59,Main,,0,0,0,,Se é isso que vocês vieram dizer, vão embora, seus idiotas!
 Dialogue: 0,0:21:52.59,0:21:54.84,Main,,0,0,0,,Espere um minuto! Não foi isso!
 Dialogue: 0,0:21:54.84,0:21:56.44,Main,,0,0,0,,Sanji da Perna Negra!
@@ -500,7 +500,7 @@ Dialogue: 0,0:22:23.62,0:22:24.45,Main,,0,0,0,,Uh-huh!
 Dialogue: 0,0:22:24.45,0:22:30.54,Main,,0,0,0,,Hmph!\NTalvez esse seja o resultado final!\NMas, ao contrário da minha irmã, não estou fazendo isso por você!
 Dialogue: 0,0:22:30.54,0:22:35.48,Main,,0,0,0,,O bolo que eu estava planejando fazer para mim era aquele que mamãe está desejando agora!
 Dialogue: 0,0:22:35.48,0:22:40.09,Main,,0,0,0,,A-A-E aconteceu de eu estar nesta área!\NEu não sabia que vocês estavam aqui!
-Dialogue: 0,0:22:41.51,0:22:49.52,Main,,0,0,0,,E-Então não é como se eu tivesse vindo até aqui para impedi-la porque não queria que você morresse, Sanji.\N.\N.
+Dialogue: 0,0:22:41.51,0:22:49.52,Main,,0,0,0,,E-Então não é como se eu tivesse vindo até aqui para impedi-la porque não queria que você morresse, Sanji...
 Dialogue: 0,0:22:50.18,0:22:51.64,Main,,0,0,0,,{\i1}-san!
 Dialogue: 0,0:22:55.75,0:22:58.44,Thoughts,,0,0,0,,Suas emoções são como uma montanha-russa!
 Dialogue: 0,0:22:58.44,0:23:00.80,Main,,0,0,0,,Eu vejo! Isso é bom!
@@ -518,7 +518,7 @@ Dialogue: 0,0:23:38.29,0:23:39.25,Main,,0,0,0,,Vamos!
 Dialogue: 0,0:23:39.25,0:23:41.06,Main,,0,0,0,,Então... eu irei com você!
 Dialogue: 0,0:23:41.06,0:23:41.60,Main,,0,0,0,,O que?!
 Dialogue: 0,0:23:41.60,0:23:43.30,Main,,0,0,0,,Sim, apresse-se e suba!
-Dialogue: 0,0:23:43.30,0:23:47.98,Main,,0,0,0,,W-W-Espere!\NQuem disse que você poderia andar conosco, idiota?\N!
+Dialogue: 0,0:23:43.30,0:23:47.98,Main,,0,0,0,,W-W-Espere!\NQuem disse que você poderia andar conosco, idiota?!
 Dialogue: 0,0:23:47.98,0:23:50.91,Main,,0,0,0,,Bolo!
 Dialogue: 0,0:23:58.34,0:23:59.76,Main,,0,0,0,,Ela se levantou!
 Dialogue: 0,0:24:02.14,0:24:07.56,Main,,0,0,0,,O bolo que vocês estão fazendo é a única maneira de impedir a Big Mom!
@@ -582,7 +582,7 @@ Dialogue: 0,0:27:58.65,0:28:02.23,Main,,0,0,0,,O-Ou eu mato você, Sanji...
 Dialogue: 0,0:28:02.23,0:28:03.61,Main,,0,0,0,,{\i1}-san!
 Dialogue: 0,0:28:05.13,0:28:07.94,Main,,0,0,0,,Vejo o litoral à frente!
 Dialogue: 0,0:28:07.94,0:28:09.10,Main,,0,0,0,,Se apresse!
-Dialogue: 0,0:28:09.10,0:28:13.90,Main,,0,0,0,,Nós conseguimos!\NMas.\N.\N.\Nserá que Pudding está mesmo do nosso lado agora?\N!
+Dialogue: 0,0:28:09.10,0:28:13.90,Main,,0,0,0,,Nós conseguimos!\NMas...\Nserá que Pudding está mesmo do nosso lado agora?!
 Dialogue: 0,0:28:13.90,0:28:19.03,Main,,0,0,0,,Não sei!\NNão devemos baixar a guarda até escaparmos do território deles!
 Dialogue: 0,0:28:23.27,0:28:25.91,Main,,0,0,0,,Eu não vou deixar você fugir!
 Dialogue: 0,0:28:26.51,0:28:28.50,Main,,0,0,0,,Ei, Zéus!
@@ -591,9 +591,9 @@ Dialogue: 0,0:28:37.38,0:28:39.63,Main,,0,0,0,,Por que você nos envolveu?!
 Dialogue: 0,0:28:39.63,0:28:43.28,Main,,0,0,0,,Me desculpe... eu não queria que isso acontecesse...
 Dialogue: 0,0:28:43.28,0:28:48.40,Main,,0,0,0,,Eu não me importo com o que você pretendia fazer!\NÉ melhor você prestar atenção na próxima vez!
 Dialogue: 0,0:28:48.40,0:28:51.15,Main,,0,0,0,,Sim, você está certo...
-Dialogue: 0,0:28:51.15,0:28:56.11,Main,,0,0,0,,Mas eles eram tão deliciosos.\N.\N.\NAqueles ovos de nuvem de tempestade.
+Dialogue: 0,0:28:51.15,0:28:56.11,Main,,0,0,0,,Mas eles eram tão deliciosos...\NAqueles ovos de nuvem de tempestade.
 Dialogue: 0,0:28:56.11,0:28:56.94,Main,,0,0,0,,Huh?!
-Dialogue: 0,0:28:56.94,0:29:02.49,Main,,0,0,0,,Ei, você está realmente me ouvindo?\N!\NAs ordens da mamãe são absolutas!
+Dialogue: 0,0:28:56.94,0:29:02.49,Main,,0,0,0,,Ei, você está realmente me ouvindo?!\NAs ordens da mamãe são absolutas!
 Dialogue: 0,0:29:02.49,0:29:04.58,Main,,0,0,0,,Eu sei...
 Dialogue: 0,0:29:07.22,0:29:09.49,Main,,0,0,0,,Dê para mim!
 Dialogue: 0,0:29:09.49,0:29:14.84,Main,,0,0,0,,Meu bolo de casamento!
@@ -614,7 +614,7 @@ Dialogue: 0,0:30:23.80,0:30:27.03,Main,,0,0,0,,Nenhum deles irá regressar a est
 Dialogue: 0,0:30:30.49,0:30:34.79,Main,,0,0,0,,Tenho dito que quero mostrar misericórdia de vocês dois.
 Dialogue: 0,0:30:34.79,0:30:40.46,Main,,0,0,0,,Não importa o quanto você tente, nossos soldados passarão pelo espelho indefinidamente.
 Dialogue: 0,0:30:40.46,0:30:44.76,Main,,0,0,0,,E vocês acabarão gastando toda a sua energia.
-Dialogue: 0,0:30:44.76,0:30:51.14,Main,,0,0,0,,Se você enviar aqui e agora, pelo menos pouparei sua vida.\N.\N.
+Dialogue: 0,0:30:44.76,0:30:51.14,Main,,0,0,0,,Se você enviar aqui e agora, pelo menos pouparei sua vida...
 Dialogue: 0,0:30:51.14,0:30:53.48,Main,,0,0,0,,Apenas desista já.
 Dialogue: 0,0:30:55.01,0:30:57.69,Main,,0,0,0,,Que conversa tola.
 Dialogue: 0,0:30:58.65,0:31:03.01,Main,,0,0,0,,Estamos cansados ​​de responder a isso.
@@ -633,7 +633,7 @@ Dialogue: 0,0:32:04.49,0:32:06.66,Main,,0,0,0,,Esse é o seu navio?
 Dialogue: 0,0:32:06.66,0:32:09.24,Main,,0,0,0,,Sim, está sendo atacado.
 Dialogue: 0,0:32:09.24,0:32:11.80,Main,,0,0,0,,Acho que eles foram emboscados...
 Dialogue: 0,0:32:11.80,0:32:15.56,Main,,0,0,0,,Oh não! Nossos irmãos mais velhos estão lá!
-Dialogue: 0,0:32:16.95,0:32:20.75,Main,,0,0,0,,{\i1}Nossos irmãos mais velhos estão atacando os amigos de Sanji-san.\N.\N.
+Dialogue: 0,0:32:16.95,0:32:20.75,Main,,0,0,0,,{\i1}Nossos irmãos mais velhos estão atacando os amigos de Sanji-san...
 Dialogue: 0,0:32:20.75,0:32:22.88,Main,,0,0,0,,Hmph! Seus amigos estão ferrados!
 Dialogue: 0,0:32:22.88,0:32:27.01,Main,,0,0,0,,Isso vai te ensinar!\NEsses dois não são páreo para nossos irmãos!
 Dialogue: 0,0:32:27.01,0:32:31.03,Main,,0,0,0,,Seus amigos serão engolidos pelo mar!

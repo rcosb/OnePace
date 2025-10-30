@@ -54,20 +54,20 @@ Dialogue: 0,0:02:39.03,0:02:42.47,Main-480p,,0,0,0,,Agora você pode finalmente 
 Dialogue: 0,0:02:42.47,0:02:47.52,Main-480p,,0,0,0,,{Well}Isto é, supondo que possamos evitar problemas ao longo do caminho.
 Dialogue: 0,0:02:47.52,0:02:51.28,Main-480p,,0,0,0,,{I must return!}Sim. Já é hora de voltar!
 Dialogue: 0,0:02:51.28,0:02:54.07,Main-480p,,0,0,0,,Afinal, eu estou...
-Dialogue: 0,0:02:54.07,0:02:57.53,Flashbacks-480p,,0,0,0,,{way to save}.\N.\N.\No único que pode salvar o reino, Princesa!
+Dialogue: 0,0:02:54.07,0:02:57.53,Flashbacks-480p,,0,0,0,,{way to save}...\No único que pode salvar o reino, Princesa!
 Dialogue: 0,0:02:57.53,0:03:02.55,Flashbacks-480p,,0,0,0,,{has sway with the people now.\N}O rei – seu pai – não tem mais domínio sobre seu povo.
-Dialogue: 0,0:03:02.55,0:03:06.69,Flashbacks-480p,,0,0,0,,{Our only hope of stopping\Nthis uprising now}Nossa única esperança de conter a onda de rebelião.\N.\N.
+Dialogue: 0,0:03:02.55,0:03:06.69,Flashbacks-480p,,0,0,0,,{Our only hope of stopping\Nthis uprising now}Nossa única esperança de conter a onda de rebelião...
 Dialogue: 0,0:03:06.69,0:03:09.50,Flashbacks-480p,,0,0,0,,{is for you to tell the people\Nthe truth directly!\N}é que o país ouça a verdade diretamente de você.
 Dialogue: 0,0:03:10.38,0:03:13.33,Flashbacks-480p,,0,0,0,,{what}Então, não importa o custo, você não deve morrer!
 Dialogue: 0,0:03:13.33,0:03:16.31,Flashbacks-480p,,0,0,0,,{You must live on, even if \Nit means losing those near to you}Se isso significa que você sobreviverá, sacrifique as pessoas mais próximas de você
 Dialogue: 0,0:03:16.31,0:03:18.67,Flashbacks-480p,,0,0,0,,{or having to betray others!}ou traí-los para seus inimigos!
 Dialogue: 0,0:03:18.67,0:03:20.34,Flashbacks-480p,,0,0,0,,{painful}Será uma agonia!
 Dialogue: 0,0:03:20.34,0:03:24.80,Flashbacks-480p,,0,0,0,,{prepared not to die}Princesa Vivi!\NVocê está decidido a permanecer vivo?
-Dialogue: 0,0:03:27.70,0:03:30.68,Main-480p,,0,0,0,,{I will return to Arabasta, alive.\N.\N.\N}Continuarei vivo e voltarei para Alabasta.
+Dialogue: 0,0:03:27.70,0:03:30.68,Main-480p,,0,0,0,,{I will return to Arabasta, alive...\N}Continuarei vivo e voltarei para Alabasta.
 Dialogue: 0,0:03:37.94,0:03:41.70,Main-480p,,0,0,0,,{There's no}Não há necessidade de se esforçar tanto, Vivi-chan.
 Dialogue: 0,0:03:42.95,0:03:44.20,Main-480p,,0,0,0,,Você me tem!
 Dialogue: 0,0:03:45.30,0:03:48.80,Main-480p,,0,0,0,,{Today's relaxing sweets.\N\NHow about some petit fours?\N}Os doces de hoje vão deixar você tranquilo.\NPequenos quatros?
-Dialogue: 0,0:03:48.80,0:03:51.41,Main-480p,,0,0,0,,{.\N.\N.\N}Para bebidas, você pode escolher entre café ou chá.
+Dialogue: 0,0:03:48.80,0:03:51.41,Main-480p,,0,0,0,,{...\N}Para bebidas, você pode escolher entre café ou chá.
 Dialogue: 0,0:03:52.44,0:03:53.88,Main-480p,,0,0,0,,{\i1}Sanji-san.
 Dialogue: 0,0:03:58.71,0:04:01.08,Main-480p,,0,0,0,,O seu está na cozinha!
 Dialogue: 0,0:04:01.08,0:04:02.84,Main-480p,,0,0,0,,{Alright!}Tudo bem!
@@ -76,7 +76,7 @@ Dialogue: 0,0:04:10.68,0:04:12.44,Main-480p,,0,0,0,,2603,
 Dialogue: 0,0:04:13.25,0:04:14.81,Main-480p,,0,0,0,,2604,
 Dialogue: 0,0:04:15.58,0:04:16.65,Main-480p,,0,0,0,,2605,
 Dialogue: 0,0:04:17.87,0:04:19.79,Main-480p,,0,0,0,,2606,
-Dialogue: 0,0:04:22.65,0:04:25.92,Main-480p,,0,0,0,,{If only I could've cut that wax.\N.\N.\N}Se ao menos eu tivesse conseguido cortar aquela cera.\N.\N.
+Dialogue: 0,0:04:22.65,0:04:25.92,Main-480p,,0,0,0,,{If only I could've cut that wax...\N}Se ao menos eu tivesse conseguido cortar aquela cera...
 Dialogue: 0,0:04:27.26,0:04:30.03,Main-480p,,0,0,0,,{I wouldn't have left anyone hanging...}teríamos escapado muito antes.
 Dialogue: 0,0:04:32.66,0:04:34.21,Main-480p,,0,0,0,,{...}Estou fraco.
 Dialogue: 0,0:04:35.83,0:04:38.17,Main-480p,,0,0,0,,{If I'm gonna get stronger...}preciso ficar mais forte...
@@ -85,7 +85,7 @@ Dialogue: 0,0:04:47.47,0:04:51.14,Captions-480p,,0,0,0,,{\pos(320,319)\c&H000000
 Dialogue: 1,0:04:47.47,0:04:51.14,Captions-480p,,0,0,0,,{\pos(320,319)\bord0\4a&HFF&\blur0.5\fad(650,0)}Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 Dialogue: 0,0:04:51.14,0:04:56.10,Main-480p,,0,0,0,,{\i1}Senhor 2!\NBon Kurei-sama !\NO Swanda está pronto para zarpar!
 Dialogue: 0,0:04:56.94,0:05:01.19,Main-480p,,0,0,0,,{You're so loud, sheesh!}Ok, ok! Reduza um pouco!
-Dialogue: 0,0:05:01.19,0:05:04.93,Main-480p,,0,0,0,,{, now}Honestamente!\NWhat does any of this have to do with me?\N!
+Dialogue: 0,0:05:01.19,0:05:04.93,Main-480p,,0,0,0,,{, now}Honestamente!\NWhat does any of this have to do with me?!
 Dialogue: 0,0:05:04.93,0:05:08.03,Main-480p,,0,0,0,,{Mr.\N3 is nothing but bulky garbage!\N\NYou guys go toss him out!\N}Mr.\N3 é uma perda de espaço!\NVocês vão acabar com ele!
 Dialogue: 0,0:05:08.03,0:05:09.50,Main-480p,,0,0,0,,N-Não podemos!
 Dialogue: 0,0:05:09.50,0:05:12.08,Main-480p,,0,0,0,,{We wouldn't stand a chance,\Neven if we ganged up on him!\N}Mesmo todos nós juntos não teríamos a menor chance!
@@ -105,7 +105,7 @@ Dialogue: 0,0:06:04.16,0:06:05.67,Main-480p,,0,0,0,,{Nami-san has a terrible fev
 Dialogue: 0,0:06:05.67,0:06:08.26,Main-480p,,0,0,0,,{Eh}Dizer o que?! Nami-san é o quê?!
 Dialogue: 0,0:06:25.27,0:06:29.41,Main-480p,,0,0,0,,{\i1}Nami-san vai morrer?\NMe conta, Vivi-chan!
 Dialogue: 0,0:06:38.22,0:06:39.74,Main-480p,,0,0,0,,Provavelmente é o clima.
-Dialogue: 0,0:06:39.74,0:06:43.99,Main-480p,,0,0,0,,{One of the obstacles all sailors \Nwho enter the Grand Line run into}Doenças causadas por condições climáticas anormais são um obstáculo bem conhecido.\N.\N.
+Dialogue: 0,0:06:39.74,0:06:43.99,Main-480p,,0,0,0,,{One of the obstacles all sailors \Nwho enter the Grand Line run into}Doenças causadas por condições climáticas anormais são um obstáculo bem conhecido...
 Dialogue: 0,0:06:43.99,0:06:45.92,Main-480p,,0,0,0,,{is illness caused by abnormal weather.}para aqueles que são novos na Grand Line.
 Dialogue: 0,0:06:46.86,0:06:53.00,Main-480p,,0,0,0,,{There are countless stories of tough, notorious pirates}Existem inúmeras histórias dos piratas mais difíceis e infames...
 Dialogue: 0,0:06:53.00,0:06:54.60,Main-480p,,0,0,0,,morrendo de repente por causa disso.
@@ -115,8 +115,8 @@ Dialogue: 0,0:07:02.88,0:07:06.53,Main-480p,,0,0,0,,{Is there anyone on this shi
 Dialogue: 0,0:07:11.95,0:07:16.82,Main-480p,,0,0,0,,{But eating meat makes \Nsickness go away!\NRight, Sanji?\N}Comer carne faz você se sentir melhor!\NCerto, Sanji?
 Dialogue: 0,0:07:16.82,0:07:20.88,Main-480p,,0,0,0,,{I can make some basic food\Nmeant for sick people,}Sabe, consigo pensar em algumas refeições destinadas a cuidar de pessoas doentes,
 Dialogue: 0,0:07:20.88,0:07:22.99,Main-480p,,0,0,0,,{but that's entirely in \N"nursing" territory.\N}mas enfermagem está fora da minha especialidade.
-Dialogue: 0,0:07:22.99,0:07:25.09,Main-480p,,0,0,0,,{There's no guarantee \Nit'd make her better.\N.\N.\N}Não há como dizer se isso ajudaria.
-Dialogue: 0,0:07:25.87,0:07:28.26,Main-480p,,0,0,0,,{Besides, I normally put\N100 times more care.\N.\N.\N}Dito isto, coloquei cem vezes.\N.\N.
+Dialogue: 0,0:07:22.99,0:07:25.09,Main-480p,,0,0,0,,{There's no guarantee \Nit'd make her better...\N}Não há como dizer se isso ajudaria.
+Dialogue: 0,0:07:25.87,0:07:28.26,Main-480p,,0,0,0,,{Besides, I normally put\N100 times more care...\N}Dito isto, coloquei cem vezes...
 Dialogue: 0,0:07:28.26,0:07:34.01,Main-480p,,0,0,0,,{into}o cuidado com as refeições da Nami-san e da Vivi-chan do que eu com as suas.
 Dialogue: 0,0:07:34.01,0:07:37.98,Main-480p,,0,0,0,,{I serve them fresh meat and vegetables, for balanced nutrition.\N}Para equilibrar a dieta, sirvo-lhes apenas carne fresca e vegetais.
 Dialogue: 0,0:07:37.98,0:07:41.08,Main-480p,,0,0,0,,E eu dou todas as coisas podres para vocês.
@@ -130,15 +130,15 @@ Dialogue: 0,0:08:00.95,0:08:03.42,Main-480p,,0,0,0,,{...}Não posso fazer essa l
 Dialogue: 0,0:08:03.42,0:08:06.04,Main-480p,,0,0,0,,{Then she can just eat it all!}Então alimente-a com tudo!
 Dialogue: 0,0:08:06.04,0:08:10.51,Main-480p,,0,0,0,,{She's sick because she doesn't \Nhave the energy for that!\N}Exagerar assim provavelmente a deixará mais doente!
 Dialogue: 0,0:08:11.95,0:08:15.09,Main-480p,,0,0,0,,{ again}40 graus?! A febre dela subiu!
-Dialogue: 0,0:08:15.09,0:08:18.33,Main-480p,,0,0,0,,{There'll be doctors when we \Nget to Arabasta, right?\N!\N}Tem médico em Alabasta, né?\N!
+Dialogue: 0,0:08:15.09,0:08:18.33,Main-480p,,0,0,0,,{There'll be doctors when we \Nget to Arabasta, right?!\N}Tem médico em Alabasta, né?!
 Dialogue: 0,0:08:18.33,0:08:20.31,Main-480p,,0,0,0,,{much longer will it take}Quanto tempo até chegarmos, Vivi?
-Dialogue: 0,0:08:21.21,0:08:25.06,Main-480p,,0,0,0,,{I don't know, but one week is out of the question.\N.\N.\N}Uma semana talvez, mas pode ser tarde demais.
+Dialogue: 0,0:08:21.21,0:08:25.06,Main-480p,,0,0,0,,{I don't know, but one week is out of the question...\N}Uma semana talvez, mas pode ser tarde demais.
 Dialogue: 0,0:08:25.70,0:08:27.73,Main-480p,,0,0,0,,{\i1}Estar doente é tão ruim assim?
 Dialogue: 0,0:08:27.73,0:08:30.46,Main-480p,,0,0,0,,{...}Não sei. Nunca estive doente.
 Dialogue: 0,0:08:30.46,0:08:33.07,Main-480p,,0,0,0,,{\i1}Quem no mundo são vocês?!
 Dialogue: 0,0:08:33.07,0:08:38.53,Main-480p,,0,0,0,,Claro que é ruim!\NAs febres de 40°C não acontecem todos os dias!
 Dialogue: 0,0:08:38.53,0:08:42.25,Main-480p,,0,0,0,,{This may be a life-threatening illness...}A vida dela pode muito bem estar em jogo.
-Dialogue: 0,0:08:43.46,0:08:47.71,Main-480p,,0,0,0,,{\i1}– Nami vai morrer?\N!\N– Não morra, Nami-san!
+Dialogue: 0,0:08:43.46,0:08:47.71,Main-480p,,0,0,0,,{\i1}– Nami vai morrer?!\N– Não morra, Nami-san!
 Dialogue: 0,0:08:49.08,0:08:50.92,Main-480p,,0,0,0,,Estabeleça-se! Fique quieto!
 Dialogue: 0,0:08:50.92,0:08:54.51,Main-480p,,0,0,0,,Vamos encontrar um médico para ajudar a Nami!
 Dialogue: 0,0:08:54.51,0:08:56.85,Main-480p,,0,0,0,,OK! Apenas acalme-se!
@@ -148,33 +148,33 @@ Dialogue: 0,0:09:02.37,0:09:03.61,Main-480p,,0,0,0,,{No.}Não...
 Dialogue: 0,0:09:04.74,0:09:06.10,Main-480p,,0,0,0,,{\i1}Nami-san?
 Dialogue: 0,0:09:06.10,0:09:07.72,Main-480p,,0,0,0,,Oh! Ela está melhor!
 Dialogue: 0,0:09:07.72,0:09:08.56,Main-480p,,0,0,0,,Caia na real!
-Dialogue: 0,0:09:10.27,0:09:14.90,Main-480p,,0,0,0,,{.\N.\N.\N}Na gaveta da minha escrivaninha.\N.\N.\Nhá um jornal.
+Dialogue: 0,0:09:10.27,0:09:14.90,Main-480p,,0,0,0,,{...\N}Na gaveta da minha escrivaninha...\Nhá um jornal.
 Dialogue: 0,0:09:19.34,0:09:22.45,Main-480p,,0,0,0,,{}Nenhuma mudança... claro.
 Dialogue: 0,0:09:23.22,0:09:25.16,Main-480p,,0,0,0,,N-Não!
 Dialogue: 0,0:09:25.16,0:09:27.04,Main-480p,,0,0,0,,{That}Isso não pode ser!
 Dialogue: 0,0:09:27.04,0:09:29.08,Main-480p,,0,0,0,,Ei. O que é?
 Dialogue: 0,0:09:29.08,0:09:31.25,Main-480p,,0,0,0,,{\i1}É sobre Alabasta, Vivi-chan?
-Dialogue: 0,0:09:31.94,0:09:36.59,Main-480p,,0,0,0,,{defected to the Resistance.\N.\N.\N}300.\N000 soldados reais acabaram de desertar para a Rebelião.
+Dialogue: 0,0:09:31.94,0:09:36.59,Main-480p,,0,0,0,,{defected to the Resistance...\N}300.\N000 soldados reais acabaram de desertar para a Rebelião.
 Dialogue: 0,0:09:39.18,0:09:42.19,Main-480p,,0,0,0,,{It was originally a cold war,}Tudo isto começou como uma guerra fria.,
-Dialogue: 0,0:09:42.19,0:09:46.04,Main-480p,,0,0,0,,{with 600,000 royal soldiers and\N400,000 Resistance soldiers.\N.\N.\N}com 600.\N000 soldados reais dissuadindo os 400.\N000 rebeldes.
+Dialogue: 0,0:09:42.19,0:09:46.04,Main-480p,,0,0,0,,{with 600,000 royal soldiers and\N400,000 Resistance soldiers...\N}com 600.\N000 soldados reais dissuadindo os 400.\N000 rebeldes.
 Dialogue: 0,0:09:46.04,0:09:48.27,Main-480p,,0,0,0,,{But now that's suddenly changed!}Mas isso muda tudo!
-Dialogue: 0,0:09:50.24,0:09:54.61,Main-480p,,0,0,0,,{The uprising in Arabasta is finally \Ngoing to get serious now.\N.\N.\N}As tensões em Alabasta só vão intensificar-se daqui em diante.
+Dialogue: 0,0:09:50.24,0:09:54.61,Main-480p,,0,0,0,,{The uprising in Arabasta is finally \Ngoing to get serious now...\N}As tensões em Alabasta só vão intensificar-se daqui em diante.
 Dialogue: 0,0:09:54.61,0:09:56.61,Main-480p,,0,0,0,,{...}Esse papel é de três dias atrás.
 Dialogue: 0,0:09:57.34,0:10:01.74,Main-480p,,0,0,0,,{We can't change our speed,}Desculpe.\NSó podemos ir até certo ponto.
 Dialogue: 0,0:10:01.74,0:10:04.08,Main-480p,,0,0,0,,{so }Eu não queria preocupar você deixando você ler isso.
 Dialogue: 0,0:10:04.85,0:10:06.58,Main-480p,,0,0,0,,Entendeu, Luffy?
 Dialogue: 0,0:10:07.89,0:10:10.19,Main-480p,,0,0,0,,{Things seem very bad!}As coisas parecem muito ruins!
-Dialogue: 0,0:10:10.19,0:10:12.12,Main-480p,,0,0,0,,{Whew, that got through to\Nyou more than I expected.\N.\N.\N}Oh, tudo bem.\NVocê entendeu a essência disso.
+Dialogue: 0,0:10:10.19,0:10:12.12,Main-480p,,0,0,0,,{Whew, that got through to\Nyou more than I expected...\N}Oh, tudo bem.\NVocê entendeu a essência disso.
 Dialogue: 0,0:10:12.12,0:10:14.55,Main-480p,,0,0,0,,{But you need to see a doctor!}Mas você ainda precisará consultar um médico!
-Dialogue: 0,0:10:14.55,0:10:17.73,Main-480p,,0,0,0,,{.\N.\N.\N}Estou bem.\NEsse termômetro deve estar quebrado.
+Dialogue: 0,0:10:14.55,0:10:17.73,Main-480p,,0,0,0,,{...\N}Estou bem.\NEsse termômetro deve estar quebrado.
 Dialogue: 0,0:10:17.73,0:10:21.14,Main-480p,,0,0,0,,{...}Ninguém atinge uma temperatura de 40°C.
-Dialogue: 0,0:10:21.14,0:10:23.06,Main-480p,,0,0,0,,{.\N.\N.\N}Provavelmente é apenas uma insolação ou algo assim.
-Dialogue: 0,0:10:23.06,0:10:26.64,Main-480p,,0,0,0,,{We don't need a doctor.\N\NI'll get better on my own.\N.\N.\N}Não há tempo para médicos, então vou melhorar sozinho.
+Dialogue: 0,0:10:21.14,0:10:23.06,Main-480p,,0,0,0,,{...\N}Provavelmente é apenas uma insolação ou algo assim.
+Dialogue: 0,0:10:23.06,0:10:26.64,Main-480p,,0,0,0,,{We don't need a doctor.\N\NI'll get better on my own...\N}Não há tempo para médicos, então vou melhorar sozinho.
 Dialogue: 0,0:10:26.64,0:10:30.40,Main-480p,,0,0,0,,Por enquanto, vamos direto para Alabasta conforme planejado!
 Dialogue: 0,0:10:32.14,0:10:35.36,Main-480p,,0,0,0,,Obrigado por se preocupar comigo.
 Dialogue: 0,0:10:40.49,0:10:42.98,Main-480p,,0,0,0,,Oh! Ela está melhor agora?
 Dialogue: 0,0:10:42.98,0:10:45.04,Main-480p,,0,0,0,,{idiot}Seu idiota. Ela está apenas agindo durona.
-Dialogue: 0,0:10:55.25,0:10:59.57,Main-480p,,0,0,0,,{so much blood will\Nbe shed throughout the kingdom.\N}Nesse ritmo, o sangue fluirá pelas ruas do reino.\N.\N.
+Dialogue: 0,0:10:55.25,0:10:59.57,Main-480p,,0,0,0,,{so much blood will\Nbe shed throughout the kingdom.\N}Nesse ritmo, o sangue fluirá pelas ruas do reino...
 Dialogue: 0,0:10:59.57,0:11:01.01,Main-480p,,0,0,0,,{It'll be an all-out war...}em guerra total.
 Dialogue: 0,0:11:01.01,0:11:06.25,Main-480p,,0,0,0,,{stop that}Se eu não impedir isso, isso significará o fim de Alabasta!
 Dialogue: 0,0:11:06.25,0:11:08.98,Main-480p,,0,0,0,,O crocodilo assumirá o controle!
@@ -184,7 +184,7 @@ Dialogue: 0,0:11:15.14,0:11:16.35,Main-480p,,0,0,0,,{If I don't make it in time,
 Dialogue: 0,0:11:16.35,0:11:19.79,Main-480p,,0,0,0,,{a million citizens will \Nkill themselves pointlessly!\N}significa que um milhão de cidadãos se matarão uns aos outros sem sentido!
 Dialogue: 0,0:11:19.79,0:11:22.57,Main-480p,,0,0,0,,Há um milhão de pessoas?!
 Dialogue: 0,0:11:22.57,0:11:26.04,Main-480p,,0,0,0,,{\i1}Que fardo imenso você está carregando, Vivi-chan.
-Dialogue: 0,0:11:39.92,0:11:42.74,Main-480p,,0,0,0,,{Urgh!\NWhat were you\Nwatching all this time?\N!\N}Você estava prestando atenção aqui?\N!
+Dialogue: 0,0:11:39.92,0:11:42.74,Main-480p,,0,0,0,,{Urgh!\NWhat were you\Nwatching all this time?!\N}Você estava prestando atenção aqui?!
 Dialogue: 0,0:11:42.74,0:11:45.51,Main-480p,,0,0,0,,{Whadya talking about?\N\NThe ship's been going straight.\N}O que você quer dizer?\NO navio está indo direto.
 Dialogue: 0,0:11:45.51,0:11:50.16,Main-480p,,0,0,0,,{Look at the compass!\N}Sim, direto em um ângulo reto!\NVocê precisa verificar a pose do log!
 Dialogue: 0,0:11:50.16,0:11:53.87,Main-480p,,0,0,0,,{I don't need to.\N}Por que se preocupar?\NEu estava observando aquela grande nuvem ali.
@@ -201,10 +201,10 @@ Dialogue: 0,0:12:19.95,0:12:24.22,Main-480p,,0,0,0,,{you're}Huh?\NÉ difícil se
 Dialogue: 0,0:12:24.22,0:12:26.00,Main-480p,,0,0,0,,Apenas cale a boca e mova-se!
 Dialogue: 0,0:12:26.00,0:12:28.68,Main-480p,,0,0,0,,{Take the seat}Içar as velas e pegar o vento de bombordo!
 Dialogue: 0,0:12:28.68,0:12:30.52,Main-480p,,0,0,0,,{What's going on}Tudo bem, Nami-san?
-Dialogue: 0,0:12:30.52,0:12:32.89,Main-480p,,0,0,0,,{.\N.\N.\N}As ondas estão calmas e o tempo está bom.
+Dialogue: 0,0:12:30.52,0:12:32.89,Main-480p,,0,0,0,,{...\N}As ondas estão calmas e o tempo está bom.
 Dialogue: 0,0:12:34.15,0:12:35.69,Main-480p,,0,0,0,,{Wind}O vento...
 Dialogue: 0,0:12:36.56,0:12:37.73,Main-480p,,0,0,0,,{Wind}O vento?
-Dialogue: 0,0:12:37.73,0:12:41.19,Main-480p,,0,0,0,,{An immense wind.\N.\N.\N\Nis coming directly this way.\N.\N.\N}O vento está aumentando e vindo diretamente em nossa direção.
+Dialogue: 0,0:12:37.73,0:12:41.19,Main-480p,,0,0,0,,{An immense wind...\N\Nis coming directly this way...\N}O vento está aumentando e vindo diretamente em nossa direção.
 Dialogue: 0,0:12:41.19,0:12:42.94,Main-480p,,0,0,0,,{I think.}Eu acho que-
 Dialogue: 0,0:12:42.94,0:12:44.45,Main-480p,,0,0,0,,O que?
 Dialogue: 0,0:12:44.45,0:12:45.61,Main-480p,,0,0,0,,Quente!
@@ -219,7 +219,7 @@ Dialogue: 0,0:13:07.22,0:13:10.35,Main-480p,,0,0,0,,{I think you really should}O
 Dialogue: 0,0:13:10.35,0:13:12.85,Main-480p,,0,0,0,,{Just hurry and move the ship!}Apenas se apresse e vire o navio!
 Dialogue: 0,0:13:20.49,0:13:21.44,Main-480p,,0,0,0,,{Sheesh...}Mas...
 Dialogue: 0,0:13:22.44,0:13:24.54,Main-480p,,0,0,0,,{W}o que poderia ser?
-Dialogue: 0,0:13:24.54,0:13:27.95,Main-480p,,0,0,0,,{It seems a little different \Nthan a storm.\N.\N.\N}Isso é um pouco diferente de uma tempestade.
+Dialogue: 0,0:13:24.54,0:13:27.95,Main-480p,,0,0,0,,{It seems a little different \Nthan a storm...\N}Isso é um pouco diferente de uma tempestade.
 Dialogue: 0,0:13:54.66,0:13:58.60,Main-480p,,0,0,0,,{...}Preciso voltar correndo para Alabasta.
 Dialogue: 0,0:14:01.75,0:14:03.40,Main-480p,,0,0,0,,{I have a favor to ask, everyone!}Todos! Eu preciso de um favor!
 Dialogue: 0,0:14:04.69,0:14:09.15,Main-480p,,0,0,0,,{I know it's not my place to ask\Nthis as a passenger on your ship,}Como passageiro do seu navio, sei que não tenho o direito de perguntar isso,
@@ -239,7 +239,7 @@ Dialogue: 0,0:14:51.62,0:14:55.49,Main-480p,,0,0,0,,{\i1}Muito bem, Vivi-chan!\N
 Dialogue: 0,0:14:55.49,0:14:57.50,Main-480p,,0,0,0,,{You got guts.}Você tem espírito.
 Dialogue: 0,0:14:58.23,0:15:00.39,Main-480p,,0,0,0,,{...}Obrigado.
 Dialogue: 0,0:15:00.39,0:15:02.05,Main-480p,,0,0,0,,{\i1}Não se esforce demais, Nami-san!
-Dialogue: 0,0:15:05.05,0:15:09.84,Main-480p,,0,0,0,,{Sorry, Vivi.\N.\N.\NI think.\N.\N.\N\NI am kind of.\N.\N.\Nin trouble.\N.\N.\N}Desculpe, Vivi.\NVocê sabe, eu posso estar.\N.\N.\Nem apuros.
+Dialogue: 0,0:15:05.05,0:15:09.84,Main-480p,,0,0,0,,{Sorry, Vivi...\NI think...\N\NI am kind of...\Nin trouble...\N}Desculpe, Vivi.\NVocê sabe, eu posso estar...\Nem apuros.
 Dialogue: 0,0:15:09.84,0:15:11.30,Main-480p,,0,0,0,,{\i1}Nami-san! Aguente firme!
 Dialogue: 0,0:15:12.25,0:15:15.19,Main-480p,,0,0,0,,O que é aquilo?!
 Dialogue: 0,0:15:15.19,0:15:16.78,Main-480p,,0,0,0,,É um ciclone!
@@ -257,7 +257,7 @@ Dialogue: 0,0:15:54.14,0:15:57.10,Main-480p,,0,0,0,,{I've never seen such a navi
 Dialogue: 0,0:15:57.10,0:16:00.06,Main-480p,,0,0,0,,{Alright!}Tudo bem! Vamos nos apressar então!
 Dialogue: 0,0:16:00.80,0:16:03.15,Main-480p,,0,0,0,,Vamos procurar um médico!
 Dialogue: 0,0:16:03.15,0:16:04.27,Main-480p,,0,0,0,,Sim!
-Dialogue: 0,0:16:22.41,0:16:26.75,Main-480p,,0,0,0,,{\i1}O que fazemos, Vivi-chan?\N!\NA febre de Nami-san não vai passar!
+Dialogue: 0,0:16:22.41,0:16:26.75,Main-480p,,0,0,0,,{\i1}O que fazemos, Vivi-chan?!\NA febre de Nami-san não vai passar!
 Dialogue: 0,0:16:26.75,0:16:29.76,Main-480p,,0,0,0,,{\i1}Sanji-san!\NKaroo!\NEu pedi para você parar de surtar!
 Dialogue: 0,0:16:36.30,0:16:38.39,Main-480p,,0,0,0,,Ver algum médico?!
 Dialogue: 0,0:16:38.39,0:16:40.26,Main-480p,,0,0,0,,{Do you expect him to, you idiot?}Você realmente espera que ele faça isso, idiota?
@@ -280,7 +280,7 @@ Dialogue: 0,0:17:56.34,0:17:59.85,Main-480p,,0,0,0,,{Don't tell me this... is a 
 Dialogue: 0,0:18:21.95,0:18:25.08,Main-480p,,0,0,0,,Besteira! Um navio pirata!
 Dialogue: 0,0:18:25.08,0:18:26.96,Main-480p,,0,0,0,,{W-wow!}S-Tão legal!
 Dialogue: 0,0:18:26.96,0:18:29.67,Main-480p,,0,0,0,,{...}Justamente quando estamos com pressa.
-Dialogue: 0,0:18:32.56,0:18:38.74,Main-480p,,0,0,0,,{Did our jumbo underwater raid ship,\Nthe Bliking, surprise you?\N!\N}Surpreso?\N!\NÉ o nosso enorme navio de ataque submersível, o Bliking!
+Dialogue: 0,0:18:32.56,0:18:38.74,Main-480p,,0,0,0,,{Did our jumbo underwater raid ship,\Nthe Bliking, surprise you?!\N}Surpreso?!\NÉ o nosso enorme navio de ataque submersível, o Bliking!
 Dialogue: 0,0:18:43.56,0:18:45.19,Main-480p,,0,0,0,,{\i1}Vivi-chan! Assumir!
 Dialogue: 0,0:18:45.19,0:18:46.18,Main-480p,,0,0,0,,OK!
 Dialogue: 0,0:18:46.85,0:18:49.23,Main-480p,,0,0,0,,Ei! O que está acontecendo?!
@@ -293,9 +293,9 @@ Dialogue: 0,0:19:28.73,0:19:33.98,Captions-480p,,0,0,0,,{\blur0.\N5\fad(230,0)\p
 Dialogue: 1,0:19:28.73,0:19:33.98,Captions-480p,,0,0,0,,{\bord0\blur0.\N5\fad(230,0)\pos(320,262)\4a&HFF&}Piratas Bliking "Placa de Lata" Wapol
 Dialogue: 0,0:19:28.87,0:19:30.75,Main-480p,,0,0,0,,Acho difícil acreditar...
 Dialogue: 0,0:19:30.75,0:19:33.98,Main-480p,,0,0,0,,que um grupo pirata teria apenas quatro pessoas.
-Dialogue: 0,0:19:38.16,0:19:41.66,Main-480p,,0,0,0,,{What is that guy?\N!\N\NHe even ate the knife!\N}O que é esse cara?\N!\NEle até comeu a faca!
+Dialogue: 0,0:19:38.16,0:19:41.66,Main-480p,,0,0,0,,{What is that guy?!\N\NHe even ate the knife!\N}O que é esse cara?!\NEle até comeu a faca!
 Dialogue: 0,0:19:43.09,0:19:45.03,Main-480p,,0,0,0,,Só de assistir dói!
-Dialogue: 0,0:19:46.16,0:19:49.75,Main-480p,,0,0,0,,{I'll start by asking this.\N.\N.\N}Bem, não importa.\NPrimeiro, uma pergunta para você.
+Dialogue: 0,0:19:46.16,0:19:49.75,Main-480p,,0,0,0,,{I'll start by asking this...\N}Bem, não importa.\NPrimeiro, uma pergunta para você.
 Dialogue: 0,0:19:49.75,0:19:52.97,Main-480p,,0,0,0,,Queremos ir para o Reino de Drum.
 Dialogue: 0,0:19:52.97,0:19:56.85,Main-480p,,0,0,0,,Por acaso você tem uma pose eterna ou uma pose de tronco?
 Dialogue: 0,0:19:56.85,0:20:01.84,Main-480p,,0,0,0,,Não. Nunca ouvi falar do lugar.
@@ -321,9 +321,9 @@ Dialogue: 0,0:20:58.40,0:21:02.40,Main-480p,,0,0,0,,{\i1}Karoo!\NAssista Nami-sa
 Dialogue: 0,0:21:04.58,0:21:07.49,Main-480p,,0,0,0,,{Don't do anything you can't handle!\N}Não morda mais do que você pode mastigar!
 Dialogue: 0,0:21:07.49,0:21:08.58,Main-480p,,0,0,0,,Recepção!
 Dialogue: 0,0:21:32.55,0:21:33.89,Main-480p,,0,0,0,,{...}Todos latem e não mordem.
-Dialogue: 0,0:21:33.89,0:21:36.60,Main-480p,,0,0,0,,{\i1}W-Wapol-sama!\NEsses caras são.\N.\N.\N!
+Dialogue: 0,0:21:33.89,0:21:36.60,Main-480p,,0,0,0,,{\i1}W-Wapol-sama!\NEsses caras são...!
 Dialogue: 0,0:21:39.04,0:21:40.21,Main-480p,,0,0,0,,{Are you still eating it?!}Pare de comer meu navio!
-Dialogue: 0,0:21:40.21,0:21:42.11,Main-480p,,0,0,0,,{.\N.\N.\N}Diga, este navio não tem um gosto nada ruim.
+Dialogue: 0,0:21:40.21,0:21:42.11,Main-480p,,0,0,0,,{...\N}Diga, este navio não tem um gosto nada ruim.
 Dialogue: 0,0:21:42.11,0:21:43.24,Main-480p,,0,0,0,,Ei, você!
 Dialogue: 0,0:21:43.24,0:21:45.25,Main-480p,,0,0,0,,{Fool}Seu idiota!\NVocê não é páreo para Wapol-sama!
 Dialogue: 0,0:21:45.25,0:21:47.74,Main-480p,,0,0,0,,{Time to get eaten by the power\Nof the Munch Munch Fruit!\N}Seu poder Munch Munch Fruit irá comê-lo inteiro!
@@ -363,7 +363,7 @@ Dialogue: 0,0:24:54.05,0:24:56.26,Main-480p,,0,0,0,,{\i1}Vivi-chan?
 Dialogue: 0,0:24:56.26,0:24:58.95,Main-480p,,0,0,0,,Uma ilha de inverno está próxima.\NTenho certeza disso.
 Dialogue: 0,0:24:58.95,0:25:00.64,Main-480p,,0,0,0,,{– }Ilha de inverno?
 Dialogue: 0,0:25:00.64,0:25:06.15,Main-480p,,0,0,0,,{Climatically}Em termos climáticos, a Grand Line tem quatro tipos básicos de ilhas:
-Dialogue: 0,0:25:06.15,0:25:11.05,Main-480p,,0,0,0,,{Summer islands, spring islands,\Nautumn islands, and winter islands.\N.\N.\N}Ilhas de verão, ilhas de primavera, ilhas de outono e ilhas de inverno.
+Dialogue: 0,0:25:06.15,0:25:11.05,Main-480p,,0,0,0,,{Summer islands, spring islands,\Nautumn islands, and winter islands...\N}Ilhas de verão, ilhas de primavera, ilhas de outono e ilhas de inverno.
 Dialogue: 0,0:25:11.05,0:25:14.41,Main-480p,,0,0,0,,{\fad(0,400)}Além disso, cada um geralmente tem quatro temporadas próprias.
 Dialogue: 1,0:25:14.03,0:25:25.87,Sign-Seasons,,0,0,0,,{\an8\pos(320,37)\c&H000000&\1a&HFF&\blur0.6\fad(1200,0)\q2\t(0,1200,\1a&H00&)}Verão Verão Invernal Inverno
 Dialogue: 2,0:25:14.03,0:25:25.87,Sign-Seasons,,0,0,0,,{\an8\pos(320,37)\bord0\c&H4538C4&\4a&HFF&\blur0.6\fad(1200,0)\q2}Verão Verão Invernal Inverno
@@ -385,7 +385,7 @@ Dialogue: 0,0:26:07.59,0:26:09.99,Main-480p,,0,0,0,,Há uma ilha! Uma ilha! Ilha
 Dialogue: 0,0:26:09.99,0:26:15.99,Main-480p,,0,0,0,,Ilha! Ilha! Ilha! Ilha!
 Dialogue: 0,0:26:15.99,0:26:18.38,Main-480p,,0,0,0,,{Just go look.\NI got her covered.\N}Basta ir olhar já.\NEu vou cuidar dela.
 Dialogue: 0,0:26:22.64,0:26:26.02,Main-480p,,0,0,0,,Uma ilha!
-Dialogue: 0,0:26:26.02,0:26:30.01,Main-480p,,0,0,0,,{It's so}Branco!\NTão branco!\NTem que ser neve!\NUma ilha de neve, né?\N!
+Dialogue: 0,0:26:26.02,0:26:30.01,Main-480p,,0,0,0,,{It's so}Branco!\NTão branco!\NTem que ser neve!\NUma ilha de neve, né?!
 Dialogue: 0,0:26:30.01,0:26:34.35,Main-480p,,0,0,0,,{Just so you know,\Nwe're not here to have an adventure!\N}Oi, Luffy!\NLembre-se de que este não é o momento para aventuras!
 Dialogue: 0,0:26:34.35,0:26:36.15,Main-480p,,0,0,0,,{We're dropping by to find a doctor!}É uma parada rápida para encontrar um médico.
 Dialogue: 0,0:26:36.15,0:26:38.65,Main-480p,,0,0,0,,{We're leaving once\Nwe get Nami-san looked at!\N}Depois que Nami-san olhar, nós iremos embora!
@@ -393,7 +393,7 @@ Dialogue: 0,0:26:38.65,0:26:41.00,Main-480p,,0,0,0,,Ei! Oi, Luffy!
 Dialogue: 0,0:26:41.00,0:26:44.70,Main-480p,,0,0,0,,A neve é ​​tão bonita e branca!
 Dialogue: 0,0:26:44.70,0:26:46.34,Main-480p,,0,0,0,,{He doesn't hear me...}Não adianta. Ele não está ouvindo.
 Dialogue: 0,0:26:46.34,0:26:49.25,Main-480p,,0,0,0,,H-H-Espere! Isso é uma boa ideia?!
-Dialogue: 0,0:26:49.25,0:26:52.27,Main-480p,,0,0,0,,{couldn't}Se houver neve, não haverá também monstros de neve?\N!
+Dialogue: 0,0:26:49.25,0:26:52.27,Main-480p,,0,0,0,,{couldn't}Se houver neve, não haverá também monstros de neve?!
 Dialogue: 0,0:26:52.27,0:26:54.17,Main-480p,,0,0,0,,{if people live there or not!\N}Além disso, nem temos certeza se esta ilha tem gente!
 Dialogue: 0,0:26:54.17,0:26:57.75,Main-480p,,0,0,0,,Oh não!\NMinha doença crônica de não conseguir entrar nesta ilha!
 Dialogue: 0,0:26:57.75,0:27:01.44,Main-480p,,0,0,0,,Neve! Eu adoro neve! É branco!
@@ -419,7 +419,7 @@ Dialogue: 0,0:28:44.73,0:28:46.12,Main-480p,,0,0,0,,{onboard}Temos uma pessoa do
 Dialogue: 0,0:28:46.12,0:28:49.58,Main-480p,,0,0,0,,{We won't fall for that trick,\Nyou filthy pirates!\N}Isso é um truque sujo, seus piratas bastardos!
 Dialogue: 0,0:28:49.58,0:28:54.08,Main-480p,,0,0,0,,{This is our island!\N\NWe won't let any pirates land here!\N}Na nossa ilha, todo e qualquer pirata está proibido de entrar!
 Dialogue: 0,0:28:54.08,0:28:58.80,Main-480p,,0,0,0,,{Raise anchor and \Nleave now!\NOr else we'll blow your whole ship up!\N}Levante a âncora e parta, ou explodiremos seu navio em pedacinhos!
-Dialogue: 0,0:28:59.94,0:29:03.71,Main-480p,,0,0,0,,{And we've just met, too.\N.\N.\N}Eles realmente nos odeiam.\NE acabamos de nos conhecer.
+Dialogue: 0,0:28:59.94,0:29:03.71,Main-480p,,0,0,0,,{And we've just met, too...\N}Eles realmente nos odeiam.\NE acabamos de nos conhecer.
 Dialogue: 0,0:29:03.71,0:29:05.34,Main-480p,,0,0,0,,{Don't talk back!}Menos conversa!
 Dialogue: 0,0:29:05.34,0:29:06.22,Main-480p,,0,0,0,,Eles estão atirando!
 Dialogue: 0,0:29:06.22,0:29:07.80,Main-480p,,0,0,0,,{didn't}Você não fez simplesmente isso!

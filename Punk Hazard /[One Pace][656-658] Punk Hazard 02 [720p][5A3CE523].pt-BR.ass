@@ -144,7 +144,7 @@ Dialogue: 0,0:13:11.06,0:13:12.98,Main,Luffy,0,0,0,,Ei! Eu vou tirar você daí!
 Dialogue: 0,0:13:12.98,0:13:14.38,Main,Luffy,0,0,0,,Fique quieto!
 Dialogue: 0,0:13:14.38,0:13:16.52,Main,Luffy,0,0,0,,Alô, oh!
 Dialogue: 0,0:13:22.35,0:13:24.86,Main,Luffy,0,0,0,,{\i1}Eu rasguei ele ao meio! Desculpe!
-Dialogue: 0,0:13:24.86,0:13:28.78,Main,Usopp,0,0,0,,{\i1}Idiota, você acha que pedir desculpas vai resolver isso?\N!\NVocê o matou!
+Dialogue: 0,0:13:24.86,0:13:28.78,Main,Usopp,0,0,0,,{\i1}Idiota, você acha que pedir desculpas vai resolver isso?!\NVocê o matou!
 Dialogue: 0,0:13:33.33,0:13:35.29,Main,Kinemon,0,0,0,,Pooh- Estou livre agora?
 Dialogue: 0,0:13:38.67,0:13:41.93,Main,Luffy,0,0,0,,As pernas estão falando! O que está acontecendo?!
 Dialogue: 0,0:13:41.93,0:13:46.55,Main,Usopp,0,0,0,,{\i1}Zumbi! Monstro!
@@ -212,7 +212,7 @@ Dialogue: 0,0:16:55.57,0:16:57.99,Flashbacks,Voice,0,0,0,,Está congelando... É
 Dialogue: 0,0:16:57.99,0:17:02.16,Flashbacks,Voice,0,0,0,,Meus companheiros continuam sendo abatidos.
 Dialogue: 0,0:17:02.16,0:17:04.71,Flashbacks,Voice,0,0,0,,{End copy-paste from 579}O samurai vai matar todos nós!
 Dialogue: 0,0:17:04.71,0:17:10.46,Main,Usopp,0,0,0,,Então o samurai assassino e as suas vítimas estão ali.
-Dialogue: 0,0:17:13.67,0:17:17.82,Main,Luffy,0,0,0,,Esta ilha é tão interessante!\NEstá nevando naquela montanha, certo?\N!
+Dialogue: 0,0:17:13.67,0:17:17.82,Main,Luffy,0,0,0,,Esta ilha é tão interessante!\NEstá nevando naquela montanha, certo?!
 Dialogue: 0,0:17:17.82,0:17:20.72,Main,Luffy,0,0,0,,E está tão quente aqui... Quero comer uma casquinha de neve!
 Dialogue: 0,0:17:20.74,0:17:22.43,Main,Usopp,0,0,0,,Idiota, você realmente está indo para lá?!
 Dialogue: 0,0:17:22.43,0:17:24.06,Main,Usopp,0,0,0,,Vai estar muito frio!
@@ -238,8 +238,8 @@ Dialogue: 0,0:18:31.50,0:18:33.61,Main,Nami,0,0,0,,Dê uma olhada ao redor e voc
 Dialogue: 0,0:18:33.61,0:18:38.78,Main,Chopper,0,0,0,,Isso é terrível, Franky! Estamos presos!
 Dialogue: 0,0:18:42.55,0:18:45.54,Main,Franky,0,0,0,,Ei! Que lugar é esse?!
 Dialogue: 0,0:18:45.54,0:18:47.21,Main,Franky,0,0,0,,Onde estamos?!
-Dialogue: 0,0:18:47.96,0:18:52.80,Main,Franky,0,0,0,,Eu estava no convés comendo aquela sobremesa gigante de marisco e então.\N.\N.\Nnão me lembro!
-Dialogue: 0,0:18:54.05,0:18:57.89,Main,Nami,0,0,0,,Isso é apenas um palpite, mas parece provável que alguém tenha usado gás para dormir.\N.\N.
+Dialogue: 0,0:18:47.96,0:18:52.80,Main,Franky,0,0,0,,Eu estava no convés comendo aquela sobremesa gigante de marisco e então...\Nnão me lembro!
+Dialogue: 0,0:18:54.05,0:18:57.89,Main,Nami,0,0,0,,Isso é apenas um palpite, mas parece provável que alguém tenha usado gás para dormir...
 Dialogue: 0,0:18:57.89,0:19:00.73,Main,Nami,0,0,0,,e nos capturou enquanto estávamos inconscientes!
 Dialogue: 0,0:19:01.24,0:19:02.95,Main,Franky,0,0,0,,O que?!
 Dialogue: 0,0:19:02.95,0:19:06.24,Main,Sanji,0,0,0,,O navio foi gaseado, não há dúvida disso.
@@ -368,7 +368,7 @@ Dialogue: 0,0:26:31.36,0:26:35.86,Main,Nami,0,0,0,,{3 line madness!! Also, not s
 Dialogue: 0,0:26:35.86,0:26:40.48,Main,Nami,0,0,0,,Basicamente, fomos levados para o lado ártico!
 Dialogue: 0,0:26:41.57,0:26:44.08,Main,Nami,0,0,0,,Embora se quisermos saber quem nos trouxe aqui e porquê,
 Dialogue: 0,0:26:44.08,0:26:46.20,Main,Nami,0,0,0,,teremos que sair desta sala e ver por nós mesmos.
-Dialogue: 0,0:26:46.97,0:26:50.36,Main,Sanji,0,0,0,,Mas Nami-san, a porta é sólida.\NNão parece que conseguiremos.\N.\N.
+Dialogue: 0,0:26:46.97,0:26:50.36,Main,Sanji,0,0,0,,Mas Nami-san, a porta é sólida.\NNão parece que conseguiremos...
 Dialogue: 0,0:26:51.01,0:26:52.63,Main,Franky,0,0,0,,Fora do meu caminho!
 Dialogue: 0,0:26:53.09,0:26:55.63,Main,Franky,0,0,0,,Estou com um tanque cheio de cola!
 Dialogue: 0,0:27:03.96,0:27:06.47,Main,Sanji,0,0,0,,Ei! Ei, ei, espere um segundo!
@@ -500,7 +500,7 @@ Dialogue: 0,0:34:15.99,0:34:18.95,Main,Nami,0,0,0,,Desculpe... estamos sendo per
 Dialogue: 0,0:34:32.16,0:34:33.47,Main,Chopper,0,0,0,,O que está acontecendo?!
 Dialogue: 0,0:34:33.47,0:34:35.13,Main,Chopper,0,0,0,,Ei, vamos levá-los conosco!
 Dialogue: 0,0:34:35.13,0:34:38.71,Main,Franky,0,0,0,,Idiota! Nós nem sabemos para onde ir!
-Dialogue: 0,0:34:38.71,0:34:42.47,Main,Franky,0,0,0,,De que adiantaria trazer todas aquelas crianças?\N!
+Dialogue: 0,0:34:38.71,0:34:42.47,Main,Franky,0,0,0,,De que adiantaria trazer todas aquelas crianças?!
 Dialogue: 0,0:34:43.89,0:34:45.07,Main,Franky,0,0,0,,Mas por que...
 Dialogue: 0,0:34:45.07,0:34:46.77,Main,Franky,0,0,0,,estou me sentindo tão triste?!
 Dialogue: 0,0:35:03.99,0:35:05.07,Main,Mocha,0,0,0,,Nesse caso...

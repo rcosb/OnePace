@@ -109,7 +109,7 @@ Dialogue: 0,0:07:04.11,0:07:04.95,Main,Brook,0,0,0,,Perdão?
 Dialogue: 0,0:07:06.19,0:07:07.64,Main,Ikaros,0,0,0,,O que está acontecendo -oi?
 Dialogue: 0,0:07:07.64,0:07:11.14,Main,Ikaros,0,0,0,,Minhas lanças deveriam drenar a água do seu corpo e secar você - oi!
 Dialogue: 0,0:07:13.75,0:07:15.89,Main,Ikaros,0,0,0,,Ei, lanças de lula secas! Por que?!
-Dialogue: 0,0:07:15.89,0:07:20.23,Main,Ikaros,0,0,0,,O que está errado?\N!\NPor que?\N!\NPor que?\N!\NPor que?\N!\NPor que?\N!\NPor que?\N!\NPor que?\N!
+Dialogue: 0,0:07:15.89,0:07:20.23,Main,Ikaros,0,0,0,,O que está errado?!\NPor que?!\NPor que?!\NPor que?!\NPor que?!\NPor que?!\NPor que?!
 Dialogue: 0,0:07:20.61,0:07:21.30,Main,Brook,0,0,0,,Hum...
 Dialogue: 0,0:07:22.65,0:07:25.81,Main,Brook,0,0,0,,Eu sequei há muito tempo.
 Dialogue: 0,0:07:27.90,0:07:29.95,Main,Ikaros,0,0,0,,Não há como isso ser verdade!
@@ -282,7 +282,7 @@ Dialogue: 0,0:19:16.43,0:19:20.85,Flashbacks,Neptune,0,0,0,,Até que chegue o di
 Dialogue: 0,0:19:20.85,0:19:23.12,Flashbacks,Fukaboshi,0,0,0,,Nós entendemos, padre.
 Dialogue: 0,0:19:23.12,0:19:28.10,Flashbacks,Fukaboshi,0,0,0,,Descobriremos o que está causando sua movimentação e lidaremos com isso de maneira adequada.
 Dialogue: 0,0:19:28.89,0:19:32.81,Flashbacks,Fukaboshi,0,0,0,,Temos que salvar nosso reino e Noé, custe o que custar!
-Dialogue: 0,0:19:33.41,0:19:37.79,Main,Hody,0,0,0,,Foi só um blefe quando você disse que protegeria todo mundo, Chapéu de Palha?\N!
+Dialogue: 0,0:19:33.41,0:19:37.79,Main,Hody,0,0,0,,Foi só um blefe quando você disse que protegeria todo mundo, Chapéu de Palha?!
 Dialogue: 0,0:19:37.79,0:19:39.13,Main,Luffy,0,0,0,,Eu vou parar com isso!
 Dialogue: 0,0:19:39.13,0:19:42.97,Main,Luffy,0,0,0,,Vou quebrar aquele barco em pedacinhos antes que ele atinja a ilha!
 Dialogue: 0,0:19:43.23,0:19:44.95,Main,Fukaboshi,0,0,0,,Nem diga isso!

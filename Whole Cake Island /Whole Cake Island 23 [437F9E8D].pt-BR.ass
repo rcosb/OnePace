@@ -2307,7 +2307,7 @@ Dialogue: 0,0:02:53.36,0:02:54.86,Main,,0,0,0,,Você pode fazer semla?
 Dialogue: 0,0:02:54.86,0:02:57.45,Main,,0,0,0,,Há alguns para o Festival no armazém da aldeia!
 Dialogue: 0,0:02:57.45,0:02:58.87,Main,,0,0,0,,Traga-os agora!
 Dialogue: 0,0:02:58.87,0:03:00.65,Main,,0,0,0,,O-ok!
-Dialogue: 0,0:03:09.35,0:03:12.62,Main,,0,0,0,,– Mãe, o que você está fazendo?\N!\N– É perigoso!
+Dialogue: 0,0:03:09.35,0:03:12.62,Main,,0,0,0,,– Mãe, o que você está fazendo?!\N– É perigoso!
 Dialogue: 0,0:03:12.62,0:03:14.45,Main,,0,0,0,,Fique para trás!
 Dialogue: 0,0:03:26.82,0:03:28.95,Main,,0,0,0,,{\fad(150,150)}Gebur...
 Dialogue: 0,0:03:37.56,0:03:41.06,Main,,0,0,0,,Mãe!
@@ -2317,7 +2317,7 @@ Dialogue: 0,0:03:59.92,0:04:02.47,Main,,0,0,0,,Mãe!
 Dialogue: 0,0:04:02.52,0:04:04.56,Main,,0,0,0,,Eu lhe darei uma voz.
 Dialogue: 0,0:04:09.40,0:04:11.07,Main,,0,0,0,,O que é isso?
 Dialogue: 0,0:04:23.81,0:04:26.28,Main,,0,0,0,,Preste atenção ao meu comando.
-Dialogue: 0,0:04:27.57,0:04:29.60,Main,,0,0,0,,– Tem um rosto no fogo!\N- O que?\N!
+Dialogue: 0,0:04:27.57,0:04:29.60,Main,,0,0,0,,– Tem um rosto no fogo!\N- O que?!
 Dialogue: 0,0:04:29.60,0:04:31.62,Main,,0,0,0,,Estou com medo...
 Dialogue: 0,0:04:32.00,0:04:33.66,Main,,0,0,0,,É como um demônio!
 Dialogue: 0,0:04:35.40,0:04:38.61,Main,,0,0,0,,Seu nome é Pandora!
@@ -2337,7 +2337,7 @@ Dialogue: 0,0:05:39.69,0:05:43.19,Main,,0,0,0,,Não, não fui eu.
 Dialogue: 0,0:05:44.85,0:05:48.89,Main,,0,0,0,,O Deus Sol acalmou este desastre.
 Dialogue: 0,0:05:51.19,0:05:54.44,Main,,0,0,0,,Eu estou tão feliz!
 Dialogue: 0,0:05:55.66,0:06:01.19,Main,,0,0,0,,Castigue-a... Ela não é apenas uma criança...
-Dialogue: 0,0:06:01.19,0:06:08.18,Main,,0,0,0,,Se não fizermos algo agora.\N.\N.\Nela trará ainda mais desastres no futuro!
+Dialogue: 0,0:06:01.19,0:06:08.18,Main,,0,0,0,,Se não fizermos algo agora...\Nela trará ainda mais desastres no futuro!
 Dialogue: 0,0:06:08.84,0:06:11.22,Main,,0,0,0,,{\i1}– Jorl-sama!\N– Rápido, ajude-o!
 Dialogue: 0,0:06:13.25,0:06:15.22,Main,,0,0,0,,{\i1}Barba da Montanha-sama!
 Dialogue: 0,0:06:16.84,0:06:18.81,Main,,0,0,0,,Linlin...
@@ -2345,7 +2345,7 @@ Dialogue: 0,0:06:24.94,0:06:26.76,Main,,0,0,0,,Por favor, perdoe-a!
 Dialogue: 0,0:06:32.19,0:06:35.16,Main,,0,0,0,,Você está tentando me impedir, Carmel?
 Dialogue: 0,0:06:36.61,0:06:41.65,Main,,0,0,0,,Jorl é meu companheiro de batalha há 300 anos.
 Dialogue: 0,0:06:44.91,0:06:49.49,Main,,0,0,0,,Ele é muito velho. Não acho que ele sobreviverá desta vez.
-Dialogue: 0,0:06:50.00,0:06:55.93,Main,,0,0,0,,Ser um guerreiro não é viver muito.\N.\N.\NÉ como você morre!
+Dialogue: 0,0:06:50.00,0:06:55.93,Main,,0,0,0,,Ser um guerreiro não é viver muito...\NÉ como você morre!
 Dialogue: 0,0:06:56.42,0:06:58.50,Main,,0,0,0,,Temos que acabar com isso...
 Dialogue: 0,0:06:58.50,0:07:03.36,Main,,0,0,0,,Não podemos perdoar aqueles que desafiam as leis de Elbaf.
 Dialogue: 0,0:07:03.36,0:07:07.15,Main,,0,0,0,,Eu entendo!\NMas mesmo que ela não possa ser perdoada,
@@ -2356,7 +2356,7 @@ Dialogue: 0,0:07:19.65,0:07:22.00,Main,,0,0,0,,O que você fará com ela?
 Dialogue: 0,0:07:22.94,0:07:27.96,Main,,0,0,0,,Vou levá-la e sair deste lugar!
 Dialogue: 0,0:07:29.13,0:07:30.09,Main,,0,0,0,,Carmelo!
 Dialogue: 0,0:07:34.97,0:07:38.08,Main,,0,0,0,,{\i1}Barba da Montanha-sama! Você deve matar Linlin!
-Dialogue: 0,0:07:38.08,0:07:43.15,Main,,0,0,0,,Por que deveríamos perdoá-la depois que ela fez uma coisa tão horrível?\N!
+Dialogue: 0,0:07:38.08,0:07:43.15,Main,,0,0,0,,Por que deveríamos perdoá-la depois que ela fez uma coisa tão horrível?!
 Dialogue: 0,0:07:43.15,0:07:45.90,Main,,0,0,0,,O que aconteceu com o seu orgulho Elbaf?
 Dialogue: 0,0:07:56.97,0:08:01.78,Main,,0,0,0,,Tudo bem então, por que você não sai da minha vista agora?!
 Dialogue: 0,0:08:05.49,0:08:06.74,Main,,0,0,0,,Por que?!
@@ -2467,11 +2467,11 @@ Dialogue: 0,0:15:09.16,0:15:13.29,Narrator,,0,0,0,,Um dia, Madre Carmel simplesm
 Dialogue: 0,0:15:13.29,0:15:19.38,Narrator,,0,0,0,,E aconteceu no melhor aniversário que Linlin já teve.
 Dialogue: 0,0:15:25.08,0:15:29.09,Narrator,,0,0,0,,Ela estava com seus amigos na Casa das Ovelhas, crianças que passaram pelas mesmas dificuldades...
 Dialogue: 0,0:15:29.62,0:15:32.89,Narrator,,0,0,0,,E sua amada e bondosa mãe.
-Dialogue: 0,0:15:33.31,0:15:39.06,Narrator,,0,0,0,,Cercada por todos aqueles sorrisos e comendo seu delicioso e doce bolo de aniversário.\N.\N.
+Dialogue: 0,0:15:33.31,0:15:39.06,Narrator,,0,0,0,,Cercada por todos aqueles sorrisos e comendo seu delicioso e doce bolo de aniversário...
 Dialogue: 0,0:15:39.06,0:15:43.23,Narrator,,0,0,0,,Linlin não conseguiu conter as lágrimas.
 Dialogue: 0,0:15:43.23,0:15:45.36,Main,,0,0,0,,Coma o quanto quiser, Linlin.
 Dialogue: 0,0:15:45.36,0:15:47.86,Main,,0,0,0,,Vou comer... vou comer tudo!
-Dialogue: 0,0:15:48.46,0:15:54.07,Narrator,,0,0,0,,Que dia maravilhoso foi aquele.\N.\N.\NEla nem conseguia ver através das lágrimas.
+Dialogue: 0,0:15:48.46,0:15:54.07,Narrator,,0,0,0,,Que dia maravilhoso foi aquele...\NEla nem conseguia ver através das lágrimas.
 Dialogue: 0,0:15:56.70,0:15:59.40,Main,,0,0,0,,Ei, ei, não se apresse, Linlin!
 Dialogue: 0,0:15:59.40,0:16:01.50,Main,,0,0,0,,Nós fizemos isso para você!
 Dialogue: 0,0:16:01.50,0:16:02.96,Main,,0,0,0,,É tudo para você, Linlin!
@@ -2485,7 +2485,7 @@ Dialogue: 0,0:16:19.02,0:16:21.59,Main,,0,0,0,,É tão delicioso!
 Dialogue: 0,0:16:21.59,0:16:25.91,Narrator,,0,0,0,,Que aniversário verdadeiramente maravilhoso.
 Dialogue: 0,0:16:25.91,0:16:27.70,Main,,0,0,0,,Lamber!
 Dialogue: 0,0:16:27.70,0:16:33.90,Main,,0,0,0,,Ah, estou tão feliz! Eu estava comendo tanto que até mastiguei um pedaço da mesa.
-Dialogue: 0,0:16:33.90,0:16:39.78,Main,,0,0,0,,Obrigado a todos!\NNunca esquecerei esse dia pelo resto da minha.\N.\N.
+Dialogue: 0,0:16:33.90,0:16:39.78,Main,,0,0,0,,Obrigado a todos!\NNunca esquecerei esse dia pelo resto da minha...
 Dialogue: 0,0:16:45.70,0:16:47.23,Main,,0,0,0,,O que?
 Dialogue: 0,0:16:47.50,0:16:50.02,Main,,0,0,0,,Todos?
 Dialogue: 0,0:16:50.02,0:16:51.23,Main,,0,0,0,,Mãe?
@@ -2536,7 +2536,7 @@ Dialogue: 0,0:20:45.32,0:20:50.20,Main,,0,0,0,,Diga, garotinha, vamos conversar 
 Dialogue: 0,0:20:50.20,0:20:51.80,Main,,0,0,0,,Quem é você, velho?
 Dialogue: 0,0:20:51.80,0:20:53.55,Main,,0,0,0,,Ei, não chegue muito perto.
 Dialogue: 0,0:20:53.55,0:20:59.64,Main,,0,0,0,,Ei, velho, você viu a mamãe?\NVocê sabe para onde todos foram?
-Dialogue: 0,0:20:59.64,0:21:03.03,Main,,0,0,0,,Não sei.\N.\N.\NMas aposto que eles voltarão em breve.
+Dialogue: 0,0:20:59.64,0:21:03.03,Main,,0,0,0,,Não sei...\NMas aposto que eles voltarão em breve.
 Dialogue: 0,0:21:03.50,0:21:04.80,Main,,0,0,0,,Você acha que sim?
 Dialogue: 0,0:21:04.80,0:21:07.64,Main,,0,0,0,,Sim, ficarei com você até então.
 Dialogue: 0,0:21:07.64,0:21:12.74,Main,,0,0,0,,Sou um bom chef.\NVocê não vai passar fome comigo por perto.
@@ -2550,7 +2550,7 @@ Dialogue: 0,0:22:13.64,0:22:16.30,Flashbacks,,0,0,0,,Então, no Tea Party de hoj
 Dialogue: 0,0:22:16.30,0:22:21.17,Flashbacks,,0,0,0,,se quebrarmos essa imagem ao meio, o que você acha que acontecerá?
 Dialogue: 0,0:22:21.77,0:22:23.60,Flashbacks,,0,0,0,,Mamãe ficará arrasada!
 Dialogue: 0,0:22:23.60,0:22:28.61,Flashbacks,,0,0,0,,E ninguém ali poderá se mover por mais de cinco segundos.
-Dialogue: 0,0:22:28.61,0:22:32.82,Flashbacks,,0,0,0,,Então o KX Launcher mostrará sua verdadeira força.\N.\N.
+Dialogue: 0,0:22:28.61,0:22:32.82,Flashbacks,,0,0,0,,Então o KX Launcher mostrará sua verdadeira força...
 Dialogue: 0,0:22:34.11,0:22:37.49,Flashbacks,,0,0,0,,e o Imperador, Big Mom, morrerá!
 Dialogue: 0,0:22:43.64,0:22:46.29,Main,,0,0,0,,Você está condenada, Big Mom!
 Dialogue: 0,0:22:47.64,0:22:49.04,Main,,0,0,0,,Mamãe!
@@ -2588,18 +2588,18 @@ Dialogue: 0,0:25:18.74,0:25:22.95,Main,,0,0,0,,Sim, ela era boa em fazer truques
 Dialogue: 0,0:25:22.95,0:25:26.12,Main,,0,0,0,,Acho que ela estendeu as mãos assim...
 Dialogue: 0,0:25:28.62,0:25:30.87,Main,,0,0,0,,Então...
 Dialogue: 0,0:25:35.22,0:25:38.84,Lyrics,,0,0,0,,Flor, flor! Flor, flor!
-Dialogue: 0,0:25:38.84,0:25:42.70,Main,,0,0,0,,O que?\N!\NÉ o truque que a mãe costumava fazer!\NPor que?\N!
+Dialogue: 0,0:25:38.84,0:25:42.70,Main,,0,0,0,,O que?!\NÉ o truque que a mãe costumava fazer!\NPor que?!
 Dialogue: 0,0:25:42.70,0:25:44.38,Main,,0,0,0,,Como é que eu consigo fazer isso?!
 Dialogue: 0,0:25:44.38,0:25:49.20,Lyrics,,0,0,0,,Flor, flor! Flor, flor! Flor, flor!
 Dialogue: 0,0:25:49.20,0:25:50.85,Lyrics,,0,0,0,,Terra!
 Dialogue: 0,0:25:50.85,0:25:53.77,Lyrics,,0,0,0,,- Terra!\N– Flor, flor!
-Dialogue: 0,0:25:56.94,0:26:01.44,Main,,0,0,0,,O que.\N.\N.\NIsso é um poder da Akuma no Mi?
+Dialogue: 0,0:25:56.94,0:26:01.44,Main,,0,0,0,,O que...\NIsso é um poder da Akuma no Mi?
 Dialogue: 0,0:26:01.44,0:26:05.82,Lyrics,,0,0,0,,– Flor, flor!\NFlor, flor!\N- Árvore!\NÁrvore!
 Dialogue: 0,0:26:14.96,0:26:18.92,Main,,0,0,0,,Nossa, eu também consegui, mãe!
 Dialogue: 0,0:26:18.92,0:26:23.10,Main,,0,0,0,,Obrigado, Linlin! Vamos cantar juntos!
 Dialogue: 0,0:26:23.10,0:26:26.40,Main,,0,0,0,,Que interessante! Tudo bem, eu decidi.
 Dialogue: 0,0:26:26.40,0:26:27.81,Main,,0,0,0,,Vou partir para o mar com ela!
-Dialogue: 0,0:26:28.30,0:26:31.94,Main,,0,0,0,,- Legal!\NLegal!\N– Um país onde todos são do mesmo tamanho.\N.\N.
+Dialogue: 0,0:26:28.30,0:26:31.94,Main,,0,0,0,,- Legal!\NLegal!\N– Um país onde todos são do mesmo tamanho...
 Dialogue: 0,0:26:31.94,0:26:36.44,Main,,0,0,0,,e senta-se no mesmo nível dos olhos e onde todos são iguais.
 Dialogue: 0,0:26:38.16,0:26:42.99,Main,,0,0,0,,Tudo bem, Linlin. Vamos construir esse país dos sonhos!
 Dialogue: 0,0:26:43.48,0:26:45.91,Main,,0,0,0,,Conte comigo.
@@ -2635,7 +2635,7 @@ Dialogue: 0,0:28:48.98,0:28:54.62,Thoughts,,0,0,0,,Mas ainda há pessoas que nã
 Dialogue: 0,0:28:57.99,0:29:01.93,Thoughts,,0,0,0,,Estou tão triste e não consigo parar de chorar!
 Dialogue: 0,0:29:02.52,0:29:07.50,Thoughts,,0,0,0,,Porque o único retrato existente da Mãe...
 Dialogue: 0,0:29:07.50,0:29:09.90,Flashbacks,,0,0,0,,Você é uma boa garota.
-Dialogue: 0,0:29:13.59,0:29:18.18,Thoughts,,0,0,0,,O único retrato da Mãe que era precioso para mim.\N.\N.
+Dialogue: 0,0:29:13.59,0:29:18.18,Thoughts,,0,0,0,,O único retrato da Mãe que era precioso para mim...
 Dialogue: 0,0:29:18.18,0:29:21.68,Thoughts,,0,0,0,,foi quebrado por eles!
 Dialogue: 0,0:29:25.96,0:29:29.73,Thoughts,,0,0,0,,Vou fazê-los pagar...
 Dialogue: 0,0:29:31.11,0:29:34.03,Thoughts,,0,0,0,,Aqueles Piratas do Chapéu de Palha!

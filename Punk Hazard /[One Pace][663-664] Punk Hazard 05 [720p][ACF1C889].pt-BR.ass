@@ -295,7 +295,7 @@ Dialogue: 0,0:17:16.83,0:17:19.68,Main,Zoro,0,0,0,,Obviamente esse deve ser o to
 Dialogue: 0,0:17:20.42,0:17:21.52,Main,Brook,0,0,0,,Ah, você está certo!
 Dialogue: 0,0:17:21.52,0:17:24.19,Main,Kinemon,0,0,0,,Você viu?! Onde?!
 Dialogue: 0,0:17:24.19,0:17:26.86,Main,Kinemon,0,0,0,,Onde você encontrou meu torso?!
-Dialogue: 0,0:17:29.33,0:17:33.87,Main,Marine,0,0,0,,Ummm, você está bem.\N.\N.\Nsem coração.\N.\N.\NTashigi-chan?
+Dialogue: 0,0:17:29.33,0:17:33.87,Main,Marine,0,0,0,,Ummm, você está bem...\Nsem coração...\NTashigi-chan?
 Dialogue: 0,0:17:33.87,0:17:35.59,Main,Tashigi,0,0,0,,Sim, por incrível que pareça.
 Dialogue: 0,0:17:35.59,0:17:37.77,Main,Marine,0,0,0,,Ela está agindo muito tímida.
 Dialogue: 0,0:17:37.77,0:17:40.85,Main,Smoker,0,0,0,,As naves que estavam escondidas perto do laboratório...
@@ -303,7 +303,7 @@ Dialogue: 0,0:17:40.85,0:17:43.42,Main,Smoker,0,0,0,,tinham "CC" escrito neles.
 Dialogue: 0,0:17:43.42,0:17:47.24,Main,Marine,0,0,0,,Huh? Sério, Vice-Almirante Smoker?
 Dialogue: 0,0:17:47.24,0:17:51.27,Main,Smoker,0,0,0,,Sim. Se fossem os mesmos navios que foram usados ​​aqui no passado,
 Dialogue: 0,0:17:51.27,0:17:55.10,Main,Smoker,0,0,0,,eles deveriam ter dito "PH" para Punk Hazard.
-Dialogue: 0,0:17:55.98,0:18:03.17,Main,Smoker,0,0,0,,Se presumirmos que alguém acima de Law está mexendo os pauzinhos e que "CC" são suas iniciais.\N.\N.
+Dialogue: 0,0:17:55.98,0:18:03.17,Main,Smoker,0,0,0,,Se presumirmos que alguém acima de Law está mexendo os pauzinhos e que "CC" são suas iniciais...
 Dialogue: 0,0:18:03.89,0:18:06.62,Main,Smoker,0,0,0,,então tenho um palpite de quem pode ser.
 Dialogue: 0,0:18:07.77,0:18:12.39,Main,Smoker,0,0,0,,{\i1}Se ele estiver nesta ilha...
 Dialogue: 0,0:18:14.70,0:18:17.46,Main,Smoker,0,0,0,,então isso explicaria bastante.
@@ -370,7 +370,7 @@ Dialogue: 0,0:22:39.14,0:22:41.59,Main,Smoker,0,0,0,,Eu disse que havia outros n
 Dialogue: 0,0:22:41.59,0:22:42.38,Main,Smoker,0,0,0,,Vá roubar um.
 Dialogue: 0,0:22:42.38,0:22:45.29,Main,Marine,0,0,0,,Oh! Esse era o seu plano! Você é um vilão!
 Dialogue: 0,0:22:45.29,0:22:47.33,Main,Smoker,0,0,0,,Tome cuidado.
-Dialogue: 0,0:22:47.33,0:22:52.57,Main,Smoker,0,0,0,,Antes que esta situação piore, vou recuperar meu coração e meu corpo.\N.\N.
+Dialogue: 0,0:22:47.33,0:22:52.57,Main,Smoker,0,0,0,,Antes que esta situação piore, vou recuperar meu coração e meu corpo...
 Dialogue: 0,0:22:52.57,0:22:55.65,Main,Smoker,0,0,0,,e então exporei quem está controlando esta ilha!
 Dialogue: 0,0:22:55.81,0:23:00.31,captions_soft,,0,0,0,,{\fad(570,0)\pos(643,438)}Antigo Laboratório Vegapunk
 Dialogue: 0,0:22:55.81,0:23:00.31,captions_soft,,0,0,0,,{\fad(570,0)\pos(643,480)}Laboratório #3
@@ -417,7 +417,7 @@ Dialogue: 0,0:25:14.91,0:25:17.69,Main,Brownbeard,0,0,0,,Isso mesmo. Certamente 
 Dialogue: 0,0:25:17.69,0:25:19.68,Main,Brownbeard,0,0,0,,O mundo inteiro me conhecia por esse nome!
 Dialogue: 0,0:25:19.68,0:25:20.87,Main,Luffy,0,0,0,,Nunca ouvi falar de você.
 Dialogue: 0,0:25:20.87,0:25:22.05,Main,Brownbeard,0,0,0,,Que diabos?!
-Dialogue: 0,0:25:22.39,0:25:26.90,Main,Zoro,0,0,0,,O que aconteceu?\NAté recentemente, você não estava disposto a abrir a boca.\N.\N.
+Dialogue: 0,0:25:22.39,0:25:26.90,Main,Zoro,0,0,0,,O que aconteceu?\NAté recentemente, você não estava disposto a abrir a boca...
 Dialogue: 0,0:25:26.90,0:25:28.65,Main,Zoro,0,0,0,,mas agora não podemos fazer você calar a boca.
 Dialogue: 0,0:25:30.31,0:25:33.03,Main,Brownbeard,0,0,0,,É porque você vai morrer em breve.
 Dialogue: 0,0:25:33.03,0:25:35.63,Main,Brownbeard,0,0,0,,A lei virá e me salvará.

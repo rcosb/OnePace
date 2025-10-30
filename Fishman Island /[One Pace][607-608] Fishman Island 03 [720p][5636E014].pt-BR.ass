@@ -126,7 +126,7 @@ Dialogue: 0,0:05:09.60,0:05:14.74,Main,Usopp,0,0,0,,{\i1}Luffy!\NEssa escuridão
 Dialogue: 0,0:05:14.74,0:05:16.15,Main,Luffy,0,0,0,,{\i1}Entre!
 Dialogue: 0,0:05:16.15,0:05:18.15,Main,Luffy,0,0,0,,{\i1}Suruma!
 Dialogue: 0,0:05:24.87,0:05:26.92,Main,Usopp,0,0,0,,{\i1}Outra erupção!
-Dialogue: 0,0:05:26.92,0:05:30.24,Main,Franky,0,0,0,,O que é isso?\N!\NAlgo está vindo até nós lá de cima!
+Dialogue: 0,0:05:26.92,0:05:30.24,Main,Franky,0,0,0,,O que é isso?!\NAlgo está vindo até nós lá de cima!
 Dialogue: 0,0:05:30.85,0:05:31.78,Main,Robin,0,0,0,,Pedregulhos?!
 Dialogue: 0,0:05:31.78,0:05:32.91,Main,Brook,0,0,0,,Um deslizamento de terra?!
 Dialogue: 0,0:05:32.91,0:05:34.84,Main,Nami,0,0,0,,{ def: tlc: avalanche in english means snow, apparently that's different in japanese }É uma queda de pedras! Olhe!
@@ -178,7 +178,7 @@ Dialogue: 0,0:08:20.00,0:08:22.24,Main,Sanji,0,0,0,,A ilha onde as sereias danç
 Dialogue: 0,0:08:22.24,0:08:24.16,Main,Sanji,0,0,0,,A linda princesa sereia...
 Dialogue: 0,0:08:24.16,0:08:29.83,Main,Sanji,0,0,0,,Finalmente estou aqui! No paraíso que sonho desde criança!
 Dialogue: 0,0:08:31.92,0:08:35.57,Main,Sanji & Brook,0,0,0,,{\i1}Sereias! Mermai
-Dialogue: 0,0:08:36.00,0:08:39.78,Main,Usopp,0,0,0,,{\i1}Sanji!\NÉ impossível!\NSó de imaginar isso fez com que ele ficasse assim?\N!
+Dialogue: 0,0:08:36.00,0:08:39.78,Main,Usopp,0,0,0,,{\i1}Sanji!\NÉ impossível!\NSó de imaginar isso fez com que ele ficasse assim?!
 Dialogue: 0,0:08:40.51,0:08:43.96,Main,Chopper,0,0,0,,Sinto muito, Sanji!\NNão consegui reabilitar você a tempo!
 Dialogue: 0,0:08:43.96,0:08:47.17,Main,Chopper,0,0,0,,Seria melhor se você não conhecesse as sereias reais.
 Dialogue: 0,0:08:47.17,0:08:52.99,Main,Usopp,0,0,0,,Doutor! Conhecer as sereias da Ilha dos Tritões é o seu sonho!
@@ -431,7 +431,7 @@ Dialogue: 0,0:23:04.38,0:23:07.05,Main,Sanji,0,0,0,,Não há como existir tal al
 Dialogue: 0,0:23:07.05,0:23:09.92,Main,Sanji,0,0,0,,Devo ter morrido hoje.
 Dialogue: 0,0:23:09.92,0:23:11.77,Main,Usopp,0,0,0,,{\i1}Negativo!
 Dialogue: 0,0:23:11.77,0:23:14.83,Main,Usopp,0,0,0,,Sério, o que aconteceu com você nos últimos dois anos?!
-Dialogue: 0,0:23:14.83,0:23:18.14,Main,Usopp,0,0,0,,Essa ilha é o paraíso que você sempre sonhou, né?\N!
+Dialogue: 0,0:23:14.83,0:23:18.14,Main,Usopp,0,0,0,,Essa ilha é o paraíso que você sempre sonhou, né?!
 Dialogue: 0,0:23:19.29,0:23:22.41,Main,Luffy,0,0,0,,Sanji, você é tão engraçado!
 Dialogue: 0,0:23:23.77,0:23:28.32,Main,Mermaid,0,0,0,,Este barril foi levado à costa com os amigos de Caimie.\NEu me pergunto o que há dentro dele?
 Dialogue: 0,0:23:28.32,0:23:30.30,Main,Mermaid,0,0,0,,Álcool? Tesouro?

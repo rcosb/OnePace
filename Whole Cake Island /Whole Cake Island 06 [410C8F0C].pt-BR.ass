@@ -170,7 +170,7 @@ Dialogue: 0,0:02:08.73,0:02:13.98,Main,,0,0,0,,E foi isso que aconteceu!\NEle va
 Dialogue: 0,0:02:13.98,0:02:17.61,Main,,0,0,0,,{\i1}Não, Yonji-sama, um martelo não serve.
 Dialogue: 0,0:02:25.61,0:02:28.90,Main,,0,0,0,,Eu vou pressioná-lo. Fique quieto.
 Dialogue: 0,0:02:31.88,0:02:33.80,Main,,0,0,0,,Está consertado.
-Dialogue: 0,0:02:37.34,0:02:43.18,Main,,0,0,0,,Droga!\NAquele bastardo!\NEle é apenas um fracasso.\N.\N.
+Dialogue: 0,0:02:37.34,0:02:43.18,Main,,0,0,0,,Droga!\NAquele bastardo!\NEle é apenas um fracasso...
 Dialogue: 0,0:02:43.17,0:02:46.18,Title,,0,0,0,,{\fad(1000,1000)\pos(649,476)}Juiz Vinsmoke
 Dialogue: 0,0:02:46.18,0:02:48.83,Main,,0,0,0,,{\i1}Então esse é o Sanji-sama!
 Dialogue: 0,0:02:53.40,0:02:55.57,Main,,0,0,0,,Você está pronto?
@@ -234,7 +234,7 @@ Dialogue: 0,0:07:46.60,0:07:49.40,Main,,0,0,0,,Achei que tinha te ensinado a usa
 Dialogue: 0,0:07:54.45,0:07:59.66,Main,,0,0,0,,Não vou usar minhas mãos para essas porcarias.
 Dialogue: 0,0:08:08.70,0:08:10.63,Main,,0,0,0,,Minhas mãos...
 Dialogue: 0,0:08:10.63,0:08:13.55,Main,,0,0,0,,... servem apenas para cozinhar.
-Dialogue: 0,0:08:45.79,0:08:49.71,Main,,0,0,0,,Oh, aquele pequeno e fraco Sanji se tornou tão forte.\N.\N.
+Dialogue: 0,0:08:45.79,0:08:49.71,Main,,0,0,0,,Oh, aquele pequeno e fraco Sanji se tornou tão forte...
 Dialogue: 0,0:08:49.71,0:08:52.84,Main,,0,0,0,,Culinária? Isso é um absurdo!
 Dialogue: 0,0:08:52.84,0:08:58.10,Main,,0,0,0,,Você ainda cozinha para ratos?\NA realeza não deve oferecer serviços!
 Dialogue: 0,0:08:58.10,0:08:59.69,Main,,0,0,0,,Que vergonha!
@@ -250,7 +250,7 @@ Dialogue: 0,0:10:56.44,0:10:57.42,Main,,0,0,0,,Ei...
 Dialogue: 0,0:10:58.04,0:11:00.05,Main,,0,0,0,,Posso te perguntar uma coisa?
 Dialogue: 0,0:11:03.89,0:11:08.48,Main,,0,0,0,,Você acha que ser pai biológico dá direito a respeito?
 Dialogue: 0,0:11:09.81,0:11:11.65,Main,,0,0,0,,Você não...
-Dialogue: 0,0:11:15.04,0:11:20.15,Main,,0,0,0,,.\N.\N.\Naté tem uma única lembrança boa dele, não é?
+Dialogue: 0,0:11:15.04,0:11:20.15,Main,,0,0,0,,...\Naté tem uma única lembrança boa dele, não é?
 Dialogue: 0,0:11:26.80,0:11:27.99,Main,,0,0,0,,Você...
 Dialogue: 0,0:11:28.32,0:11:31.58,Flashbacks,,0,0,0,,Pai! Deixe-me sair!
 Dialogue: 0,0:11:32.88,0:11:34.88,Main,,0,0,0,,... sofreu muito.
@@ -265,8 +265,8 @@ Dialogue: 0,0:13:17.60,0:13:21.03,Main,,0,0,0,,Então estarei livre da maldiçã
 Dialogue: 0,0:13:21.53,0:13:26.20,Main,,0,0,0,,Achei que você poderia ter mudado um pouco, mas na verdade piorou!
 Dialogue: 0,0:13:26.20,0:13:29.99,Main,,0,0,0,,Saia desta sala, meu velho!\NVocê é um estranho para mim!
 Dialogue: 0,0:13:29.99,0:13:35.41,Main,,0,0,0,,Não, você tem meu sangue em suas veias.
-Dialogue: 0,0:13:35.41,0:13:39.08,Main,,0,0,0,,Não me entenda mal.\NTodos os soldados da Germa são.\N.\N.
-Dialogue: 0,0:13:39.08,0:13:46.80,Main,,0,0,0,,.\N.\N.\Nseguidores que estão dispostos a morrer pela Família Vinsmoke a qualquer momento!
+Dialogue: 0,0:13:35.41,0:13:39.08,Main,,0,0,0,,Não me entenda mal.\NTodos os soldados da Germa são...
+Dialogue: 0,0:13:39.08,0:13:46.80,Main,,0,0,0,,...\Nseguidores que estão dispostos a morrer pela Família Vinsmoke a qualquer momento!
 Dialogue: 0,0:13:46.80,0:13:50.97,Main,,0,0,0,,Eles são a maior força militar da Alemanha!
 Dialogue: 0,0:13:53.36,0:13:58.35,Main,,0,0,0,,Então, por que você não realiza seu sonho estúpido usando-os?
 Dialogue: 0,0:13:58.35,0:14:04.10,Main,,0,0,0,,Conquistando o Norte Azul?\NÓtimo!\NIsso é perfeito para uma organização maligna.
@@ -275,7 +275,7 @@ Dialogue: 0,0:14:07.65,0:14:09.86,Main,,0,0,0,,Ao dar as mãos à Big Mom,
 Dialogue: 0,0:14:09.86,0:14:12.62,Main,,0,0,0,,isso se tornará um objetivo que posso alcançar com certeza!
 Dialogue: 0,0:14:12.62,0:14:15.87,Main,,0,0,0,,Um objetivo que posso alcançar com certeza!
 Dialogue: 0,0:14:18.46,0:14:23.00,Main,,0,0,0,,Se você consegue entender isso, não tenho mais nada a dizer.
-Dialogue: 0,0:14:23.89,0:14:28.43,Main,,0,0,0,,Eu queria resolver isso pacificamente com você de alguma forma, mas.\N.\N.
+Dialogue: 0,0:14:23.89,0:14:28.43,Main,,0,0,0,,Eu queria resolver isso pacificamente com você de alguma forma, mas...
 Dialogue: 0,0:14:32.10,0:14:37.60,Main,,0,0,0,,Preciso da ajuda da Big Mom, mas a condição é estabelecer laços de sangue.
 Dialogue: 0,0:14:37.60,0:14:39.78,Main,,0,0,0,,É apenas um casamento,
 Dialogue: 0,0:14:39.78,0:14:45.11,Main,,0,0,0,,mas não posso deixar nenhum dos meus preciosos filhos se casar com alguém da família daquele velho maluco!
@@ -324,7 +324,7 @@ Dialogue: 0,0:17:30.61,0:17:36.40,Flashbacks,,0,0,0,,Quando cumpro meus deveres 
 Dialogue: 0,0:17:36.40,0:17:42.08,Flashbacks,,0,0,0,,Eu prometo que vou me juntar à sua tripulação.
 Dialogue: 0,0:17:42.16,0:17:46.65,Thoughts,,0,0,0,,Acho que ele recusou a oferta para se juntar à nossa equipe naquele dia,
 Dialogue: 0,0:17:46.65,0:17:50.54,Thoughts,,0,0,0,,porque ele queria cumprir seu dever para com Big Mom.
-Dialogue: 0,0:17:51.59,0:17:56.36,Thoughts,,0,0,0,,Agora, este artigo.\N.\N.\NNão parece algo que ele faria.
+Dialogue: 0,0:17:51.59,0:17:56.36,Thoughts,,0,0,0,,Agora, este artigo...\NNão parece algo que ele faria.
 Dialogue: 0,0:17:56.36,0:17:59.28,Thoughts,,0,0,0,,Ele não virá mais se juntar a nós?
 Dialogue: 0,0:17:59.28,0:18:01.59,Main,,0,0,0,,Olá, Brook!
 Dialogue: 0,0:18:03.99,0:18:06.95,Main,,0,0,0,,Por favor! Eu tenho que ir a algum lugar!
@@ -339,21 +339,21 @@ Dialogue: 0,0:18:26.29,0:18:29.50,Main,,0,0,0,,Tudo fica bem em você!
 Dialogue: 0,0:18:29.50,0:18:32.06,Main,,0,0,0,,{\i1}Qual você gosta, Pudim-sama?
 Dialogue: 0,0:18:32.06,0:18:33.35,Main,,0,0,0,,Um...
 Dialogue: 0,0:18:33.35,0:18:36.71,Main,,0,0,0,,{\i1}Pudding-sama, você sabe do que o noivo gosta?
-Dialogue: 0,0:18:36.71,0:18:40.61,Main,,0,0,0,,O que?\N!\NNão!\NSó o encontrei uma vez, então.\N.\N.
+Dialogue: 0,0:18:36.71,0:18:40.61,Main,,0,0,0,,O que?!\NNão!\NSó o encontrei uma vez, então...
 Dialogue: 0,0:18:40.61,0:18:42.30,Main,,0,0,0,,O quê?!
-Dialogue: 0,0:18:42.30,0:18:46.11,Main,,0,0,0,,{\i1}Espere um minuto, Pudding-san, o que ela está fazendo aqui?\N!
+Dialogue: 0,0:18:42.30,0:18:46.11,Main,,0,0,0,,{\i1}Espere um minuto, Pudding-san, o que ela está fazendo aqui?!
 Dialogue: 0,0:18:46.11,0:18:49.56,Main,,0,0,0,,Acho que ela foi pega pelos atendentes.
 Dialogue: 0,0:18:49.56,0:18:52.54,Main,,0,0,0,,{\i1}Presumi que ela já tivesse levado Sanji-san para fora
 Dialogue: 0,0:18:52.54,0:18:55.70,Main,,0,0,0,,{\i1}para se encontrar com Luffy-san e os outros agora.
 Dialogue: 0,0:18:55.70,0:19:00.29,Main,,0,0,0,,Olhando para isso, aposto que Sanji nem sabe que estamos aqui.
 Dialogue: 0,0:19:00.29,0:19:03.95,Main,,0,0,0,,{\i1}Então, quem Luffy-san viu na costa?
 Dialogue: 0,0:19:03.95,0:19:08.79,Main,,0,0,0,,Não sei.\NTalvez ele tenha visto outra pessoa.
-Dialogue: 0,0:19:11.46,0:19:16.89,Main,,0,0,0,,Isso é.\N.\N.\NSe não me engano, ele estava no navio da Big Mom.\N.\N.
+Dialogue: 0,0:19:11.46,0:19:16.89,Main,,0,0,0,,Isso é...\NSe não me engano, ele estava no navio da Big Mom...
 Dialogue: 0,0:19:16.89,0:19:19.17,Main,,0,0,0,,Sim, eu o conheço muito bem.
 Dialogue: 0,0:19:19.17,0:19:21.43,Main,,0,0,0,,Barão Tamago!
 Dialogue: 0,0:19:24.83,0:19:28.45,Main,,0,0,0,,Barão Tamago, posso falar com você?
 Dialogue: 0,0:19:33.96,0:19:36.27,Main,,0,0,0,,{\i1}O que é isso?
-Dialogue: 0,0:19:36.27,0:19:40.24,Main,,0,0,0,,O navio do Chapéu de Palha que passou ontem em Chocolat Town.\N.\N.
+Dialogue: 0,0:19:36.27,0:19:40.24,Main,,0,0,0,,O navio do Chapéu de Palha que passou ontem em Chocolat Town...
 Dialogue: 0,0:19:40.32,0:19:43.16,Thoughts,,0,0,0,,Eles já sabem!
 Dialogue: 0,0:19:43.16,0:19:50.33,Main,,0,0,0,,Quando partiram, o Sr.\NPekoms, que os guiava, já havia partido, dizem.
 Dialogue: 0,0:19:50.33,0:19:52.62,Thoughts,,0,0,0,,Eles sabem tudo!
@@ -413,7 +413,7 @@ Dialogue: 0,0:24:48.13,0:24:52.59,Captions,,0,0,0,,{\fad(500,0)}A Câmara da Rai
 Dialogue: 0,0:24:52.59,0:24:58.89,Main,,0,0,0,,Acho que investi dinheiro suficiente, Caesar Clown.
 Dialogue: 0,0:24:58.89,0:25:04.10,Main,,0,0,0,,AAAA-Sim!\NE claro, não parei de pesquisar!
 Dialogue: 0,0:25:04.70,0:25:07.21,Main,,0,0,0,,Meu sonho é...
-Dialogue: 0,0:25:22.37,0:25:27.00,Main,,0,0,0,,.\N.\N.\Npara que todas as raças do mundo se tornem uma família
+Dialogue: 0,0:25:22.37,0:25:27.00,Main,,0,0,0,,...\Npara que todas as raças do mundo se tornem uma família
 Dialogue: 0,0:25:27.00,0:25:31.57,Main,,0,0,0,,e sente-se ao redor de uma mesa de jantar no mesmo nível dos olhos.
 Dialogue: 0,0:25:31.57,0:25:34.67,Main,,0,0,0,,Eles vão beber o que eu bebo,
 Dialogue: 0,0:25:36.26,0:25:39.97,Main,,0,0,0,,e coma o que eu como!
@@ -421,7 +421,7 @@ Dialogue: 0,0:25:47.81,0:25:50.82,Main,,0,0,0,,Não é um sonho maravilhoso?!
 Dialogue: 0,0:25:50.82,0:25:55.28,Main,,0,0,0,,E você vai tornar isso realidade para mim, César!
 Dialogue: 0,0:25:57.16,0:26:03.50,Main,,0,0,0,,Quero que você torne meus familiares gigantescos com o poder da ciência.
 Dialogue: 0,0:26:03.50,0:26:06.89,Main,,0,0,0,,Você continuou me dizendo...
-Dialogue: 0,0:26:06.89,0:26:13.50,Main,,0,0,0,,.\N.\N.\Nque você estava quase terminando, mas precisava de um pouco mais de dinheiro para pesquisa.
+Dialogue: 0,0:26:06.89,0:26:13.50,Main,,0,0,0,,...\Nque você estava quase terminando, mas precisava de um pouco mais de dinheiro para pesquisa.
 Dialogue: 0,0:26:13.50,0:26:17.32,Main,,0,0,0,,Fiquei animado e gastei muito dinheiro.
 Dialogue: 0,0:26:17.32,0:26:20.09,Main,,0,0,0,,Então, como estão os resultados?
 Dialogue: 0,0:26:20.09,0:26:24.18,Main,,0,0,0,,Bem, graças a você, eles são muito bons!
@@ -430,8 +430,8 @@ Dialogue: 0,0:26:29.41,0:26:33.46,Thoughts,,0,0,0,,O mundo inteiro está em busc
 Dialogue: 0,0:26:33.46,0:26:39.34,Thoughts,,0,0,0,,Mas eu estava realizando experimentos para transformar crianças em gigantes.\NFoi mortal.
 Dialogue: 0,0:26:39.34,0:26:43.72,Thoughts,,0,0,0,,É impossível fazer uma droga que magicamente
 Dialogue: 0,0:26:43.72,0:26:47.08,Thoughts,,0,0,0,,tornar as pessoas gigantescas como esse velho quer.
-Dialogue: 0,0:26:47.08,0:26:51.38,Thoughts,,0,0,0,,Foi por isso que acabei de tirar o dinheiro dela e.\N.\N.
-Dialogue: 0,0:26:55.05,0:26:58.10,Thoughts,,0,0,0,,.\N.\N.\Nchamava os navios das meninas para fora da ilha todas as noites,
+Dialogue: 0,0:26:47.08,0:26:51.38,Thoughts,,0,0,0,,Foi por isso que acabei de tirar o dinheiro dela e...
+Dialogue: 0,0:26:55.05,0:26:58.10,Thoughts,,0,0,0,,...\Nchamava os navios das meninas para fora da ilha todas as noites,
 Dialogue: 0,0:26:58.10,0:27:02.99,Thoughts,,0,0,0,,e gastou todo o dinheiro com álcool e mulheres!
 Dialogue: 0,0:27:05.99,0:27:11.86,Thoughts,,0,0,0,,Aqueles eram os bons e velhos tempos!\NEu estava enlouquecendo pelas costas do Joker!
 Dialogue: 0,0:27:11.86,0:27:13.06,Note,,0,0,0,,Cataratas Doflamingo!

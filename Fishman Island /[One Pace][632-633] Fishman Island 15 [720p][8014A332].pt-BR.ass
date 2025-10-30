@@ -109,15 +109,15 @@ Dialogue: 0,0:06:10.43,0:06:14.40,Main,Hody,0,0,0,,Eu gostava de você, quando v
 Dialogue: 0,0:06:14.40,0:06:20.03,Main,Jinbe,0,0,0,,O que aconteceu com você, Hody? Você parece diferente.
 Dialogue: 0,0:06:20.03,0:06:21.88,Main,Fishman,0,0,0,,É o chefe Jinbei!
 Dialogue: 0,0:06:21.88,0:06:25.16,Main,Fishman,0,0,0,,Achei que ele havia deixado a ilha depois de renunciar aos Sete Senhores da Guerra do Mar!
-Dialogue: 0,0:06:25.37,0:06:29.94,Main,Fishman,0,0,0,,Ouvi dizer que a Princesa Shirahoshi foi sequestrada pelo Chapéu de Palha Luffy.\N.\N.
+Dialogue: 0,0:06:25.37,0:06:29.94,Main,Fishman,0,0,0,,Ouvi dizer que a Princesa Shirahoshi foi sequestrada pelo Chapéu de Palha Luffy...
 Dialogue: 0,0:06:29.94,0:06:32.55,Main,Fishman,0,0,0,,Boss Jinbe a resgatou?
 Dialogue: 0,0:06:33.40,0:06:38.04,Main,Hody,0,0,0,,Tudo bem, temos todos que precisamos.
 Dialogue: 0,0:06:38.04,0:06:40.90,Main,Hody,0,0,0,,Foi muito mais fácil do que pensei que seria.
 Dialogue: 0,0:06:41.64,0:06:47.51,Main,Hody,0,0,0,,Agora, os únicos que sobraram são os Chapéus de Palha, e não sei o que eles farão.
 Dialogue: 0,0:06:47.51,0:06:54.03,Main,Hody,0,0,0,,Suponho que eles estejam perdidos, procurando uma maneira de entrar no Palácio Ryuuguu.
-Dialogue: 0,0:06:54.75,0:06:58.20,Main,Hody,0,0,0,,Mesmo que venham aqui, enfurecidos com a morte de seus companheiros.\N.\N.
+Dialogue: 0,0:06:54.75,0:06:58.20,Main,Hody,0,0,0,,Mesmo que venham aqui, enfurecidos com a morte de seus companheiros...
 Dialogue: 0,0:06:58.20,0:07:02.79,Main,Hody,0,0,0,,{ def: is there a way to tweak this line to match his speech pattern? }estaremos prontos para eles.
-Dialogue: 0,0:07:02.79,0:07:09.06,Main,Hody,0,0,0,,Tenho capturado escravos humanos no fundo do oceano no último mês.\N.\N.
+Dialogue: 0,0:07:02.79,0:07:09.06,Main,Hody,0,0,0,,Tenho capturado escravos humanos no fundo do oceano no último mês...
 Dialogue: 0,0:07:09.06,0:07:10.66,Main,Hody,0,0,0,,{...Seriously? THIRTY THOUSAND in the past month? Is he really saying that an average of a thousand people travel to Fishman Island daily? :/}Trinta mil deles!
 Dialogue: 0,0:07:19.13,0:07:24.30,Main,Hody,0,0,0,,E pescadores fortemente armados, todos eles setenta mil!
 Dialogue: 0,0:07:44.82,0:07:47.24,Main,Fukaboshi,0,0,0,,E-eu não posso acreditar nisso!
@@ -137,7 +137,7 @@ Dialogue: 0,0:09:23.12,0:09:25.17,Main,Hody,0,0,0,,Muito tempo sem ver.
 Dialogue: 0,0:09:25.70,0:09:28.09,Main,Hody,0,0,0,,O que você quer?
 Dialogue: 0,0:09:28.09,0:09:33.42,Main,Shyarly,0,0,0,,Gostaria de lhe dizer uma coisa, pois você parece pensar que já ganhou.
 Dialogue: 0,0:09:33.97,0:09:35.81,Main,Fukaboshi,0,0,0,,Senhora Shyarly.
-Dialogue: 0,0:09:35.81,0:09:40.36,Main,Fukaboshi,0,0,0,,Eu vi que um certo homem destruiria a Ilha dos Tritões.\N.\N.
+Dialogue: 0,0:09:35.81,0:09:40.36,Main,Fukaboshi,0,0,0,,Eu vi que um certo homem destruiria a Ilha dos Tritões...
 Dialogue: 0,0:09:41.04,0:09:42.94,Main,Fukaboshi,0,0,0,,nas minhas previsões.
 Dialogue: 0,0:09:42.94,0:09:46.57,Main,Hody,0,0,0,,Podemos acabar destruindo-o.
 Dialogue: 0,0:09:47.15,0:09:49.32,Main,Hody,0,0,0,,Então você me viu?
@@ -151,7 +151,7 @@ Dialogue: 0,0:10:07.24,0:10:10.75,Main,Shyarly,0,0,0,,Alguém tem o destino da I
 Dialogue: 0,0:10:10.75,0:10:13.67,Main,Shyarly,0,0,0,,Mas Hordy, eu sei disso...
 Dialogue: 0,0:10:13.67,0:10:15.38,Main,Shyarly,0,0,0,,Não é você.
 Dialogue: 0,0:10:16.64,0:10:20.06,Main,Fishman,0,0,0,,Eu vejo! As previsões da Madame nunca estão erradas!
-Dialogue: 0,0:10:20.06,0:10:24.22,Main,Fishman,0,0,0,,Em outras palavras, o futuro onde Hordy reina nesta ilha.\N.\N.
+Dialogue: 0,0:10:20.06,0:10:24.22,Main,Fishman,0,0,0,,Em outras palavras, o futuro onde Hordy reina nesta ilha...
 Dialogue: 0,0:10:24.22,0:10:25.59,Main,Fishman,0,0,0,,não tem chance de acontecer!
 Dialogue: 0,0:10:33.24,0:10:35.03,Main,Fishman,0,0,0,,Senhora Shyarly!
 Dialogue: 0,0:10:35.03,0:10:36.39,Main,Mermaid,0,0,0,,Senhora!
@@ -212,7 +212,7 @@ Dialogue: 0,0:14:46.58,0:14:48.85,Main,Ryuuboshi,0,0,0,,Pai!
 Dialogue: 0,0:14:52.63,0:14:55.30,Main,Hody,0,0,0,,Ela era um grande incômodo.
 Dialogue: 0,0:14:55.30,0:14:57.58,Main,Hody,0,0,0,,Certo, Shirahoshi?!
 Dialogue: 0,0:14:58.89,0:15:01.43,Main,Hody,0,0,0,,Alegar que a vingança contra os humanos era maligna...
-Dialogue: 0,0:15:02.04,0:15:05.94,Main,Hody,0,0,0,,Pregando por toda a ilha que devemos nos dar bem com os humanos.\N.\N.
+Dialogue: 0,0:15:02.04,0:15:05.94,Main,Hody,0,0,0,,Pregando por toda a ilha que devemos nos dar bem com os humanos...
 Dialogue: 0,0:15:05.94,0:15:09.69,Main,Hody,0,0,0,,E aquela mulher quase realizou seus sonhos.\NEu odiava tudo nela!
 Dialogue: 0,0:15:10.15,0:15:13.91,Main,Hody,0,0,0,,Não, ela era o tipo de pessoa cuja influência não desapareceria mesmo se eu a matasse!
 Dialogue: 0,0:15:14.28,0:15:18.12,Main,Hody,0,0,0,,Mas para mim, sua mãe...
@@ -247,7 +247,7 @@ Dialogue: 0,0:17:16.54,0:17:22.48,Main,Shirahoshi,0,0,0,,Alguns anos depois do i
 Dialogue: 0,0:17:23.35,0:17:24.32,Main,Hody,0,0,0,,Megalo;
 Dialogue: 0,0:17:24.48,0:17:27.80,Main,Shirahoshi,0,0,0,,Megalo costumava ser o animal de estimação do Exército de Netuno.
 Dialogue: 0,0:17:28.74,0:17:32.15,Main,Shirahoshi,0,0,0,,Ele viu tudo o que aconteceu naquele dia.
-Dialogue: 0,0:17:42.98,0:17:45.68,Main,Jinbe,0,0,0,,Nesse caso, por que você não nos contou, Princesa Shirahoshi?\N!
+Dialogue: 0,0:17:42.98,0:17:45.68,Main,Jinbe,0,0,0,,Nesse caso, por que você não nos contou, Princesa Shirahoshi?!
 Dialogue: 0,0:17:45.68,0:17:46.96,Main,Shirahoshi,0,0,0,,Se eu fizesse...
 Dialogue: 0,0:17:49.21,0:17:55.65,Main,Shirahoshi,0,0,0,,as pessoas provavelmente acabariam odiando Hordy-sama.
 Dialogue: 0,0:17:55.65,0:18:00.67,Main,Shirahoshi,0,0,0,,Se isso acontecesse, mamãe ficaria muito triste.
@@ -259,8 +259,8 @@ Dialogue: 0,0:18:31.84,0:18:35.71,Flashbacks,Otohime,0,0,0,,por favor, não fiqu
 Dialogue: 0,0:18:36.30,0:18:42.27,Flashbacks,Otohime,0,0,0,,{End copy-paste from 546... Also man what a bloody pointless flashback.}Não se perca em raiva e ódio por minha causa.
 Dialogue: 0,0:18:43.81,0:18:46.39,Main,Manboshi,0,0,0,,Shirahoshi... Você...
 Dialogue: 0,0:18:46.86,0:18:49.39,Main,Ryuuboshi,0,0,0,,De jeito nenhum... Então você...
-Dialogue: 0,0:18:49.39,0:18:53.73,Main,Fukaboshi,0,0,0,,Para permanecer fiel aos desejos da mãe de dez anos atrás.\N.\N.
-Dialogue: 0,0:18:57.32,0:19:05.37,Main,Fukaboshi,0,0,0,,você tem suportado o peso da verdade sozinho dentro da Torre Koukaku todo esse tempo?\N!
+Dialogue: 0,0:18:49.39,0:18:53.73,Main,Fukaboshi,0,0,0,,Para permanecer fiel aos desejos da mãe de dez anos atrás...
+Dialogue: 0,0:18:57.32,0:19:05.37,Main,Fukaboshi,0,0,0,,você tem suportado o peso da verdade sozinho dentro da Torre Koukaku todo esse tempo?!
 Dialogue: 0,0:19:12.24,0:19:16.06,Thoughts,Jinbe,0,0,0,,Ela não se ressente da pessoa que matou sua mãe?!
 Dialogue: 0,0:19:16.06,0:19:23.44,Thoughts,Jinbe,0,0,0,,Mesmo que fosse o último desejo de sua mãe, isso é praticamente impossível!
 Dialogue: 0,0:19:24.22,0:19:28.21,Thoughts,Jinbe,0,0,0,,Que filha respeitosa e corajosa!
@@ -276,7 +276,7 @@ Dialogue: 0,0:20:00.63,0:20:06.14,Main,Hody,0,0,0,,Se você tivesse contado a ma
 Dialogue: 0,0:20:08.77,0:20:14.08,Main,Hody,0,0,0,,Ouça com atenção, Shirahoshi.\NNo mundo real, chamamos isso de “idiotice”.
 Dialogue: 0,0:20:14.70,0:20:19.98,Main,Hody,0,0,0,,Porque você se recusou a me odiar, este reino cairá.
 Dialogue: 0,0:20:20.66,0:20:22.82,Main,Hody,0,0,0,,Por causa de você...
-Dialogue: 0,0:20:22.82,0:20:28.69,Main,Hody,0,0,0,,seu pai, seus irmãos, você e seu povo morrerão.\N.\N.
+Dialogue: 0,0:20:22.82,0:20:28.69,Main,Hody,0,0,0,,seu pai, seus irmãos, você e seu povo morrerão...
 Dialogue: 0,0:20:28.69,0:20:31.20,Main,Hody,0,0,0,,Shirahoshi!
 Dialogue: 0,0:20:32.70,0:20:35.82,Main,Jinbe,0,0,0,,Ele está errado! Não dê ouvidos a ele, Alteza!
 Dialogue: 0,0:20:35.82,0:20:37.86,Main,Jinbe,0,0,0,,O que você fez não foi um erro!
@@ -342,7 +342,7 @@ Dialogue: 0,0:25:39.29,0:25:42.87,Main,Fishman,0,0,0,,{\i1}Chapéu de Palha... L
 Dialogue: 0,0:25:43.59,0:25:47.83,Main,Fishman,0,0,0,,{\i1}Ele realmente... apareceu!
 Dialogue: 0,0:25:49.60,0:25:51.79,Main,Fishman,0,0,0,,Ei, você viu isso?
 Dialogue: 0,0:25:51.79,0:25:54.00,Main,Fishman,0,0,0,,Ele salvou o Rei Netuno!
-Dialogue: 0,0:25:54.00,0:25:59.59,Main,Fishman,0,0,0,,Sim.\N.\N.\NE tenho certeza que acabei de ouvir a Princesa Shirahoshi pedindo ajuda a ele.\N.\N.
+Dialogue: 0,0:25:54.00,0:25:59.59,Main,Fishman,0,0,0,,Sim...\NE tenho certeza que acabei de ouvir a Princesa Shirahoshi pedindo ajuda a ele...
 Dialogue: 0,0:26:01.17,0:26:02.77,Main,Shirahoshi,0,0,0,,Luffy-sama!
 Dialogue: 0,0:26:03.45,0:26:04.96,Main,Zeo,0,0,0,,Ele saiu do tubarão?!
 Dialogue: 0,0:26:05.80,0:26:07.88,Main,Daruma,0,0,0,,Ele ficou escondido na barriga o tempo todo?!
@@ -389,7 +389,7 @@ Dialogue: 0,0:28:18.71,0:28:20.64,Main,Neptune,0,0,0,,O que aconteceu?
 Dialogue: 0,0:28:23.36,0:28:28.15,Main,Fukaboshi,0,0,0,,Parece que Jinbei fez um plano com o Chapéu de Palha e sua tripulação.
 Dialogue: 0,0:28:40.31,0:28:43.65,Main,Chopper,0,0,0,,Olhar! Há tantas pessoas!
 Dialogue: 0,0:28:44.12,0:28:47.05,Main,Usopp,0,0,0,,Ei, agora! Todos esses caras são inimigos?
-Dialogue: 0,0:28:47.61,0:28:51.22,Main,Sanji,0,0,0,,Provavelmente.\NOlhando para eles, eu diria que são cerca de setenta ou oitenta mil.\N.\N.
+Dialogue: 0,0:28:47.61,0:28:51.22,Main,Sanji,0,0,0,,Provavelmente.\NOlhando para eles, eu diria que são cerca de setenta ou oitenta mil...
 Dialogue: 0,0:28:51.22,0:28:53.52,Main,Sanji,0,0,0,,Não, perto de cem mil.
 Dialogue: 0,0:28:54.24,0:28:56.29,Main,Brook,0,0,0,,Isso é um pouco duro.
 Dialogue: 0,0:28:56.72,0:28:59.78,Main,Zoro,0,0,0,,Nesse caso, fique à vontade para tirar uma soneca no seu quarto.

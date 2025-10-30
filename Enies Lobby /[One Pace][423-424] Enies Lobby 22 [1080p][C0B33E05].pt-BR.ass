@@ -51,7 +51,7 @@ Dialogue: 0,0:01:49.96,0:01:55.47,Title,,0,0,0,,{\blur0.6\fad(700,0)\c&H000000&\
 Dialogue: 1,0:01:49.96,0:01:55.47,Title,,0,0,0,,{\bord0\blur0.6\fad(700,0)\4a&HFF&}A lenda da sereia
 Dialogue: 0,0:01:52.80,0:01:55.47,Main-207+,,0,0,0,,{shrinking}Estou desanimando!
 Dialogue: 0,0:02:03.18,0:02:04.39,Main-207+,,0,0,0,,Isso foi perto!
-Dialogue: 0,0:02:08.19,0:02:12.32,Main-207+,,0,0,0,,{idiots}Por que eles atiraram em seu próprio navio de guerra?\NEles são estúpidos?\N!
+Dialogue: 0,0:02:08.19,0:02:12.32,Main-207+,,0,0,0,,{idiots}Por que eles atiraram em seu próprio navio de guerra?\NEles são estúpidos?!
 Dialogue: 0,0:02:12.32,0:02:15.11,Main-207+,,0,0,0,,{But in any case, I got shrunk again.}De qualquer forma, encolhi novamente.
 Dialogue: 0,0:02:15.11,0:02:18.40,Main-207+,,0,0,0,,{Gear Third is such an interesting\Nidea and it's really powerful,}A ideia do Gear Third parece tão incrível e poderosa,
 Dialogue: 0,0:02:18.40,0:02:20.53,Main-207+,,0,0,0,,{but how my body reacts is a problem.}mas a reação do meu corpo é estranha.
@@ -70,7 +70,7 @@ Dialogue: 0,0:03:35.31,0:03:38.32,Main-207+,,0,0,0,,Ribbit!
 Dialogue: 0,0:03:45.58,0:03:48.66,Main-207+,,0,0,0,,{Straw Hat was going on a rampage\Non that battleship just a bit ago,}O Chapéu de Palha estava criando um inferno naquele navio de guerra há pouco,
 Dialogue: 0,0:03:48.66,0:03:50.37,Main-207+,,0,0,0,,{but now he's been blown to pieces!}mas agora ele foi feito em pedacinhos!
 Dialogue: 0,0:03:51.50,0:03:54.38,Main-207+,,0,0,0,,{Serves you guys right! Your captain has died!}Serve bem para você! Seu capitão está morto!
-Dialogue: 0,0:03:55.29,0:03:58.25,Main-207+,,0,0,0,,{Hey, hey.\N.\N.\NThey fired at the ship\Nwhile their own men were on it.\N}Ei, eles atiraram no navio enquanto seus próprios homens estavam nele.
+Dialogue: 0,0:03:55.29,0:03:58.25,Main-207+,,0,0,0,,{Hey, hey...\NThey fired at the ship\Nwhile their own men were on it.\N}Ei, eles atiraram no navio enquanto seus próprios homens estavam nele.
 Dialogue: 0,0:03:58.71,0:04:02.09,Main-207+,,0,0,0,,Este é o poder de uma chamada destruidora, o ataque que coloquei em ação!
 Dialogue: 0,0:04:02.09,0:04:05.05,Main-207+,,0,0,0,,Isso é justiça, Cutty Flam!
 Dialogue: 0,0:04:05.05,0:04:08.77,Main-207+,,0,0,0,,Agora, entregue Nico Robin para nós.
@@ -78,12 +78,12 @@ Dialogue: 0,0:04:08.77,0:04:13.14,Main-207+,,0,0,0,,Em troca, eu poderia fazer c
 Dialogue: 0,0:04:13.14,0:04:17.32,Main-207+,,0,0,0,,Por que você tem que proteger aquela mulher em primeiro lugar?
 Dialogue: 0,0:04:17.86,0:04:19.82,Main-207+,,0,0,0,,Você nem é um pirata.
 Dialogue: 0,0:04:19.82,0:04:24.86,Main-207+,,0,0,0,,{Are you saying you'd trust that dangerous\Nwoman who carries Ohara blood in her veins}Você está dizendo que confiaria naquela mulher perversa, a parente daqueles demônios de Ohara?
-Dialogue: 0,0:04:24.86,0:04:28.74,Main-207+,,0,0,0,,{ordinary people}sobre o Governo Mundial que protege vocês, camponeses, todos os dias?\N!
+Dialogue: 0,0:04:24.86,0:04:28.74,Main-207+,,0,0,0,,{ordinary people}sobre o Governo Mundial que protege vocês, camponeses, todos os dias?!
 Dialogue: 0,0:04:30.08,0:04:33.83,Main-207+,,0,0,0,,{If you disobey us, just like Tom, \Nyou'll end up dy-}Se você nos desafiar como Tom fez, você vai acabar como h-
 Dialogue: 0,0:04:40.00,0:04:43.93,Main-207+,,0,0,0,,M-Meu rosto não pode ficar mais inchado!
 Dialogue: 0,0:04:47.30,0:04:49.64,Main-207+,,0,0,0,,Ele desembainhou a espada do elefante, Funkfreed!
 Dialogue: 0,0:04:49.64,0:04:50.85,Main-207+,,0,0,0,,Essa coisa é poderosa!
-Dialogue: 0,0:04:51.27,0:04:55.48,Main-207+,,0,0,0,,{Listen, Funkfreed.\NTo ensure they\Nwon't be able to resist any longer,}Ouça, Funkfreed.\NGarantiremos que eles não resistam mais.\N.\N.
+Dialogue: 0,0:04:51.27,0:04:55.48,Main-207+,,0,0,0,,{Listen, Funkfreed.\NTo ensure they\Nwon't be able to resist any longer,}Ouça, Funkfreed.\NGarantiremos que eles não resistam mais...
 Dialogue: 0,0:04:55.48,0:04:59.19,Main-207+,,0,0,0,,{we'll fatally wound Nico Robin,\Nwhose guard is down right now.\N}ferindo fatalmente Nico Robin enquanto sua guarda está baixa.
 Dialogue: 0,0:04:59.65,0:05:01.18,Main-207+,,0,0,0,,Pegue isso!
 Dialogue: 0,0:05:01.18,0:05:03.53,Main-207+,,0,0,0,,{\fad(150,150)}Costeleta de Elefante!
@@ -127,8 +127,8 @@ Dialogue: 0,0:07:47.94,0:07:50.24,Flashbacks-720p,,0,0,0,,{...}Ribbit, Ribbit!
 Dialogue: 0,0:07:52.45,0:07:54.28,Flashbacks-720p,,0,0,0,,{ here}Eu não vou deixar você passar!
 Dialogue: 0,0:07:59.33,0:08:01.83,Flashbacks-720p,,0,0,0,,{\i0}Devolva Tom-san!
 Dialogue: 0,0:08:05.00,0:08:08.13,Main-207+,,0,0,0,,{get}Eu queria recuperar Tom-san a qualquer custo.
-Dialogue: 0,0:08:08.75,0:08:11.80,Main-207+,,0,0,0,,{Those who know the myth of\Nthe impregnable Enies Lobby.\N.\N.\N}Todo mundo conhece o mito do inexpugnável Enies Lobby.
-Dialogue: 0,0:08:12.55,0:08:15.64,Main-207+,,0,0,0,,{Those who know the power\Nof the World Government.\N.\N.\N}Todos conhecem o poder do Governo Mundial.
+Dialogue: 0,0:08:08.75,0:08:11.80,Main-207+,,0,0,0,,{Those who know the myth of\Nthe impregnable Enies Lobby...\N}Todo mundo conhece o mito do inexpugnável Enies Lobby.
+Dialogue: 0,0:08:12.55,0:08:15.64,Main-207+,,0,0,0,,{Those who know the power\Nof the World Government...\N}Todos conhecem o poder do Governo Mundial.
 Dialogue: 0,0:08:17.14,0:08:21.68,Main-207+,,0,0,0,,{The Straw Hats overturn their\Ncommon sense and advance.\N}A cada passo, os Chapéus de Palha destroem o que todos sabemos.
 Dialogue: 0,0:08:28.86,0:08:30.69,Main-207+,,0,0,0,,{In order to rescue one friend,}Para resgatar um amigo,
 Dialogue: 0,0:08:30.69,0:08:34.24,Main-207+,,0,0,0,,{they make the world into their\Nenemy without a second thought.\N}nenhum deles hesita em declarar guerra ao mundo inteiro.
@@ -169,14 +169,14 @@ Dialogue: 0,0:11:46.26,0:11:52.69,Main-207+,,0,0,0,,{Sorry, but die in that stup
 Dialogue: 0,0:11:53.77,0:11:56.23,Main-207+,,0,0,0,,{\fad(150,150)}Pistola de dedo: manchas!
 Dialogue: 0,0:11:57.32,0:12:01.61,Main-207+,,0,0,0,,Volte ao normal, corpo!\NPressa!\NPressa!\NEu vou ser morto!
 Dialogue: 0,0:12:15.04,0:12:17.67,Thoughts-207+,,0,0,0,,O dano que sofri antes está afetando minhas pernas!
-Dialogue: 0,0:12:18.21,0:12:20.63,Main-207+,,0,0,0,,{Oh?\NI'm going back.\N.\N.\N!\N\NI'm going back to normal!\N}Oh?\NMeu corpo está voltando!\NEstou voltando ao normal!
+Dialogue: 0,0:12:18.21,0:12:20.63,Main-207+,,0,0,0,,{Oh?\NI'm going back...!\N\NI'm going back to normal!\N}Oh?\NMeu corpo está voltando!\NEstou voltando ao normal!
 Dialogue: 0,0:12:33.23,0:12:35.23,Main-207+,,0,0,0,,Ver? Meus ataques...
 Dialogue: 0,0:12:35.23,0:12:38.19,Main-207+,,0,0,0,,{did a number on you after all.}fiz um número em você.
 Dialogue: 0,0:12:52.54,0:12:54.71,Thoughts-207+,,0,0,0,,Há algo que possamos fazer?
 Dialogue: 0,0:12:57.67,0:13:02.21,Thoughts-207+,,0,0,0,,{We have to do something...! Or we'll all drown!}Temos que fazer alguma coisa! Todos nós vamos nos afogar!
-Dialogue: 0,0:13:02.21,0:13:05.18,Thoughts-207+,,0,0,0,,{When we still haven't really\Ngotten Robin-chan back yet.\N.\N.\N!\N}Ainda nem recuperamos Robin-chan!
+Dialogue: 0,0:13:02.21,0:13:05.18,Thoughts-207+,,0,0,0,,{When we still haven't really\Ngotten Robin-chan back yet...!\N}Ainda nem recuperamos Robin-chan!
 Dialogue: 0,0:13:06.05,0:13:10.39,Thoughts-207+,,0,0,0,,É isso? Minha vida...
-Dialogue: 0,0:13:10.89,0:13:13.70,Thoughts-207+,,0,0,0,,{.\N.\NHey!\N\NI haven't lived long enough!\N}foi muito divertido.
+Dialogue: 0,0:13:10.89,0:13:13.70,Thoughts-207+,,0,0,0,,{..\NHey!\N\NI haven't lived long enough!\N}foi muito divertido.
 Dialogue: 0,0:13:13.70,0:13:16.40,Thoughts-207+,,0,0,0,,Ei! Eu não vivi o suficiente!
 Dialogue: 0,0:13:16.40,0:13:21.45,Thoughts-207+,,0,0,0,,{Besides, it wouldn't even be funny if the great Usopp, brave warrior\Nof the sea, died from drowning!\N}Além disso, Usopp, orgulhoso guerreiro do mar, não deveria acabar se afogando!
 Dialogue: 0,0:13:23.53,0:13:25.61,Thoughts-207+,,0,0,0,,Não consigo mais prender a respiração!
@@ -188,15 +188,15 @@ Dialogue: 0,0:13:44.59,0:13:46.59,Thoughts-207+,,0,0,0,,{My body is being pulled
 Dialogue: 0,0:13:59.52,0:14:01.48,Thoughts-207+,,0,0,0,,{Oh... Am I dreaming?}Ah, estou sonhando?
 Dialogue: 0,0:14:02.19,0:14:03.44,Thoughts-207+,,0,0,0,,{...}Eu devo estar!
 Dialogue: 0,0:14:05.28,0:14:08.53,Thoughts-207+,,0,0,0,,{Several sailors are drowning in the sea...}Vários marinheiros estão se afogando no mar.
-Dialogue: 0,0:14:09.45,0:14:12.41,Thoughts-207+,,0,0,0,,{As their consciousness fades away,\Nthey see an elegant tail fin.\N.\N.\N}Uma elegante barbatana caudal aparece em sua consciência desbotada.
-Dialogue: 0,0:14:14.29,0:14:18.42,Thoughts-207+,,0,0,0,,{When they look up, they see\Nlong hair swaying in the sea.\N.\N.\N}Eles olham para cima e veem cabelos longos flutuando na água.
+Dialogue: 0,0:14:09.45,0:14:12.41,Thoughts-207+,,0,0,0,,{As their consciousness fades away,\Nthey see an elegant tail fin...\N}Uma elegante barbatana caudal aparece em sua consciência desbotada.
+Dialogue: 0,0:14:14.29,0:14:18.42,Thoughts-207+,,0,0,0,,{When they look up, they see\Nlong hair swaying in the sea...\N}Eles olham para cima e veem cabelos longos flutuando na água.
 Dialogue: 0,0:14:19.79,0:14:21.88,Thoughts-207+,,0,0,0,,{She's so beautiful.}Ela é adorável.
-Dialogue: 0,0:14:22.54,0:14:26.72,Thoughts-207+,,0,0,0,,{This is the mermaid legend.\N.\N.\N\NIt's like we're seeing a fantasy.\N.\N.\N}A lenda da sereia aparece como uma visão.
+Dialogue: 0,0:14:22.54,0:14:26.72,Thoughts-207+,,0,0,0,,{This is the mermaid legend...\N\NIt's like we're seeing a fantasy...\N}A lenda da sereia aparece como uma visão.
 Dialogue: 0,0:14:30.22,0:14:33.31,Thoughts-207+,,0,0,0,,{If I'm dreaming... please don't let me...}Se estou sonhando, não quero...
 Dialogue: 0,0:14:35.27,0:14:36.14,Thoughts-207+,,0,0,0,,{...}acordar!
 Dialogue: 0,0:14:36.51,0:14:41.48,Main-207+,,0,0,0,,{I'm gonna go super express!\N\NMake sure you hold your breath tight!\N}Vamos pegar o expresso!\NAgora prendam a respiração, pessoal!
 Dialogue: 0,0:14:41.86,0:14:42.90,Thoughts-207+,,0,0,0,,{Du...}Isso é...
-Dialogue: 0,0:14:44.53,0:14:46.82,Flashbacks-720p,,0,0,0,,{– Du.\N.\N.\N\N– Du.\N.\N.\N}– É.\N.\N.\N– É.\N.\N.
+Dialogue: 0,0:14:44.53,0:14:46.82,Flashbacks-720p,,0,0,0,,{– Du...\N\N– Du...\N}– É...\N– É...
 Dialogue: 0,0:14:46.82,0:14:49.41,Thoughts-207+,,0,0,0,,{Du... A dugong?!}É... um dugongo?!
 Dialogue: 0,0:15:09.84,0:15:15.35,Main-207+,,0,0,0,,Desculpe, fuzileiros navais!\NVamos usar esta nave para escapar.
 Dialogue: 0,0:15:20.23,0:15:25.27,Main-207+,,0,0,0,,{Now, we've finished cleaning out our\Nescape ship, the former escort ship.\N}Bem, terminamos de limpar o navio de escolta, ou devo dizer, nossa estratégia de saída!
@@ -206,7 +206,7 @@ Dialogue: 0,0:15:41.71,0:15:42.67,Main-207+,,0,0,0,,O que é isso?
 Dialogue: 0,0:15:43.63,0:15:46.34,Main-207+,,0,0,0,,Não...
 Dialogue: 0,0:15:47.55,0:15:50.76,Main-207+,,0,0,0,,morrer!
 Dialogue: 0,0:16:05.98,0:16:07.73,Main-207+,,0,0,0,,Pressa!
-Dialogue: 0,0:16:09.28,0:16:13.03,Main-207+,,0,0,0,,{The entrance to Enies Lobby.\N.\N.\N\NThe main gate is around the corner!\N}O portão principal do Enies Lobby está logo à frente!
+Dialogue: 0,0:16:09.28,0:16:13.03,Main-207+,,0,0,0,,{The entrance to Enies Lobby...\N\NThe main gate is around the corner!\N}O portão principal do Enies Lobby está logo à frente!
 Dialogue: 0,0:16:13.03,0:16:14.62,Main-207+,,0,0,0,,Estamos quase lá!
 Dialogue: 0,0:16:14.62,0:16:15.99,Main-207+,,0,0,0,,{!}Vá, gigantes!
 Dialogue: 0,0:16:16.45,0:16:18.29,Main-207+,,0,0,0,,Deixe isso conosco!
@@ -214,7 +214,7 @@ Dialogue: 0,0:16:20.41,0:16:22.21,Main-207+,,0,0,0,,{We'll be able to get off th
 Dialogue: 0,0:16:22.21,0:16:23.46,Main-207+,,0,0,0,,{We'll be able to escape!}Podemos escapar, waina!
 Dialogue: 0,0:16:27.59,0:16:28.59,Main-207+,,0,0,0,,Tudo bem!
 Dialogue: 0,0:16:29.25,0:16:30.84,Main-207+,,0,0,0,,Pronto, conseguimos!
-Dialogue: 0,0:16:30.84,0:16:33.80,Main-207+,,0,0,0,,{So how about it– were you\Nimpressed by our giant guts?\N!\N}Você está impressionado com a coragem de nós, gigantes?\N!
+Dialogue: 0,0:16:30.84,0:16:33.80,Main-207+,,0,0,0,,{So how about it– were you\Nimpressed by our giant guts?!\N}Você está impressionado com a coragem de nós, gigantes?!
 Dialogue: 0,0:16:39.52,0:16:40.02,Main-207+,,0,0,0,,O que?!
 Dialogue: 0,0:16:44.44,0:16:45.77,Main-207+,,0,0,0,,{...}Oh não!
 Dialogue: 0,0:16:47.11,0:16:48.90,Main-207+,,0,0,0,,Três navios de guerra!
@@ -250,10 +250,10 @@ Dialogue: 0,0:18:28.92,0:18:35.05,Main-207+,,0,0,0,,Os navios de guerra 6, 7 e 8
 Dialogue: 0,0:18:39.13,0:18:42.22,Main-207+,,0,0,0,,Ei, pessoal! Acordar!
 Dialogue: 0,0:18:42.22,0:18:43.43,Main-207+,,0,0,0,,Ei!
 Dialogue: 0,0:18:56.23,0:18:58.49,Main-207+,,0,0,0,,{This can only be described as a miracle.}É um milagre.
-Dialogue: 0,0:18:58.86,0:19:04.58,Main-207+,,0,0,0,,{They must've.\N.\N.\NThey must've\Nreceived a tremendous shock.\N}Que estranho.\NEles devem ter sofrido um choque terrível.
+Dialogue: 0,0:18:58.86,0:19:04.58,Main-207+,,0,0,0,,{They must've...\NThey must've\Nreceived a tremendous shock.\N}Que estranho.\NEles devem ter sofrido um choque terrível.
 Dialogue: 0,0:19:05.20,0:19:10.25,Main-207+,,0,0,0,,Todos pararam de respirar, então não engoliram muita água.
 Dialogue: 0,0:19:11.21,0:19:13.29,Main-207+,,0,0,0,,{.. but...}Ainda bem que estão todos bem. Dito isso,
-Dialogue: 0,0:19:15.55,0:19:20.01,Main-207+,,0,0,0,,{.\N.\N.\Nwhat on earth could have shocked them\Nenough to make them stop breathing?\N}o que no mundo é chocante o suficiente para fazê-los parar de respirar?
+Dialogue: 0,0:19:15.55,0:19:20.01,Main-207+,,0,0,0,,{...\Nwhat on earth could have shocked them\Nenough to make them stop breathing?\N}o que no mundo é chocante o suficiente para fazê-los parar de respirar?
 Dialogue: 0,0:19:20.68,0:19:22.14,Main-207+,,0,0,0,,Foi você.
 Dialogue: 0,0:19:24.22,0:19:25.51,Main-207+,,0,0,0,,Hum?
 Dialogue: 0,0:19:27.64,0:19:32.23,Main-207+,,0,0,0,,Você deve ser o amigo que aquele garoto rei pirata veio resgatar.
@@ -261,7 +261,7 @@ Dialogue: 0,0:19:33.52,0:19:37.15,Main-207+,,0,0,0,,Eu vi você na Shift Station
 Dialogue: 0,0:19:38.78,0:19:40.99,Main-207+,,0,0,0,,{...}Naquela época,
 Dialogue: 0,0:19:41.78,0:19:46.08,Main-207+,,0,0,0,,{that }Nunca pensei que vocês fariam algo assim.
 Dialogue: 0,0:19:46.08,0:19:49.75,Main-207+,,0,0,0,,{old }Vista uma roupa, sua maldita bruxa!
-Dialogue: 0,0:19:49.75,0:19:53.75,Main-207+,,0,0,0,,{.\N.\N.\N}Eu ri quando o ouvi dizer que seria o rei dos piratas,
+Dialogue: 0,0:19:49.75,0:19:53.75,Main-207+,,0,0,0,,{...\N}Eu ri quando o ouvi dizer que seria o rei dos piratas,
 Dialogue: 0,0:19:53.88,0:19:55.96,Flashbacks-720p,,0,0,0,,Nossos amigos estão esperando!
 Dialogue: 0,0:19:55.96,0:19:58.13,Flashbacks-720p,,0,0,0,,Não fique no nosso caminho!
 Dialogue: 0,0:19:58.51,0:20:01.88,Main-207+,,0,0,0,,mas quem sabe? Isso pode realmente acontecer.
@@ -269,7 +269,7 @@ Dialogue: 0,0:20:13.56,0:20:15.19,Main-207+,,0,0,0,,{\i1}Nami-san está bem?
 Dialogue: 0,0:20:15.19,0:20:18.23,Main-207+,,0,0,0,,{tough}Vocês estão tão resistentes como sempre.
 Dialogue: 0,0:20:18.90,0:20:20.57,Main-207+,,0,0,0,,Estou feliz que você esteja vivo!
 Dialogue: 0,0:20:22.45,0:20:27.87,Main-207+,,0,0,0,,{So i}Ah!\NFoi real!\NSereias não existem!
-Dialogue: 0,0:20:28.29,0:20:31.37,Main-207+,,0,0,0,,Então eram verdadeiras as histórias sobre pessoas vendo uma sereia.\N.\N.
+Dialogue: 0,0:20:28.29,0:20:31.37,Main-207+,,0,0,0,,Então eram verdadeiras as histórias sobre pessoas vendo uma sereia...
 Dialogue: 0,0:20:31.37,0:20:32.75,Main-207+,,0,0,0,,{actually}então percebi que era apenas um dugongo!
 Dialogue: 0,0:20:33.42,0:20:36.71,Main-207+,,0,0,0,,{ yet}Seus idiotas!\NEla ainda não disse que é uma sereia!
 Dialogue: 0,0:20:36.71,0:20:37.96,Main-207+,,0,0,0,,Não desista do sonho ainda!
@@ -285,7 +285,7 @@ Dialogue: 0,0:21:09.03,0:21:11.75,Main-207+,,0,0,0,,{Fork into two...?}Hum? Eles
 Dialogue: 0,0:21:11.75,0:21:15.79,Main-207+,,0,0,0,,{to}Dizem que quando um gato vive 100 anos, seu rabo se divide em dois e ele se torna um monstro.
 Dialogue: 0,0:21:16.29,0:21:17.92,Main-207+,,0,0,0,,{goblin cat}Oh, uma abominação felina, hein?!
 Dialogue: 0,0:21:18.38,0:21:20.75,Main-207+,,0,0,0,,Não me misture com monstros!
-Dialogue: 0,0:21:21.25,0:21:25.01,Main-207+,,0,0,0,,Você não poderia pelo menos agradecer pelo que fiz?\N!
+Dialogue: 0,0:21:21.25,0:21:25.01,Main-207+,,0,0,0,,Você não poderia pelo menos agradecer pelo que fiz?!
 Dialogue: 0,0:21:25.93,0:21:29.18,Main-207+,,0,0,0,,{\i1}Muito obrigado, Kokoro-san!
 Dialogue: 0,0:21:30.56,0:21:31.97,Main-207+,,0,0,0,,Sem problemas.
 Dialogue: 0,0:21:50.24,0:21:56.12,Main-207+,,0,0,0,,{\i1}Robin-chwaaan!
@@ -296,7 +296,7 @@ Dialogue: 0,0:22:07.01,0:22:08.34,Main-207+,,0,0,0,,Robin!
 Dialogue: 0,0:22:08.34,0:22:11.14,Main-207+,,0,0,0,,Sim, tudo graças a vocês.
 Dialogue: 0,0:22:11.76,0:22:12.56,Main-207+,,0,0,0,,Obrigado.
 Dialogue: 0,0:22:14.02,0:22:16.35,Main-207+,,0,0,0,,Não se preocupe com isso!
-Dialogue: 0,0:22:19.86,0:22:24.07,Main-207+,,0,0,0,,Avó!\NIsso é incrível!\NEntão você era uma sereia esse tempo todo?\N!
+Dialogue: 0,0:22:19.86,0:22:24.07,Main-207+,,0,0,0,,Avó!\NIsso é incrível!\NEntão você era uma sereia esse tempo todo?!
 Dialogue: 0,0:22:25.24,0:22:29.28,Main-207+,,0,0,0,,{I was thinking you were different,\Nsince you have fins and scales!\N}Achei que você fosse diferente porque tem barbatanas e escamas!
 Dialogue: 0,0:22:29.28,0:22:30.57,Main-207+,,0,0,0,,{You should've noticed, grandkid!}Prestar atenção! Você é neto dela!
 Dialogue: 0,0:22:32.70,0:22:33.79,Main-207+,,0,0,0,,Helicóptero?!
@@ -333,7 +333,7 @@ Dialogue: 0,0:25:24.37,0:25:27.92,Main-207+,,0,0,0,,{...}Franky, seus homens...
 Dialogue: 0,0:25:31.13,0:25:34.63,Main-207+,,0,0,0,,{You damn idiot!\N}Não seja estúpido!\NEles tiveram a sorte do diabo!
 Dialogue: 0,0:25:34.63,0:25:36.89,Main-207+,,0,0,0,,{escaped okay}Eles estão bem. Tenho certeza que eles escaparam em segurança!
 Dialogue: 0,0:25:41.43,0:25:43.48,Main-207+,,0,0,0,,Olá, Paulie! Voltar!
-Dialogue: 0,0:25:48.19,0:25:50.57,Main-207+,,0,0,0,,{You're picking up a transponder snail?\N!\N\NWhat're you gonna do with that?\N!\N}O que você vai fazer com esse caracol do transponder?\N!
+Dialogue: 0,0:25:48.19,0:25:50.57,Main-207+,,0,0,0,,{You're picking up a transponder snail?!\N\NWhat're you gonna do with that?!\N}O que você vai fazer com esse caracol do transponder?!
 Dialogue: 0,0:25:51.36,0:25:53.69,Main-207+,,0,0,0,,{We can find out how the Straw Hats are doing!}Vou descobrir como estão os Chapéus de Palha!
 Dialogue: 0,0:25:56.15,0:25:59.37,Main-207+,,0,0,0,,{a cannon attack!}Droga! É tiro de canhão!
 Dialogue: 0,0:25:59.37,0:26:01.45,Main-207+,,0,0,0,,{}Grande irmão!

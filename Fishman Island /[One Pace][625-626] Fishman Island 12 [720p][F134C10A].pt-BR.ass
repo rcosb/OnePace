@@ -54,7 +54,7 @@ Dialogue: 0,0:02:29.59,0:02:31.67,Main,Voice,0,0,0,,Palácio Ryuuguu! Palácio R
 Dialogue: 0,0:02:31.67,0:02:33.63,Main,Voice,0,0,0,,Esta é a Polícia de Fronteira!
 Dialogue: 0,0:02:33.63,0:02:37.42,Main,Voice,0,0,0,,Um enorme naufrágio está solicitando entrada de emergência!
 Dialogue: 0,0:02:35.14,0:02:38.62,title,Voice,0,0,0,,O Dragão Celestial Naufragado!\NUma bala que sela o futuro
-Dialogue: 0,0:02:38.60,0:02:41.38,Main,Right Minister,0,0,0,,{\fscx250}O que você está fazendo?\N!\NNaturalmente, você tem que deixá-los entrar-
+Dialogue: 0,0:02:38.60,0:02:41.38,Main,Right Minister,0,0,0,,{\fscx250}O que você está fazendo?!\NNaturalmente, você tem que deixá-los entrar-
 Dialogue: 0,0:02:41.38,0:02:42.93,Main,Voice,0,0,0,,Se não me engano...
 Dialogue: 0,0:02:47.14,0:02:49.35,Main,Voice,0,0,0,,um Dragão Celestial está a bordo!
 Dialogue: 0,0:02:49.70,0:02:50.89,Main,Right Minister,0,0,0,,O que?!
@@ -112,7 +112,7 @@ Dialogue: 0,0:05:57.02,0:05:59.47,Main,Fishman,0,0,0,,Faz muito tempo que não n
 Dialogue: 0,0:05:59.47,0:06:02.89,Main,Myosgard,0,0,0,,Você ousa se dirigir a mim sem títulos honoríficos... Hein?
 Dialogue: 0,0:06:05.68,0:06:10.34,Main,Myosgard,0,0,0,,Oh, vocês são... meus escravos.
 Dialogue: 0,0:06:11.37,0:06:13.94,Main,Myosgard,0,0,0,,Volte obedientemente para minha casa!
-Dialogue: 0,0:06:13.94,0:06:16.44,Main,Myosgard,0,0,0,,Quem lhes deu permissão para serem livres, malditos peixes?\N!
+Dialogue: 0,0:06:13.94,0:06:16.44,Main,Myosgard,0,0,0,,Quem lhes deu permissão para serem livres, malditos peixes?!
 Dialogue: 0,0:06:23.74,0:06:25.71,Main,Fishman,0,0,0,,P-Parem com isso, pessoal!
 Dialogue: 0,0:06:25.71,0:06:29.66,Main,Fishman,0,0,0,,Ele é um Dragão Celestial!\NColoque a mão sobre ele e seu perdão será anulado!
 Dialogue: 0,0:06:30.21,0:06:33.17,Main,Myosgard,0,0,0,,Pare com isso, seu idiota! Conheça o seu lugar!
@@ -222,7 +222,7 @@ Dialogue: 0,0:14:12.24,0:14:12.97,Main,Shirahoshi,0,0,0,,Mãe!
 Dialogue: 0,0:14:13.38,0:14:15.53,Main,Neptune,0,0,0,,Espere -jamon, Otohime!
 Dialogue: 0,0:14:15.53,0:14:17.75,Main,Neptune,0,0,0,,Não vou permitir que você faça algo tão egocêntrico!
 Dialogue: 0,0:14:17.75,0:14:21.81,Main,Neptune,0,0,0,,Se você realmente precisa resolver as coisas com os Nobres, então eu irei!
-Dialogue: 0,0:14:22.67,0:14:28.36,Main,Otohime,0,0,0,,Você é o rei e um grande cavaleiro, tenho certeza que nunca seria capturado pelos humanos.\N.\N.
+Dialogue: 0,0:14:22.67,0:14:28.36,Main,Otohime,0,0,0,,Você é o rei e um grande cavaleiro, tenho certeza que nunca seria capturado pelos humanos...
 Dialogue: 0,0:14:28.36,0:14:29.78,Main,Neptune,0,0,0,,É por isso que deveria ser eu!
 Dialogue: 0,0:14:29.78,0:14:33.24,Main,Otohime,0,0,0,,Não.\NSe alguém tão forte quanto você fosse, não teria sentido.
 Dialogue: 0,0:14:33.99,0:14:39.33,Main,Otohime,0,0,0,,Se os fracos não puderem viajar para lá e retornar em segurança,
@@ -252,14 +252,14 @@ Dialogue: 0,0:16:12.48,0:16:15.02,Main,Decken,0,0,0,,O que é isso? A caixa Tama
 Dialogue: 0,0:16:15.02,0:16:19.54,Main,Underling,0,0,0,,Isso mesmo, capitão!\NPor incrível que pareça, ouvi dizer que está no Palácio Ryuuguu!
 Dialogue: 0,0:16:19.54,0:16:22.24,Main,Decken,0,0,0,,E quem abre a caixa envelhece imediatamente?
 Dialogue: 0,0:16:22.24,0:16:24.62,Main,Underling,0,0,0,,Isso mesmo! É assim que funciona.
-Dialogue: 0,0:16:24.62,0:16:29.89,Main,Decken,0,0,0,,Então, por exemplo, se um esguicho como esse garoto abrisse.\N.\N.
+Dialogue: 0,0:16:24.62,0:16:29.89,Main,Decken,0,0,0,,Então, por exemplo, se um esguicho como esse garoto abrisse...
 Dialogue: 0,0:16:29.89,0:16:32.79,Main,Decken,0,0,0,,ela se tornaria uma garota sexy acima da idade de consentimento?
 Dialogue: 0,0:16:32.79,0:16:34.64,Main,Underling,0,0,0,,Ela certamente faria isso.
 Dialogue: 0,0:16:34.64,0:16:38.39,Main,Decken,0,0,0,,Sim! Meu problema está resolvido!
 Dialogue: 0,0:16:38.39,0:16:41.39,Main,Decken,0,0,0,,Então eu poderia me casar rapidamente com a Princesa Shirahoshi...
 Dialogue: 0,0:16:41.39,0:16:43.17,Main,Decken,0,0,0,,Eu presumo!
 Dialogue: 0,0:16:43.17,0:16:46.59,Main,Decken,0,0,0,,Vá roubar aquela Tamate Box imediatamente!
-Dialogue: 0,0:16:46.59,0:16:52.55,Main,Decken,0,0,0,,Não.\N.\N.\Nespere um segundo.\N.\N.\NInvadir o Palácio Ryuuguu não é tão fácil.
+Dialogue: 0,0:16:46.59,0:16:52.55,Main,Decken,0,0,0,,Não...\Nespere um segundo...\NInvadir o Palácio Ryuuguu não é tão fácil.
 Dialogue: 0,0:16:52.55,0:16:55.61,Main,Underling,0,0,0,,Mas se você se casar com Shirahoshi primeiro...
 Dialogue: 0,0:16:55.61,0:16:56.98,Main,Underling,0,0,0,,então você poderia ir e vir quando quiser.
 Dialogue: 0,0:16:57.84,0:17:00.02,Main,Decken,0,0,0,,Vocês com certeza são inteligentes.
@@ -296,7 +296,7 @@ Dialogue: 0,0:19:17.91,0:19:20.85,Main,Jinbe,0,0,0,,Demorou vários dias para pe
 Dialogue: 0,0:19:20.85,0:19:25.28,Main,Jinbe,0,0,0,,mas a Rainha Otohime finalmente acalmou os Dragões Celestiais...
 Dialogue: 0,0:19:25.28,0:19:28.85,Main,Jinbe,0,0,0,,e a folha de papel que ela trouxe...
 Dialogue: 0,0:19:29.57,0:19:33.91,Main,Jinbe,0,0,0,,poderia ser chamada de luz de esperança para a Ilha dos Tritões.
-Dialogue: 0,0:19:34.76,0:19:38.30,Main,Otohime,0,0,0,,Atenção a todos!\NOs Nobres Mundiais têm muito poder político.\N.\N.
+Dialogue: 0,0:19:34.76,0:19:38.30,Main,Otohime,0,0,0,,Atenção a todos!\NOs Nobres Mundiais têm muito poder político...
 Dialogue: 0,0:19:38.30,0:19:43.98,Main,Otohime,0,0,0,,quando se trata do Conselho dos Reis e até mesmo do Conselho Mundial.
 Dialogue: 0,0:19:43.98,0:19:48.51,Main,Otohime,0,0,0,,Isto foi escrito por um Nobre Mundial.\NAqui está o que diz:
 Dialogue: 0,0:19:48.51,0:19:51.68,Main,Otohime,0,0,0,,"Pela paz e amizade entre homens-peixe e humanos,
@@ -306,7 +306,7 @@ Dialogue: 0,0:20:01.70,0:20:08.24,Main,Otohime,0,0,0,,ao incluir este único ped
 Dialogue: 0,0:20:08.24,0:20:11.07,Main,Otohime,0,0,0,,Definitivamente poderemos emigrar para a superfície.
 Dialogue: 0,0:20:11.07,0:20:13.83,Main,Fishman,0,0,0,,Os Dragões Celestiais estão apoiando isso?
 Dialogue: 0,0:20:13.83,0:20:14.70,Main,Fishman,0,0,0,,A política é complicada.
-Dialogue: 0,0:20:14.70,0:20:19.59,Main,Otohime,0,0,0,,Tudo o que precisamos fazer é coletar um grande número de assinaturas.\N.\N.
+Dialogue: 0,0:20:14.70,0:20:19.59,Main,Otohime,0,0,0,,Tudo o que precisamos fazer é coletar um grande número de assinaturas...
 Dialogue: 0,0:20:19.59,0:20:24.29,Main,Otohime,0,0,0,,então a decisão final é sua.\NSó posso esperar enquanto você decide.
 Dialogue: 0,0:20:24.29,0:20:27.46,Main,Otohime,0,0,0,,Que tal? Viver ao lado dos humanos?
 Dialogue: 0,0:20:27.46,0:20:31.05,Main,Otohime,0,0,0,,Por favor indique o seu desejo de emigrar para a superfície.
@@ -324,7 +324,7 @@ Dialogue: 0,0:22:18.40,0:22:22.57,Main,Jinbe,0,0,0,,podemos realmente mudar o fu
 Dialogue: 0,0:22:23.00,0:22:26.94,Main,Jinbe,0,0,0,,Se ele tivesse sido tocado pela convicção ardente da Rainha Otohime,
 Dialogue: 0,0:22:26.94,0:22:30.74,Main,Jinbe,0,0,0,,até mesmo Arlong poderia ter sido salvo.
 Dialogue: 0,0:22:32.50,0:22:37.58,Main,Jinbe,0,0,0,,Eu gostaria que o irmão Ti pudesse ter visto isso...
-Dialogue: 0,0:22:42.61,0:22:49.84,Main,Otohime,0,0,0,,Foi nesse momento.\N.\N.\Nque ganhei coragem para mudar verdadeiramente esta ilha.
+Dialogue: 0,0:22:42.61,0:22:49.84,Main,Otohime,0,0,0,,Foi nesse momento...\Nque ganhei coragem para mudar verdadeiramente esta ilha.
 Dialogue: 0,0:22:49.84,0:22:50.86,Main,Fukaboshi,0,0,0,,Esse momento?
 Dialogue: 0,0:22:51.97,0:22:55.43,Main,Otohime,0,0,0,,Sim, o dia em que os Reis dos Mares espiaram a Ilha dos Tritões.
 Dialogue: 0,0:22:56.63,0:22:58.71,Main,Manboshi,0,0,0,,Acho que todos ficaram surpresos naquele dia.
@@ -489,7 +489,7 @@ Dialogue: 0,0:35:09.38,0:35:14.72,Main,Neptune,0,0,0,,Depois de tudo isso, não 
 Dialogue: 0,0:35:14.72,0:35:17.30,Main,Neptune,0,0,0,,então eu apenas cuidei dela.
 Dialogue: 0,0:35:17.30,0:35:22.69,Main,Neptune,0,0,0,,Por que os inocentes morrem... enquanto eu continuo vivendo?!
 Dialogue: 0,0:35:22.69,0:35:30.34,Main,Neptune,0,0,0,,Mesmo se eu tentasse continuar o trabalho de Otohime, eu pareceria apenas um hipócrita -jamon.
-Dialogue: 0,0:35:31.27,0:35:37.58,Main,Left Minister,0,0,0,,Mas.\N.\N.\No coração das pessoas muda constantemente.\NEstamos todos cheios de contradições.
+Dialogue: 0,0:35:31.27,0:35:37.58,Main,Left Minister,0,0,0,,Mas...\No coração das pessoas muda constantemente.\NEstamos todos cheios de contradições.
 Dialogue: 0,0:35:37.58,0:35:40.10,Main,Left Minister,0,0,0,,Homens-peixe e humanos.
 Dialogue: 0,0:35:40.10,0:35:44.60,Main,Left Minister,0,0,0,,E sempre haverá coisas que só um guerreiro pode proteger.
 Dialogue: 0,0:35:53.91,0:35:55.55,Main,Guards,0,0,0,,Sua Majestade!
@@ -517,14 +517,14 @@ Dialogue: 0,0:37:56.14,0:37:57.68,Main,Fukaboshi,0,0,0,,Todos...
 Dialogue: 0,0:37:58.17,0:37:59.51,Main,Fishman,0,0,0,,O monitor...
 Dialogue: 0,0:38:02.35,0:38:04.45,Main,Fishman,0,0,0,,Príncipe Fukaboshi?
 Dialogue: 0,0:38:04.67,0:38:06.15,Main,Neptune,0,0,0,,Fukaboshi...
-Dialogue: 0,0:38:06.28,0:38:11.37,Main,Fukaboshi,0,0,0,,Pouco antes de morrer, nossa mãe nos contou com um sorriso no rosto.\N.\N.
+Dialogue: 0,0:38:06.28,0:38:11.37,Main,Fukaboshi,0,0,0,,Pouco antes de morrer, nossa mãe nos contou com um sorriso no rosto...
 Dialogue: 0,0:38:12.11,0:38:16.04,Main,Fukaboshi,0,0,0,,que a luz do sol real estava a apenas um fio de cabelo de distância.
 Dialogue: 0,0:38:17.72,0:38:24.02,Main,Fukaboshi,0,0,0,,Decidimos dedicar nossas vidas para realizar o desejo de nossa mãe.
 Dialogue: 0,0:38:24.69,0:38:26.58,Main,Right Minister,0,0,0,,Príncipes...
-Dialogue: 0,0:38:26.58,0:38:33.25,Main,Fukaboshi,0,0,0,,Seus corações podem não sarar a tempo para a Reunião do Conselho Mundial em dois anos.\N.\N.
+Dialogue: 0,0:38:26.58,0:38:33.25,Main,Fukaboshi,0,0,0,,Seus corações podem não sarar a tempo para a Reunião do Conselho Mundial em dois anos...
 Dialogue: 0,0:38:33.81,0:38:38.09,Main,Fukaboshi,0,0,0,,mas há outro em seis anos. E mais um em dez anos!
 Dialogue: 0,0:38:38.82,0:38:44.86,Main,Fukaboshi,0,0,0,,Tenho certeza de que você tem sentimentos conflitantes em relação aos humanos após esse incidente.
 Dialogue: 0,0:38:45.60,0:38:49.54,Main,Fukaboshi,0,0,0,,Descartamos todas as assinaturas que ainda não haviam sido reduzidas a cinzas.
 Dialogue: 0,0:38:51.69,0:38:54.94,Main,Fukaboshi,0,0,0,,Vamos recomeçar da estaca zero!
-Dialogue: 0,0:38:56.31,0:39:04.43,Main,Fukaboshi,0,0,0,,Algum dia.\N.\N.\Nquando os corações de todos tiverem tido tempo de curar.\N.\N.
+Dialogue: 0,0:38:56.31,0:39:04.43,Main,Fukaboshi,0,0,0,,Algum dia...\Nquando os corações de todos tiverem tido tempo de curar...
 Dialogue: 0,0:39:06.14,0:39:11.13,Main,Fukaboshi,0,0,0,,vamos... sonhar com o sol juntos!

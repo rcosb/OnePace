@@ -44,17 +44,17 @@ Dialogue: 1,0:02:59.83,0:03:05.46,Title,,0,0,0,,{\bord0\4a&HFF&\blur0.6\fad(550,
 Dialogue: 5,0:03:00.60,0:03:03.80,Main,,0,0,0,,– Mas é enorme!\N– Não consegui ver o que aconteceu!
 Dialogue: 5,0:03:03.80,0:03:05.50,Main,,0,0,0,,É assustador por aqui.
 Dialogue: 5,0:03:09.23,0:03:10.27,Main,,0,0,0,,Huh?!
-Dialogue: 5,0:03:10.27,0:03:13.61,Main,,0,0,0,,– Um homem?\N- Ei!\NQuem é você?\N!
+Dialogue: 5,0:03:10.27,0:03:13.61,Main,,0,0,0,,– Um homem?\N- Ei!\NQuem é você?!
 Dialogue: 5,0:03:16.34,0:03:17.64,Main,,0,0,0,,Ah, garoto...
 Dialogue: 5,0:03:18.61,0:03:19.58,Main,,0,0,0,,D...
 Dialogue: 5,0:03:21.71,0:03:22.81,Main,,0,0,0,,D...
-Dialogue: 5,0:03:22.81,0:03:26.39,Main,,0,0,0,,– Rei das Trevas Rayleigh!\N!\N- O que?\N!
+Dialogue: 5,0:03:22.81,0:03:26.39,Main,,0,0,0,,– Rei das Trevas Rayleigh!!\N- O que?!
 Dialogue: 5,0:03:26.39,0:03:30.10,Main,,0,0,0,,Ah, são vocês.\NNos conhecemos no Arquipélago Sabaody.
 Dialogue: 5,0:03:35.00,0:03:38.29,Main,,0,0,0,,Ele foi o imediato de Roger, o rei dos piratas!
 Dialogue: 5,0:03:38.29,0:03:44.60,Main,,0,0,0,,Bem, meu navio afundou na tempestade e não tive escolha a não ser nadar.
-Dialogue: 5,0:03:44.60,0:03:49.60,Main,,0,0,0,,Tempestade?\N!\NO Calm Belt está sempre calmo - nunca é difícil!
+Dialogue: 5,0:03:44.60,0:03:49.60,Main,,0,0,0,,Tempestade?!\NO Calm Belt está sempre calmo - nunca é difícil!
 Dialogue: 5,0:03:49.60,0:03:50.78,Main,,0,0,0,,Não deveria haver uma tempestade!
-Dialogue: 5,0:03:50.78,0:03:55.85,Main,,0,0,0,,Isso significa que o navio dele naufragou mais longe e ele nadou até aqui?\N!
+Dialogue: 5,0:03:50.78,0:03:55.85,Main,,0,0,0,,Isso significa que o navio dele naufragou mais longe e ele nadou até aqui?!
 Dialogue: 5,0:03:56.80,0:03:58.69,Main,,0,0,0,,Tenho um bom nado peito.
 Dialogue: 5,0:03:58.69,0:04:01.05,Main,,0,0,0,,Esse não é o ponto.
 Dialogue: 5,0:04:01.05,0:04:03.68,Main,,0,0,0,,Então, aquele rei do mar estava lutando com...
@@ -117,7 +117,7 @@ Dialogue: 5,0:07:26.81,0:07:28.13,Main,,0,0,0,,Cale-se!
 Dialogue: 5,0:07:28.13,0:07:29.60,Main,,0,0,0,,Desculpe.
 Dialogue: 5,0:07:29.60,0:07:31.19,Main,,0,0,0,,Tão fraco!
 Dialogue: 5,0:07:31.20,0:07:34.10,Main,,0,0,0,,Eu me pergunto o que o Rei das Trevas está fazendo.
-Dialogue: 5,0:07:34.10,0:07:37.01,Main,,0,0,0,,Seja o que for, tenho certeza de que "D.\N" causará uma grande tempestade mais uma vez.\N.\N.
+Dialogue: 5,0:07:34.10,0:07:37.01,Main,,0,0,0,,Seja o que for, tenho certeza de que "D.\N" causará uma grande tempestade mais uma vez...
 Dialogue: 5,0:07:38.30,0:07:40.91,Main,,0,0,0,,Mal posso esperar para vê-lo novamente.
 Dialogue: 5,0:07:41.70,0:07:45.90,Main,,0,0,0,,Ah, Rayleigh?! Você deve ser Rayleigh!
 Dialogue: 5,0:07:45.90,0:07:50.02,Main,,0,0,0,,Ah, Glorioso! Já faz algum tempo!
@@ -154,7 +154,7 @@ Dialogue: 5,0:09:50.29,0:09:54.40,Main,,0,0,0,,se for fácil para alguém adivin
 Dialogue: 5,0:09:54.40,0:09:56.11,Main,,0,0,0,,deveríamos estar preocupados.
 Dialogue: 5,0:09:56.11,0:09:58.91,Main,,0,0,0,,Huh?! Que velho rosto familiar!
 Dialogue: 5,0:09:58.91,0:10:01.61,Main,,0,0,0,,Você é Rayleigh, não é?
-Dialogue: 5,0:10:01.61,0:10:04.46,Main,,0,0,0,,Você acabou de notar?\N!\NQuão bravo você está por ele?\N!
+Dialogue: 5,0:10:01.61,0:10:04.46,Main,,0,0,0,,Você acabou de notar?!\NQuão bravo você está por ele?!
 Dialogue: 5,0:10:06.00,0:10:09.96,Main,,0,0,0,,Não, não creio que a Marinha possa adivinhar que ele está aqui.
 Dialogue: 5,0:10:10.69,0:10:14.24,Main,,0,0,0,,Em primeiro lugar, aquele que o mandou embora
 Dialogue: 5,0:10:14.24,0:10:17.89,Main,,0,0,0,,me disse que ele o enviou nesta direção.
@@ -173,7 +173,7 @@ Dialogue: 5,0:10:53.70,0:10:58.10,Main,,0,0,0,,{\i1}Na direção em que Bartholo
 Dialogue: 5,0:10:58.10,0:11:01.01,Main,,0,0,0,,existe a Ilha das Mulheres.
 Dialogue: 5,0:11:01.01,0:11:06.44,Main,,0,0,0,,{\i1}Quando pensei em como Luffy-kun conseguiu se infiltrar na grande prisão,
 Dialogue: 5,0:11:06.44,0:11:08.28,Main,,0,0,0,,{\i1}me ocorreu que Luffy-kun
-Dialogue: 5,0:11:08.28,0:11:13.15,Main,,0,0,0,,Deve ter sido clandestino num navio da Marinha com Hancock, mas.\N.\N.
+Dialogue: 5,0:11:08.28,0:11:13.15,Main,,0,0,0,,Deve ter sido clandestino num navio da Marinha com Hancock, mas...
 Dialogue: 5,0:11:16.99,0:11:20.63,Flashbacks,,0,0,0,,Como Hancock odeia tanto o governo como os homens,
 Dialogue: 5,0:11:20.63,0:11:23.93,Flashbacks,,0,0,0,,Eu não acho que ela entraria em um navio do governo,
 Dialogue: 5,0:11:23.93,0:11:25.64,Flashbacks,,0,0,0,,especialmente para não ajudar um homem.
@@ -207,12 +207,12 @@ Dialogue: 5,0:13:53.85,0:13:58.40,Main,,0,0,0,,Você quer se reunir com seus ami
 Dialogue: 5,0:13:59.85,0:14:02.95,Main,,0,0,0,,Eu tenho uma sugestão para você.
 Dialogue: 5,0:14:03.75,0:14:05.89,Main,,0,0,0,,Claro, depende de você...
 Dialogue: 5,0:14:07.00,0:14:08.06,Main,,0,0,0,,faça isso ou não.
-Dialogue: 5,0:14:16.60,0:14:22.21,Narrator,,0,0,0,,Enquanto isso, no Arquipélago Bowin, na Grand Line.\N.\N.
+Dialogue: 5,0:14:16.60,0:14:22.21,Narrator,,0,0,0,,Enquanto isso, no Arquipélago Bowin, na Grand Line...
 Dialogue: 5,0:14:22.94,0:14:25.91,Main,,0,0,0,,Parar! Usoppun!
 Dialogue: 5,0:14:25.91,0:14:28.33,Main,,0,0,0,,Não me impeça, Hércules!
 Dialogue: 5,0:14:28.33,0:14:30.72,Narrator,,0,0,0,,Usopp é...
 Dialogue: 5,0:14:30.72,0:14:33.89,Narrator,,0,0,0,,sacudindo seu corpo que ficou enorme
-Dialogue: 5,0:14:33.89,0:14:36.49,Narrator,,0,0,0,,de comer uma variedade abundante de alimentos na floresta.\N.\N.
+Dialogue: 5,0:14:33.89,0:14:36.49,Narrator,,0,0,0,,de comer uma variedade abundante de alimentos na floresta...
 Dialogue: 5,0:14:39.83,0:14:41.60,Narrator,,0,0,0,,e correndo.
 Dialogue: 5,0:14:43.10,0:14:45.03,Main,,0,0,0,,É impossível!
 Dialogue: 5,0:14:45.03,0:14:47.20,Main,,0,0,0,,Não, não é! Por isso vou tentar de novo!
@@ -234,7 +234,7 @@ Dialogue: 5,0:15:52.41,0:15:55.76,Main,,0,0,0,,Oh?! Usoppun! Aonde você foi?!
 Dialogue: 5,0:16:01.67,0:16:03.11,Main,,0,0,0,,Oh, ele está em perigo!
 Dialogue: 5,0:16:03.11,0:16:06.05,Main,,0,0,0,,A criatura marinha acaba de chegar à ilha!
 Dialogue: 5,0:16:06.05,0:16:09.28,Main,,0,0,0,,Usoppun está em perigo!
-Dialogue: 5,0:16:12.50,0:16:17.21,Narrator,,0,0,0,,O aroma doce do Arquipélago Bowin chama a atenção de.\N.\N.
+Dialogue: 5,0:16:12.50,0:16:17.21,Narrator,,0,0,0,,O aroma doce do Arquipélago Bowin chama a atenção de...
 Dialogue: 5,0:16:17.21,0:16:20.63,Narrator,,0,0,0,,insetos gigantes e pássaros gigantes...
 Dialogue: 5,0:16:20.63,0:16:23.31,Narrator,,0,0,0,,e até mesmo criaturas marinhas e reis do mar.
 Dialogue: 5,0:16:24.89,0:16:25.86,Main,,0,0,0,,É um hipopótamo marinho!
@@ -253,7 +253,7 @@ Dialogue: 5,0:17:10.81,0:17:12.31,Main,,0,0,0,,O que?
 Dialogue: 5,0:17:16.15,0:17:19.39,Main,,0,0,0,,Usoppun! Pendure-se em uma árvore!
 Dialogue: 5,0:17:19.39,0:17:20.82,Main,,0,0,0,,Está acontecendo de novo?!
 Dialogue: 5,0:17:20.82,0:17:23.57,Main,,0,0,0,,Ele vai comer alguma coisa!
-Dialogue: 5,0:17:29.70,0:17:33.36,Narrator,,0,0,0,,O nome desta flor que parece uma ilha é.\N.\N.
+Dialogue: 5,0:17:29.70,0:17:33.36,Narrator,,0,0,0,,O nome desta flor que parece uma ilha é...
 Dialogue: 5,0:17:45.91,0:17:47.70,Narrator,,0,0,0,,As pessoas os chamam de Arquipélago Bowin
 Dialogue: 5,0:17:47.70,0:17:51.68,Narrator,,0,0,0,,mas o nome científico é barão do estômago: uma planta carnívora!
 Dialogue: 5,0:17:53.21,0:17:55.95,Main,,0,0,0,,Usoppun!
@@ -319,7 +319,7 @@ Dialogue: 5,0:22:17.40,0:22:20.67,Narrator,,0,0,0,,Um antigo castelo ainda exist
 Dialogue: 5,0:22:20.67,0:22:26.16,Narrator,,0,0,0,,Acontece que um certo homem fez desta sua casa nos últimos anos.
 Dialogue: 5,0:22:26.16,0:22:29.49,Main,,0,0,0,,{\i1}Como poderia Moria-sama morrer na guerra?!
 Dialogue: 5,0:22:39.59,0:22:43.14,Main,,0,0,0,,Você é irritante. Se você precisar chorar, vá para fora.
-Dialogue: 5,0:22:43.14,0:22:47.47,Main,,0,0,0,,Que homem de coração frio!\NComo você pode dizer isso para alguém que está de luto?\N!
+Dialogue: 5,0:22:43.14,0:22:47.47,Main,,0,0,0,,Que homem de coração frio!\NComo você pode dizer isso para alguém que está de luto?!
 Dialogue: 5,0:22:47.47,0:22:52.02,Main,,0,0,0,,Por que você não pode dizer algo legal para me animar e me trazer uma xícara de chocolate quente?
 Dialogue: 5,0:22:52.02,0:22:54.36,Main,,0,0,0,,Sou seu convidado, você sabe!
 Dialogue: 5,0:22:54.36,0:22:55.89,Main,,0,0,0,,Um convidado indesejado.
@@ -335,7 +335,7 @@ Dialogue: 5,0:23:27.49,0:23:28.62,Main,,0,0,0,,{\fad(150,150)}Eles...
 Dialogue: 5,0:23:29.76,0:23:30.64,Main,,0,0,0,,{\fad(150,150)}Giri!
 Dialogue: 5,0:23:39.59,0:23:41.49,Main,,0,0,0,,Você realmente acha que a saliva vai curar isso?!
 Dialogue: 5,0:23:41.49,0:23:43.80,Main,,0,0,0,,Onde você encontrou um remédio popular como esse?!
-Dialogue: 5,0:23:48.19,0:23:51.81,Main,,0,0,0,,Malditos sejam esses caras.\N.\N.\NAté quando eles vão continuar zombando de mim?\N!
+Dialogue: 5,0:23:48.19,0:23:51.81,Main,,0,0,0,,Malditos sejam esses caras...\NAté quando eles vão continuar zombando de mim?!
 Dialogue: 5,0:23:52.40,0:23:55.58,Main,,0,0,0,,Nesse ritmo, nunca chegarei ao oceano!
 Dialogue: 5,0:24:04.59,0:24:05.94,Main,,0,0,0,,Olho de falcão...
 Dialogue: 5,0:24:07.00,0:24:09.39,Main,,0,0,0,,Já faz algum tempo desde que você saiu do castelo.
@@ -365,7 +365,7 @@ Dialogue: 5,0:25:30.40,0:25:33.69,Main,,0,0,0,,Você não pode me dar ordens!
 Dialogue: 5,0:25:33.69,0:25:35.98,Main,,0,0,0,,Vou para o mar agora mesmo!
 Dialogue: 5,0:25:36.80,0:25:38.04,Main,,0,0,0,,É assim mesmo?
 Dialogue: 5,0:25:39.30,0:25:40.38,Main,,0,0,0,,Faça do seu jeito.
-Dialogue: 5,0:25:43.01,0:25:45.89,Main,,0,0,0,,E daí se eles são guerreiros da floresta ou algo assim.\N.\N.
+Dialogue: 5,0:25:43.01,0:25:45.89,Main,,0,0,0,,E daí se eles são guerreiros da floresta ou algo assim...
 Dialogue: 5,0:25:45.89,0:25:49.15,Main,,0,0,0,,Não tenho tempo para relaxar!
 Dialogue: 5,0:25:58.20,0:26:01.71,Narrator,,0,0,0,,Enquanto isso, em um país que pesquisa o clima...
 Dialogue: 5,0:26:01.71,0:26:05.28,Narrator,,0,0,0,,A pequena ilha do céu Weatheria.
@@ -411,7 +411,7 @@ Dialogue: 5,0:27:53.92,0:27:56.65,Main,,0,0,0,,É como você vê, Sr. Haredas.
 Dialogue: 5,0:27:57.50,0:27:58.69,Main,,0,0,0,,Garota.
 Dialogue: 5,0:27:59.50,0:28:03.30,Main,,0,0,0,,Eu costumava ser um ladrão e agora sou um pirata.
 Dialogue: 5,0:28:04.69,0:28:06.46,Main,,0,0,0,,O que há de errado em eu roubar coisas?
-Dialogue: 5,0:28:06.46,0:28:10.80,Main,,0,0,0,,Ela é pura maldade!\NComo ela pode se chamar de humana?\N!
+Dialogue: 5,0:28:06.46,0:28:10.80,Main,,0,0,0,,Ela é pura maldade!\NComo ela pode se chamar de humana?!
 Dialogue: 5,0:28:10.80,0:28:13.64,Main,,0,0,0,,Que vilã deixamos entrar em nosso país!
 Dialogue: 5,0:28:14.75,0:28:16.84,Main,,0,0,0,,Como eu disse...
 Dialogue: 5,0:28:16.84,0:28:19.78,Main,,0,0,0,,Estou tentando sair deste país!
@@ -428,7 +428,7 @@ Dialogue: 5,0:28:55.75,0:28:58.91,Main,,0,0,0,,O Luffy que o jornal está faland
 Dialogue: 5,0:28:58.91,0:29:00.45,Main,,0,0,0,,Ele é meu capitão.
 Dialogue: 5,0:29:00.45,0:29:01.77,Main,,0,0,0,,O que?
 Dialogue: 5,0:29:02.89,0:29:04.82,Main,,0,0,0,,Oh? Esse garoto?
-Dialogue: 5,0:29:04.82,0:29:09.14,Main,,0,0,0,,Aquele que causou estragos no campo de batalha durante a guerra recente.\N.\N.
+Dialogue: 5,0:29:04.82,0:29:09.14,Main,,0,0,0,,Aquele que causou estragos no campo de batalha durante a guerra recente...
 Dialogue: 5,0:29:09.14,0:29:11.43,Main,,0,0,0,,O infame novato do chapéu de palha...
 Dialogue: 5,0:29:11.43,0:29:15.19,Main,,0,0,0,,Enquanto seus companheiros de tripulação estavam espalhados por todo o mundo...
 Dialogue: 5,0:29:15.19,0:29:19.96,Main,,0,0,0,,Luffy tem travado uma batalha terrível sozinho.
@@ -465,7 +465,7 @@ Dialogue: 5,0:31:13.34,0:31:16.95,Thoughts,,0,0,0,,E agora, quando é a nossa ve
 Dialogue: 5,0:31:16.95,0:31:20.06,Main,,0,0,0,,Depois dela! Não a deixe escapar!
 Dialogue: 5,0:31:21.79,0:31:26.40,Main,,0,0,0,,Oh? Garota, suas lágrimas falsas estão de volta...
 Dialogue: 5,0:31:27.63,0:31:28.97,Main,,0,0,0,,Cale a boca!
-Dialogue: 5,0:31:33.20,0:31:36.90,Narrator,,0,0,0,,Enquanto isso, na terra onde nasceu o gênio Vegapunk.\N.\N.
+Dialogue: 5,0:31:33.20,0:31:36.90,Narrator,,0,0,0,,Enquanto isso, na terra onde nasceu o gênio Vegapunk...
 Dialogue: 5,0:31:36.90,0:31:40.01,Narrator,,0,0,0,,A Futureland de Baldimore, em uma ilha de inverno...
 Dialogue: 5,0:31:43.08,0:31:45.28,Main,,0,0,0,,Alerta de intruso!
 Dialogue: 5,0:31:45.28,0:31:48.79,Main,,0,0,0,,Alguém invadiu o laboratório do Doutor Vegapunk!
@@ -493,18 +493,18 @@ Dialogue: 5,0:32:59.82,0:33:03.36,Main,,0,0,0,,É um sistema de aquecimento do s
 Dialogue: 5,0:33:05.33,0:33:09.49,Main,,0,0,0,,Mas ele sempre teve o mesmo problema...
 Dialogue: 5,0:33:09.49,0:33:14.24,Main,,0,0,0,,Ele nunca conseguiu concretizar plenamente as ideias que tinha na cabeça.
 Dialogue: 5,0:33:14.24,0:33:18.08,Main,,0,0,0,,Ele não tinha recursos e financiamento para torná-los realidade.
-Dialogue: 5,0:33:18.84,0:33:22.78,Main,,0,0,0,,Mas vê-lo chorando quando não pôde nos ajudar.\N.\N.
+Dialogue: 5,0:33:18.84,0:33:22.78,Main,,0,0,0,,Mas vê-lo chorando quando não pôde nos ajudar...
 Dialogue: 5,0:33:22.78,0:33:27.38,Main,,0,0,0,,foi o suficiente para aquecer nossos corações.
 Dialogue: 5,0:33:30.89,0:33:35.00,Main,,0,0,0,,Que história super emocionante!
 Dialogue: 5,0:33:35.00,0:33:36.22,Main,,0,0,0,,Você acha que sim?
 Dialogue: 5,0:33:36.22,0:33:40.86,Main,,0,0,0,,Ainda estamos esperando ele voltar para casa.
-Dialogue: 5,0:33:42.81,0:33:48.40,Main,,0,0,0,,Agora que você sabe, por favor, nunca volte àquele laboratório com seu.\N.\N.
+Dialogue: 5,0:33:42.81,0:33:48.40,Main,,0,0,0,,Agora que você sabe, por favor, nunca volte àquele laboratório com seu...
 Dialogue: 5,0:33:48.40,0:33:49.67,Main,,0,0,0,,botão de autodestruição.
-Dialogue: 5,0:33:49.67,0:33:55.71,Main,,0,0,0,,O que?\N!\NVocê acabou de mencionar casualmente o botão mais desnecessário do mundo?
+Dialogue: 5,0:33:49.67,0:33:55.71,Main,,0,0,0,,O que?!\NVocê acabou de mencionar casualmente o botão mais desnecessário do mundo?
 Dialogue: 5,0:33:57.00,0:33:59.28,Main,,0,0,0,,Não sabia que existia um botão assim...
 Dialogue: 5,0:33:59.28,0:34:04.10,Main,,0,0,0,,Ei, velho, vamos voltar para casa e tomar um chá quente!
 Dialogue: 5,0:34:04.10,0:34:05.92,Main,,0,0,0,,Eu não posso fazer isso!
-Dialogue: 5,0:34:05.92,0:34:11.96,Main,,0,0,0,,O único lugar onde posso encontrar um quebra-gelo para sair desta ilha.\N.\N.\Né no laboratório, certo?
+Dialogue: 5,0:34:05.92,0:34:11.96,Main,,0,0,0,,O único lugar onde posso encontrar um quebra-gelo para sair desta ilha...\Né no laboratório, certo?
 Dialogue: 5,0:34:13.70,0:34:16.72,Main,,0,0,0,,Tenho meus próprios problemas para resolver.
 Dialogue: 5,0:34:16.72,0:34:21.10,Main,,0,0,0,,Acabei de ler a notícia de que meu capitão passou por um inferno, sabe.
 Dialogue: 5,0:34:22.27,0:34:23.10,Main,,0,0,0,,Até mais!
@@ -518,13 +518,13 @@ Dialogue: 5,0:34:43.30,0:34:47.03,Main,,0,0,0,,Os projetos espalhados por aqui s
 Dialogue: 5,0:34:48.25,0:34:52.90,Main,,0,0,0,,Na verdade, como engenheiro, não quero que as pessoas coloquem um dedo neste lugar.
 Dialogue: 5,0:34:52.90,0:34:56.24,Main,,0,0,0,,Ei, você ouviu?\NAparentemente há um intruso no laboratório!
 Dialogue: 5,0:34:56.24,0:34:58.69,Main,,0,0,0,,Realmente? Isso é horrível!
-Dialogue: 5,0:34:58.69,0:35:03.65,Main,,0,0,0,,Dizem que cada projeto ali contido tem um valor inestimável.\N.\N.
+Dialogue: 5,0:34:58.69,0:35:03.65,Main,,0,0,0,,Dizem que cada projeto ali contido tem um valor inestimável...
 Dialogue: 5,0:35:03.65,0:35:08.30,Main,,0,0,0,,Lembre-se, se alguma coisa no laboratório do genial Vegapunk for danificada durante esta perseguição,
 Dialogue: 5,0:35:08.30,0:35:10.31,Main,,0,0,0,,será considerado crime!
 Dialogue: 5,0:35:10.31,0:35:11.19,Main,,0,0,0,,Sim, senhor!
 Dialogue: 5,0:35:13.58,0:35:15.39,Main,,0,0,0,,Oh, uma marca de pirata!
 Dialogue: 5,0:35:36.50,0:35:38.69,Flashbacks,,0,0,0,,Posso te perguntar apenas uma coisa?
-Dialogue: 5,0:35:38.69,0:35:42.15,Flashbacks,,0,0,0,,Se, por algum acaso, eu apertasse esse botão.\N.\N.
+Dialogue: 5,0:35:38.69,0:35:42.15,Flashbacks,,0,0,0,,Se, por algum acaso, eu apertasse esse botão...
 Dialogue: 5,0:35:43.12,0:35:44.23,Flashbacks,,0,0,0,,Velho?
 Dialogue: 5,0:35:45.10,0:35:47.49,Flashbacks,,0,0,0,,Seria minha culpa?
 Dialogue: 5,0:35:47.49,0:35:49.37,Flashbacks,,0,0,0,,Obviamente!
@@ -532,7 +532,7 @@ Dialogue: 5,0:35:50.29,0:35:53.90,Narrator,,0,0,0,,O mundo refere-se a este inci
 Dialogue: 5,0:35:53.90,0:35:56.68,Narrator,,0,0,0,,"O Pesadelo de Baldimore".
 Dialogue: 5,0:36:02.50,0:36:06.14,Main,,0,0,0,,{\i1}Muito obrigado, Lorde das Trevas Satan-sama!
 Dialogue: 5,0:36:07.58,0:36:14.52,Main,,0,0,0,,Eu nunca teria sonhado que chegaria o dia em que prenderíamos esses caras.
-Dialogue: 5,0:36:14.52,0:36:19.49,Main,,0,0,0,,Não sei porquê, mas quando ouvimos aquela música que você compôs e tocou para nós.\N.\N.
+Dialogue: 5,0:36:14.52,0:36:19.49,Main,,0,0,0,,Não sei porquê, mas quando ouvimos aquela música que você compôs e tocou para nós...
 Dialogue: 5,0:36:19.49,0:36:22.39,Main,,0,0,0,,Coragem e espírito de luta brotaram dentro de nós,
 Dialogue: 5,0:36:22.39,0:36:25.84,Main,,0,0,0,,e pegamos em armas e lutamos pela primeira vez em nossas vidas!
 Dialogue: 5,0:36:26.91,0:36:32.96,Main,,0,0,0,,Claro, falhamos imediatamente e você teve que acabar com eles...
@@ -552,7 +552,7 @@ Dialogue: 5,0:37:17.92,0:37:20.24,Main,,0,0,0,,Embora eu não tenha coração.
 Dialogue: 5,0:37:20.24,0:37:23.44,Main,,0,0,0,,{\i1}Luffy-san, vamos cantar juntos!
 Dialogue: 5,0:37:23.44,0:37:26.72,Main,,0,0,0,,Eu irei salvar seu coração, agora mesmo!
 Dialogue: 5,0:37:26.72,0:37:30.39,Main,,0,0,0,,Droga, nunca pensei que eles teriam o diabo como guarda-costas!
-Dialogue: 5,0:37:30.39,0:37:35.70,Main,,0,0,0,,Se conseguíssemos trazer essas pessoas incomuns com apenas uma articulação no braço de volta à nossa terra natal.\N.\N.
+Dialogue: 5,0:37:30.39,0:37:35.70,Main,,0,0,0,,Se conseguíssemos trazer essas pessoas incomuns com apenas uma articulação no braço de volta à nossa terra natal...
 Dialogue: 5,0:37:35.70,0:37:39.24,Main,,0,0,0,,poderíamos tê-los exposto e ganhado muito dinheiro!
 Dialogue: 5,0:37:39.24,0:37:41.14,Main,,0,0,0,,Agora, então...
 Dialogue: 5,0:37:41.14,0:37:48.08,Main,,0,0,0,,Se colocarmos à mostra esses braços longos com duas articulações no braço, podemos ganhar muito dinheiro!
@@ -562,7 +562,7 @@ Dialogue: 0,0:37:56.52,0:37:58.72,Main,,0,0,0,,Todos, por favor, me escutem.
 Dialogue: 5,0:37:59.79,0:38:04.63,Main,,0,0,0,,O que?! Deixe-os ir?! Se fizermos isso, eles simplesmente...
 Dialogue: 5,0:38:04.63,0:38:09.33,Main,,0,0,0,,Tudo ficará bem.\NPois eles fizeram um pacto com o diabo.
 Dialogue: 5,0:38:10.95,0:38:13.57,Main,,0,0,0,,Vocês entendem, senhores?
-Dialogue: 5,0:38:13.57,0:38:19.44,Main,,0,0,0,,Se você quebrar sua promessa e causar problemas neste país novamente.\N.\N.
+Dialogue: 5,0:38:13.57,0:38:19.44,Main,,0,0,0,,Se você quebrar sua promessa e causar problemas neste país novamente...
 Dialogue: 5,0:38:19.45,0:38:22.26,Main,,0,0,0,,Eu vou...
 Dialogue: 5,0:38:22.26,0:38:24.43,Main,,0,0,0,,comam seus corações!
 Dialogue: 5,0:38:26.43,0:38:29.40,Main,,0,0,0,,Estamos vergonhosamente gratos por você nos deixar ir!

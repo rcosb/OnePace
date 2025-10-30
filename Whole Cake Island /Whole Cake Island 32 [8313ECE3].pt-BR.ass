@@ -105,7 +105,7 @@ Dialogue: 0,0:04:39.44,0:04:45.01,Main,,0,0,0,,{\i1}e afunde... cada um deles...
 Dialogue: 0,0:04:45.01,0:04:49.51,Main,,0,0,0,,Sim!
 Dialogue: 0,0:04:50.50,0:04:53.24,Main,,0,0,0,,O que você acabou de confirmar...
 Dialogue: 0,0:04:53.24,0:04:59.17,Main,,0,0,0,,é que sou invencível desde que permaneça calmo, certo?
-Dialogue: 0,0:05:01.04,0:05:05.63,Main,,0,0,0,,Você baixará a guarda novamente!\NVocê é um inimigo.\N.\N.
+Dialogue: 0,0:05:01.04,0:05:05.63,Main,,0,0,0,,Você baixará a guarda novamente!\NVocê é um inimigo...
 Dialogue: 0,0:05:06.51,0:05:08.22,Main,,0,0,0,,que eu posso vencer!
 Dialogue: 0,0:05:08.22,0:05:10.80,Main,,0,0,0,,Parece que você está prestes a murchar?
 Dialogue: 0,0:05:10.80,0:05:14.47,Main,,0,0,0,,Isso mesmo! O limite de tempo do Gear Fourth acabou!
@@ -167,11 +167,11 @@ Dialogue: 0,0:08:47.93,0:08:52.60,Main,,0,0,0,,Para derrubar aquele que está ca
 Dialogue: 0,0:08:58.33,0:09:00.79,Main,,0,0,0,,{\i1}Marido-sama, por que você está disfarçado?
 Dialogue: 0,0:09:01.88,0:09:04.00,Main,,0,0,0,,Porque sou tímido.
 Dialogue: 0,0:09:10.47,0:09:14.68,Main,,0,0,0,,Abram caminho, pessoal!\NEstamos transportando o bolo para o porto!
-Dialogue: 0,0:09:14.68,0:09:18.06,Main,,0,0,0,,Uau, incrível!\NEles fizeram isso tão rápido?\N!
+Dialogue: 0,0:09:14.68,0:09:18.06,Main,,0,0,0,,Uau, incrível!\NEles fizeram isso tão rápido?!
 Dialogue: 0,0:09:18.06,0:09:19.94,Main,,0,0,0,,A forma do bolo está completa!
 Dialogue: 0,0:09:19.94,0:09:22.23,Main,,0,0,0,,E cheira muito bem!
 Dialogue: 0,0:09:23.27,0:09:27.06,Main,,0,0,0,,Quando estiver pronto, tenho certeza que mamãe vai adorar!
-Dialogue: 0,0:09:27.06,0:09:31.03,Main,,0,0,0,,Que aroma feliz!\NEstamos no Céu?\N!
+Dialogue: 0,0:09:27.06,0:09:31.03,Main,,0,0,0,,Que aroma feliz!\NEstamos no Céu?!
 Dialogue: 0,0:09:34.74,0:09:38.41,Main,,0,0,0,,{\i1}Como esperado de Pudding-sama e Chiffon-sama!
 Dialogue: 0,0:09:38.41,0:09:40.91,Main,,0,0,0,,E o WCI: 31!
 Dialogue: 0,0:09:44.04,0:09:46.09,Main,,0,0,0,,Tudo bem! Mamãe está vindo!
@@ -215,7 +215,7 @@ Dialogue: 0,0:13:16.65,0:13:19.57,Main,,0,0,0,,Disseram-me que você iria espera
 Dialogue: 0,0:13:19.57,0:13:22.83,Main,,0,0,0,,junto com mamãe, que está passando fome, nesta ilha.
 Dialogue: 0,0:13:24.03,0:13:28.17,Main,,0,0,0,,Terminaremos o bolo no navio e pararemos a mamãe no mar!
 Dialogue: 0,0:13:28.17,0:13:29.79,Main,,0,0,0,,No mar?!
-Dialogue: 0,0:13:29.79,0:13:33.96,Main,,0,0,0,,Você quer que deixemos uma mamãe furiosa pousar em Chocolat Town?\N!
+Dialogue: 0,0:13:29.79,0:13:33.96,Main,,0,0,0,,Você quer que deixemos uma mamãe furiosa pousar em Chocolat Town?!
 Dialogue: 0,0:13:33.96,0:13:38.05,Main,,0,0,0,,Se entrarmos em contato com o irmão Peros, poderemos marcar um encontro no mar!
 Dialogue: 0,0:13:47.77,0:13:50.90,Main,,0,0,0,,Eu vejo. Você tem razão.
 Dialogue: 0,0:13:53.70,0:13:57.53,Main,,0,0,0,,Eu entendo.\NMinha querida irmãzinha, você pode passar!
@@ -240,19 +240,19 @@ Dialogue: 0,0:15:06.56,0:15:08.43,Main,,0,0,0,,{\i1}Espere, Pudim-chan!
 Dialogue: 0,0:15:08.43,0:15:11.60,Main,,0,0,0,,Se você fizer alguma coisa, também será considerado um traidor!
 Dialogue: 0,0:15:11.60,0:15:12.81,Main,,0,0,0,,O que?
 Dialogue: 0,0:15:12.81,0:15:16.90,Thoughts,,0,0,0,,Ah! Ele está preocupado comigo!
-Dialogue: 0,0:15:18.73,0:15:23.70,Thoughts,,0,0,0,,Mas.\N.\N.\Neu também não posso me revelar e lutar.\N.\N.
+Dialogue: 0,0:15:18.73,0:15:23.70,Thoughts,,0,0,0,,Mas...\Neu também não posso me revelar e lutar...
 Dialogue: 0,0:15:28.54,0:15:30.26,Thoughts,,0,0,0,,O que devo fazer?!
 Dialogue: 0,0:15:37.86,0:15:42.11,Main,,0,0,0,,Eu... já estou determinado...!
 Dialogue: 0,0:15:43.53,0:15:47.99,Thoughts,,0,0,0,,Minha dívida não será totalmente paga até que Nami e os outros saiam em segurança!
-Dialogue: 0,0:15:49.83,0:15:55.25,Main,,0,0,0,,Eu.\N.\N.\Najudo a fazer o bolo até ficar pronto, irmão mais velho!
-Dialogue: 0,0:15:57.21,0:16:03.09,Thoughts,,0,0,0,,Eles salvaram a vida da Lola.\N.\N.\NNão posso pagar minha dívida assim!
+Dialogue: 0,0:15:49.83,0:15:55.25,Main,,0,0,0,,Eu...\Najudo a fazer o bolo até ficar pronto, irmão mais velho!
+Dialogue: 0,0:15:57.21,0:16:03.09,Thoughts,,0,0,0,,Eles salvaram a vida da Lola...\NNão posso pagar minha dívida assim!
 Dialogue: 0,0:16:06.51,0:16:11.48,Main,,0,0,0,,Esta não é uma simples briga entre irmãos nem uma fase rebelde, Chiffon!
 Dialogue: 0,0:16:11.48,0:16:15.73,Main,,0,0,0,,Você é um traidor que planejou matar a rainha!
 Dialogue: 0,0:16:19.36,0:16:23.15,Main,,0,0,0,,Nunca pensei que teria que matar minha própria irmã...
 Dialogue: 0,0:16:23.15,0:16:26.28,Main,,0,0,0,,Pare, irmão mais velho!
 Dialogue: 0,0:16:26.28,0:16:29.78,Main,,0,0,0,,Precisamos dar o exemplo para os outros neste país!
 Dialogue: 0,0:16:29.78,0:16:31.46,Main,,0,0,0,,Irmã Chiffon!
-Dialogue: 0,0:16:31.46,0:16:35.57,Thoughts,,0,0,0,,Isso é ruim.\N.\N.\NTalvez eu não devesse me preocupar com as consequências agora!
+Dialogue: 0,0:16:31.46,0:16:35.57,Thoughts,,0,0,0,,Isso é ruim...\NTalvez eu não devesse me preocupar com as consequências agora!
 Dialogue: 0,0:16:37.58,0:16:42.75,Main,,0,0,0,,{\i1}Tire as mãos do Chiffon!\NForno-kun!
 Dialogue: 0,0:16:42.75,0:16:45.30,Thoughts,,0,0,0,,Vou te salvar agora mesmo, minha querida filha!
 Dialogue: 0,0:16:45.30,0:16:46.55,Main,,0,0,0,,Quem é aquele?!
@@ -335,7 +335,7 @@ Dialogue: 0,0:22:13.92,0:22:16.27,Main,,0,0,0,,Você é muito mole, Bege.
 Dialogue: 0,0:22:16.27,0:22:19.69,Main,,0,0,0,,Isso vai custar-lhe a cabeça!
 Dialogue: 0,0:22:21.67,0:22:24.36,Main,,0,0,0,,O navio de Bege está chegando!
 Dialogue: 0,0:22:24.36,0:22:27.70,Main,,0,0,0,,Todos soldados! Entre em uma formação defensiva!
-Dialogue: 0,0:22:30.16,0:22:34.33,Main,,0,0,0,,Frota!\NDividam-se à direita e à esquerda.\N.\N.\Ne bloqueiem todas as rotas de fuga!
+Dialogue: 0,0:22:30.16,0:22:34.33,Main,,0,0,0,,Frota!\NDividam-se à direita e à esquerda...\Ne bloqueiem todas as rotas de fuga!
 Dialogue: 0,0:22:34.33,0:22:35.88,Main,,0,0,0,,Sim, senhor!
 Dialogue: 0,0:22:43.46,0:22:46.32,Main,,0,0,0,,Posso ver o navio de Bege!
 Dialogue: 0,0:22:46.32,0:22:50.36,Main,,0,0,0,,Acho que ele realmente vai se render sem lutar, como prometeu.
@@ -367,7 +367,7 @@ Dialogue: 0,0:24:36.15,0:24:37.86,Main,,0,0,0,,Está nos cercando!
 Dialogue: 0,0:24:43.45,0:24:44.87,Main,,0,0,0,,{\fad(150,150)}Valsa lenta!
 Dialogue: 0,0:24:46.83,0:24:48.62,Main,,0,0,0,,Caramba!
 Dialogue: 0,0:24:48.62,0:24:51.29,Main,,0,0,0,,Irmã mais velha! Não me corte!
-Dialogue: 0,0:24:53.61,0:24:59.55,Main,,0,0,0,,Minha Lâmina Nomeada, Shirauo, está desejando sangue.\N.\N.\NVou fazer você sofrer antes de morrer.
+Dialogue: 0,0:24:53.61,0:24:59.55,Main,,0,0,0,,Minha Lâmina Nomeada, Shirauo, está desejando sangue...\NVou fazer você sofrer antes de morrer.
 Dialogue: 0,0:24:59.55,0:25:02.28,Main,,0,0,0,,Eu não posso lutar com vocês agora!
 Dialogue: 0,0:25:14.06,0:25:16.36,Main,,0,0,0,,Espelho! Espelho!
 Dialogue: 0,0:25:17.22,0:25:19.07,Main,,0,0,0,,Irmão Peros!
@@ -407,7 +407,7 @@ Dialogue: 0,0:28:53.18,0:28:56.52,Main,,0,0,0,,Queime isso em seus olhos, Pez.
 Dialogue: 0,0:28:58.65,0:29:02.98,Main,,0,0,0,,Esse é o modo de vida do papai.
 Dialogue: 0,0:29:02.98,0:29:06.45,Main,,0,0,0,,Pai!
 Dialogue: 0,0:29:12.78,0:29:14.74,Thoughts,,0,0,0,,Bom trabalho!
-Dialogue: 0,0:29:14.74,0:29:18.00,Thoughts,,0,0,0,,Agora o que você vai fazer?\N!\NVou seguir seu exemplo, Bege!
+Dialogue: 0,0:29:14.74,0:29:18.00,Thoughts,,0,0,0,,Agora o que você vai fazer?!\NVou seguir seu exemplo, Bege!
 Dialogue: 0,0:29:27.36,0:29:30.10,Main,,0,0,0,,{\an8}Alguém, ajude!
 Dialogue: 0,0:29:30.10,0:29:31.34,Main,,0,0,0,,{\an8}Fique quieto, Filial!
 Dialogue: 0,0:29:31.34,0:29:32.65,Main,,0,0,0,,{\an8}O nome é Brûlée!
@@ -423,13 +423,13 @@ Dialogue: 0,0:29:48.70,0:29:53.23,Main,,0,0,0,,{\i1}O Chapéu de Palha está sur
 Dialogue: 0,0:29:53.23,0:29:57.55,Main,,0,0,0,,A Irmã Mais Velha Brûlée foi pega de novo?!
 Dialogue: 0,0:29:58.14,0:29:59.73,Main,,0,0,0,,{\i1}Esta é a Cidade Verde!
 Dialogue: 0,0:29:59.73,0:30:07.14,Main,,0,0,0,,{\i1}Recebemos ligações de diversas residências particulares informando que viram alguém suspeito!
-Dialogue: 0,0:30:13.42,0:30:18.54,Main,,0,0,0,,O que você está fazendo?\N!\NSe você quer fugir, por que não vai já para a Ilha do Cacau?\N!
+Dialogue: 0,0:30:13.42,0:30:18.54,Main,,0,0,0,,O que você está fazendo?!\NSe você quer fugir, por que não vai já para a Ilha do Cacau?!
 Dialogue: 0,0:30:18.54,0:30:20.93,Main,,0,0,0,,O que? Como você sabe disso?
 Dialogue: 0,0:30:20.93,0:30:24.58,Main,,0,0,0,,Eu escutei!\NTodo mundo sabe agora!
 Dialogue: 0,0:30:24.58,0:30:26.39,Main,,0,0,0,,O que?! Isso é verdade?!
 Dialogue: 0,0:30:26.39,0:30:30.60,Main,,0,0,0,,Apenas desista! Você não pode vencer meu irmão!
 Dialogue: 0,0:30:36.61,0:30:39.45,Main,,0,0,0,,O Haki se esgota conforme você o usa...
-Dialogue: 0,0:30:44.12,0:30:49.67,Main,,0,0,0,,Se aquele cara estiver em uma luta longa e prolongada.\N.\N.\Nentão seu Haki de Observação definitivamente enfraquecerá!
+Dialogue: 0,0:30:44.12,0:30:49.67,Main,,0,0,0,,Se aquele cara estiver em uma luta longa e prolongada...\Nentão seu Haki de Observação definitivamente enfraquecerá!
 Dialogue: 0,0:30:51.20,0:30:56.13,Main,,0,0,0,,Você parece um idiota, mas é um lutador inteligente.
 Dialogue: 0,0:30:56.13,0:30:58.51,Main,,0,0,0,,Mas... isso não é suficiente!
 Dialogue: 0,0:31:02.31,0:31:03.73,Flashbacks,,0,0,0,,Luffy.
@@ -437,7 +437,7 @@ Dialogue: 0,0:31:03.73,0:31:05.78,Flashbacks,,0,0,0,,Eu treinei você...
 Dialogue: 0,0:31:05.78,0:31:12.20,Flashbacks,,0,0,0,,mas Haki é algo que floresce totalmente no calor de uma batalha real.
 Dialogue: 0,0:31:12.20,0:31:18.24,Flashbacks,,0,0,0,,Ao enfrentar inimigos fortes... você ficará progressivamente mais forte!
 Dialogue: 0,0:31:22.08,0:31:26.38,Main,,0,0,0,,Eu me pergunto se também é possível ver um pouco à frente no futuro.
-Dialogue: 0,0:31:26.38,0:31:30.67,Main,,0,0,0,,O que você está falando?\N!\NNão se empolgue, seu insignificante!
+Dialogue: 0,0:31:26.38,0:31:30.67,Main,,0,0,0,,O que você está falando?!\NNão se empolgue, seu insignificante!
 Dialogue: 0,0:31:42.85,0:31:45.06,Main,,0,0,0,,Eu quero superá-lo!
 Dialogue: 0,0:31:56.07,0:31:59.76,Main,,0,0,0,,Eu quero vencê-lo com força total!
 Dialogue: 0,0:32:01.41,0:32:03.16,Main,,0,0,0,,O...

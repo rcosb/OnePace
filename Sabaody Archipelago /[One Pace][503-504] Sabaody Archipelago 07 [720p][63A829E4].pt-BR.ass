@@ -54,7 +54,7 @@ Dialogue: 0,0:01:13.15,0:01:21.56,OP11 Lyrics,,0,0,0,,Você estava esperando lá
 Dialogue: 0,0:01:21.66,0:01:31.62,OP11 Lyrics,,0,0,0,,Estarei lá em breve, acredito em um mundo, sim, sim...
 Dialogue: 0,0:01:40.04,0:01:43.46,Title,,0,0,250,,{\fad(500,500)}Uma ilha no caos
 Dialogue: 0,0:02:18.78,0:02:20.03,Main,,0,0,0,,Desculpe pessoal.
-Dialogue: 0,0:02:20.03,0:02:24.79,Main,,0,0,0,,Socar esse cara significa que um almirante da Marinha virá aqui com um navio de guerra.\N.\N.
+Dialogue: 0,0:02:20.03,0:02:24.79,Main,,0,0,0,,Socar esse cara significa que um almirante da Marinha virá aqui com um navio de guerra...
 Dialogue: 0,0:02:25.06,0:02:29.43,Main,,0,0,0,,Perdi minha chance de derrubá-lo porque você o espancou primeiro.
 Dialogue: 0,0:02:29.43,0:02:31.43,Main,,0,0,0,,Hachi! Espere!
 Dialogue: 0,0:02:31.43,0:02:34.10,Main,,0,0,0,,Vocês estão todos em apuros agora...!
@@ -81,7 +81,7 @@ Dialogue: 0,0:03:35.26,0:03:37.37,Main,,0,0,0,,Tudo bem! Super deixa comigo!
 Dialogue: 0,0:03:37.37,0:03:40.01,Main,,0,0,0,,Guardas! Pegue-os! Aproveite os piratas!
 Dialogue: 0,0:03:41.01,0:03:42.67,Main,,0,0,0,,Eles simplesmente continuam vindo!
 Dialogue: 0,0:03:42.67,0:03:46.15,Main,,0,0,0,,Só um tolo protegeria um peixe ruim!
-Dialogue: 0,0:03:55.85,0:04:00.75,Main,,0,0,0,,Você pretende nos desafiar até o fim, não é?\N!
+Dialogue: 0,0:03:55.85,0:04:00.75,Main,,0,0,0,,Você pretende nos desafiar até o fim, não é?!
 Dialogue: 0,0:04:00.75,0:04:04.04,Main,,0,0,0,,Camie não está à venda!
 Dialogue: 0,0:04:05.64,0:04:08.27,Main,,0,0,0,,Chame um almirante da marinha e um navio de guerra!
 Dialogue: 0,0:04:09.40,0:04:11.70,Main,,0,0,0,,Deixe-os ver quem manda!
@@ -92,7 +92,7 @@ Dialogue: 0,0:04:18.58,0:04:20.35,Main,,0,0,0,,Canhão de 36 libras!
 Dialogue: 0,0:04:22.77,0:04:24.23,Main,,0,0,0,,Você está tentando nos matar?!
 Dialogue: 0,0:04:30.83,0:04:31.88,Main,,0,0,0,,Cami!
 Dialogue: 0,0:04:34.24,0:04:35.10,Main,,0,0,0,,Chocando!
-Dialogue: 0,0:04:35.10,0:04:38.56,Main,,0,0,0,,Você está bem?\N!\NEles não fizeram nada de ruim com você, não é?\N!
+Dialogue: 0,0:04:35.10,0:04:38.56,Main,,0,0,0,,Você está bem?!\NEles não fizeram nada de ruim com você, não é?!
 Dialogue: 0,0:04:38.41,0:04:41.41,Main,,0,0,0,,Estou bem! Mas você se machucou!
 Dialogue: 0,0:04:41.62,0:04:45.14,Main,,0,0,0,,Não se preocupe! Por quem você me leva?!
 Dialogue: 0,0:04:45.14,0:04:47.21,Main,,0,0,0,,Sou Hachi, o vendedor de takoyaki!
@@ -161,18 +161,18 @@ Dialogue: 0,0:08:30.66,0:08:32.66,Main,,0,0,0,,S-Santa Shalria!
 Dialogue: 0,0:09:01.09,0:09:03.03,Main,,0,0,0,,Veja o Sr. Gigante?
 Dialogue: 0,0:09:03.70,0:09:08.40,Main,,0,0,0,,O lugar está em verdadeiro alvoroço.\NEu diria que o leilão acabou.
 Dialogue: 0,0:09:08.40,0:09:10.25,Main,,0,0,0,,Eu roubei algum dinheiro agora
-Dialogue: 0,0:09:10.80,0:09:13.47,Main,,0,0,0,,então acho que vou voltar para as casas de jogo.\N.\N.
+Dialogue: 0,0:09:10.80,0:09:13.47,Main,,0,0,0,,então acho que vou voltar para as casas de jogo...
 Dialogue: 0,0:09:13.93,0:09:16.64,Main,,0,0,0,,Você é um velho desagradável.
 Dialogue: 0,0:09:16.64,0:09:19.10,Main,,0,0,0,,Você só veio aqui para conseguir algum dinheiro?
-Dialogue: 0,0:09:19.32,0:09:23.99,Main,,0,0,0,,Eu estava esperando uma chance de roubar de quem me comprou também.\N.\N.
+Dialogue: 0,0:09:19.32,0:09:23.99,Main,,0,0,0,,Eu estava esperando uma chance de roubar de quem me comprou também...
 Dialogue: 0,0:09:24.89,0:09:26.73,Main,,0,0,0,,Mas acho que não era para ser.
 Dialogue: 0,0:09:27.14,0:09:30.66,Main,,0,0,0,,Ah, certo.\NEstou fora.\NA primeira coisa é mais álcool.
 Dialogue: 0,0:09:31.03,0:09:32.53,Main,,0,0,0,,Pense nisso.
 Dialogue: 0,0:09:32.53,0:09:36.91,Main,,0,0,0,,Não sei sobre você, mas eu não gostaria de ter um velho como eu como escravo.
-Dialogue: 0,0:09:47.57,0:09:50.63,Main,,0,0,0,,Oh?\NParece que chamamos alguma atenção.\N.\N.
+Dialogue: 0,0:09:47.57,0:09:50.63,Main,,0,0,0,,Oh?\NParece que chamamos alguma atenção...
 Dialogue: 0,0:09:50.87,0:09:53.25,Main,,0,0,0,,Quem é aquele velho e aquele gigante?!
-Dialogue: 0,0:09:53.25,0:09:58.03,Main,,0,0,0,,Essas são as mercadorias de hoje!\NComo eles saíram da cela?\N!
-Dialogue: 0,0:10:01.99,0:10:05.52,Main,,0,0,0,,Eles não têm coleiras!\NComo eles os desbloquearam?\N!
+Dialogue: 0,0:09:53.25,0:09:58.03,Main,,0,0,0,,Essas são as mercadorias de hoje!\NComo eles saíram da cela?!
+Dialogue: 0,0:10:01.99,0:10:05.52,Main,,0,0,0,,Eles não têm coleiras!\NComo eles os desbloquearam?!
 Dialogue: 0,0:10:06.23,0:10:07.45,Main,,0,0,0,,O que fazemos?
 Dialogue: 0,0:10:07.45,0:10:11.11,Main,,0,0,0,,O que você quer dizer?\NCapturar pessoas está fora da nossa área de especialização!
 Dialogue: 0,0:10:11.11,0:10:14.24,Main,,0,0,0,,Não podemos conter um gigante desenfreado!
@@ -180,10 +180,10 @@ Dialogue: 0,0:10:14.50,0:10:16.27,Main,,0,0,0,,Rayleigh!
 Dialogue: 0,0:10:17.28,0:10:19.46,Main,,0,0,0,,Você quer dizer Rayleigh, o artesão de revestimentos?!
 Dialogue: 0,0:10:20.13,0:10:20.70,Main,,0,0,0,,Qual deles é ele?!
 Dialogue: 0,0:10:20.92,0:10:23.85,Main,,0,0,0,,Oh! É você Hachi?! Isso é!
-Dialogue: 0,0:10:23.85,0:10:27.19,Main,,0,0,0,,É bom ver você de novo!\NO que você está fazendo aqui?\N!
+Dialogue: 0,0:10:23.85,0:10:27.19,Main,,0,0,0,,É bom ver você de novo!\NO que você está fazendo aqui?!
 Dialogue: 0,0:10:29.16,0:10:30.84,Main,,0,0,0,,Como você conseguiu essa lesão?!
 Dialogue: 0,0:10:31.47,0:10:34.11,Main,,0,0,0,,Não, tudo bem, você não precisa dizer nada!
-Dialogue: 0,0:10:51.84,0:10:56.02,Main,,0,0,0,,Resumindo.\N.\N.\Nentendo.\NEu entendo a situação agora.
+Dialogue: 0,0:10:51.84,0:10:56.02,Main,,0,0,0,,Resumindo...\Nentendo.\NEu entendo a situação agora.
 Dialogue: 0,0:10:58.33,0:11:01.48,Main,,0,0,0,,Você com certeza se meteu em muitos problemas, Hachi.
 Dialogue: 0,0:11:02.00,0:11:04.37,Main,,0,0,0,,E vocês o salvaram?
 Dialogue: 0,0:11:06.21,0:11:07.13,Main,,0,0,0,,Bem, então...
@@ -195,14 +195,14 @@ Dialogue: 0,0:11:36.89,0:11:42.17,Main,,0,0,0,,Esse chapéu de palha combina mui
 Dialogue: 0,0:11:44.30,0:11:45.88,Main,,0,0,0,,Estava querendo te conhecer...
 Dialogue: 0,0:11:46.73,0:11:48.62,Main,,0,0,0,,... Macaco D. Luffy.
 Dialogue: 0,0:11:53.30,0:12:00.67,Captions,,100,970,470,,{\fad(500,500)}Zona sem lei do arquipélago de Sabaody
-Dialogue: 0,0:11:54.73,0:12:00.67,Main,,0,0,0,,Isso é ruim!\NEsta cidade.\N.\N.\Ntodo este arquipélago.\N.\N.\Nestá em perigo!
+Dialogue: 0,0:11:54.73,0:12:00.67,Main,,0,0,0,,Isso é ruim!\NEsta cidade...\Ntodo este arquipélago...\Nestá em perigo!
 Dialogue: 0,0:12:00.67,0:12:04.26,Main,,0,0,0,,Luffy do Chapéu de Palha supostamente chutou a bunda de um Dragão Celestial!
 Dialogue: 0,0:12:04.26,0:12:06.64,Main,,0,0,0,,Na casa de leilões do Grove #1!
 Dialogue: 0,0:12:06.64,0:12:07.79,Main,,0,0,0,,O que?!
 Dialogue: 0,0:12:07.79,0:12:09.96,Main,,0,0,0,,Aparentemente Kid e Law também estão lá!
-Dialogue: 0,0:12:10.29,0:12:13.27,Main,,0,0,0,,Aquele bastardo do Chapéu de Palha!\NO que ele estava pensando?\N!
+Dialogue: 0,0:12:10.29,0:12:13.27,Main,,0,0,0,,Aquele bastardo do Chapéu de Palha!\NO que ele estava pensando?!
 Dialogue: 0,0:12:13.27,0:12:16.14,Main,,0,0,0,,Ele não sabe que um almirante do Quartel-General da Marinha
-Dialogue: 0,0:12:16.14,0:12:19.16,Main,,0,0,0,,trará um navio de guerra aqui se alguém ferir um Dragão Celestial?\N!
+Dialogue: 0,0:12:16.14,0:12:19.16,Main,,0,0,0,,trará um navio de guerra aqui se alguém ferir um Dragão Celestial?!
 Dialogue: 0,0:12:19.16,0:12:20.61,Main,,0,0,0,,Nosso navio foi revestido?!
 Dialogue: 0,0:12:20.61,0:12:21.47,Main,,0,0,0,,Foi concluído ontem!
 Dialogue: 0,0:12:21.97,0:12:24.57,Main,,0,0,0,,Partimos imediatamente para a Ilha dos Homens-Peixe!
@@ -210,9 +210,9 @@ Dialogue: 0,0:12:24.57,0:12:27.01,Main,,0,0,0,,Não podemos ficar sentados enqua
 Dialogue: 0,0:12:26.96,0:12:29.14,Main,,0,0,0,,Não adianta ficar aqui!
 Dialogue: 0,0:12:27.01,0:12:27.57,Main,,0,0,0,,Sim, senhor!
 Dialogue: 0,0:12:29.81,0:12:33.69,Main,,0,0,0,,Acho que o capitão daquele idiota é um idiota ainda maior!
-Dialogue: 0,0:12:34.73,0:12:39.44,Main,,0,0,0,,Se algum dia eu os encontrar no Novo Mundo.\N.\N.\Neu os destruirei!
-Dialogue: 0,0:12:34.73,0:12:39.44,Main,,0,0,0,,Se algum dia eu os encontrar no Novo Mundo.\N.\N.\Neu os destruirei!
-Dialogue: 0,0:12:45.11,0:12:50.53,Main,,0,0,0,,Causando problemas com o Quartel-General da Marinha com o Novo Mundo bem à vista.\N.\N.
+Dialogue: 0,0:12:34.73,0:12:39.44,Main,,0,0,0,,Se algum dia eu os encontrar no Novo Mundo...\Neu os destruirei!
+Dialogue: 0,0:12:34.73,0:12:39.44,Main,,0,0,0,,Se algum dia eu os encontrar no Novo Mundo...\Neu os destruirei!
+Dialogue: 0,0:12:45.11,0:12:50.53,Main,,0,0,0,,Causando problemas com o Quartel-General da Marinha com o Novo Mundo bem à vista...
 Dialogue: 0,0:12:50.53,0:12:53.54,Main,,0,0,0,,Que grupo realmente problemático eles são...
 Dialogue: 0,0:12:54.27,0:12:56.41,Main,,0,0,0,,Concentre-se em se preparar para zarpar.
 Dialogue: 0,0:12:56.41,0:12:58.54,Main,,0,0,0,,Sim, senhor! Imediatamente Capitão Drake!
@@ -225,7 +225,7 @@ Dialogue: 0,0:13:28.79,0:13:32.99,Main,,0,0,0,,Capitão Hawkins!\NÉ perigoso aq
 Dialogue: 0,0:13:32.99,0:13:34.54,Main,,0,0,0,,Acalmar.
 Dialogue: 0,0:13:35.48,0:13:38.92,Main,,0,0,0,,Não estou destinado a morrer hoje.
 Dialogue: 0,0:13:39.36,0:13:43.23,Main,,0,0,0,,"Terra Santa de Marie Jois"
-Dialogue: 0,0:13:44.05,0:13:47.55,Main,,0,0,0,,Aquele pirralho de novo?\N!\NÉ uma coisa atrás da outra!
+Dialogue: 0,0:13:44.05,0:13:47.55,Main,,0,0,0,,Aquele pirralho de novo?!\NÉ uma coisa atrás da outra!
 Dialogue: 0,0:13:47.55,0:13:50.05,Main,,0,0,0,,O que há com a linhagem dessa família inteira?!
 Dialogue: 0,0:13:50.05,0:13:53.05,Main,,0,0,0,,Relatórios indicam a presença da tripulação do Chapéu de Palha
 Dialogue: 0,0:13:53.05,0:13:58.70,Main,,0,0,0,,Eustass Captain Kid e sua tripulação e Trafalgar Law e sua tripulação.
@@ -248,15 +248,15 @@ Dialogue: 0,0:14:47.44,0:14:54.26,Main,,0,0,0,,{\fad(11420)}"Justiça"
 Dialogue: 0,0:15:01.60,0:15:07.31,Captions,,0,930,470,,{\fad(1000,500)}Sabaody Archipelago Grove 1 Loja de leilões humanos nos bastidores
 Dialogue: 0,0:15:10.55,0:15:12.62,Main,,0,0,0,,Isso não é motivo de riso!
 Dialogue: 0,0:15:14.68,0:15:17.22,Main,,0,0,0,,Esta é a sua loja, você conhece!
-Dialogue: 0,0:15:17.22,0:15:21.12,Main,,0,0,0,,Senhor Doflamingo.\N.\N.\N!\NOnde você está agora?\N!
+Dialogue: 0,0:15:17.22,0:15:21.12,Main,,0,0,0,,Senhor Doflamingo...!\NOnde você está agora?!
 Dialogue: 0,0:15:21.12,0:15:25.23,Main,,0,0,0,,A loja perdeu toda a credibilidade e também tem a família do Roswald!
 Dialogue: 0,0:15:25.23,0:15:27.84,Main,,0,0,0,,Eles definitivamente vão nos atacar!
 Dialogue: 0,0:15:27.84,0:15:30.75,Main,,0,0,0,,Faça algo para consertar as coisas!
-Dialogue: 0,0:15:33.15,0:15:38.37,Main,,0,0,0,,Sério.\N.\N.\NO tráfico humano é tão antiquado, seu idiota.
+Dialogue: 0,0:15:33.15,0:15:38.37,Main,,0,0,0,,Sério...\NO tráfico humano é tão antiquado, seu idiota.
 Dialogue: 0,0:15:39.20,0:15:42.54,Main,,0,0,0,,Agora é tudo uma questão de sorrisos! Sorrisos!
 Dialogue: 0,0:15:42.54,0:15:46.16,Main,,0,0,0,,Disco, estou dando a loja para você.
 Dialogue: 0,0:15:46.16,0:15:49.21,Main,,0,0,0,,Então não me ligue mais!
-Dialogue: 0,0:15:51.07,0:15:55.18,Main,,0,0,0,,O que?\N!\NVocê está nos abandonando durante a pior crise que já tivemos?\N!
+Dialogue: 0,0:15:51.07,0:15:55.18,Main,,0,0,0,,O que?!\NVocê está nos abandonando durante a pior crise que já tivemos?!
 Dialogue: 0,0:15:55.46,0:15:58.31,Main,,0,0,0,,Calma seu bastardo chato!
 Dialogue: 0,0:15:58.59,0:16:01.91,Main,,0,0,0,,Enquanto você fica aí sentado me culpando pelo seu próprio infortúnio
 Dialogue: 0,0:16:01.91,0:16:05.35,Main,,0,0,0,,uma "Nova Era" aproxima cada vez mais o Disco-kun.
@@ -270,7 +270,7 @@ Dialogue: 0,0:16:42.98,0:16:45.72,Main,,0,0,0,,O escravo que comprei ainda está
 Dialogue: 0,0:16:53.62,0:16:55.56,Main,,0,0,0,,Os morteiros já chegaram?
 Dialogue: 0,0:16:55.56,0:16:58.49,Main,,0,0,0,,Sim, a maioria deles!\NEstamos com pressa para configurá-los!
 Dialogue: 0,0:16:58.90,0:17:00.43,Main,,0,0,0,,O QG disse alguma coisa?
-Dialogue: 0,0:17:00.43,0:17:03.95,Main,,0,0,0,,Que o Almirante Kizaru está chegando, mas a vanguarda consistirá em.\N.\N.
+Dialogue: 0,0:17:00.43,0:17:03.95,Main,,0,0,0,,Que o Almirante Kizaru está chegando, mas a vanguarda consistirá em...
 Dialogue: 0,0:17:04.63,0:17:07.41,Main,,0,0,0,,Deles?! Eles estão vindo para cá?!
 Dialogue: 0,0:17:07.41,0:17:10.67,Main,,0,0,0,,Sim, senhor! Foi o que eles disseram...
 Dialogue: 0,0:17:17.64,0:17:21.89,Main,,0,0,0,,Espere, velho!\NNão seja louco!\NIsso vai explodir!
@@ -282,16 +282,16 @@ Dialogue: 0,0:17:44.41,0:17:46.28,Main,,0,0,0,,O que Franky está fazendo?!
 Dialogue: 0,0:17:46.28,0:17:50.74,Main,,0,0,0,,Estou lhe dizendo que é muito perigoso!\NNão sai sem a chave!
 Dialogue: 0,0:17:55.66,0:17:59.50,Main,,0,0,0,,Está tocando! O que vamos fazer?!
 Dialogue: 0,0:17:59.61,0:18:03.09,Main,,0,0,0,,Cami!
-Dialogue: 0,0:18:09.72,0:18:13.15,Main,,0,0,0,,O que é tudo isso agora?\N!\NNão me assuste assim!
+Dialogue: 0,0:18:09.72,0:18:13.15,Main,,0,0,0,,O que é tudo isso agora?!\NNão me assuste assim!
 Dialogue: 0,0:18:13.15,0:18:16.19,Main,,0,0,0,,Sua coleira e algemas já foram retiradas!
 Dialogue: 0,0:18:17.56,0:18:18.52,Main,,0,0,0,,Saiu...
 Dialogue: 0,0:18:18.52,0:18:21.07,Main,,0,0,0,,C-Camie!
 Dialogue: 0,0:18:25.95,0:18:31.07,Main,,0,0,0,,Camie! Graças a Deus!
-Dialogue: 0,0:18:33.21,0:18:37.09,Main,,0,0,0,,Que diabos?\N!\NFinalmente consegui encontrá-los, mas então.\N.\N.\N!
+Dialogue: 0,0:18:33.21,0:18:37.09,Main,,0,0,0,,Que diabos?!\NFinalmente consegui encontrá-los, mas então...!
 Dialogue: 0,0:18:37.09,0:18:40.95,Main,,0,0,0,,Oh! Você os encontrou? Bom trabalho!
 Dialogue: 0,0:18:40.95,0:18:44.96,Main,,0,0,0,,Mas não precisamos mais deles.\NAqui você carrega essa garota.
 Dialogue: 0,0:18:45.29,0:18:48.67,Main,,0,0,0,,U-Umm... Obrigado!
-Dialogue: 0,0:18:51.32,0:18:56.52,Main,,0,0,0,,O que diabos está acontecendo aqui?\N!\NQuem é você, afinal?\N!
+Dialogue: 0,0:18:51.32,0:18:56.52,Main,,0,0,0,,O que diabos está acontecendo aqui?!\NQuem é você, afinal?!
 Dialogue: 0,0:18:58.96,0:19:01.33,Main,,0,0,0,,Huh? O que ele fez?
 Dialogue: 0,0:19:01.33,0:19:04.45,Main,,0,0,0,,Aquele velhote fez algo misterioso de novo!
 Dialogue: 0,0:19:09.53,0:19:12.12,Main,,0,0,0,,Quem é aquele velho?!
@@ -301,7 +301,7 @@ Dialogue: 0,0:19:21.54,0:19:22.26,Main,,0,0,0,,Aqui!
 Dialogue: 0,0:19:28.18,0:19:31.43,Main,,0,0,0,,Se aquele velhote matasse esses guardas de uma vez também
 Dialogue: 0,0:19:31.43,0:19:34.23,Main,,0,0,0,,então ele deve saber usar magia ou algum tipo de feitiçaria!
 Dialogue: 0,0:19:34.23,0:19:35.74,Main,,0,0,0,,Ele tem poderes ou algo assim!
-Dialogue: 0,0:19:36.41,0:19:39.55,Main,,0,0,0,,Ele disse algo sobre o seu chapéu de palha.\N.\N.
+Dialogue: 0,0:19:36.41,0:19:39.55,Main,,0,0,0,,Ele disse algo sobre o seu chapéu de palha...
 Dialogue: 0,0:19:41.57,0:19:46.48,Main,,0,0,0,,Esse chapéu de palha combina muito bem com homens destemidos.
 Dialogue: 0,0:19:47.19,0:19:49.02,Main,,0,0,0,,Estava querendo te conhecer...
 Dialogue: 0,0:19:49.02,0:19:50.94,Main,,0,0,0,,... Macaco D. Luffy.
@@ -311,14 +311,14 @@ Dialogue: 0,0:19:55.92,0:19:59.24,Main,,0,0,0,,Acho que ele usou o que chamamos 
 Dialogue: 0,0:19:59.24,0:20:01.88,Main,,0,0,0,,Eu também não sei muito sobre isso...
 Dialogue: 0,0:20:04.04,0:20:08.33,Main,,0,0,0,,Desculpe por isso, pessoal.\NNão percebi que outros piratas estavam observando.
 Dialogue: 0,0:20:08.33,0:20:13.63,Main,,0,0,0,,Você deve ser muito forte para ter resistido a isso sem nenhum problema.
-Dialogue: 0,0:20:13.63,0:20:17.26,Main,,0,0,0,,Nunca esperei encontrar alguém tão importante aqui.\N.\N.
+Dialogue: 0,0:20:13.63,0:20:17.26,Main,,0,0,0,,Nunca esperei encontrar alguém tão importante aqui...
 Dialogue: 0,0:20:17.94,0:20:20.22,Main,,0,0,0,,"Rei das Trevas" Silvers Rayleigh...
 Dialogue: 0,0:20:20.22,0:20:24.09,Main,,0,0,0,,Não há dúvida sobre isso.\NO que um homem lendário está fazendo num lugar como este?
 Dialogue: 0,0:20:24.50,0:20:28.22,Main,,0,0,0,,Nessas ilhas sou Ray-san, o artesão de revestimentos.
 Dialogue: 0,0:20:28.22,0:20:30.55,Main,,0,0,0,,Não me chame desse outro nome.
 Dialogue: 0,0:20:30.55,0:20:34.22,Main,,0,0,0,,Sou um velho soldado agora.\NEu só quero viver em paz e sossego.
 Dialogue: 0,0:20:34.90,0:20:36.52,Main,,0,0,0,,Presumo que você sobreviverá ao Hachi?
-Dialogue: 0,0:20:36.95,0:20:41.12,Main,,0,0,0,,Depois que eu te disse todas aquelas vezes para não andar por essas ilhas.\N.\N.
+Dialogue: 0,0:20:36.95,0:20:41.12,Main,,0,0,0,,Depois que eu te disse todas aquelas vezes para não andar por essas ilhas...
 Dialogue: 0,0:20:41.12,0:20:42.99,Main,,0,0,0,,Desculpe...
 Dialogue: 0,0:20:43.58,0:20:47.51,Main,,0,0,0,,Obrigado por salvar meus amigos.
 Dialogue: 0,0:20:47.51,0:20:50.33,Main,,0,0,0,,Então, que história é essa de querer me conhecer, velho?
@@ -351,14 +351,14 @@ Dialogue: 0,0:22:10.27,0:22:11.76,Main,,0,0,0,,Vocês simplesmente não entendem
 Dialogue: 0,0:22:11.76,0:22:13.23,Main,,0,0,0,,Quem não entende é você!
 Dialogue: 0,0:22:13.23,0:22:14.41,Main,,0,0,0,,Tudo bem!
 Dialogue: 0,0:22:16.60,0:22:18.70,Main,,0,0,0,,Vocês podem voltar para dentro!
-Dialogue: 0,0:22:18.70,0:22:23.50,Main,,0,0,0,,Ei!\NVocê está ouvindo?\N!\NEu disse a vocês dois para ficarem atrás!
+Dialogue: 0,0:22:18.70,0:22:23.50,Main,,0,0,0,,Ei!\NVocê está ouvindo?!\NEu disse a vocês dois para ficarem atrás!
 Dialogue: 0,0:22:23.50,0:22:27.76,Main,,0,0,0,,Diga-me o que fazer de novo e começarei me livrando de você, Eustass-ya!
 Dialogue: 0,0:22:27.76,0:22:28.94,Main,,0,0,0,,Prepare-se!
 Dialogue: 0,0:22:31.47,0:22:34.21,Main,,0,0,0,,Nossa, eles são tão simplórios!
 Dialogue: 0,0:22:34.21,0:22:36.35,Main,,0,0,0,,Ei! Vai haver uma briga total!
 Dialogue: 0,0:22:36.35,0:22:40.11,Main,,0,0,0,,Vamos usar essa chance para escapar!\NNão podemos ficar aqui sentados de qualquer maneira!
 Dialogue: 0,0:22:40.81,0:22:42.03,Main,,0,0,0,,Chocando...
-Dialogue: 0,0:22:42.26,0:22:45.32,Main,,0,0,0,,Obrigado.\N.\N.\Nsinto muito por causar problemas.\N.\N.\N!
+Dialogue: 0,0:22:42.26,0:22:45.32,Main,,0,0,0,,Obrigado...\Nsinto muito por causar problemas...!
 Dialogue: 0,0:22:46.35,0:22:49.20,Main,,0,0,0,,Não se preocupe comigo!\NEstou feliz que você esteja bem!
 Dialogue: 0,0:22:49.20,0:22:51.54,Main,,0,0,0,,Vamos segui-los.\NNós vamos avançar de uma só vez.
 Dialogue: 0,0:22:52.30,0:22:53.41,Main,,0,0,0,,Tudo bem então.

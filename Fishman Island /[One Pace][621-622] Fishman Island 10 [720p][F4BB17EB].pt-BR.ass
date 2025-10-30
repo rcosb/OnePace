@@ -82,7 +82,7 @@ Dialogue: 0,0:04:45.82,0:04:49.28,Main,Right Minister,0,0,0,,S-Sua Majestade! Po
 Dialogue: 0,0:04:49.58,0:04:52.95,Main,Right Minister,0,0,0,,Você sabe que seu corpo é muito mais fraco que o de uma pessoa comum!
 Dialogue: 0,0:04:52.95,0:04:55.73,Main,Otohime,0,0,0,,Eu não me importo! Isso é para o bem dele!
 Dialogue: 0,0:04:55.73,0:04:59.61,Main,Otohime,0,0,0,,Mesmo que minhas mãos sejam destruídas, devo fazê-lo entender!
-Dialogue: 0,0:05:04.99,0:05:09.66,Main,Otohime,0,0,0,,Você acha que crianças criadas com dinheiro roubado poderão algum dia ser verdadeiramente felizes?\N!
+Dialogue: 0,0:05:04.99,0:05:09.66,Main,Otohime,0,0,0,,Você acha que crianças criadas com dinheiro roubado poderão algum dia ser verdadeiramente felizes?!
 Dialogue: 0,0:05:09.85,0:05:13.24,Main,Otohime,0,0,0,,Um homem deve viver uma vida da qual seus filhos possam se orgulhar!
 Dialogue: 0,0:05:15.00,0:05:16.03,Main,Otohime,0,0,0,,No entanto...
 Dialogue: 0,0:05:17.38,0:05:21.56,Main,Otohime,0,0,0,,Eu gostaria de... me desculpar também.
@@ -94,7 +94,7 @@ Dialogue: 0,0:05:39.16,0:05:40.97,Main,Otohime,0,0,0,,também atravessa meu cora
 Dialogue: 0,0:05:44.20,0:05:46.64,Main,Otohime,0,0,0,,As dificuldades que você enfrentou devem ter sido terríveis.
 Dialogue: 0,0:05:48.19,0:05:51.67,Main,Thief,0,0,0,,Eu... também não queria fazer isso!
 Dialogue: 0,0:05:51.67,0:05:55.60,Main,Thief,0,0,0,,Mas eu não tive outra escolha!
-Dialogue: 0,0:05:55.60,0:06:00.81,Main,Thief,0,0,0,,Minha loja pegou fogo.\N.\N.\NAlguém queimou e roubou todo o meu dinheiro!
+Dialogue: 0,0:05:55.60,0:06:00.81,Main,Thief,0,0,0,,Minha loja pegou fogo...\NAlguém queimou e roubou todo o meu dinheiro!
 Dialogue: 0,0:06:01.33,0:06:04.87,Main,Thief,0,0,0,,Não tenho emprego e minha dívida é terrível.
 Dialogue: 0,0:06:04.87,0:06:08.12,Main,Thief,0,0,0,,Meus filhos estão famintos e sinto muito por eles!
 Dialogue: 0,0:06:10.55,0:06:11.99,Main,Otohime,0,0,0,,Então é por isso.
@@ -144,7 +144,7 @@ Dialogue: 0,0:08:38.33,0:08:41.55,Main,Otohime,0,0,0,,Certamente, também deve h
 Dialogue: 0,0:08:42.00,0:08:47.06,Main,Otohime,0,0,0,,Traremos nosso reino lá em cima, para que possamos viver juntos sob o mesmo sol!
 Dialogue: 0,0:08:49.39,0:08:55.50,Main,Otohime,0,0,0,,Na reunião do Conselho Mundial deste ano, expressemos o nosso desejo de emigrar para o seu mundo!
 Dialogue: 0,0:08:55.50,0:08:57.61,Main,Otohime,0,0,0,,Todos vocês, por favor assinem esta petição.
-Dialogue: 0,0:09:01.69,0:09:06.06,Main,Fishman,0,0,0,,Não sei.\N.\N.\NMesmo que seja você perguntando, Rainha Otohime.
+Dialogue: 0,0:09:01.69,0:09:06.06,Main,Fishman,0,0,0,,Não sei...\NMesmo que seja você perguntando, Rainha Otohime.
 Dialogue: 0,0:09:06.06,0:09:09.58,Main,Fishman,0,0,0,,Comprometendo-se com os humanos. Eu simplesmente não sei.
 Dialogue: 0,0:09:13.83,0:09:15.68,Main,Otohime,0,0,0,,Você não deveria dizer isso.
 Dialogue: 0,0:09:15.68,0:09:19.55,Main,Otohime,0,0,0,,Em vez de nunca tentarmos porque pensamos que não pode ser feito, devemos dar o primeiro passo nós mesmos!
@@ -179,7 +179,7 @@ Dialogue: 0,0:11:40.94,0:11:44.60,Main,Neptune,0,0,0,,Eu não posso parar Otohim
 Dialogue: 0,0:11:45.04,0:11:47.60,Main,Neptune,0,0,0,,Certifique-se de protegê-la para mim.
 Dialogue: 0,0:11:47.60,0:11:48.44,Main,Right Minister,0,0,0,,Sim, senhor!
 Dialogue: 0,0:11:50.04,0:11:53.63,Main,Nami,0,0,0,,Essa Otohime-san era uma pessoa bem estranha, não era?
-Dialogue: 0,0:11:53.63,0:11:57.09,Main,Chopper,0,0,0,,Você chora o tempo todo.\N.\N.\NIsso é algo que você herdou da sua mãe?
+Dialogue: 0,0:11:53.63,0:11:57.09,Main,Chopper,0,0,0,,Você chora o tempo todo...\NIsso é algo que você herdou da sua mãe?
 Dialogue: 0,0:11:57.09,0:12:00.43,Main,Shirahoshi,0,0,0,,Bem... Quem sabe.
 Dialogue: 0,0:12:00.43,0:12:03.10,Main,Sanji,0,0,0,,Então você foi um soldado neste país?
 Dialogue: 0,0:12:04.21,0:12:10.77,Main,Jinbe,0,0,0,,Era praticamente a única opção que eu tinha, crescendo no Distrito dos Tritões e só sabendo lutar.
@@ -202,7 +202,7 @@ Dialogue: 0,0:13:09.16,0:13:11.17,Main,Arlong,0,0,0,,Se você quer de volta, por
 Dialogue: 0,0:13:11.51,0:13:12.72,Main,Fishman,0,0,0,,Devolva!
 Dialogue: 0,0:13:12.72,0:13:15.40,Main,Fishman,0,0,0,,Você tem ideia de quantas assinaturas tem nessas folhas?!
 Dialogue: 0,0:13:15.40,0:13:18.31,Main,Arlong,0,0,0,,Por que eu deveria me importar com quantas assinaturas existem?!
-Dialogue: 0,0:13:19.95,0:13:23.60,Main,Guard,0,0,0,,Ei, pare aí!\NVocê é o Arlong do Distrito dos Tritões, não é?\N!
+Dialogue: 0,0:13:19.95,0:13:23.60,Main,Guard,0,0,0,,Ei, pare aí!\NVocê é o Arlong do Distrito dos Tritões, não é?!
 Dialogue: 0,0:13:26.25,0:13:28.71,Main,Arlong,0,0,0,,Longe do Distrito Fishman?
 Dialogue: 0,0:13:31.13,0:13:32.64,Main,Guard,0,0,0,,L-Deixe-me ir!
 Dialogue: 0,0:13:32.64,0:13:34.59,Main,Arlong,0,0,0,,Isso não está certo.
@@ -211,7 +211,7 @@ Dialogue: 0,0:13:39.72,0:13:42.17,Main,Arlong,0,0,0,,Eu vivo caçando esses pira
 Dialogue: 0,0:13:42.17,0:13:47.11,Main,Arlong,0,0,0,,que dominam este lugar, embora não consigam respirar debaixo d'água.
 Dialogue: 0,0:13:47.11,0:13:50.17,Main,Arlong,0,0,0,,Estou caçando piratas em sua casa!
 Dialogue: 0,0:13:50.17,0:13:53.27,Main,Arlong,0,0,0,,O Exército de Netuno deveria me pagar para mostrar sua gratidão!
-Dialogue: 0,0:13:53.27,0:13:56.78,Main,Guard,0,0,0,,B-Boss Jinbei.\N.\N.\NNão fique aí sentado assistindo.\NMe ajude!
+Dialogue: 0,0:13:53.27,0:13:56.78,Main,Guard,0,0,0,,B-Boss Jinbei...\NNão fique aí sentado assistindo.\NMe ajude!
 Dialogue: 0,0:13:56.78,0:13:58.19,Main,Arlong,0,0,0,,Jinbei?
 Dialogue: 0,0:13:58.54,0:14:07.74,captions,Arlong,0,0,150,,{\fad(200,200)}Reino Ryuuguu, Soldado do Exército de Netuno Jinbei, 30 anos
 Dialogue: 0,0:14:00.45,0:14:04.30,Main,Jinbe,0,0,0,,Ei, bandido. Solte esse novato!
@@ -313,7 +313,7 @@ Dialogue: 0,0:20:40.02,0:20:43.88,Main,Fishman,0,0,0,,Este incidente significar�
 Dialogue: 0,0:20:43.88,0:20:46.80,Main,Fishman,0,0,0,,Mas os humanos estão obviamente errados...
 Dialogue: 0,0:20:46.80,0:20:48.32,Main,Fishman,0,0,0,,Então, neste momento, simplesmente não podemos...
 Dialogue: 0,0:20:48.32,0:20:54.87,Main,Otohime,0,0,0,,Se for impossível agora, podemos esperar sete, onze ou até quinze anos. Custe o que custar.
-Dialogue: 0,0:20:54.87,0:20:59.80,Main,Otohime,0,0,0,,Para o dia em que este país participar novamente na reunião do conselho mundial.\N.\N.
+Dialogue: 0,0:20:54.87,0:20:59.80,Main,Otohime,0,0,0,,Para o dia em que este país participar novamente na reunião do conselho mundial...
 Dialogue: 0,0:20:59.80,0:21:03.42,Main,Otohime,0,0,0,,{\i1}Por favor! Assine este formulário! Por favor!
 Dialogue: 0,0:21:03.42,0:21:06.05,Main,Hody,0,0,0,,Fisher Tiger é incrível!
 Dialogue: 0,0:21:06.05,0:21:08.72,Main,Hody,0,0,0,,Assim como quando ele era chefe do Distrito Fishman.
@@ -346,7 +346,7 @@ Dialogue: 0,0:23:00.20,0:23:01.37,Main,Arlong,0,0,0,,Opa.
 Dialogue: 0,0:23:03.50,0:23:05.49,Main,Kadaru,0,0,0,,Seus malditos homens-peixe!
 Dialogue: 0,0:23:05.49,0:23:08.66,Main,Kadaru,0,0,0,,Entregue todos os escravos fugitivos!
 Dialogue: 0,0:23:08.66,0:23:10.76,Main,Kadaru,0,0,0,,Então talvez ignoremos os seus crimes.
-Dialogue: 0,0:23:12.18,0:23:16.94,Main,Marine,0,0,0,,R-Contra-almirante.\N.\N.\NE-Eles estão atacando pelo casco.
+Dialogue: 0,0:23:12.18,0:23:16.94,Main,Marine,0,0,0,,R-Contra-almirante...\NE-Eles estão atacando pelo casco.
 Dialogue: 0,0:23:16.94,0:23:17.47,Main,Kadaru,0,0,0,,O que?!
 Dialogue: 0,0:23:21.74,0:23:24.14,Main,Officer,0,0,0,,Entregue silenciosamente os escravos!
 Dialogue: 0,0:23:24.14,0:23:26.79,Main,Officer,0,0,0,,O que você está fazendo é um crime grave!
@@ -381,7 +381,7 @@ Dialogue: 0,0:25:35.86,0:25:39.49,Main,Kadar,0,0,0,,Unidade G2, a nave do Contra
 Dialogue: 0,0:25:39.99,0:25:43.50,Main,Kizaru,0,0,0,,Oh? Por que eles tentaram combatê-los?
 Dialogue: 0,0:25:43.50,0:25:46.88,Main,Kizaru,0,0,0,,Eu disse a eles para apenas relatarem sua localização.
 Dialogue: 0,0:25:46.88,0:25:53.13,Main,Kadar,0,0,0,,Eles estão dizendo que se você chegar perto o suficiente para vê-los, eles o cercarão.
-Dialogue: 0,0:25:53.62,0:25:58.36,Main,Kizaru,0,0,0,,Ah, que assustador.\N.\N.\NAcho que não deveria esperar menos dos profissionais subaquáticos.
+Dialogue: 0,0:25:53.62,0:25:58.36,Main,Kizaru,0,0,0,,Ah, que assustador...\NAcho que não deveria esperar menos dos profissionais subaquáticos.
 Dialogue: 0,0:25:59.40,0:26:02.39,Main,Kizaru,0,0,0,,Então? Que tipo de pessoas estavam no navio?
 Dialogue: 0,0:26:02.39,0:26:03.32,Main,Kadar,0,0,0,,Senhor.
 Dialogue: 0,0:26:03.32,0:26:10.82,Main,Kadar,0,0,0,,Alguns piratas que estiveram recentemente no fundo do mar perto da Ilha dos Tritões, a tripulação de Arlong, estão no navio.

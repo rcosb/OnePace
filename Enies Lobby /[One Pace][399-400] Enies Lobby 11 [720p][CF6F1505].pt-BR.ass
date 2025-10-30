@@ -71,7 +71,7 @@ YCbCr Matrix: None
 PlayResX: 1280
 PlayResY: 720
 
-Dialogue: 0,0:01:53.09,0:01:54.64,Flashbacks,,0,0,0,,Não pense que você conseguirá sobreviver.\N.\N.
+Dialogue: 0,0:01:53.09,0:01:54.64,Flashbacks,,0,0,0,,Não pense que você conseguirá sobreviver...
 Dialogue: 0,0:01:54.64,0:01:56.38,Flashbacks,,0,0,0,,depois de fazer do mundo inteiro seu inimigo!
 Dialogue: 0,0:01:56.61,0:02:01.47,Flashbacks,,0,0,0,,Pode vir!
 Dialogue: 0,0:02:03.98,0:02:07.77,Title,,0,0,250,,{\fad(1000,0)}Pule na cachoeira!!
@@ -92,7 +92,7 @@ Dialogue: 0,0:03:08.38,0:03:09.37,Main,,0,0,0,,Robin!
 Dialogue: 0,0:03:10.81,0:03:13.33,Main,,0,0,0,,{ .}Não vamos parar até resgatar você!
 Dialogue: 0,0:03:14.80,0:03:16.29,Main,,0,0,0,,{ .}Fique aí!
 Dialogue: 0,0:03:17.05,0:03:18.63,Main,,0,0,0,,Eles estão de bom humor.
-Dialogue: 0,0:03:19.60,0:03:22.03,Main,,0,0,0,,E pensar que não temem a bandeira do governo.\N.\N.
+Dialogue: 0,0:03:19.60,0:03:22.03,Main,,0,0,0,,E pensar que não temem a bandeira do governo...
 Dialogue: 0,0:03:22.03,0:03:23.59,Main,,0,0,0,,Quão inútil.
 Dialogue: 0,0:03:23.59,0:03:26.76,Main,,0,0,0,,Não há como eles nos derrotarem.
 Dialogue: 0,0:03:27.04,0:03:29.12,Main,,0,0,0,,Não cruze!
@@ -112,7 +112,7 @@ Dialogue: 0,0:04:22.11,0:04:24.70,Main,,0,0,0,,Na verdade, somos o trio do presi
 Dialogue: 0,0:04:25.32,0:04:26.41,Main,,0,0,0,,O que?!
 Dialogue: 0,0:04:26.41,0:04:29.87,Main,,0,0,0,,Eu, o Baskerville esquerdo, me chamo Bas!
 Dialogue: 0,0:04:29.87,0:04:33.33,Main,,0,0,0,,Eu, o Baskerville certo, me chamo Kerville!
-Dialogue: 0,0:04:33.33,0:04:36.58,Main,,0,0,0,,E eu, o centro de Baskerville, atendo pelo nome.\N.\N.
+Dialogue: 0,0:04:33.33,0:04:36.58,Main,,0,0,0,,E eu, o centro de Baskerville, atendo pelo nome...
 Dialogue: 0,0:04:36.58,0:04:37.84,Main,,0,0,0,,Princesa!
 Dialogue: 0,0:04:37.94,0:04:39.30,Main,,0,0,0,,{.}Do que você está falando?!
 Dialogue: 0,0:04:39.30,0:04:42.75,Main,,0,0,0,,Então eles estavam presos juntos?
@@ -133,40 +133,40 @@ Dialogue: 0,0:05:32.51,0:05:34.77,Main,,0,0,0,,Alguém! Traga Cutty Flam!
 Dialogue: 0,0:05:35.12,0:05:36.14,Main,,0,0,0,,Robin!
 Dialogue: 0,0:05:37.20,0:05:39.90,Main,,0,0,0,,{ .}Esses piratas não são ninguém.
 Dialogue: 0,0:05:42.03,0:05:45.67,Main,,0,0,0,,Tenho o grupo de assassinos CP9 do meu lado!
-Dialogue: 0,0:05:47.04,0:05:49.87,Main,,0,0,0,,Nico Robin, um sobrevivente da ilha dos estudiosos.\N.\N.
-Dialogue: 0,0:05:49.87,0:05:52.75,Main,,0,0,0,,{ .\N}que planejou trazer de volta as armas antigas.\N.\N.
-Dialogue: 0,0:05:52.75,0:05:57.54,Main,,0,0,0,,Cutty Flam, que herdou o projeto de uma arma antiga.\N.\N.
+Dialogue: 0,0:05:47.04,0:05:49.87,Main,,0,0,0,,Nico Robin, um sobrevivente da ilha dos estudiosos...
+Dialogue: 0,0:05:49.87,0:05:52.75,Main,,0,0,0,,{ .\N}que planejou trazer de volta as armas antigas...
+Dialogue: 0,0:05:52.75,0:05:57.54,Main,,0,0,0,,Cutty Flam, que herdou o projeto de uma arma antiga...
 Dialogue: 0,0:05:58.22,0:06:02.70,Main,,0,0,0,,Definitivamente não vou recuar e perder esta oportunidade de ganhar mais poder!
 Dialogue: 0,0:06:07.74,0:06:09.06,Main,,0,0,0,,Flam Cutty...
 Dialogue: 0,0:06:17.23,0:06:18.65,Main,,0,0,0,,Isso é...
 Dialogue: 0,0:06:18.65,0:06:20.35,Main,,0,0,0,,Ei... não me diga...
-Dialogue: 0,0:06:23.52,0:06:26.94,Main,,0,0,0,,Esses são os projetos da arma antiga de Plutão.\N.\N.\N!
+Dialogue: 0,0:06:23.52,0:06:26.94,Main,,0,0,0,,Esses são os projetos da arma antiga de Plutão...!
 Dialogue: 0,0:06:26.94,0:06:29.08,Main,,0,0,0,,Eles são o verdadeiro negócio.
 Dialogue: 0,0:06:29.08,0:06:30.57,Main,,0,0,0,,Você acredita em mim?
-Dialogue: 0,0:06:33.54,0:06:37.50,Main,,0,0,0,,Lucci.\N.\N.\NKaku.\N.\N.\NVocês já perceberam, né?
+Dialogue: 0,0:06:33.54,0:06:37.50,Main,,0,0,0,,Lucci...\NKaku...\NVocês já perceberam, né?
 Dialogue: 0,0:06:47.55,0:06:49.59,Main,,0,0,0,,Achei que era improvável...
 Dialogue: 0,0:06:50.37,0:06:55.56,Main,,0,0,0,,Então você estava escondendo-os dentro do seu corpo, hein?
 Dialogue: 0,0:06:58.06,0:07:00.42,Main,,0,0,0,,E-Os verdadeiros?!
 Dialogue: 0,0:07:00.42,0:07:01.98,Main,,0,0,0,,Esses são os verdadeiros?!
-Dialogue: 0,0:07:03.94,0:07:06.24,Main,,0,0,0,,Entregue-os.\N.\N.\NEntregue-os para mim!
+Dialogue: 0,0:07:03.94,0:07:06.24,Main,,0,0,0,,Entregue-os...\NEntregue-os para mim!
 Dialogue: 0,0:07:06.24,0:07:08.18,Main,,0,0,0,,{ .\N}Esses são meus projetos há muito procurados!
 Dialogue: 0,0:07:08.18,0:07:09.57,Main,,0,0,0,,Nico Robin.
 Dialogue: 0,0:07:11.49,0:07:15.93,Main,,0,0,0,,Rumores são coisas tão pouco confiáveis, não são?
 Dialogue: 0,0:07:16.56,0:07:19.48,Main,,0,0,0,,Enquanto estávamos sendo trazidos para este maldito lugar,
-Dialogue: 0,0:07:19.48,0:07:22.10,Main,,0,0,0,,{ .\N}Eu percebi que você não é um demônio.\N.\N.
+Dialogue: 0,0:07:19.48,0:07:22.10,Main,,0,0,0,,{ .\N}Eu percebi que você não é um demônio...
 Dialogue: 0,0:07:22.10,0:07:24.18,Main,,0,0,0,,que está tentando usar indevidamente a arma.
 Dialogue: 0,0:07:25.59,0:07:31.16,Main,,0,0,0,,{ .}Os construtores navais do Water 7 não estão repassando...
 Dialogue: 0,0:07:31.16,0:07:34.58,Main,,0,0,0,,{ .}por gerações apenas como construir a arma.
-Dialogue: 0,0:07:36.59,0:07:39.20,Flashbacks,,0,0,0,,Tom-san conquistou tantas coisas boas.\N.\N.
+Dialogue: 0,0:07:36.59,0:07:39.20,Flashbacks,,0,0,0,,Tom-san conquistou tantas coisas boas...
 Dialogue: 0,0:07:39.20,0:07:42.34,Flashbacks,,0,0,0,,{ .\N}e desistiu de tudo para preservar esses projetos para o futuro.
 Dialogue: 0,0:07:42.34,0:07:44.51,Flashbacks,,0,0,0,,{ .}De qualquer forma, desde que haja risco...
 Dialogue: 0,0:07:44.51,0:07:47.44,Flashbacks,,0,0,0,,que uma mulher chamada Nico Robin pode restaurar a arma,
 Dialogue: 0,0:07:47.44,0:07:51.32,Flashbacks,,0,0,0,,o mundo precisa desses projetos para reagir.
 Dialogue: 0,0:07:53.18,0:07:55.28,Main,,0,0,0,,Olá, Spanda.
-Dialogue: 0,0:07:55.30,0:07:59.40,Main,,0,0,0,,{\i1}O que Tom-san e Iceburg arriscaram suas vidas para proteger é.\N.\N.
+Dialogue: 0,0:07:55.30,0:07:59.40,Main,,0,0,0,,{\i1}O que Tom-san e Iceburg arriscaram suas vidas para proteger é...
 Dialogue: 0,0:07:59.40,0:08:00.75,Main,,0,0,0,,Entregue-os para mim já!
 Dialogue: 0,0:08:00.75,0:08:03.69,Main,,0,0,0,,{ .\N}o desejo do arquiteto desta arma—
-Dialogue: 0,0:08:03.69,0:08:07.71,Main,,0,0,0,,isto é, se a arma antiga caísse nas mãos de um idiota como você.\N.\N.
+Dialogue: 0,0:08:03.69,0:08:07.71,Main,,0,0,0,,isto é, se a arma antiga caísse nas mãos de um idiota como você...
 Dialogue: 0,0:08:07.71,0:08:10.37,Main,,0,0,0,,e começou a ser usado para causar problemas,
 Dialogue: 0,0:08:10.37,0:08:13.76,Main,,0,0,0,,{ .\N}o arquiteto gostaria que outra arma fosse construída para detê-lo.
 Dialogue: 0,0:08:14.44,0:08:19.13,Main,,0,0,0,,É verdade que se você usar Nico Robin, poderá reviver a antiga arma.
@@ -182,12 +182,12 @@ Dialogue: 0,0:08:38.90,0:08:43.87,Main,,0,0,0,,para defender o desejo do arquite
 Dialogue: 0,0:08:43.87,0:08:46.61,Main,,0,0,0,,Apenas cale a boca e entregue-os para mim já!
 Dialogue: 0,0:08:46.61,0:08:48.09,Main,,0,0,0,,Esses são meus!
 Dialogue: 0,0:08:51.67,0:08:52.83,Main,,0,0,0,,{ Tom-san...!}
-Dialogue: 0,0:09:06.43,0:09:07.85,Main,,0,0,0,,Seu bastardo!\NO que você está fazendo?\N!
+Dialogue: 0,0:09:06.43,0:09:07.85,Main,,0,0,0,,Seu bastardo!\NO que você está fazendo?!
 Dialogue: 0,0:09:09.26,0:09:10.83,Main,,0,0,0,,{ .}Está queimado até virar cinzas!
 Dialogue: 0,0:09:13.03,0:09:14.29,Main,,0,0,0,,Droga!
 Dialogue: 0,0:09:14.29,0:09:15.82,Main,,0,0,0,,Eu vou matar você!
 Dialogue: 0,0:09:16.28,0:09:19.78,Main,,0,0,0,,Nossa missão de cinco anos...
-Dialogue: 0,0:09:26.96,0:09:31.46,Main,,0,0,0,,Os projetos foram mantidos para criar uma arma para revidar.\N.\N.
+Dialogue: 0,0:09:26.96,0:09:31.46,Main,,0,0,0,,Os projetos foram mantidos para criar uma arma para revidar...
 Dialogue: 0,0:09:31.46,0:09:34.29,Main,,0,0,0,,E você, o governo, veio atrás deles pela segunda vez.
 Dialogue: 0,0:09:35.67,0:09:38.44,Main,,0,0,0,,Essencialmente, algo assim deveria permanecer em segredo,
 Dialogue: 0,0:09:38.44,0:09:41.51,Main,,0,0,0,,e assim, uma vez revelado, tem que ser eliminado.
@@ -236,7 +236,7 @@ Dialogue: 0,0:11:38.30,0:11:40.31,Main,,0,0,0,,Eu, o chefe deles, o grande Frank
 Dialogue: 0,0:11:40.31,0:11:43.30,Main,,0,0,0,,adicionarei meu super poder de luta a vocês!
 Dialogue: 0,0:11:43.30,0:11:45.05,Main,,0,0,0,,{ .}Faça o que quiser!
 Dialogue: 0,0:11:45.05,0:11:49.27,Main,,0,0,0,,Ainda estou usando contra você o que você fez com o Usopp!
-Dialogue: 0,0:11:49.72,0:11:52.56,Main,,0,0,0,,Err.\N.\N.\Nbem, ele está bem ao seu lado.\N.\N.
+Dialogue: 0,0:11:49.72,0:11:52.56,Main,,0,0,0,,Err...\Nbem, ele está bem ao seu lado...
 Dialogue: 0,0:11:53.64,0:11:55.49,Main,,0,0,0,,Flam Cutty...
 Dialogue: 0,0:11:56.29,0:11:58.58,Main,,0,0,0,,Como você ousa...
 Dialogue: 0,0:12:00.12,0:12:02.32,Main,,0,0,0,,queimar minhas plantas?!
@@ -298,7 +298,7 @@ Dialogue: 0,0:16:07.17,0:16:08.32,Main,,0,0,0,,Eles estão aqui...
 Dialogue: 0,0:16:08.32,0:16:09.81,Main,,0,0,0,,Eles estão aqui!
 Dialogue: 0,0:16:09.81,0:16:11.21,Main,,0,0,0,,Droga!
 Dialogue: 0,0:16:11.21,0:16:12.68,Main,,0,0,0,,Ei, venha comigo!
-Dialogue: 0,0:16:15.02,0:16:18.24,Thoughts,,0,0,0,,{.\N}Se ao menos eu conseguisse tirar essas algemas de pedra do mar.\N.\N.
+Dialogue: 0,0:16:15.02,0:16:18.24,Thoughts,,0,0,0,,{.\N}Se ao menos eu conseguisse tirar essas algemas de pedra do mar...
 Dialogue: 0,0:16:20.58,0:16:24.00,Main,,0,0,0,,{.}Agora estou deixando você solto, CP9!
 Dialogue: 0,0:16:24.68,0:16:28.27,Main,,0,0,0,,{.\N}Dê uma surra neles aqui, na Torre da Justiça!
 Dialogue: 0,0:16:30.47,0:16:32.97,Main,,0,0,0,,{.\N}Eu lhe darei permissão para destruí-los!
@@ -321,15 +321,15 @@ Dialogue: 0,0:17:25.42,0:17:27.98,Main,,0,0,0,,Pegue-os, mano!
 Dialogue: 0,0:17:27.98,0:17:30.73,Main,,0,0,0,,Ir! Chapéu de Palha!
 Dialogue: 0,0:17:31.23,0:17:33.49,Main,,0,0,0,,Estamos deixando o resto para você, Chapéu de Palha.
 Dialogue: 0,0:17:36.85,0:17:38.78,Main,,0,0,0,,Ei, vocês estão bem?!
-Dialogue: 0,0:17:38.78,0:17:40.79,Main,,0,0,0,,{.\N}Kokoro, sua velha bruxa?\N!\NPequenos?\N!
+Dialogue: 0,0:17:38.78,0:17:40.79,Main,,0,0,0,,{.\N}Kokoro, sua velha bruxa?!\NPequenos?!
 Dialogue: 0,0:17:40.79,0:17:42.66,Main,,0,0,0,,Por que você veio aqui,
-Dialogue: 0,0:17:42.66,0:17:46.44,Main,,0,0,0,,trazendo à tona uma coisa perigosa como Rocketman?\N!
+Dialogue: 0,0:17:42.66,0:17:46.44,Main,,0,0,0,,trazendo à tona uma coisa perigosa como Rocketman?!
 Dialogue: 0,0:17:46.44,0:17:48.83,Main,,0,0,0,,B-Bem, isso me salvou também, mas...
 Dialogue: 0,0:17:48.83,0:17:51.00,Main,,0,0,0,,Ei!\NEi, velha bruxa!\NAguente firme!
 Dialogue: 0,0:17:51.00,0:17:53.70,Main,,0,0,0,,Ei! Eu te imploro! Não morra!
 Dialogue: 0,0:17:53.70,0:17:55.79,Main,,0,0,0,,Não morra!
 Dialogue: 0,0:18:08.05,0:18:09.45,Main,,0,0,0,,Estou com sangramento nasal.
-Dialogue: 0,0:18:09.45,0:18:13.13,Main,,0,0,0,,Como você pôde sair desse tipo de acidente apenas com uma hemorragia nasal?\N!
+Dialogue: 0,0:18:09.45,0:18:13.13,Main,,0,0,0,,Como você pôde sair desse tipo de acidente apenas com uma hemorragia nasal?!
 Dialogue: 0,0:18:13.13,0:18:15.41,Main,,0,0,0,,Tudo bem! Estamos aqui!
 Dialogue: 0,0:18:16.86,0:18:17.86,Main,,0,0,0,,Chapéu de Palha...!
 Dialogue: 0,0:18:17.86,0:18:19.13,Main,,0,0,0,,Olá!
@@ -415,10 +415,10 @@ Dialogue: 0,0:21:42.25,0:21:44.69,Secondary,,0,0,0,,Um, dois, ruim!
 Dialogue: 0,0:21:45.22,0:21:46.24,Secondary,,0,0,0,,Ei?!
 Dialogue: 0,0:21:46.24,0:21:49.33,Main,,0,0,0,,Então, até derrotarmos todos vocês e pegarmos as chaves,
 Dialogue: 0,0:21:49.33,0:21:51.54,Main,,0,0,0,,e experimentá-los nas algemas de Robin,
-Dialogue: 0,0:21:51.54,0:21:53.83,Main,,0,0,0,,não saberemos qual é a chave certa?\N!
+Dialogue: 0,0:21:51.54,0:21:53.83,Main,,0,0,0,,não saberemos qual é a chave certa?!
 Dialogue: 0,0:21:53.83,0:21:56.51,Main,,0,0,0,,Que estúpido... ganhar tempo?
 Dialogue: 0,0:21:56.51,0:21:57.98,Main,,0,0,0,,Enquanto estamos lutando,
-Dialogue: 0,0:21:57.98,0:22:01.35,Main,,0,0,0,,{\i1}vocês estão tentando levar Robin-chan para os Portões da Justiça, não estão?\N!
+Dialogue: 0,0:21:57.98,0:22:01.35,Main,,0,0,0,,{\i1}vocês estão tentando levar Robin-chan para os Portões da Justiça, não estão?!
 Dialogue: 0,0:22:01.35,0:22:04.05,Main,,0,0,0,,{.\N}Alcançar Robin rapidamente deve ser nossa prioridade.
 Dialogue: 0,0:22:04.05,0:22:08.81,Main,,0,0,0,,Primeiro recuperaremos Robin e depois nos preocuparemos com a chave.
 Dialogue: 0,0:22:08.81,0:22:11.23,Main,,0,0,0,,Vamos ignorar esse estranho e nos apressarmos!
@@ -490,7 +490,7 @@ Dialogue: 0,0:25:43.36,0:25:44.93,Thoughts,,0,0,0,,Alguém está aqui!
 Dialogue: 0,0:25:50.40,0:25:51.97,Main,,0,0,0,,Ele está dormindo...
 Dialogue: 0,0:25:52.75,0:25:54.70,Main,,0,0,0,,Ele também faz parte do CP9?
 Dialogue: 0,0:25:56.33,0:26:00.12,Main,,0,0,0,,E-Ele está dormindo com a chave bem na frente dele!
-Dialogue: 0,0:26:00.12,0:26:05.16,Main,,0,0,0,,Não poderia ser uma grande chance de sorte?\N!
+Dialogue: 0,0:26:00.12,0:26:05.16,Main,,0,0,0,,Não poderia ser uma grande chance de sorte?!
 Dialogue: 0,0:26:06.91,0:26:10.84,Main,,0,0,0,,Eu me pergunto o que é esse corredor parecido com uma masmorra?
 Dialogue: 0,0:26:14.26,0:26:16.47,Main,,0,0,0,,Eiôi!
 Dialogue: 0,0:26:16.98,0:26:20.51,Main,,0,0,0,,Seu maldito pirata!

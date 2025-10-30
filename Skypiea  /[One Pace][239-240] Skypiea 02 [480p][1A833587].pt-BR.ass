@@ -69,7 +69,7 @@ Dialogue: 0,0:02:59.45,0:03:04.31,Captions,,0,540,375,,{\fad(250,0)\pos(285.4,35
 Dialogue: 0,0:03:00.90,0:03:02.98,Main,,0,0,0,,É uma ilha do céu!
 Dialogue: 0,0:03:09.64,0:03:13.58,Main,,0,0,0,,Ei... aquela placa... disse Skypiea.
 Dialogue: 0,0:03:13.70,0:03:17.60,Main,,0,0,0,,Sim!\NEsse é o mesmo nome escrito no mapa que Luffy encontrou.
-Dialogue: 0,0:03:19.90,0:03:25.02,Main,,0,0,0,,Aquele galeão que caiu sobre nós realmente veio aqui.\N.\N.
+Dialogue: 0,0:03:19.90,0:03:25.02,Main,,0,0,0,,Aquele galeão que caiu sobre nós realmente veio aqui...
 Dialogue: 0,0:03:25.52,0:03:29.36,Main,,0,0,0,,Eles viram esse cenário há duzentos anos!
 Dialogue: 0,0:03:29.25,0:03:38.41,Title,,0,0,240,,{\fad(1500,1000)}Praia dos Anjos
 Dialogue: 0,0:03:39.14,0:03:41.91,Main,,0,0,0,,Esta ilha é feita de nuvens fofas?
@@ -89,7 +89,7 @@ Dialogue: 0,0:04:13.78,0:04:15.42,Secondary,,0,0,0,,Deixe-me fazer isso também!
 Dialogue: 0,0:04:19.82,0:04:22.88,Main,,0,0,0,,Mesmo assim, esse cenário é incrível.
 Dialogue: 0,0:04:23.38,0:04:24.79,Main,,0,0,0,,É como um sonho.
 Dialogue: 0,0:04:24.94,0:04:26.48,Main,,0,0,0,,Sim, com certeza é.
-Dialogue: 0,0:04:26.70,0:04:29.99,Main,,0,0,0,,E veja como eles estão se empolgando.\N.\N.
+Dialogue: 0,0:04:26.70,0:04:29.99,Main,,0,0,0,,E veja como eles estão se empolgando...
 Dialogue: 0,0:04:30.18,0:04:32.06,Main,,0,0,0,,Eles estão sem esperança...
 Dialogue: 0,0:04:32.50,0:04:34.46,Main,,0,0,0,,Yahoo!
 Dialogue: 0,0:04:35.44,0:04:36.66,Main,,0,0,0,,Você também.
@@ -113,14 +113,14 @@ Dialogue: 0,0:05:42.10,0:05:42.94,Main,,0,0,0,,E você?
 Dialogue: 0,0:05:44.74,0:05:46.32,Main,,0,0,0,,Sim, eu também irei.
 Dialogue: 0,0:05:49.24,0:05:51.24,Main,,0,0,0,,O cheiro de aventura... né?
 Dialogue: 0,0:05:53.10,0:05:59.02,Main,,0,0,0,,Nunca pensei em velejar ou desembarcar como uma aventura.
-Dialogue: 0,0:06:04.92,0:06:09.40,Main,,0,0,0,,Por alguma razão, a ilha do céu me dá sono.\N.\N.
+Dialogue: 0,0:06:04.92,0:06:09.40,Main,,0,0,0,,Por alguma razão, a ilha do céu me dá sono...
 Dialogue: 0,0:06:13.43,0:06:15.22,Main,,0,0,0,,Olá, aqui é o seu capitão falando.
 Dialogue: 0,0:06:15.33,0:06:19.10,Main,,0,0,0,,Estou me divertindo muito para descobrir o que devo fazer primeiro.
 Dialogue: 0,0:06:19.22,0:06:23.74,Main,,0,0,0,,Esse é o Usopp. Por que não vamos com calma por um tempo aqui?
 Dialogue: 0,0:06:23.96,0:06:26.07,Main,,0,0,0,,Vá com calma? Parece bom!
 Dialogue: 0,0:06:26.20,0:06:26.90,Main,,0,0,0,,Negado!
 Dialogue: 0,0:06:26.94,0:06:29.41,Main,,0,0,0,,O que?! "Negado" significa não, você sabe!
-Dialogue: 0,0:06:30.62,0:06:33.10,Main,,0,0,0,,Olhe para estas.\N.\N.\Nflores misteriosas estão desabrochando.
+Dialogue: 0,0:06:30.62,0:06:33.10,Main,,0,0,0,,Olhe para estas...\Nflores misteriosas estão desabrochando.
 Dialogue: 0,0:06:36.58,0:06:38.42,Main,,0,0,0,,Essas flores também são balões?
 Dialogue: 0,0:06:38.54,0:06:40.44,Main,,0,0,0,,Eles estouram como aquele peixe?
 Dialogue: 0,0:06:45.64,0:06:47.18,Main,,0,0,0,,Isso é muito bom.
@@ -150,7 +150,7 @@ Dialogue: 0,0:07:49.56,0:07:52.38,Main,,0,0,0,,Huh? Que diabos é isso? Uma rapo
 Dialogue: 0,0:07:55.22,0:07:57.54,Main,,0,0,0,,Hum? Que som é esse?
 Dialogue: 0,0:08:00.12,0:08:03.06,Main,,0,0,0,,Ei, tem alguém! Lá!
 Dialogue: 0,0:08:03.82,0:08:06.07,Main,,0,0,0,,Aquela guerrilha de novo?!
-Dialogue: 0,0:08:06.20,0:08:09.48,Main,,0,0,0,,O apito!\NOnde está o apito?\N!\NVamos pedir a ele que nos salve novamente!
+Dialogue: 0,0:08:06.20,0:08:09.48,Main,,0,0,0,,O apito!\NOnde está o apito?!\NVamos pedir a ele que nos salve novamente!
 Dialogue: 0,0:08:09.84,0:08:13.02,Main,,0,0,0,,Não, espere. Isso é...
 Dialogue: 0,0:08:13.60,0:08:14.92,Main,,0,0,0,,...um anjo...
 Dialogue: 0,0:08:16.52,0:08:17.68,Main,,0,0,0,,Um anjo?
@@ -337,9 +337,9 @@ Dialogue: 0,0:17:22.70,0:17:26.04,Main,,0,0,0,,Que interessante! Que interessant
 Dialogue: 0,0:17:26.64,0:17:30.44,Main,,0,0,0,,As pessoas no céu não poderiam viver sem isso.
 Dialogue: 0,0:17:30.55,0:17:31.12,Main,,0,0,0,,Eu vejo.
 Dialogue: 0,0:17:31.56,0:17:33.96,Main,,0,0,0,,Então, você poderia dizer isso...
-Dialogue: 0,0:17:35.22,0:17:38.10,Main,,0,0,0,,.\N.\N.\Na cultura do céu anda de mãos dadas com a energia do mostrador.
+Dialogue: 0,0:17:35.22,0:17:38.10,Main,,0,0,0,,...\Na cultura do céu anda de mãos dadas com a energia do mostrador.
 Dialogue: 0,0:17:52.74,0:17:54.22,Main,,0,0,0,,O que está errado?
-Dialogue: 0,0:17:55.41,0:17:59.04,Main,,0,0,0,,Bem, isso parecia novo para mim, então eu tive um gostinho.\N.\N.
+Dialogue: 0,0:17:55.41,0:17:59.04,Main,,0,0,0,,Bem, isso parecia novo para mim, então eu tive um gostinho...
 Dialogue: 0,0:17:59.34,0:18:04.30,Main,,0,0,0,,Mas, como devo dizer, esse molho azul tinha um sabor intenso.
 Dialogue: 0,0:18:05.09,0:18:06.76,Main,,0,0,0,,Isso deixou minha língua dormente.
 Dialogue: 0,0:18:06.22,0:18:06.76,Main,,0,0,0,,Oh...
@@ -354,7 +354,7 @@ Dialogue: 0,0:18:20.48,0:18:24.52,Main,,0,0,0,,É um prato farto de frutos do ma
 Dialogue: 0,0:18:24.80,0:18:25.98,Main,,0,0,0,,Uau!
 Dialogue: 0,0:18:26.08,0:18:27.30,Main,,0,0,0,,Incrível!
 Dialogue: 0,0:18:31.08,0:18:31.96,Main,,0,0,0,,Hum!
-Dialogue: 0,0:18:32.75,0:18:35.82,Main,,0,0,0,,Esta lagosta!\NComo posso expressar seu sabor?\N!
+Dialogue: 0,0:18:32.75,0:18:35.82,Main,,0,0,0,,Esta lagosta!\NComo posso expressar seu sabor?!
 Dialogue: 0,0:18:35.96,0:18:36.98,Main,,0,0,0,,Yuuuum!
 Dialogue: 0,0:18:41.43,0:18:43.86,Main,,0,0,0,,{\i1}Ei, para onde foi a Nami-san?
 Dialogue: 0,0:18:44.43,0:18:45.92,Main,,0,0,0,,Ela está lá no mar, não está?

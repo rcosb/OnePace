@@ -152,14 +152,14 @@ Dialogue: 0,0:06:40.76,0:06:42.51,Main,Usopp,0,0,0,,Não que eu esteja com medo 
 Dialogue: 0,0:06:42.97,0:06:45.42,Main,Luffy,0,0,0,,O oceano com certeza é lindo!
 Dialogue: 0,0:06:46.33,0:06:48.68,Main,Brook,0,0,0,,Olhe para este lado!
 Dialogue: 0,0:06:51.45,0:06:53.39,Main,Luffy,0,0,0,,Árvores! Não, raízes!
-Dialogue: 0,0:06:53.39,0:06:59.54,Main,Sanji,0,0,0,,Sim.\N.\N.\NAgora que penso nisso, o Arquipélago Sabaody é um manguezal gigante, afinal.
+Dialogue: 0,0:06:53.39,0:06:59.54,Main,Sanji,0,0,0,,Sim...\NAgora que penso nisso, o Arquipélago Sabaody é um manguezal gigante, afinal.
 Dialogue: 0,0:06:59.54,0:07:01.99,Main,Brook,0,0,0,,O esplendor da natureza!
 Dialogue: 0,0:07:01.99,0:07:04.05,Main,Zoro,0,0,0,,Eu já vi isso.
 Dialogue: 0,0:07:04.05,0:07:05.88,Main,Sanji,0,0,0,,{\i1}Sim, porque você entrou no navio errado!
 Dialogue: 0,0:07:05.88,0:07:08.27,Main,Sanji,0,0,0,,{\i1}Cale-se! Vamos ficar maravilhados aqui!
 Dialogue: 0,0:07:09.09,0:07:12.74,Main,Robin,0,0,0,,Mal posso acreditar que as raízes se estendem até o fundo do oceano.
 Dialogue: 0,0:07:13.44,0:07:15.61,Main,Robin,0,0,0,,Eles são tão grandes que estou sem palavras.
-Dialogue: 0,0:07:15.61,0:07:19.97,Main,Usopp,0,0,0,,Ei, Chopper.\N.\N.\NTem algo atrás daquelas árvores!
+Dialogue: 0,0:07:15.61,0:07:19.97,Main,Usopp,0,0,0,,Ei, Chopper...\NTem algo atrás daquelas árvores!
 Dialogue: 0,0:07:21.75,0:07:23.94,Main,Chopper,0,0,0,,{\i1}É enorme!
 Dialogue: 0,0:07:23.94,0:07:27.57,Main,Luffy,0,0,0,,Estou tão animado! Uma aventura no fundo do mar!
 Dialogue: 0,0:07:27.57,0:07:29.42,Main,Luffy,0,0,0,,É como um sonho!
@@ -223,7 +223,7 @@ Dialogue: 0,0:10:26.45,0:10:29.62,Main,Chopper,0,0,0,,{\i1}Eu vou acabar com voc
 Dialogue: 0,0:10:29.62,0:10:30.92,Main,Usopp,0,0,0,,Droga!
 Dialogue: 0,0:10:30.92,0:10:37.33,Main,Usopp,0,0,0,,Hachi disse que nos levaria para a Ilha dos Tritões, então não pensei que seria tão perigoso!
 Dialogue: 0,0:10:37.67,0:10:38.47,Main,Luffy,0,0,0,,Ah, certo!
-Dialogue: 0,0:10:38.47,0:10:42.91,Main,Luffy,0,0,0,,Tenho toneladas de lancheiras.\NE já que Sanji está nocauteado agora.\N.\N.
+Dialogue: 0,0:10:38.47,0:10:42.91,Main,Luffy,0,0,0,,Tenho toneladas de lancheiras.\NE já que Sanji está nocauteado agora...
 Dialogue: 0,0:10:42.91,0:10:44.66,Main,Luffy,0,0,0,,Todos! Vamos comer um pouco!
 Dialogue: 0,0:10:44.66,0:10:47.03,Main,Chopper,0,0,0,,Yay! Meu estômago está roncando!
 Dialogue: 0,0:10:48.28,0:10:49.95,Main,Brook,0,0,0,,Meus ossos também estão roncando!
@@ -234,7 +234,7 @@ Dialogue: 0,0:11:03.68,0:11:05.81,Main,They,0,0,0,,{\i1}Suas funções robótica
 Dialogue: 0,0:11:05.81,0:11:08.08,Main,Franky,0,0,0,,Não, desculpe, mas...
 Dialogue: 0,0:11:08.08,0:11:10.15,Main,Franky,0,0,0,,{\i1}Receio que isso esteja incorreto, robô.
 Dialogue: 0,0:11:10.15,0:11:12.68,Main,They,0,0,0,,{\i1}Uau, incrível! Linguagem de robô!
-Dialogue: 0,0:11:13.94,0:11:18.79,Main,Franky,0,0,0,,A verdade é que Hachi planejou vir e nos guiar através do fundo do oceano.\N.\N.
+Dialogue: 0,0:11:13.94,0:11:18.79,Main,Franky,0,0,0,,A verdade é que Hachi planejou vir e nos guiar através do fundo do oceano...
 Dialogue: 0,0:11:18.79,0:11:21.40,Main,Franky,0,0,0,,mas ouvi dizer que ele sofreu ferimentos graves em Sabaody,
 Dialogue: 0,0:11:21.40,0:11:24.60,Main,Franky,0,0,0,,e agora está se recuperando na Ilha dos Tritões.
 Dialogue: 0,0:11:24.60,0:11:27.60,Main,Franky,0,0,0,,Seu motivo é o mesmo de Duval.
@@ -360,7 +360,7 @@ Dialogue: 0,0:18:02.31,0:18:05.71,Main,Caribou,0,0,0,,Homens! Me siga!
 Dialogue: 0,0:18:08.28,0:18:11.34,Main,Pirates,0,0,0,,{\i1}O quê?!
 Dialogue: 0,0:18:11.34,0:18:12.89,Main,Pirates,0,0,0,,O que há de errado, vaca marinha?!
 Dialogue: 0,0:18:12.89,0:18:14.25,Main,Pirates,0,0,0,,Por que você está fazendo isso, vaca marinha?!
-Dialogue: 0,0:18:14.25,0:18:17.52,Main,Pirates,0,0,0,,Como pode ser isso?\N!\NO Capitão Caribou foi deixado para trás!
+Dialogue: 0,0:18:14.25,0:18:17.52,Main,Pirates,0,0,0,,Como pode ser isso?!\NO Capitão Caribou foi deixado para trás!
 Dialogue: 0,0:18:17.52,0:18:18.77,Main,Coribou,0,0,0,,Irmão?!
 Dialogue: 0,0:18:19.82,0:18:23.82,Main,Caribou,0,0,0,,Agora... Que tal darmos-lhes uma pequena saudação?
 Dialogue: 0,0:18:24.53,0:18:28.03,Main,Caribou,0,0,0,,Dispare a metralhadora contra eles!
@@ -434,7 +434,7 @@ Dialogue: 0,0:22:07.94,0:22:10.96,Main,Usopp,0,0,0,,Existem correntes abaixo das
 Dialogue: 0,0:22:10.96,0:22:12.76,Main,Usopp,0,0,0,,Você com certeza tem conhecimento!
 Dialogue: 0,0:22:14.30,0:22:15.85,Main,Brook,0,0,0,,Só porque vivi tanto tempo!
 Dialogue: 0,0:22:16.17,0:22:19.71,Main,Franky,0,0,0,,Todas as correntes precisam se conectar em algum lugar.
-Dialogue: 0,0:22:19.71,0:22:22.90,Main,Franky,0,0,0,,Eles fluem do leste ou do oeste e depois se encontram.\N.\N.
+Dialogue: 0,0:22:19.71,0:22:22.90,Main,Franky,0,0,0,,Eles fluem do leste ou do oeste e depois se encontram...
 Dialogue: 0,0:22:22.90,0:22:26.02,Main,Franky,0,0,0,,Mergulhando para baixo e subindo de volta.
 Dialogue: 0,0:22:26.02,0:22:28.73,Main,Franky,0,0,0,,É quase como um enorme dragão.
 Dialogue: 0,0:22:28.73,0:22:33.18,Main,Brook,0,0,0,,Aparentemente, as correntes profundas fluem muito lentamente.

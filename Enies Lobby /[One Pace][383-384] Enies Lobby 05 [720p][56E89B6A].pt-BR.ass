@@ -262,8 +262,8 @@ Dialogue: 0,0:02:32.01,0:02:33.53,Main,,0,0,0,,Uh-huh, uh-huh...
 Dialogue: 0,0:02:38.89,0:02:41.69,Main,,0,0,0,,Vocês... bastardos!
 Dialogue: 0,0:02:44.56,0:02:47.07,Main,,0,0,0,,Uh-huh... Uh-huh, uh-huh...
 Dialogue: 0,0:02:51.19,0:02:53.11,Main,,0,0,0,,Eu entendo!
-Dialogue: 0,0:02:53.11,0:02:57.64,Main,,0,0,0,,Então, quando os irmãos Sodoma e Gomorra iam morrer.\N.\N.
-Dialogue: 0,0:02:57.64,0:03:03.09,Main,,0,0,0,,no estômago de um Rei dos Mares, a Família Franky os salvou e disse isso a eles.\N.\N.
+Dialogue: 0,0:02:53.11,0:02:57.64,Main,,0,0,0,,Então, quando os irmãos Sodoma e Gomorra iam morrer...
+Dialogue: 0,0:02:57.64,0:03:03.09,Main,,0,0,0,,no estômago de um Rei dos Mares, a Família Franky os salvou e disse isso a eles...
 Dialogue: 0,0:03:03.09,0:03:06.64,Main,,0,0,0,,"Estamos cheios, então não vamos comer vocês!"
 Dialogue: 0,0:03:06.64,0:03:11.18,Main,,0,0,0,,Desde então, eles têm sido leais a Franky, que salvou suas vidas.
 Dialogue: 0,0:03:13.67,0:03:17.90,Main,,0,0,0,,Bem, eles simplesmente estavam no estômago de um Rei do Mar...
@@ -282,7 +282,7 @@ Dialogue: 0,0:03:55.20,0:03:57.14,Main,,0,0,0,,Hum...?
 Dialogue: 0,0:03:57.14,0:04:02.28,Main,,0,0,0,,O que?! E-eu não vejo Sogeking a bordo!
 Dialogue: 0,0:04:03.56,0:04:05.88,Main,,0,0,0,,Por que?! Por que?!
 Dialogue: 0,0:04:05.88,0:04:08.13,Main,,0,0,0,,Ele caiu?
-Dialogue: 0,0:04:08.13,0:04:11.26,Main,,0,0,0,,Não.\N.\N.\NPensando bem, ele não estava conosco desde o começo!
+Dialogue: 0,0:04:08.13,0:04:11.26,Main,,0,0,0,,Não...\NPensando bem, ele não estava conosco desde o começo!
 Dialogue: 0,0:04:11.26,0:04:13.96,Main,,0,0,0,,Não me diga que ele fugiu...!
 Dialogue: 0,0:04:13.96,0:04:14.00,Captions,,0,660,550,,{=10}Tribunal
 Dialogue: 0,0:04:14.00,0:04:14.04,Captions,,0,660,550,,{=10}Tribunal
@@ -457,24 +457,24 @@ Dialogue: 0,0:05:43.66,0:05:47.23,Main,,0,0,0,,Você chegou a um beco sem saída
 Dialogue: 0,0:05:57.72,0:05:59.77,Main,,0,0,0,,Por que você não me conta o que quer dizer?
 Dialogue: 0,0:06:01.81,0:06:06.73,Main,,0,0,0,,O Governo Mundial é uma organização enorme e poderosa
 Dialogue: 0,0:06:06.73,0:06:11.04,Main,,0,0,0,,que é composto por mais de 170 países ao redor do mundo.
-Dialogue: 0,0:06:11.04,0:06:13.55,Main,,0,0,0,,Invadir esta ilha, que pertence ao Governo.\N.\N.
+Dialogue: 0,0:06:11.04,0:06:13.55,Main,,0,0,0,,Invadir esta ilha, que pertence ao Governo...
 Dialogue: 0,0:06:13.55,0:06:17.70,Main,,0,0,0,,é um ato de revolta contra todos esses países!
-Dialogue: 0,0:06:17.70,0:06:24.01,Main,,0,0,0,,Pela sua dignidade, o Governo irá expor todos vocês ao ridículo público.\N.\N.
+Dialogue: 0,0:06:17.70,0:06:24.01,Main,,0,0,0,,Pela sua dignidade, o Governo irá expor todos vocês ao ridículo público...
 Dialogue: 0,0:06:24.01,0:06:26.69,Main,,0,0,0,,e concederá uma morte impiedosa a você.
 Dialogue: 0,0:06:26.69,0:06:29.98,Main,,0,0,0,,Seu grupo é composto por poucas dezenas.
 Dialogue: 0,0:06:29.98,0:06:32.63,Main,,0,0,0,,Isso está longe de ser suficiente.
 Dialogue: 0,0:06:32.63,0:06:36.68,Main,,0,0,0,,Tudo que fiz foi dizer para você sair do meu caminho.
-Dialogue: 0,0:06:36.68,0:06:42.21,Main,,0,0,0,,O que quero dizer é que você, que entrou pelos portões do Enies Lobby, não tem futuro.\N.\N.
+Dialogue: 0,0:06:36.68,0:06:42.21,Main,,0,0,0,,O que quero dizer é que você, que entrou pelos portões do Enies Lobby, não tem futuro...
 Dialogue: 0,0:06:42.21,0:06:45.39,Main,,0,0,0,,mesmo que eu saia do seu caminho. Isso é tudo.
 Dialogue: 0,0:06:45.39,0:06:46.98,Main,,0,0,0,,Lutar é inútil.
-Dialogue: 0,0:06:46.98,0:06:52.28,Main,,0,0,0,,Tenho certeza que você sentiu um gostinho dos nossos Seis Poderes na mansão de Galley-La.\N.\N.
+Dialogue: 0,0:06:46.98,0:06:52.28,Main,,0,0,0,,Tenho certeza que você sentiu um gostinho dos nossos Seis Poderes na mansão de Galley-La...
 Dialogue: 0,0:06:53.01,0:06:56.46,Main,,0,0,0,,bem como a diferença em nossos níveis de habilidade de luta.
 Dialogue: 0,0:06:59.12,0:07:00.97,Main,,0,0,0,,Sim, é verdade...
 Dialogue: 0,0:07:00.97,0:07:06.10,Main,,0,0,0,,mas por alguma razão, não sinto que vou perder nada agora!
 Dialogue: 0,0:07:08.54,0:07:11.00,Main,,0,0,0,,{\fad(150,150)}Borracha-Borracha...
 Dialogue: 0,0:07:11.69,0:07:12.65,Main,,0,0,0,,{\fad(150,150)}Corpo de Ferro.
 Dialogue: 0,0:07:13.28,0:07:14.68,Main,,0,0,0,,{\fad(150,150)}Rifle!
-Dialogue: 0,0:07:26.62,0:07:31.05,Thoughts,,0,0,0,,O que?\N!\NNão me lembro dele ser tão poderoso.\N.\N.
+Dialogue: 0,0:07:26.62,0:07:31.05,Thoughts,,0,0,0,,O que?!\NNão me lembro dele ser tão poderoso...
 Dialogue: 0,0:07:31.05,0:07:33.70,Thoughts,,0,0,0,,quando lutei com ele na mansão!
 Dialogue: 0,0:07:34.70,0:07:36.60,Main,,0,0,0,,{\fad(150,150)}Gatling!
 Dialogue: 0,0:07:36.60,0:07:37.62,Main,,0,0,0,,{\fad(150,150)}Depilar!
@@ -485,7 +485,7 @@ Dialogue: 0,0:08:32.81,0:08:37.44,Main,,0,0,0,,Kyah! O-o-o que vamos fazer?!
 Dialogue: 0,0:08:39.22,0:08:44.13,Main,,0,0,0,,De qualquer forma, não temos a opção de voltar para buscá-lo neste momento.
 Dialogue: 0,0:08:45.78,0:08:48.09,Main,,0,0,0,,Tenho certeza que ele resolverá as coisas sozinho.
 Dialogue: 0,0:08:48.09,0:08:50.76,Main,,0,0,0,,Mas há guardas por toda parte nesta ilha.
-Dialogue: 0,0:08:50.76,0:08:53.93,Main,,0,0,0,,Ele não é Luffy.\NSe ele estiver sozinho, sua vida será.\N.\N.
+Dialogue: 0,0:08:50.76,0:08:53.93,Main,,0,0,0,,Ele não é Luffy.\NSe ele estiver sozinho, sua vida será...
 Dialogue: 0,0:08:53.93,0:09:00.17,Main,,0,0,0,,Depois de superar cada ilha, ficamos mais fortes sem perceber.
 Dialogue: 0,0:09:00.17,0:09:03.86,Main,,0,0,0,,Esse cara sempre sobreviveu a situações de vida ou morte em todas as ilhas.
 Dialogue: 0,0:09:03.86,0:09:08.42,Main,,0,0,0,,Ninguém em nosso grupo morreria tão facilmente.
@@ -518,12 +518,12 @@ Dialogue: 0,0:11:39.38,0:11:42.02,Main,,0,0,0,,N-N-Não! Correr é a última coi
 Dialogue: 0,0:11:42.02,0:11:46.73,Main,,0,0,0,,Eu sou o Usopp!\NEu sou um homem!\NCheguei ao ponto de esconder minha identidade para segui-los!
 Dialogue: 0,0:11:46.73,0:11:50.65,Main,,0,0,0,,Estamos enfrentando uma crise onde Robin está se sacrificando para proteger todos nós!
 Dialogue: 0,0:11:50.65,0:11:52.98,Main,,0,0,0,,Eu tenho que fazer isso a todo custo!
-Dialogue: 0,0:11:53.00,0:11:58.32,Main,,0,0,0,,Tudo bem.\N.\N.\NSó há uma maneira de chegar a todos.
-Dialogue: 0,0:11:58.32,0:12:02.33,Main,,0,0,0,,Vou realizar a Operação: Disfarçar-me como um dos funcionários do governo.\N.\N.
+Dialogue: 0,0:11:53.00,0:11:58.32,Main,,0,0,0,,Tudo bem...\NSó há uma maneira de chegar a todos.
+Dialogue: 0,0:11:58.32,0:12:02.33,Main,,0,0,0,,Vou realizar a Operação: Disfarçar-me como um dos funcionários do governo...
 Dialogue: 0,0:12:02.33,0:12:04.75,Main,,0,0,0,,e passe por eles despercebido!
 Dialogue: 0,0:12:06.62,0:12:10.15,Main,,0,0,0,,Sim, isso seria bom.
 Dialogue: 0,0:12:10.15,0:12:11.88,Main,,0,0,0,,Huh?!
-Dialogue: 0,0:12:13.19,0:12:16.55,Main,,0,0,0,,Uau!\NO que?\N!\NO que?\N!\NEles estão tentando me afogar?\N!
+Dialogue: 0,0:12:13.19,0:12:16.55,Main,,0,0,0,,Uau!\NO que?!\NO que?!\NEles estão tentando me afogar?!
 Dialogue: 0,0:12:16.55,0:12:19.18,Main,,0,0,0,,Ataque inimigo! Ataque inimigo!
 Dialogue: 0,0:12:19.18,0:12:22.97,Main,,0,0,0,,Que lamentável!
 Dialogue: 0,0:12:22.97,0:12:27.15,Main,,0,0,0,,Ah! O Gigante acordou!
@@ -532,7 +532,7 @@ Dialogue: 0,0:12:32.07,0:12:33.52,Main,,0,0,0,,Chefes?
 Dialogue: 0,0:12:34.57,0:12:37.96,Main,,0,0,0,,Somos uma vergonha para Elbaf!
 Dialogue: 0,0:12:37.96,0:12:40.44,Main,,0,0,0,,E-Elbaf?
 Dialogue: 0,0:12:41.27,0:12:44.82,Main,,0,0,0,,Elbaf... Chefes...
-Dialogue: 0,0:12:44.82,0:12:50.21,Main,,0,0,0,,Não me diga.\N.\N.\N!\NE-É possível que você seja de Elbaf, a ilha dos guerreiros?\N!
+Dialogue: 0,0:12:44.82,0:12:50.21,Main,,0,0,0,,Não me diga...!\NE-É possível que você seja de Elbaf, a ilha dos guerreiros?!
 Dialogue: 0,0:12:50.21,0:12:52.40,Main,,0,0,0,,Quem é você?!
 Dialogue: 0,0:12:52.40,0:12:56.38,Main,,0,0,0,,E-e-eu sou Sogeking da ilha dos atiradores.
 Dialogue: 0,0:12:56.38,0:12:59.09,Main,,0,0,0,,Você pode explicar do que está falando?
@@ -543,7 +543,7 @@ Dialogue: 0,0:13:10.25,0:13:13.45,Main,,0,0,0,,E ainda assim, você está choran
 Dialogue: 0,0:13:13.45,0:13:15.82,Main,,0,0,0,,Então eu quero saber por quê.
 Dialogue: 0,0:13:17.14,0:13:19.10,Main,,0,0,0,,Por favor...
 Dialogue: 0,0:13:19.10,0:13:23.06,Main,,0,0,0,,É inútil contar a você sobre isso, mas...
-Dialogue: 0,0:13:24.85,0:13:30.28,Main,,0,0,0,,Oimo e Kashi eram piratas até 100 anos atrás.\N.\N.
+Dialogue: 0,0:13:24.85,0:13:30.28,Main,,0,0,0,,Oimo e Kashi eram piratas até 100 anos atrás...
 Dialogue: 0,0:13:30.28,0:13:33.10,Main,,0,0,0,,e corremos descontroladamente por todo o mundo.
 Dialogue: 0,0:13:34.26,0:13:35.25,Main,,0,0,0,,O que?
 Dialogue: 0,0:13:35.25,0:13:38.87,Main,,0,0,0,,Mas um dia, numa certa ilha...
@@ -574,8 +574,8 @@ Dialogue: 0,0:15:10.98,0:15:11.92,Main,,0,0,0,,Huh?!
 Dialogue: 0,0:15:11.92,0:15:15.31,Main,,0,0,0,,Isso foi há cerca de 50 anos.
 Dialogue: 0,0:15:15.31,0:15:16.43,Main,,0,0,0,,Hum?
 Dialogue: 0,0:15:16.43,0:15:19.02,Main,,0,0,0,,O Governo deu-nos estas condições:
-Dialogue: 0,0:15:19.02,0:15:23.08,Main,,0,0,0,,Se eu e Kashi trabalhássemos para o governo durante 100 anos.\N.\N.
-Dialogue: 0,0:15:23.08,0:15:27.73,Main,,0,0,0,,por outras palavras, se pudéssemos proteger este portão de Enies Lobby durante 100 anos.\N.\N.
+Dialogue: 0,0:15:19.02,0:15:23.08,Main,,0,0,0,,Se eu e Kashi trabalhássemos para o governo durante 100 anos...
+Dialogue: 0,0:15:23.08,0:15:27.73,Main,,0,0,0,,por outras palavras, se pudéssemos proteger este portão de Enies Lobby durante 100 anos...
 Dialogue: 0,0:15:27.73,0:15:33.45,Main,,0,0,0,,eles libertariam nossos chefes e nos deixariam voltar para casa, em Elbaf.
 Dialogue: 0,0:15:33.45,0:15:37.96,Main,,0,0,0,,Como a expectativa de vida de um gigante é de 300 anos, pensávamos que 100 anos não eram nada.
 Dialogue: 0,0:15:37.96,0:15:41.33,Main,,0,0,0,,Por isso, aceitámos as condições e continuámos a lutar durante os últimos 50 anos.
@@ -584,17 +584,17 @@ Dialogue: 0,0:15:45.46,0:15:48.03,Main,,0,0,0,,E pensar que algo assim aconteceu
 Dialogue: 0,0:15:48.03,0:15:54.45,Main,,0,0,0,,Droga!\NNossos chefes agora ficarão presos pelo resto de suas vidas!
 Dialogue: 0,0:15:54.45,0:15:56.43,Main,,0,0,0,,Ei, ei! H-H-Espere um segundo!
 Dialogue: 0,0:15:56.43,0:15:58.03,Main,,0,0,0,,Há algo engraçado nessa história.
-Dialogue: 0,0:15:58.03,0:16:02.65,Main,,0,0,0,,O que há de engraçado nisso?\N!\NSe você vai rir do nosso orgulho, então.\N.\N.
+Dialogue: 0,0:15:58.03,0:16:02.65,Main,,0,0,0,,O que há de engraçado nisso?!\NSe você vai rir do nosso orgulho, então...
 Dialogue: 0,0:16:02.65,0:16:05.98,Main,,0,0,0,,Não, não, eu não quis dizer isso!\NEu quis dizer que é estranho!
 Dialogue: 0,0:16:05.98,0:16:07.88,Main,,0,0,0,,Estranho, você diz?!
 Dialogue: 0,0:16:07.88,0:16:13.75,Main,,0,0,0,,Porque durante a nossa jornada antes de virmos para cá, nós os conhecemos!
-Dialogue: 0,0:16:16.54,0:16:20.27,Main,,0,0,0,,Os dois de quem você está falando, os guerreiros Elbaf, Dorry e Brogy.\N.\N.
+Dialogue: 0,0:16:16.54,0:16:20.27,Main,,0,0,0,,Os dois de quem você está falando, os guerreiros Elbaf, Dorry e Brogy...
 Dialogue: 0,0:16:20.27,0:16:25.42,Main,,0,0,0,,têm travado um duelo equilibrado naquela ilha nos últimos 100 anos!
 Dialogue: 0,0:16:29.10,0:16:32.35,Main,,0,0,0,,O que?! Como é que você sabe os nomes deles?!
 Dialogue: 0,0:16:32.35,0:16:34.42,Main,,0,0,0,,O que?! Isso é impossível!
 Dialogue: 0,0:16:34.42,0:16:38.68,Main,,0,0,0,,Se você quiser ouvir mais provas, direi o quanto você quiser!
 Dialogue: 0,0:16:44.31,0:16:45.92,Main,,0,0,0,,E...
-Dialogue: 0,0:16:57.58,0:17:01.14,Main,,0,0,0,,Você ainda não acredita em mim?\N!\NO que eu tenho a dizer para você acreditar em mim?\N!
+Dialogue: 0,0:16:57.58,0:17:01.14,Main,,0,0,0,,Você ainda não acredita em mim?!\NO que eu tenho a dizer para você acreditar em mim?!
 Dialogue: 0,0:17:06.02,0:17:07.62,Main,,0,0,0,,Sobre suas armas?!
 Dialogue: 0,0:17:11.54,0:17:12.98,Main,,0,0,0,,Suas técnicas?!
 Dialogue: 0,0:17:12.98,0:17:16.45,Flashbacks,,0,0,0,,73.466 duelos...
@@ -602,7 +602,7 @@ Dialogue: 0,0:17:16.45,0:17:18.13,Main,,0,0,0,,Eu sei tudo!
 Dialogue: 0,0:17:18.13,0:17:21.84,Flashbacks,,0,0,0,,73.466 sorteios...
 Dialogue: 0,0:17:21.84,0:17:27.29,Main,,0,0,0,,Nós realmente os conhecemos!
 Dialogue: 0,0:17:35.17,0:17:39.72,Flashbacks,,0,0,0,,Você lutou desesperadamente para proteger nosso orgulho.
-Dialogue: 0,0:17:39.72,0:17:43.15,Flashbacks,,0,0,0,,Como tal, não importa que tipo de inimigo possa existir.\N.\N.
+Dialogue: 0,0:17:39.72,0:17:43.15,Flashbacks,,0,0,0,,Como tal, não importa que tipo de inimigo possa existir...
 Dialogue: 0,0:17:43.15,0:17:46.20,Flashbacks,,0,0,0,,Não vamos deixar que destruam seu orgulho, amigos!
 Dialogue: 0,0:17:46.20,0:17:49.62,Flashbacks,,0,0,0,,Tenha fé em nós e siga em frente!
 Dialogue: 0,0:17:53.64,0:17:56.40,Flashbacks,,0,0,0,,Vamos nos encontrar novamente algum dia.
@@ -790,7 +790,7 @@ Dialogue: 0,0:19:16.12,0:19:17.82,Main,,0,0,0,,Você não vai fugir!
 Dialogue: 0,0:19:21.31,0:19:22.89,Main,,0,0,0,,Sodoma...
 Dialogue: 0,0:19:22.89,0:19:24.60,Main,,0,0,0,,Parar!
 Dialogue: 0,0:19:38.04,0:19:39.99,Main,,0,0,0,,Helicóptero...
-Dialogue: 0,0:19:41.20,0:19:43.16,Main,,0,0,0,,Hum?\N!\NO Caracol Bebê Transponder está tocando?\N!
+Dialogue: 0,0:19:41.20,0:19:43.16,Main,,0,0,0,,Hum?!\NO Caracol Bebê Transponder está tocando?!
 Dialogue: 0,0:19:43.66,0:19:45.37,Main,,0,0,0,,Olá? Quem é?
 Dialogue: 0,0:19:46.40,0:19:47.70,Main,,0,0,0,,Sou eu.
 Dialogue: 0,0:19:47.70,0:19:48.77,Main,,0,0,0,,Essa é a vovó Kokoro!
@@ -803,7 +803,7 @@ Dialogue: 0,0:20:05.58,0:20:08.87,Main,,0,0,0,,Isso mesmo. Eu estava pensando so
 Dialogue: 0,0:20:08.87,0:20:12.67,Main,,0,0,0,,Olhe para o tribunal.\NTem uma torre de cada lado, certo?
 Dialogue: 0,0:20:12.67,0:20:13.96,Main,,0,0,0,,Sim, existe.
 Dialogue: 0,0:20:13.96,0:20:18.92,Main,,0,0,0,,Há uma alavanca no último andar de cada torre.
-Dialogue: 0,0:20:18.92,0:20:21.22,Main,,0,0,0,,Quando você puxá-los, uma ponte levadiça cairá.\N.\N.\N.
+Dialogue: 0,0:20:18.92,0:20:21.22,Main,,0,0,0,,Quando você puxá-los, uma ponte levadiça cairá....
 Dialogue: 0,0:20:21.22,0:20:24.24,Main,,0,0,0,,do tribunal às Portas da Justiça.
 Dialogue: 0,0:20:24.24,0:20:27.27,Main,,0,0,0,,Vovó, como você sabe dessas coisas?
 Dialogue: 0,0:20:27.27,0:20:30.60,Main,,0,0,0,,{\i1}Eu vim aqui com o Tom-san para consertar a ponte há muito tempo.
@@ -816,7 +816,7 @@ Dialogue: 0,0:20:42.42,0:20:48.15,Main,,0,0,0,,Ouvir.\NEu vi o pirata da borrach
 Dialogue: 0,0:20:49.81,0:20:51.72,Main,,0,0,0,,Realmente?! Luffy estava lá?
 Dialogue: 0,0:20:51.72,0:20:57.17,Main,,0,0,0,,Eu vi pedras desabando lá também, então parece que ele está furioso.
 Dialogue: 0,0:20:57.17,0:21:00.38,Main,,0,0,0,,No telhado? Entendi. Obrigado.
-Dialogue: 0,0:21:00.38,0:21:03.87,Main,,0,0,0,,Garota pirata, mantenha o Caracol Transponder conectado.\N.\N.
+Dialogue: 0,0:21:00.38,0:21:03.87,Main,,0,0,0,,Garota pirata, mantenha o Caracol Transponder conectado...
 Dialogue: 0,0:21:03.87,0:21:06.20,Main,,0,0,0,,para que eu saiba o que está acontecendo lá.
 Dialogue: 0,0:21:06.20,0:21:07.33,Main,,0,0,0,,OK...!
 Dialogue: 0,0:21:07.33,0:21:08.43,Main,,0,0,0,,Então eles disseram.
@@ -973,8 +973,8 @@ Dialogue: 0,0:24:44.08,0:24:47.26,Main,,0,0,0,,Como...
 Dialogue: 0,0:24:47.26,0:24:49.57,Main,,0,0,0,,Atreva-se....
 Dialogue: 0,0:24:53.14,0:24:54.64,Main,,0,0,0,,Huh?
 Dialogue: 0,0:24:54.64,0:24:56.66,Main,,0,0,0,,nos enganar?!
-Dialogue: 0,0:25:02.37,0:25:06.03,Main,,0,0,0,,O que diabos?\N!\NAqueles dois foram para o lado do inimigo!
-Dialogue: 0,0:25:06.48,0:25:09.27,Main,,0,0,0,,Antes de nos alegrarmos com a segurança dos nossos chefes.\N.\N.
+Dialogue: 0,0:25:02.37,0:25:06.03,Main,,0,0,0,,O que diabos?!\NAqueles dois foram para o lado do inimigo!
+Dialogue: 0,0:25:06.48,0:25:09.27,Main,,0,0,0,,Antes de nos alegrarmos com a segurança dos nossos chefes...
 Dialogue: 0,0:25:09.27,0:25:11.99,Main,,0,0,0,,antes de lamentarmos pelos nossos anos desperdiçados...
 Dialogue: 0,0:25:11.99,0:25:16.35,Main,,0,0,0,,Descarregaremos toda a nossa raiva nesses caras em uma fúria furiosa!
 Dialogue: 0,0:25:16.35,0:25:19.60,Main,,0,0,0,,Vamos juntos... rei dos atiradores!

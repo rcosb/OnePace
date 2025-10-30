@@ -223,7 +223,7 @@ Dialogue: 0,0:10:45.26,0:10:47.26,Main,Violet,0,0,0,,E agora está indo para Gre
 Dialogue: 0,0:10:49.99,0:10:51.20,Main,Brook,0,0,0,,{ This is such a mood whiplash! -Starfish }Isso é muito divertido!
 Dialogue: 0,0:10:51.20,0:10:55.32,Main,Brook,0,0,0,,Um casamento tão lindo entre a música e a arte do oceano!\NSim!
 Dialogue: 0,0:10:57.17,0:10:59.27,Main,Giolla,0,0,0,,Gosto do jeito que você fala!
-Dialogue: 0,0:10:59.27,0:11:02.94,Main,Nami,0,0,0,,Pare o navio!\NVocê não está indo para Green Bit, está?\N!
+Dialogue: 0,0:10:59.27,0:11:02.94,Main,Nami,0,0,0,,Pare o navio!\NVocê não está indo para Green Bit, está?!
 Dialogue: 0,0:11:04.47,0:11:06.35,Main,Giolla,0,0,0,,Law tem um grande choque reservado para ele!
 Dialogue: 0,0:11:06.35,0:11:10.42,Main,Giolla,0,0,0,,Ele está esperando por você, mas serei eu quem virá buscar César!
 Dialogue: 0,0:11:10.42,0:11:14.45,Main,Chopper,0,0,0,,Brook está agindo de forma estranha. Como ele poderia nos trair?
@@ -269,18 +269,18 @@ Dialogue: 0,0:13:11.78,0:13:15.22,Captions,Sign,0,0,190,,{\fad(500,500)}Bit Verd
 Dialogue: 0,0:13:15.29,0:13:19.18,Captions,Sign,0,0,220,,{\fad(400,0)}Law vs.\NDoflamingo e Almirante Fujitora
 Dialogue: 0,0:13:12.68,0:13:14.80,Main,Doflamingo,0,0,0,,{\an8}Há muito tempo...
 Dialogue: 0,0:13:14.80,0:13:19.18,Main,Doflamingo,0,0,0,,{\an8}Para ser mais preciso, há 800 anos, Law.
-Dialogue: 0,0:13:22.52,0:13:27.55,Main,Doflamingo,0,0,0,,20 reis de 20 países reunidos no centro do mundo.\N.\N.
+Dialogue: 0,0:13:22.52,0:13:27.55,Main,Doflamingo,0,0,0,,20 reis de 20 países reunidos no centro do mundo...
 Dialogue: 0,0:13:28.32,0:13:31.69,Main,Doflamingo,0,0,0,,e criou uma única organização.
 Dialogue: 0,0:13:32.42,0:13:36.34,Main,Doflamingo,0,0,0,,Essa organização é agora conhecida como Governo Mundial.
 Dialogue: 0,0:13:37.24,0:13:45.16,Main,Doflamingo,0,0,0,,Os reis fundadores trouxeram suas famílias para viver na Terra Santa, Mariejoa.
-Dialogue: 0,0:13:45.16,0:13:52.14,Main,Doflamingo,0,0,0,,Embora a família Nefertari de Alabasta tenha recusado, eram apenas 19 famílias.\N.\N.
+Dialogue: 0,0:13:45.16,0:13:52.14,Main,Doflamingo,0,0,0,,Embora a família Nefertari de Alabasta tenha recusado, eram apenas 19 famílias...
 Dialogue: 0,0:13:52.14,0:13:56.38,Main,Doflamingo,0,0,0,,mas essas 19 famílias ainda vivem lá até hoje e reinam no mundo.
 Dialogue: 0,0:13:56.38,0:14:01.55,Main,Doflamingo,0,0,0,,Os descendentes desses reis fundadores são conhecidos como Dragões Celestiais.
 Dialogue: 0,0:14:02.04,0:14:08.83,Main,Doflamingo,0,0,0,,Por outras palavras, há 800 anos esses 19 países perderam as suas famílias reais.
 Dialogue: 0,0:14:09.70,0:14:10.93,Main,Doflamingo,0,0,0,,Já descobriu?
 Dialogue: 0,0:14:12.85,0:14:19.41,Main,Doflamingo,0,0,0,,Naturalmente, esses países elegeram novos governantes e nasceram novas famílias reais.
 Dialogue: 0,0:14:19.41,0:14:27.38,Main,Doflamingo,0,0,0,,Veja Dressrosa, por exemplo.\NA nova família real aqui era a família Riku.
-Dialogue: 0,0:14:27.38,0:14:32.87,Main,Doflamingo,0,0,0,,Já a família que se mudou para a Terra Santa Mariejoa e fundou o Governo.\N.\N.
+Dialogue: 0,0:14:27.38,0:14:32.87,Main,Doflamingo,0,0,0,,Já a família que se mudou para a Terra Santa Mariejoa e fundou o Governo...
 Dialogue: 0,0:14:34.34,0:14:36.50,Main,Doflamingo,0,0,0,,era a família Donquixote.
 Dialogue: 0,0:14:38.64,0:14:42.23,Captions,Sign,0,0,220,,{\fad(500,0)}Em frente ao Coliseu Corrida de Dressrosa
 Dialogue: 0,0:14:45.84,0:14:49.00,Flashbacks,Sanji,0,0,0,,{Skimming the last episode's script, I don't THINK this dialogue was in there... But I could be wrong. -Starfish}Eu estava preocupado com a Nami-san antes de você!
@@ -302,7 +302,7 @@ Dialogue: 0,0:15:33.44,0:15:36.36,Main,Kin'emon,0,0,0,,Isso definitivamente cham
 Dialogue: 0,0:15:36.36,0:15:38.27,Main,Zoro,0,0,0,,Então farei isso com calma e cuidado.
 Dialogue: 0,0:15:38.27,0:15:39.88,Main,Kin'emon,0,0,0,,Como isso faria diferença?
 Dialogue: 0,0:15:46.82,0:15:50.90,Thoughts,Bartolomeo,0,0,0,,{Orgasm}Esse é o caçador de piratas Zoro-senpai!
-Dialogue: 0,0:15:50.90,0:15:54.00,Thoughts,Bartolomeo,0,0,0,,O usuário do estilo três espadas cuja lenda começou quando ele derrubou cem homens no Whiskey Peak.\N.\N.
+Dialogue: 0,0:15:50.90,0:15:54.00,Thoughts,Bartolomeo,0,0,0,,O usuário do estilo três espadas cuja lenda começou quando ele derrubou cem homens no Whiskey Peak...
 Dialogue: 0,0:15:54.00,0:15:59.60,Thoughts,Bartolomeo,0,0,0,,e no Enies Lobby dizem que ele cortou a ilha inteira ao meio!
 Dialogue: 0,0:16:00.04,0:16:04.01,Thoughts,Bartolomeo,0,0,0,,E ele tem apoiado a tripulação como braço direito de Luffy-senpai!
 Dialogue: 0,0:16:04.01,0:16:06.92,Thoughts,Bartolomeo,0,0,0,,Ele é o famoso imediato dos Piratas do Chapéu de Palha!
@@ -315,10 +315,10 @@ Dialogue: 0,0:16:19.77,0:16:24.93,Main,Gladius,0,0,0,,Você tem ideia do quanto 
 Dialogue: 0,0:16:26.62,0:16:34.34,Main,Gladius,0,0,0,,Aquela maldita Violet deveria capturar Black Leg Sanji e ler sua mente para descobrir o plano do inimigo.
 Dialogue: 0,0:16:34.34,0:16:39.92,Main,Gladius,0,0,0,,Deveríamos atrapalhar seus planos a cada passo e eliminar cada um dos Chapéus de Palha!
 Dialogue: 0,0:16:39.92,0:16:43.73,Main,Gladius,0,0,0,,{Xemnas: The word used here "Shitomete" generally implies that she killed them and as we're not sure whether she killed them or not, I used this wording which leaves it ambiguous either way as to whether she killed them or just knocked them out.\N}E agora veja o que aconteceu!\NEla matou seus próprios subordinados e fugiu!
-Dialogue: 0,0:16:45.04,0:16:48.09,Main,Baby 5,0,0,0,,{Xemnas: Isn't that ichigo's sword from bleach?\N}Acalmar!\NVocê não quer explodir aqui, quer?\N!
+Dialogue: 0,0:16:45.04,0:16:48.09,Main,Baby 5,0,0,0,,{Xemnas: Isn't that ichigo's sword from bleach?\N}Acalmar!\NVocê não quer explodir aqui, quer?!
 Dialogue: 0,0:16:50.29,0:16:55.13,Main,Gladius,0,0,0,,Não há nada que eu odeie mais do que pessoas que não conseguem cumprir o cronograma ou seguir um plano!
 Dialogue: 0,0:17:01.51,0:17:05.65,Captions,,0,0,250,,{\fad(300,200)}Família Donquixote (Exército Pica) Gladius
-Dialogue: 0,0:17:09.31,0:17:16.11,Main,Gladius,0,0,0,,Qualquer um que nos trair.\N.\N.\Nou melhor, trair o jovem mestre, deve morrer.
+Dialogue: 0,0:17:09.31,0:17:16.11,Main,Gladius,0,0,0,,Qualquer um que nos trair...\Nou melhor, trair o jovem mestre, deve morrer.
 Dialogue: 0,0:17:16.76,0:17:20.59,Main,Gladius,0,0,0,,Violet tem agido de forma estranha desde ontem à noite.
 Dialogue: 0,0:17:20.59,0:17:27.89,Main,Gladius,0,0,0,,{ def: clairvoyance capitalized?\N}Basta pensar nisso.\NEla poderia facilmente ter encontrado o navio dos Chapéus de Palha ontem usando sua Clarividência.
 Dialogue: 0,0:17:30.07,0:17:34.68,Captions,Sign,0,0,250,,{\fad(150,0)}Nordeste de Dressrosa em direção ao Green Bit
@@ -328,7 +328,7 @@ Dialogue: 0,0:17:44.96,0:17:47.79,Main,Violet,0,0,0,,Esse porto já está cheio 
 Dialogue: 0,0:17:48.98,0:17:52.28,Main,Violet,0,0,0,,Você deveria mudar seu ponto de encontro.
 Dialogue: 0,0:17:52.89,0:17:55.39,Main,Sanji,0,0,0,,Entendo, então a Marinha está aqui.
 Dialogue: 0,0:17:55.39,0:17:58.18,Main,Violet,0,0,0,,Eles têm um total de quatro navios de guerra aqui.
-Dialogue: 0,0:17:58.18,0:18:02.33,Main,Violet,0,0,0,,{She strictly speaking says there are at least "over three thousand", but to me the like "at least over X" sounds weird.\N.\N.\NSaying that there are at least three thousand indicates that there are probably more anyway.\N-Starfish}Portanto, há pelo menos 3.\N000 fuzileiros navais neste país neste momento.
+Dialogue: 0,0:17:58.18,0:18:02.33,Main,Violet,0,0,0,,{She strictly speaking says there are at least "over three thousand", but to me the like "at least over X" sounds weird...\NSaying that there are at least three thousand indicates that there are probably more anyway.\N-Starfish}Portanto, há pelo menos 3.\N000 fuzileiros navais neste país neste momento.
 Dialogue: 0,0:18:02.79,0:18:05.89,Main,Sanji,0,0,0,,Como você descobriu tanta coisa sozinho em tão pouco tempo?
 Dialogue: 0,0:18:06.59,0:18:09.60,Main,Violet,0,0,0,,Porque tenho o poder da Clarividência.
 Dialogue: 0,0:18:09.60,0:18:16.51,Main,Violet,0,0,0,,Posso enviar minha linha de visão voando como um pássaro em qualquer direção, até 4.\N000 quilômetros de distância.

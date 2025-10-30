@@ -96,12 +96,12 @@ Dialogue: 0,0:02:40.53,0:02:41.65,Main-207+,,0,0,0,,Não baixe a guarda!
 Dialogue: 0,0:02:41.65,0:02:43.01,Main-207+,,0,0,0,,Ok.
 Dialogue: 0,0:02:43.01,0:02:44.85,Main-207+,,0,0,0,,{.}E não faça nada estúpido!
 Dialogue: 0,0:02:44.85,0:02:46.56,Main-207+,,0,0,0,,Ok.
-Dialogue: 0,0:02:47.26,0:02:49.31,Main-207+,,0,0,0,,{.\N}Hum?\N!\NO que isso quer dizer?\N!\NQue insulto!
+Dialogue: 0,0:02:47.26,0:02:49.31,Main-207+,,0,0,0,,{.\N}Hum?!\NO que isso quer dizer?!\NQue insulto!
 Dialogue: 0,0:02:49.31,0:02:51.06,Main-207+,,0,0,0,,{.}Você é tão rude!
 Dialogue: 0,0:02:56.69,0:03:00.50,Main-207+,,0,0,0,,{.}Oh não! É tão escorregadio que não aguento.
 Dialogue: 0,0:03:00.50,0:03:01.86,Main-207+,,0,0,0,,Mesmo assim,
 Dialogue: 0,0:03:01.86,0:03:06.68,Main-207+,,0,0,0,,apenas espere. Estou prestes a ter você de volta!
-Dialogue: 0,0:03:11.87,0:03:18.05,Main-207+,,0,0,0,,{.\N}Ai, ai, ai.\NAquele maldito gorila-veado!\NComo ele ousa me humilhar?\N!
+Dialogue: 0,0:03:11.87,0:03:18.05,Main-207+,,0,0,0,,{.\N}Ai, ai, ai.\NAquele maldito gorila-veado!\NComo ele ousa me humilhar?!
 Dialogue: 0,0:03:19.42,0:03:22.10,Main-207+,,0,0,0,,{.}Mas a chave é mais importante! Precisamos pegar a chave!
 Dialogue: 0,0:03:22.10,0:03:24.72,Main-207+,,0,0,0,,É melhor eu me apressar até aquela secretária.
 Dialogue: 0,0:03:32.50,0:03:35.11,Main-207+,,0,0,0,,Gorila-veado! Espere, seu idiota!
@@ -146,7 +146,7 @@ Dialogue: 0,0:06:35.87,0:06:37.57,Main-207+,,0,0,0,,Ei! Ei!
 Dialogue: 0,0:06:38.37,0:06:39.55,Main-207+,,0,0,0,,{\i1}Sim, chefe.
 Dialogue: 0,0:06:39.55,0:06:42.64,Main-207+,,0,0,0,,Droga!\NAh, merda!\NEste é o caracol do transponder móvel.
 Dialogue: 0,0:06:42.64,0:06:44.75,Main-207+,,0,0,0,,O que eu fiz? Eu não tomei cuidado.
-Dialogue: 0,0:06:44.75,0:06:48.72,Main-207+,,0,0,0,,{.\N}Como apertei o botão do caracol transponder dourado?\N!
+Dialogue: 0,0:06:44.75,0:06:48.72,Main-207+,,0,0,0,,{.\N}Como apertei o botão do caracol transponder dourado?!
 Dialogue: 0,0:06:48.72,0:06:51.34,Main-207+,,0,0,0,,{\i1}Como eu poderia ter...
 Dialogue: 0,0:06:51.34,0:06:56.12,Main-207+,,0,0,0,,{\i1}soou uma chamada de imbecil?!
 Dialogue: 0,0:07:07.83,0:07:10.44,Main-207+,,0,0,0,,{.}Uma chamada destruidora? Eu-Não pode ser!
@@ -160,7 +160,7 @@ Dialogue: 0,0:07:26.48,0:07:30.92,Main-207+,,0,0,0,,{\i1}Ei, ei. Com quem você 
 Dialogue: 0,0:07:30.92,0:07:33.05,Main-207+,,0,0,0,,O que diabos é essa transmissão?
 Dialogue: 0,0:07:33.05,0:07:34.39,Main-207+,,0,0,0,,Ei! Não se mova!
 Dialogue: 0,0:07:34.39,0:07:36.43,Main-207+,,0,0,0,,Não podemos nos mover!
-Dialogue: 0,0:07:42.86,0:07:47.22,Main-207+,,0,0,0,,{\i1}Uma chamada buster é uma ótima ideia!\NO que há de errado com isso?\N!
+Dialogue: 0,0:07:42.86,0:07:47.22,Main-207+,,0,0,0,,{\i1}Uma chamada buster é uma ótima ideia!\NO que há de errado com isso?!
 Dialogue: 0,0:07:48.36,0:07:51.03,Main-207+,,0,0,0,,Essa é a voz do Chefe Spandam, certo?
 Dialogue: 0,0:07:56.48,0:07:59.90,Main-207+,,0,0,0,,{.}Isso mesmo. Não há problema.
 Dialogue: 0,0:07:59.90,0:08:04.38,Main-207+,,0,0,0,,Sou o chefe da Cipher Pol No.
@@ -170,7 +170,7 @@ Dialogue: 0,0:08:10.54,0:08:12.47,Main-207+,,0,0,0,,Não vejo problema nisso!
 Dialogue: 0,0:08:12.47,0:08:15.46,Main-207+,,0,0,0,,{.}Mesmo no pior cenário,
 Dialogue: 0,0:08:15.46,0:08:20.60,Main-207+,,0,0,0,,{we'll be able to annihilate\Nthe pirates for sure in the end.\N}com certeza acabaremos com esses piratas.
 Dialogue: 0,0:08:21.67,0:08:23.37,Main-207+,,0,0,0,,{How foolish...!}Como você pôde ser tão absurdo?!
-Dialogue: 0,0:08:23.37,0:08:26.61,Main-207+,,0,0,0,,{I told you, didn't I?\N!\N}Pensei ter te contado!\NIsso não será o fim!
+Dialogue: 0,0:08:23.37,0:08:26.61,Main-207+,,0,0,0,,{I told you, didn't I?!\N}Pensei ter te contado!\NIsso não será o fim!
 Dialogue: 0,0:08:27.09,0:08:30.31,Main-207+,,0,0,0,,{\i1}Não há humanidade nesse ataque!
 Dialogue: 0,0:08:31.38,0:08:35.20,Main-207+,,0,0,0,,{.}Esse é o chefe, mas quem é a mulher?
 Dialogue: 0,0:08:35.20,0:08:38.98,Main-207+,,0,0,0,,{\i1}O ataque queimará Enies Lobby!
@@ -193,9 +193,9 @@ Dialogue: 0,0:09:59.45,0:10:04.38,Main-207+,,0,0,0,,Não se esqueça que a CP9 �
 Dialogue: 0,0:10:04.38,0:10:09.27,Main-207+,,0,0,0,,Se precisarmos de 100 mortes para salvar 1.\N000 vidas,
 Dialogue: 0,0:10:09.27,0:10:13.46,Main-207+,,0,0,0,,{'ll kill}não hesitaremos em tirar essas 100 vidas imediatamente.
 Dialogue: 0,0:10:19.18,0:10:23.31,Main-207+,,0,0,0,,A impiedade também é uma necessidade para a verdadeira justiça.
-Dialogue: 0,0:10:25.81,0:10:30.81,Main-207+,,0,0,0,,Além disso, aqueles soldados incompetentes que não conseguiram impedir os piratas invasores.\N.\N.
+Dialogue: 0,0:10:25.81,0:10:30.81,Main-207+,,0,0,0,,Além disso, aqueles soldados incompetentes que não conseguiram impedir os piratas invasores...
 Dialogue: 0,0:10:30.81,0:10:33.49,Main-207+,,0,0,0,,é melhor morrer, seu idiota!
-Dialogue: 0,0:10:38.20,0:10:41.43,Main-207+,,0,0,0,,{.\N.\N.\N\NThe line is connected.\N}Esse caracol transponder móvel está transmitindo.
+Dialogue: 0,0:10:38.20,0:10:41.43,Main-207+,,0,0,0,,{...\N\NThe line is connected.\N}Esse caracol transponder móvel está transmitindo.
 Dialogue: 0,0:10:41.43,0:10:43.20,Main-207+,,0,0,0,,O que?
 Dialogue: 0,0:10:43.20,0:10:45.66,Main-207+,,0,0,0,,Ah! Atirar!
 Dialogue: 0,0:10:45.66,0:10:48.16,Main-207+,,0,0,0,,{\i1}Todos ouviram o que eu acabei de dizer?!
@@ -205,7 +205,7 @@ Dialogue: 0,0:11:00.64,0:11:02.54,Main-207+,,0,0,0,,Todos! Saia da ilha!
 Dialogue: 0,0:11:02.54,0:11:05.10,Main-207+,,0,0,0,,{\i1}Enies Lobby é alvo de uma chamada destruidora!
 Dialogue: 0,0:11:05.10,0:11:08.02,Main-207+,,0,0,0,,Se você ficar na ilha, não sobreviverá!
 Dialogue: 0,0:11:08.02,0:11:11.48,Main-207+,,0,0,0,,Isso não é da sua conta!
-Dialogue: 0,0:11:20.29,0:11:22.41,Main-207+,,0,0,0,,– Um b-.\N.\N.\N– Uma chamada de imbecil.\N.\N.
+Dialogue: 0,0:11:20.29,0:11:22.41,Main-207+,,0,0,0,,– Um b-...\N– Uma chamada de imbecil...
 Dialogue: 0,0:11:23.82,0:11:27.41,Main-207+,,0,0,0,,{the}Parece que uma chamada de buster foi soada.
 Dialogue: 0,0:11:27.91,0:11:30.37,Main-207+,,0,0,0,,O que diabos esse homem está fazendo?
 Dialogue: 0,0:11:30.37,0:11:32.48,Main-207+,,0,0,0,,Parece que há algum tipo de perigo.
@@ -229,9 +229,9 @@ Dialogue: 0,0:12:34.31,0:12:36.45,Main-207+,,0,0,0,,Estaremos mortos se ficarmos
 Dialogue: 0,0:12:36.45,0:12:39.46,Main-207+,,0,0,0,,{ out}Traga alguns navios para a frente!\NPrepare-se para navegar!
 Dialogue: 0,0:12:39.46,0:12:42.99,Main-207+,,0,0,0,,{ this place}A Marinha está vindo para atacar!
 Dialogue: 0,0:12:47.44,0:12:49.35,Main-207+,,0,0,0,,Ficamos para trás.
-Dialogue: 0,0:12:49.35,0:12:52.97,Main-207+,,0,0,0,,Ei!\NO que vamos fazer?\N!\NIsso não é perigoso?\N!
+Dialogue: 0,0:12:49.35,0:12:52.97,Main-207+,,0,0,0,,Ei!\NO que vamos fazer?!\NIsso não é perigoso?!
 Dialogue: 0,0:12:52.97,0:12:56.26,Main-207+,,0,0,0,,Tem sido perigoso desde que colocamos os pés neste lugar.
-Dialogue: 0,0:12:56.26,0:12:59.75,Main-207+,,0,0,0,,E o nosso mano?\N!\NO que vai acontecer com o Big Bro Franky?\N!
+Dialogue: 0,0:12:56.26,0:12:59.75,Main-207+,,0,0,0,,E o nosso mano?!\NO que vai acontecer com o Big Bro Franky?!
 Dialogue: 0,0:12:59.75,0:13:03.78,Main-207+,,0,0,0,,{come}Sim.\NSe ele não conseguir voltar aqui, não poderemos voltar para casa juntos!
 Dialogue: 0,0:13:03.78,0:13:05.43,Main-207+,,0,0,0,,Os Chapéus de Palha também!
 Dialogue: 0,0:13:05.43,0:13:08.18,Main-207+,,0,0,0,,Então e nós?!
@@ -244,7 +244,7 @@ Dialogue: 0,0:13:25.77,0:13:29.44,Main-207+,,0,0,0,,Uma maneira de tirar as alge
 Dialogue: 0,0:13:29.44,0:13:33.79,Main-207+,,0,0,0,,Você é a lâmina chamada Nose Storm.
 Dialogue: 0,0:13:33.79,0:13:36.72,Main-207+,,0,0,0,,Não é hora de me dar um nome bonito!
 Dialogue: 0,0:13:36.72,0:13:40.29,Main-207+,,0,0,0,,Helicóptero! Por que está demorando tanto?!
-Dialogue: 0,0:13:51.41,0:13:54.27,Main-207+,,0,0,0,,{such}Como você ousa abrir a boca e dizer algo tão estúpido?\N!
+Dialogue: 0,0:13:51.41,0:13:54.27,Main-207+,,0,0,0,,{such}Como você ousa abrir a boca e dizer algo tão estúpido?!
 Dialogue: 0,0:13:55.13,0:13:58.15,Main-207+,,0,0,0,,Se os piratas realmente fugirem,
 Dialogue: 0,0:13:59.09,0:14:00.92,Main-207+,,0,0,0,,como você vai...
 Dialogue: 0,0:14:03.11,0:14:05.65,Main-207+,,0,0,0,,assumir a responsabilidade por isso?!
@@ -252,8 +252,8 @@ Dialogue: 0,0:14:10.72,0:14:12.41,Main-207+,,0,0,0,,O que é que foi isso?!
 Dialogue: 0,0:14:12.41,0:14:15.58,Main-207+,,0,0,0,,De onde Robin estava falando?!
 Dialogue: 0,0:14:16.21,0:14:18.35,Main-207+,,0,0,0,,O outro lado dessas portas.
 Dialogue: 0,0:14:25.76,0:14:29.38,Main-207+,,0,0,0,,Eu não posso deixar você passar.\NPelo menos me dê tempo para dizer isso.
-Dialogue: 0,0:15:15.10,0:15:19.73,Main-207+,,0,0,0,,Saia do meu caminho.\NRobin está atrás daquelas portas, certo?\N!
-Dialogue: 0,0:15:19.73,0:15:22.90,Main-207+,,0,0,0,,{So}Sim, ela está lá.\NE daí?\NVocê não poderá vê-la.\N.\N.
+Dialogue: 0,0:15:15.10,0:15:19.73,Main-207+,,0,0,0,,Saia do meu caminho.\NRobin está atrás daquelas portas, certo?!
+Dialogue: 0,0:15:19.73,0:15:22.90,Main-207+,,0,0,0,,{So}Sim, ela está lá.\NE daí?\NVocê não poderá vê-la...
 Dialogue: 0,0:15:22.90,0:15:25.27,Main-207+,,0,0,0,,nunca mais.
 Dialogue: 0,0:15:28.94,0:15:31.35,Main-207+,,0,0,0,,{Things have suddenly started happening, huh?}A pressão com certeza aumentou repentinamente.
 Dialogue: 0,0:15:34.26,0:15:38.16,Main-207+,,0,0,0,,{lose my life}Parece que se eu ficar nesta torre por muito tempo, posso morrer.

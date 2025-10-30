@@ -114,7 +114,7 @@ Dialogue: 0,0:04:02.25,0:04:05.58,Flashbacks,Monet,0,0,0,,Mestre, como você pla
 Dialogue: 0,0:04:09.79,0:04:14.38,Flashbacks,Caesar,0,0,0,,Apenas deixe-os.\NShinokuni irá alcançá-los em breve.
 Dialogue: 0,0:04:14.38,0:04:17.36,Main,Caesar,0,0,0,,Eu me pergunto, o que aconteceu com eles?
 Dialogue: 0,0:04:17.36,0:04:19.25,Main,Caesar,0,0,0,,Faz muito tempo que não tenho notícias deles.
-Dialogue: 0,0:04:20.94,0:04:24.27,Main,Brownbeard,0,0,0,,Se eles não retornaram, isso deve significar que eles estão.\N.\N.
+Dialogue: 0,0:04:20.94,0:04:24.27,Main,Brownbeard,0,0,0,,Se eles não retornaram, isso deve significar que eles estão...
 Dialogue: 0,0:04:24.27,0:04:27.30,Main,Caesar,0,0,0,,Você está preocupado? Bem, acho que você estaria.
 Dialogue: 0,0:04:27.30,0:04:30.55,Main,Caesar,0,0,0,,Afinal, se eles estivessem do lado de fora, Shinokuni os teria matado há muito tempo.
 Dialogue: 0,0:04:31.46,0:04:35.15,Main,Brownbeard,0,0,0,,Nunca mais poderei confiar em você!
@@ -122,7 +122,7 @@ Dialogue: 0,0:04:35.15,0:04:37.30,Main,Gasmask soldier,0,0,0,,O que deu nele?!
 Dialogue: 0,0:04:37.30,0:04:39.41,Main,Gasmask soldier,0,0,0,,O que ele acabou de dizer?!
 Dialogue: 0,0:04:39.41,0:04:43.74,Main,Brownbeard,0,0,0,,Vocês também são meus amigos.\NMoramos nesta ilha há dois anos.
 Dialogue: 0,0:04:43.74,0:04:45.78,Main,Brownbeard,0,0,0,,Você tem que sair da ilha agora mesmo!
-Dialogue: 0,0:04:45.78,0:04:49.70,Main,Brownbeard,0,0,0,,Você sabe o que esse homem está te chamando pelas suas costas?\N!
+Dialogue: 0,0:04:45.78,0:04:49.70,Main,Brownbeard,0,0,0,,Você sabe o que esse homem está te chamando pelas suas costas?!
 Dialogue: 0,0:04:49.70,0:04:51.14,Main,Brownbeard,0,0,0,,Eu vou te contar!
 Dialogue: 0,0:04:51.94,0:04:54.10,Main,Brownbeard,0,0,0,,Foi assim que ele te chamou...
 Dialogue: 0,0:04:54.10,0:04:55.86,Main,Brownbeard,0,0,0,,Ginnafibas!
@@ -149,10 +149,10 @@ Dialogue: 0,0:06:11.65,0:06:15.12,Thoughts,Brownbeard,0,0,0,,Você... maldita ab
 Dialogue: 0,0:06:16.88,0:06:20.74,Thoughts,Brownbeard,0,0,0,,{\i1}Como... Como você ousa matar meus homens?
 Dialogue: 0,0:06:25.40,0:06:28.45,Main,Caesar,0,0,0,,Ah, e já que estamos no assunto...
 Dialogue: 0,0:06:28.45,0:06:30.84,Main,Caesar,0,0,0,,Acho que vou te contar mais uma coisa.
-Dialogue: 0,0:06:31.19,0:06:37.37,Main,Caesar,0,0,0,,O mau funcionamento da arma que deixou todos à beira da morte há quatro anos.\N.\N.
+Dialogue: 0,0:06:31.19,0:06:37.37,Main,Caesar,0,0,0,,O mau funcionamento da arma que deixou todos à beira da morte há quatro anos...
 Dialogue: 0,0:06:37.37,0:06:40.47,Main,Caesar,0,0,0,,Isso foi obra minha.
 Dialogue: 0,0:06:41.60,0:06:44.60,Thoughts,Brownbeard,0,0,0,,Não foi Vegapunk?!
-Dialogue: 0,0:06:44.60,0:06:48.64,Thoughts,Brownbeard,0,0,0,,{\i1}Então você quase matou todos eles sozinho e depois fingiu salvá-los?\N!
+Dialogue: 0,0:06:44.60,0:06:48.64,Thoughts,Brownbeard,0,0,0,,{\i1}Então você quase matou todos eles sozinho e depois fingiu salvá-los?!
 Dialogue: 0,0:06:55.87,0:06:58.54,Main,Caesar,0,0,0,,Ei, pare! Você tem que parar!
 Dialogue: 0,0:06:58.54,0:07:02.70,Main,Caesar,0,0,0,,Por favor me ajude! Barba Marrom enlouqueceu!
 Dialogue: 0,0:07:05.40,0:07:10.76,Thoughts,Brownbeard,0,0,0,,Esta ilha foi transformada num inferno na terra pelo próprio César!
@@ -178,7 +178,7 @@ Dialogue: 0,0:08:38.95,0:08:39.71,Main,Gasmask soldier,0,0,0,,{\i1}Sim, senhor!
 Dialogue: 0,0:08:39.71,0:08:42.44,Main,Gasmask soldier,0,0,0,,Certifique-se de que todos os nossos corretores recebam a filmagem!
 Dialogue: 0,0:08:42.44,0:08:47.54,Flashbacks,Caesar,0,0,0,,Todos eles provavelmente estarão mortos dentro de cinco anos.
 Dialogue: 0,0:08:50.01,0:08:52.52,Main,Momonosuke,0,0,0,,Luffy! Esse é ele!
-Dialogue: 0,0:08:52.52,0:08:55.40,Main,Momonosuke,0,0,0,,Foi ele quem fez com que as crianças de bom coração.\N.\N.
+Dialogue: 0,0:08:52.52,0:08:55.40,Main,Momonosuke,0,0,0,,Foi ele quem fez com que as crianças de bom coração...
 Dialogue: 0,0:08:56.24,0:08:57.67,Main,Momonosuke,0,0,0,,Quem os fez...
 Dialogue: 0,0:08:58.19,0:08:59.26,Main,Luffy,0,0,0,,Eu sei.
 Dialogue: 0,0:09:00.25,0:09:03.12,Main,Luffy,0,0,0,,Você enganou todo mundo aqui, hein?
@@ -232,7 +232,7 @@ Dialogue: 0,0:12:53.35,0:12:54.70,Main,Gasmask Soldier,0,0,0,,{\i1}Aí está!
 Dialogue: 0,0:12:54.70,0:12:56.72,Main,Gasmask Soldier,0,0,0,,Seu queimador de gás pode até derreter aço!
 Dialogue: 0,0:12:57.20,0:13:01.58,Main,Caesar,0,0,0,,Ele derreteu? Ou talvez ele tenha ficado impressionado?
 Dialogue: 0,0:13:05.25,0:13:07.70,Main,Caesar,0,0,0,,Th-Th-Th-Isso mesmo!
-Dialogue: 0,0:13:07.70,0:13:13.15,Main,Caesar,0,0,0,,Você é um novato que acabou de chegar ao Novo Mundo, então talvez ainda não tenha entendido.\N.\N.
+Dialogue: 0,0:13:07.70,0:13:13.15,Main,Caesar,0,0,0,,Você é um novato que acabou de chegar ao Novo Mundo, então talvez ainda não tenha entendido...
 Dialogue: 0,0:13:13.15,0:13:16.06,Main,Caesar,0,0,0,,mas há um monstro neste laboratório agora mesmo!
 Dialogue: 0,0:13:16.06,0:13:21.13,Main,Caesar,0,0,0,,É Vergo!\NNinguém pode resistir à sua Cor de Armas!
 Dialogue: 0,0:13:21.13,0:13:23.96,Main,Caesar,0,0,0,,Tanto Smoker quanto Law vão morrer.
@@ -297,7 +297,7 @@ Dialogue: 0,0:18:12.97,0:18:15.85,Main,Joker,0,0,0,,eu suspeitaria...
 Dialogue: 0,0:18:15.85,0:18:18.89,Main,Joker,0,0,0,,que você chateou Vergo.
 Dialogue: 0,0:18:19.88,0:18:24.13,Main,Joker,0,0,0,,Você se lembra do que aconteceu da última vez?
 Dialogue: 0,0:18:24.13,0:18:29.85,Main,Joker,0,0,0,,Lembrar? Lembra o que acontece quando você leva Vergo longe demais?
-Dialogue: 0,0:18:32.03,0:18:35.46,Main,Joker,0,0,0,,{Been traumatized you?\NReally?\N-Starfish}Deve ter traumatizado você.\NNão há como você esquecer.\N.\N.
+Dialogue: 0,0:18:32.03,0:18:35.46,Main,Joker,0,0,0,,{Been traumatized you?\NReally?\N-Starfish}Deve ter traumatizado você.\NNão há como você esquecer...
 Dialogue: 0,0:18:35.77,0:18:38.31,Main,Joker,0,0,0,,o terror que Vergo colocou em você.
 Dialogue: 0,0:18:40.04,0:18:42.77,Main,Joker,0,0,0,,Sua habilidade de corte pode ser poderosa, mas...
 Dialogue: 0,0:18:43.36,0:18:46.77,Main,Joker,0,0,0,,seu Haki irá bloqueá-lo facilmente.

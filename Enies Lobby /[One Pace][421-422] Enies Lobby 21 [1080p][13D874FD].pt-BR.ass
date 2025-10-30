@@ -73,7 +73,7 @@ Dialogue: 0,0:04:56.15,0:04:59.07,Main-207+,,0,0,0,,{got}Ahh! Todas as minhas co
 Dialogue: 0,0:04:59.07,0:05:01.07,Main-207+,,0,0,0,,Há mais do que isso, então não se preocupe.
 Dialogue: 0,0:05:01.07,0:05:02.82,Main-207+,,0,0,0,,Sério, você é um saco!
 Dialogue: 0,0:05:02.82,0:05:07.07,Main-207+,,0,0,0,,Aliás, gostaria de saber o segredo da minha nova arma, Kabuto?
-Dialogue: 0,0:05:07.07,0:05:11.33,Main-207+,,0,0,0,,{I shall explain it for you.\NKabuto,\Nthe weapon that belongs to Sogeking, is.\N.\N.\N}Vou explicar para você.\NKabuto, a arma de Sogeking, é-
+Dialogue: 0,0:05:07.07,0:05:11.33,Main-207+,,0,0,0,,{I shall explain it for you.\NKabuto,\Nthe weapon that belongs to Sogeking, is...\N}Vou explicar para você.\NKabuto, a arma de Sogeking, é-
 Dialogue: 0,0:05:11.33,0:05:13.96,Main-207+,,0,0,0,,{Sparkle}– Ta-da!\N– Cale a boca, seu idiota!\NOu faremos você correr!
 Dialogue: 0,0:05:14.87,0:05:18.92,Main-207+,,0,0,0,,{got}Por favor!\NPoupe-me!\NMinhas costelas estão quebradas!\NA-Todos os dez.
 Dialogue: 0,0:05:18.92,0:05:20.75,Main-207+,,0,0,0,,– Há mais do que isso.\N- O que?
@@ -84,7 +84,7 @@ Dialogue: 0,0:05:26.22,0:05:28.59,Main-207+,,0,0,0,,De jeito nenhum isso é verd
 Dialogue: 0,0:05:34.06,0:05:35.31,Main-207+,,0,0,0,,{Th-That's...}O que é isso?
 Dialogue: 0,0:05:40.31,0:05:42.28,Main-207+,,0,0,0,,Água!
 Dialogue: 0,0:05:43.07,0:05:45.32,Main-207+,,0,0,0,,O que diabos está acontecendo?!
-Dialogue: 0,0:05:47.74,0:05:52.29,Main-207+,,0,0,0,,Por que existe água?\N!\NO que?\N!\NPor que?\N!\NNão temos saída!
+Dialogue: 0,0:05:47.74,0:05:52.29,Main-207+,,0,0,0,,Por que existe água?!\NO que?!\NPor que?!\NNão temos saída!
 Dialogue: 0,0:05:52.29,0:05:53.95,Main-207+,,0,0,0,,Ajuda!
 Dialogue: 0,0:06:11.64,0:06:14.35,Main-207+,,0,0,0,,{Whether there's someone in the passage or not,}Não me importa se há alguém no corredor ou não.
 Dialogue: 0,0:06:14.35,0:06:16.23,Main-207+,,0,0,0,,{no one can now reach this place.}Ninguém pode chegar aqui agora.
@@ -110,7 +110,7 @@ Dialogue: 0,0:08:13.22,0:08:15.51,Main-207+,,0,0,0,,Avó! O que está acontecend
 Dialogue: 0,0:08:15.51,0:08:18.76,Main-207+,,0,0,0,,Quem se importa?! Apresse-se e corra!
 Dialogue: 0,0:08:21.93,0:08:24.19,Main-207+,,0,0,0,,{You have a high caliber, befitting a boss.}Você é um ótimo chefe.
 Dialogue: 0,0:08:24.19,0:08:27.02,Main-207+,,0,0,0,,{I'd like for a certain idiot to hear that.}Eu gostaria que um idiota que eu conheço pudesse ouvir você.
-Dialogue: 0,0:08:27.52,0:08:31.28,Main-207+,,0,0,0,,{But I wonder.\N.\N.\Nif your abilities are good \Nenough to back up that decision!\N}Mas eu me pergunto: você tem a capacidade de respaldar sua decisão?
+Dialogue: 0,0:08:27.52,0:08:31.28,Main-207+,,0,0,0,,{But I wonder...\Nif your abilities are good \Nenough to back up that decision!\N}Mas eu me pergunto: você tem a capacidade de respaldar sua decisão?
 Dialogue: 0,0:08:35.28,0:08:38.24,Main-207+,,0,0,0,,O resultado será o mesmo se você morrer!
 Dialogue: 0,0:09:00.64,0:09:04.81,Main-207+,,0,0,0,,Ei! Capture Nico Robin já!
 Dialogue: 0,0:09:04.81,0:09:09.15,Main-207+,,0,0,0,,{able\Nto become }Quando tudo isso acabar, serei o herói do mundo!
@@ -146,13 +146,13 @@ Dialogue: 0,0:12:42.28,0:12:44.78,Main-207+,,0,0,0,,{\fad(150,150)}Borracha Borr
 Dialogue: 0,0:12:44.78,0:12:45.74,Main-207+,,0,0,0,,{\fad(150,150)}Corpo de Ferro!
 Dialogue: 0,0:12:45.74,0:12:48.74,Main-207+,,0,0,0,,{\fad(150,150)}Pistola gigante!
 Dialogue: 0,0:13:00.42,0:13:02.63,Main-207+,,0,0,0,,O que diabos é isso?!
-Dialogue: 0,0:13:20.69,0:13:25.45,Thoughts-207+,,0,0,0,,{.\N.\N.\N}Sinto que estou prestes a desmaiar.\NNão posso cair no mar assim!
+Dialogue: 0,0:13:20.69,0:13:25.45,Thoughts-207+,,0,0,0,,{...\N}Sinto que estou prestes a desmaiar.\NNão posso cair no mar assim!
 Dialogue: 0,0:13:40.96,0:13:42.17,Main-207+,,0,0,0,,{...}Ops!
 Dialogue: 0,0:13:49.97,0:13:51.31,Main-207+,,0,0,0,,O que é que foi isso?
 Dialogue: 0,0:13:51.31,0:13:53.27,Main-207+,,0,0,0,,{up }Apresse-se e ajude os feridos!
 Dialogue: 0,0:13:59.10,0:14:00.23,Main-207+,,0,0,0,,Quem é você?!
-Dialogue: 0,0:14:00.23,0:14:02.65,Main-207+,,0,0,0,,{No, he's an ability user!\N}– Uma fera?\N!\N– Não, ele tem uma habilidade!
-Dialogue: 0,0:14:04.65,0:14:09.07,Thoughts-207+,,0,0,0,,{So I landed on the deck of\Na battleship.\NThat was close.\N.\N.\N}Aterrissei no convés de um navio de guerra.\NIsso foi perto.
+Dialogue: 0,0:14:00.23,0:14:02.65,Main-207+,,0,0,0,,{No, he's an ability user!\N}– Uma fera?!\N– Não, ele tem uma habilidade!
+Dialogue: 0,0:14:04.65,0:14:09.07,Thoughts-207+,,0,0,0,,{So I landed on the deck of\Na battleship.\NThat was close...\N}Aterrissei no convés de um navio de guerra.\NIsso foi perto.
 Dialogue: 0,0:14:09.07,0:14:10.74,Main-207+,,0,0,0,,{the direction of }Ele voou da ponte.
 Dialogue: 0,0:14:10.74,0:14:11.78,Main-207+,,0,0,0,,Ele é um pirata?
 Dialogue: 0,0:14:11.78,0:14:14.58,Main-207+,,0,0,0,,Eu vi uma mão enorme também!
@@ -186,15 +186,15 @@ Dialogue: 0,0:15:34.20,0:15:37.24,Main-207+,,0,0,0,,{This is no good!}Estamos co
 Dialogue: 0,0:15:37.24,0:15:39.16,Main-207+,,0,0,0,,{Aren't there any engineers?!}Onde está o engenheiro?!
 Dialogue: 0,0:15:40.04,0:15:42.42,Main-207+,,0,0,0,,{The attacks will reach here soon! Hurry up!}Vamos sair daqui! Vamos!
 Dialogue: 0,0:15:50.51,0:15:51.72,Main-207+,,0,0,0,,Vice-almirante!
-Dialogue: 0,0:15:51.72,0:15:54.68,Main-207+,,0,0,0,,O que faremos para capturar Nico Robin na Ponte da Hesitação?\N!
-Dialogue: 0,0:15:54.68,0:15:56.97,Main-207+,,0,0,0,,– Deixe-a em paz.\N- Mas.\N.\N.
+Dialogue: 0,0:15:51.72,0:15:54.68,Main-207+,,0,0,0,,O que faremos para capturar Nico Robin na Ponte da Hesitação?!
+Dialogue: 0,0:15:54.68,0:15:56.97,Main-207+,,0,0,0,,– Deixe-a em paz.\N- Mas...
 Dialogue: 0,0:15:56.97,0:15:59.48,Main-207+,,0,0,0,,Enquanto esse homem estiver nesta ilha,
 Dialogue: 0,0:15:59.48,0:16:01.94,Main-207+,,0,0,0,,{and is given}com a missão de escoltar Nico Robin,
 Dialogue: 0,0:16:02.56,0:16:04.90,Main-207+,,0,0,0,,não precisamos nos envolver.
 Dialogue: 0,0:16:05.73,0:16:09.36,Main-207+,,0,0,0,,{We'll just burn everything down\Nexcept the Bridge of Hesitation.\N}Vamos queimar tudo menos a Ponte da Hesitação.
 Dialogue: 0,0:16:09.36,0:16:10.44,Main-207+,,0,0,0,,Sim, senhor!
 Dialogue: 0,0:16:10.86,0:16:12.07,Main-207+,,0,0,0,,{...}Vice-almirante,
-Dialogue: 0,0:16:12.07,0:16:16.49,Main-207+,,0,0,0,,{Could this man you mentioned be.\N.\N.\N\NMr.\NRob Lucci of CP9?\N}o homem que você mencionou é Rob Lucci do CP9?
+Dialogue: 0,0:16:12.07,0:16:16.49,Main-207+,,0,0,0,,{Could this man you mentioned be...\N\NMr.\NRob Lucci of CP9?\N}o homem que você mencionou é Rob Lucci do CP9?
 Dialogue: 0,0:16:22.54,0:16:24.54,Main-207+,,0,0,0,,{As we suspected, he's an ability user!}Como suspeitávamos, ele tem uma habilidade de Akuma no Mi!
 Dialogue: 0,0:16:26.42,0:16:28.34,Main-207+,,0,0,0,,Quem diabos é você?!
 Dialogue: 0,0:16:30.88,0:16:33.30,Main-207+,,0,0,0,,Estamos perguntando quem você é! Responda-nos!
@@ -219,11 +219,11 @@ Dialogue: 0,0:17:39.03,0:17:40.16,Thoughts-207+,,0,0,0,,A-Uma criança?
 Dialogue: 0,0:17:40.16,0:17:43.83,Thoughts-207+,,0,0,0,,Droga!\NEsse maldito Governo Mundial!\NQue insulto!
 Dialogue: 0,0:17:48.25,0:17:49.22,Main-207+,,0,0,0,,{\fad(150,150)}Depilar!
 Dialogue: 0,0:17:55.09,0:17:56.09,Main-207+,,0,0,0,,{\fad(150,150)}Chute Tempestuoso!
-Dialogue: 0,0:18:14.36,0:18:17.61,Main-207+,,0,0,0,,{Once the boy infiltrated the pirates' \Nhideout, right then and there,}Ele se infiltrou no esconderijo dos piratas.\N.\N.
+Dialogue: 0,0:18:14.36,0:18:17.61,Main-207+,,0,0,0,,{Once the boy infiltrated the pirates' \Nhideout, right then and there,}Ele se infiltrou no esconderijo dos piratas...
 Dialogue: 0,0:18:17.61,0:18:22.53,Main-207+,,0,0,0,,{he killed all 500 of the kingdom's\Nsoldiers who were taken hostage.\N}e matou todos os 500 soldados do reino no local.
 Dialogue: 0,0:18:22.53,0:18:24.75,Main-207+,,0,0,0,,{K-K}Ele matou todos eles?
 Dialogue: 0,0:18:24.75,0:18:28.00,Main-207+,,0,0,0,,{Can't be...! Is something like that permissible?!}Isso não pode ser! Como ele poderia ser perdoado por isso?!
-Dialogue: 0,0:18:28.00,0:18:31.96,Main-207+,,0,0,0,,Mesmo que seja o Governo Mundial.\N.\N.\NMesmo que seja por justiça.\N.\N.
+Dialogue: 0,0:18:28.00,0:18:31.96,Main-207+,,0,0,0,,Mesmo que seja o Governo Mundial...\NMesmo que seja por justiça...
 Dialogue: 0,0:18:33.38,0:18:35.21,Main-207+,,0,0,0,,P-Perdoe-me!
 Dialogue: 0,0:18:35.21,0:18:39.93,Captions,,0,0,0,,{\an8}Justiça
 Dialogue: 0,0:18:35.96,0:18:39.93,Main-207+,,0,0,0,,Ouça. A justiça não é tão calorosa e confusa!
@@ -246,11 +246,11 @@ Dialogue: 0,0:19:56.11,0:19:57.00,Main-207+,,0,0,0,,{\fad(150,150)}Arma de dedo.
 Dialogue: 0,0:20:05.60,0:20:07.10,Main-207+,,0,0,0,,{Boss...}Capitão!
 Dialogue: 0,0:20:07.10,0:20:09.06,Main-207+,,0,0,0,,E-Ele é um monstro!
 Dialogue: 0,0:20:09.06,0:20:10.35,Main-207+,,0,0,0,,Ajuda!
-Dialogue: 0,0:20:13.98,0:20:17.52,Main-207+,,0,0,0,,{The boy, who had several\Nbullet marks on his back,}O garoto com várias cicatrizes de bala de canhão nas costas.\N.\N.
+Dialogue: 0,0:20:13.98,0:20:17.52,Main-207+,,0,0,0,,{The boy, who had several\Nbullet marks on his back,}O garoto com várias cicatrizes de bala de canhão nas costas...
 Dialogue: 0,0:20:17.52,0:20:21.19,Main-207+,,0,0,0,,foi agente de inteligência CP9 aos 13 anos.
-Dialogue: 0,0:20:21.19,0:20:24.61,Main-207+,,0,0,0,,{People call him the strongest\Nand cruelest mass killing machine}Alguns o chamam de a máquina de matar em massa mais poderosa e implacável.\N.\N.
+Dialogue: 0,0:20:21.19,0:20:24.61,Main-207+,,0,0,0,,{People call him the strongest\Nand cruelest mass killing machine}Alguns o chamam de a máquina de matar em massa mais poderosa e implacável...
 Dialogue: 0,0:20:24.61,0:20:28.74,Main-207+,,0,0,0,,{in the history of CP9,\Nwhose mission is dark justice.\N}na história do CP9 e na sua missão de justiça encoberta.
-Dialogue: 0,0:20:28.74,0:20:32.16,Main-207+,,0,0,0,,{To think that he was capable of\Nall that when he was only 13.\N.\N.\N}Não é real que ele fosse capaz de tudo isso quando tinha apenas 13 anos.
+Dialogue: 0,0:20:28.74,0:20:32.16,Main-207+,,0,0,0,,{To think that he was capable of\Nall that when he was only 13...\N}Não é real que ele fosse capaz de tudo isso quando tinha apenas 13 anos.
 Dialogue: 0,0:20:32.16,0:20:37.21,Main-207+,,0,0,0,,{That's exactly why all we have\Nto do is fulfill our own duty.\N}É precisamente por isso que tudo o que temos a fazer é cumprir o nosso dever.
 Dialogue: 0,0:20:38.04,0:20:39.92,Main-207+,,0,0,0,,{\fad(150,150)}Borracha Borracha...
 Dialogue: 0,0:20:39.92,0:20:42.55,Main-207+,,0,0,0,,{\fad(150,150)}Foguete!

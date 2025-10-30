@@ -1,0 +1,422 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:05.61,0:02:07.77,Default,,0,0,0,,Papai!
+Dialogue: 0,0:02:13.15,0:02:15.57,Default,,0,0,0,,Papai!
+Dialogue: 0,0:02:15.57,0:02:18.26,Default,,0,0,0,,Papai!
+Dialogue: 0,0:02:23.86,0:02:28.80,Default,,0,0,0,,{SMILE's}SMILE são mais do que apenas {uma }fruta do diabo artificial?
+Dialogue: 0,0:02:45.02,0:02:46.98,Default,,0,0,0,,Senhor Yasuie!
+Dialogue: 0,0:02:53.55,0:02:54.74,Default,,0,0,0,,Tonoyasu!
+Dialogue: 0,0:02:54.74,0:02:57.99,Default,,0,0,0,,Droga, chegamos tarde demais.
+Dialogue: 0,0:03:11.89,0:03:15.34,Default,,0,0,0,,Não acredito que não percebi até que ele estava na cruz.
+Dialogue: 0,0:03:15.34,0:03:19.22,Default,,0,0,0,,Foi um erro digno de {\i1}seppuku{\i0}.
+Dialogue: 0,0:03:20.82,0:03:22.93,Default,,0,0,0,,Senhor Yasuie!
+Dialogue: 0,0:03:36.16,0:03:38.61,Default,,0,0,0,,Tonoyasu!
+Dialogue: 0,0:03:38.61,0:03:41.40,Default,,0,0,0,,Senhor Yasuie!
+Dialogue: 0,0:03:41.40,0:03:44.66,Default,,0,0,0,,Ele está morto!
+Dialogue: 0,0:03:46.58,0:03:49.08,Default,,0,0,0,,O-O que diabos é isso?!
+Dialogue: 0,0:03:49.08,0:03:52.84,Default,,0,0,0,,Os habitantes da cidade de Ebisu adoravam Tonoyasu.
+Dialogue: 0,0:03:52.84,0:03:55.21,Default,,0,0,0,,Por que eles estão rindo?!
+Dialogue: 0,0:04:10.70,0:04:15.36,Default,,0,0,0,,Aquele bastardo do Orochi é depravado.
+Dialogue: 0,0:04:27.21,0:04:30.33,Default,,0,0,0,,{Eles são malucos!}Esses caras estão realmente perdendo a cabeça!
+Dialogue: 0,0:04:30.89,0:04:34.25,Default,,0,0,0,,Veja como eles riem da execução de seu antigo daimyo!
+Dialogue: 0,0:04:34.25,0:04:37.97,Default,,0,0,0,,Que cruel, Orochi!
+Dialogue: 0,0:04:41.13,0:04:46.68,Default,,0,0,0,,É impressionante que Lorde Yasuie estivesse vivo todo esse tempo.
+Dialogue: 0,0:04:46.68,0:04:51.65,Default,,0,0,0,,O inimigo sabia do nosso plano de vingança!
+Dialogue: 0,0:04:51.65,0:04:55.64,Default,,0,0,0,,É por isso que você, Lorde Yasuie,
+Dialogue: 0,0:04:55.64,0:04:57.73,Default,,0,0,0,,coloque sua vida em risco...
+Dialogue: 0,0:04:57.73,0:05:01.53,Default,,0,0,0,,para manter nosso plano vivo!
+Dialogue: 0,0:05:05.55,0:05:08.75,Default,,0,0,0,,{Algo está acontecendo.} Deve haver um bom motivo.
+Dialogue: 0,0:05:10.63,0:05:12.50,Default,,0,0,0,,Não importa quem ele era,
+Dialogue: 0,0:05:13.25,0:05:16.21,Default,,0,0,0,,{ninguém merece ser ridicularizado quando morre.}ninguém merece ser ridicularizado quando morre.
+Dialogue: 0,0:05:16.21,0:05:18.80,Default,,0,0,0,,Ninguém!
+Dialogue: 0,0:05:18.80,0:05:22.26,Default,,0,0,0,,Isso provavelmente se deve à fruta SMILE.
+Dialogue: 0,0:05:22.89,0:05:27.27,Default,,0,0,0,,Alguns deles estão aqui conosco. Tudo o que sabem fazer é rir.
+Dialogue: 0,0:05:32.41,0:05:35.36,Default,,0,0,0,,Inuarashi, Kin'emon,
+Dialogue: 0,0:05:35.36,0:05:38.36,Default,,0,0,0,,você conhece o SMILE?
+Dialogue: 0,0:05:39.99,0:05:43.77,Default,,0,0,0,,Eu deveria ter te contado.
+Dialogue: 0,0:05:45.73,0:05:48.52,Default,,0,0,0,,Os sorrisos e as risadas {dos habitantes de Ebisu...} usados ​​por aqueles de Ebisu...
+Dialogue: 0,0:05:49.93,0:05:51.68,Default,,0,0,0,,são apenas máscaras.
+Dialogue: 0,0:05:53.88,0:05:56.54,Default,,0,0,0,,Eles estão usando máscaras que não conseguem remover,
+Dialogue: 0,0:05:58.17,0:05:59.53,Default,,0,0,0,,sempre.
+Dialogue: 0,0:06:02.15,0:06:05.92,Default,,0,0,0,,Alguns anos atrás, Kaido e Orochi... {A Viz diz isso como "vários anos atrás". Provavelmente deveríamos verificar novamente qual período de tempo escolher.}
+Dialogue: 0,0:06:06.77,0:06:10.32,Default,,0,0,0,,começou a comercializar armas feitas em Wano...
+Dialogue: 0,0:06:10.32,0:06:14.05,Default,,0,0,0,,{para importar}e importando essas frutas artificiais.
+Dialogue: 0,0:06:15.46,0:06:16.76,Default,,0,0,0,,SORRISO?
+Dialogue: 0,0:06:16.76,0:06:20.08,Default,,0,0,0,,Coma uma dessas frutas horríveis...
+Dialogue: 0,0:06:20.08,0:06:22.47,Default,,0,0,0,,e ganhar a fúria do mar e a incapacidade de nadar.
+Dialogue: 0,0:06:22.47,0:06:27.66,Default,,0,0,0,,Em troca, você ganha o poder e a ferocidade de um animal.
+Dialogue: 0,0:06:28.65,0:06:31.29,Default,,0,0,0,,{Essas têm que ser frutas do diabo artificiais.}Essas frutas do diabo artificiais?
+Dialogue: 0,0:06:31.29,0:06:35.12,Default,,0,0,0,,Nós destruímos a fábrica deles.
+Dialogue: 0,0:06:35.12,0:06:38.40,Default,,0,0,0,,{Ouvi de Sir Kin.} Foi realmente isso que ouvi de Sir Kin.
+Dialogue: 0,0:06:39.03,0:06:46.29,Default,,0,0,0,,Mas mais do que o suficiente dessas frutas já foram trazidas para cá.
+Dialogue: 0,0:06:51.75,0:06:58.74,Default,,0,0,0,,O objetivo de Kaido é usá-los para transformar seus homens em monstros...
+Dialogue: 0,0:06:58.74,0:07:02.68,Default,,0,0,0,,e criar a tripulação pirata mais temível do mundo.
+Dialogue: 0,0:07:04.38,0:07:09.27,Default,,0,0,0,,{Mas essa oferta tentadora traz riscos.} Mas uma oferta tão tentadora certamente trazia certos riscos.
+Dialogue: 0,0:07:10.83,0:07:16.15,Default,,0,0,0,,{Apenas cerca de 10% conseguem essa transformação.} A taxa de sucesso para atingir a transformação desejada é de apenas 10%.
+Dialogue: 0,0:07:16.57,0:07:22.07,Default,,0,0,0,,Apenas um em cada dez que comem um pedaço de SMILE ganha seus poderes. {Dez deveria ser 10, mas nesta construção em particular, faz mais sentido mantê-lo como está e chamá-lo de uma exceção à regra.}
+Dialogue: 0,0:07:29.45,0:07:34.13,Default,,0,0,0,,Os outros nove são infelizes, carregando apenas os riscos.
+Dialogue: 0,0:07:34.60,0:07:37.09,Default,,0,0,0,,Eles perdem naturalmente a capacidade de nadar{.},
+Dialogue: 0,0:07:37.09,0:07:41.09,Default,,0,0,0,,{Como um}mas como um efeito colateral desses medicamentos defeituosos,
+Dialogue: 0,0:07:41.09,0:07:44.76,Default,,0,0,0,,{eles perdem toda expressão de tristeza ou raiva,}eles não conseguem mais expressar nenhuma tristeza ou raiva...
+Dialogue: 0,0:07:44.76,0:07:48.27,Default,,0,0,0,,{tornando-se incapaz de fazer qualquer coisa além de rir.} e tornar-se incapaz de qualquer coisa além de rir.
+Dialogue: 0,0:07:48.27,0:07:50.13,Default,,0,0,0,,O que?!
+Dialogue: 0,0:07:50.13,0:07:55.61,Default,,0,0,0,,Tenho quase certeza de que o composto SAD da Caesar é o ingrediente ativo desses SORRISOS!
+Dialogue: 0,0:07:56.39,0:08:00.20,Default,,0,0,0,,Quem sabia que tinha efeitos colaterais tão prejudiciais?
+Dialogue: 0,0:08:00.20,0:08:05.20,Default,,0,0,0,,Kaido não se importava nem um pouco com a segurança de sua tripulação.
+Dialogue: 0,0:08:05.20,0:08:09.16,Default,,0,0,0,,Tudo o que importa é ter soldados poderosos.
+Dialogue: 0,0:08:14.43,0:08:20.92,Default,,0,0,0,,Os Piratas da Besta têm três categorias de lutadores. {Você não vê frequentemente "categorias" usadas dessa forma, mas eu gosto.}
+Dialogue: 0,0:08:20.92,0:08:26.20,Default,,0,0,0,,Aqueles que esperam por uma chance de comer um pedaço de SMILE e ganhar poderes bestiais {de uma fera}...
+Dialogue: 0,0:08:26.20,0:08:27.22,Default,,0,0,0,,são os {W}waiters.
+Dialogue: 0,0:08:30.20,0:08:35.36,Default,,0,0,0,,Os mais fortes que atingiram as chances de um em dez para ganhar os poderes bestiais de uma fera...
+Dialogue: 0,0:08:35.36,0:08:36.44,Default,,0,0,0,,são os {G}doadores.
+Dialogue: 0,0:08:39.74,0:08:44.26,Default,,0,0,0,,Aqueles guerreiros que comeram uma fruta defeituosa e só conseguiram rir...
+Dialogue: 0,0:08:44.26,0:08:45.41,Default,,0,0,0,,são os prazeres {P}.
+Dialogue: 0,0:08:48.77,0:08:53.92,Default,,0,0,0,,O que é pior, para zombar dos infelizes que perderam a oportunidade de poder,
+Dialogue: 0,0:08:53.92,0:08:59.46,Default,,0,0,0,,eles nomearam a fruta artificial em homenagem ao seu resultado negativo:
+Dialogue: 0,0:09:00.10,0:09:02.10,Default,,0,0,0,,SORRISO!
+Dialogue: 0,0:09:09.05,0:09:12.06,Default,,0,0,0,,{Achei que tinham um nome estranho, mesmo sendo artificiais.} Essas frutas do diabo artificiais...
+Dialogue: 0,0:09:12.06,0:09:16.52,Default,,0,0,0,,{Eu pensei que eles tinham um nome estranho, mesmo sendo feitos pelo homem.}{Eu não tinha ideia de que era tão assustador.} A verdade por trás desse nome estranho... Eu não sabia que era tão {aterrorizante}horrível!
+Dialogue: 0,0:09:16.91,0:09:19.69,Default,,0,0,0,,Você ainda não ouviu a verdadeira tragédia.
+Dialogue: 0,0:09:23.93,0:09:29.74,Default,,0,0,0,,Orochi encontrou o SORRISO defeituoso, com apenas uma mordida.
+Dialogue: 0,0:09:30.47,0:09:35.21,Default,,0,0,0,,Somente os efeitos colaterais adversos permaneceram nessas frutas,
+Dialogue: 0,0:09:35.21,0:09:38.92,Default,,0,0,0,,para que pudessem criar novos {P}prazeres.
+Dialogue: 0,0:09:39.67,0:09:40.50,Default,,0,0,0,,Não pode ser!
+Dialogue: 0,0:09:41.04,0:09:44.62,Default,,0,0,0,,Desgostoso com as cidades...
+Dialogue: 0,0:09:44.62,0:09:47.34,Default,,0,0,0,,dos párias da Capital das Flores,
+Dialogue: 0,0:09:47.34,0:09:50.35,Default,,0,0,0,,que choram a morte constante ao seu redor,
+Dialogue: 0,0:09:50.35,0:09:57.56,Default,,0,0,0,,Orochi misturou o SMILE defeituoso com as sobras enviadas da capital.
+Dialogue: 0,0:10:02.02,0:10:05.61,Default,,0,0,0,,{Estas são maçãs}Olha, maçãs! {Elas são}E ainda estão frescas!
+Dialogue: 0,0:10:05.61,0:10:09.58,Default,,0,0,0,,Tem para todos! Que festa!
+Dialogue: 0,0:10:19.07,0:10:23.52,Default,,0,0,0,,{Depois de várias vezes, todos sabiam...}Só levou algumas vezes até que todos soubessem...
+Dialogue: 0,0:10:24.80,0:10:27.59,Default,,0,0,0,,{o que a fruta fez.}exatamente o que a fruta estava fazendo.
+Dialogue: 0,0:10:27.59,0:10:31.39,Default,,0,0,0,,Mesmo assim, os moradores dessas cidades marginalizadas...
+Dialogue: 0,0:10:32.36,0:10:34.89,Default,,0,0,0,,{não conseguiam superar a fome.}não conseguiam desobedecer às suas pontadas de fome!
+Dialogue: 0,0:10:53.91,0:11:02.27,Default,,0,0,0,,{Foi assim que a cidade de Ebisu, onde todos são sorridentes e alegres, foi construída.}Foi assim que a cidade de Ebisu se tornou um lugar onde todos são sorridentes e alegres.
+Dialogue: 0,0:11:02.92,0:11:05.15,Default,,0,0,0,,À primeira vista, parece tão encantador,
+Dialogue: 0,0:11:05.15,0:11:09.13,Default,,0,0,0,,mas é uma cidade trágica onde as pessoas não conseguem nem lamentar a morte dos pais.
+Dialogue: 0,0:11:16.67,0:11:18.22,Default,,0,0,0,,Então, eu imploro a você,
+Dialogue: 0,0:11:19.95,0:11:25.11,Default,,0,0,0,,por favor, não culpe aqueles que estão rindo.
+Dialogue: 0,0:11:34.42,0:11:39.14,Default,,0,0,0,,Nós somos as únicas criaturas capazes de rir assim!{Flashback: Wano 15 @24:44}
+Dialogue: 0,0:11:39.14,0:11:40.04,Default,,0,0,0,,Sim!
+Dialogue: 0,0:11:40.04,0:11:43.49,Default,,0,0,0,,♪ É por isso que você só precisa rir! ♪
+Dialogue: 0,0:12:01.28,0:12:03.11,Default,,0,0,0,,Papai.
+Dialogue: 0,0:12:04.36,0:12:07.14,Default,,0,0,0,,Papai!
+Dialogue: 0,0:12:14.13,0:12:15.31,Default,,0,0,0,,Esta tragédia...
+Dialogue: 0,0:12:18.39,0:12:22.53,Default,,0,0,0,,é o maior crime do Shogun Orochi.
+Dialogue: 0,0:12:23.25,0:12:25.89,Default,,0,0,0,,{Ele deixa as pessoas infelizes...}Ele causa grande miséria às pessoas...
+Dialogue: 0,0:12:27.13,0:12:29.76,Default,,0,0,0,,{ainda incapazes de sentir tristeza.} e os deixa incapazes de expressar sua tristeza!
+Dialogue: 0,0:12:32.79,0:12:34.43,Default,,0,0,0,,O que...
+Dialogue: 0,0:12:34.43,0:12:37.17,Default,,0,0,0,,é esse lugar...
+Dialogue: 0,0:12:37.17,0:12:39.59,Default,,0,0,0,,se não o inferno?!
+Dialogue: 0,0:12:39.59,0:12:41.81,Default,,0,0,0,,Zorojuro-{\i1}san{\i0}!
+Dialogue: 0,0:12:49.62,0:12:54.57,Default,,0,0,0,,Você encontrou um fim que lhe convém, Yasuie.
+Dialogue: 0,0:12:55.09,0:12:59.95,Default,,0,0,0,,Como ousa viver tão descaradamente em meu país,
+Dialogue: 0,0:13:00.73,0:13:03.92,Default,,0,0,0,,seu ouriço impertinente!
+Dialogue: 0,0:13:03.92,0:13:07.17,Default,,0,0,0,,Ou melhor, seu rato miserável!
+Dialogue: 0,0:13:12.07,0:13:14.41,Default,,0,0,0,,É isso mesmo, pessoal!
+Dialogue: 0,0:13:14.41,0:13:21.27,Default,,0,0,0,,É o fim do seu amado daimyo Hakumai, Shimotsuki Yasuie!
+Dialogue: 0,0:13:21.27,0:13:25.86,Default,,0,0,0,,Mande-o para o outro lado com sua risada uivante!
+Dialogue: 0,0:13:28.86,0:13:33.03,Default,,0,0,0,,Esta é a {Terra de Wano}País de Wano! A {B}Brilhante e alegre {Terra de }Wano!
+Dialogue: 0,0:13:33.67,0:13:36.74,Default,,0,0,0,,É praticamente o paraíso! {Se o Céu existe ou não é discutível, mas é o nome de um lugar e, portanto, é escrito com letra maiúscula. Se isso não funcionar para você, podemos usar algo como "Paraíso" (também com letra maiúscula)}
+Dialogue: 0,0:13:41.66,0:13:45.43,Default,,0,0,0,,Ria! Continue rindo!
+Dialogue: 0,0:14:01.89,0:14:02.72,Default,,0,0,0,,Comprar!
+Dialogue: 0,0:14:02.72,0:14:04.11,Default,,0,0,0,,Comprar!
+Dialogue: 0,0:14:15.78,0:14:18.45,Default,,0,0,0,,Não, Toko! Volta aqui!
+Dialogue: 0,0:14:18.84,0:14:20.95,Default,,0,0,0,,Papai!
+Dialogue: 0,0:14:20.95,0:14:22.83,Default,,0,0,0,,Papai. Pai.
+Dialogue: 0,0:14:22.83,0:14:25.46,Default,,0,0,0,,Papai!
+Dialogue: 0,0:14:42.86,0:14:44.98,Default,,0,0,0,,Papai!
+Dialogue: 0,0:14:49.08,0:14:52.94,Default,,0,0,0,,Eu tenho um bom remédio.
+Dialogue: 0,0:14:54.44,0:14:57.07,Default,,0,0,0,,Essa é a garota da barraca de soba!
+Dialogue: 0,0:14:57.45,0:14:58.49,Default,,0,0,0,,Otoko-{\i1}chan{\i0}!
+Dialogue: 0,0:14:59.03,0:15:01.80,Default,,0,0,0,,Essa é a filha de Tonoyasu!
+Dialogue: 0,0:15:02.17,0:15:03.45,Default,,0,0,0,,O que?!
+Dialogue: 0,0:15:03.92,0:15:06.91,Default,,0,0,0,,Papai, volte para mim.
+Dialogue: 0,0:15:06.91,0:15:09.67,Default,,0,0,0,,Este remédio vai curar suas feridas.
+Dialogue: 0,0:15:13.70,0:15:18.43,Default,,0,0,0,,É chamado de "óleo de sapo" e é um remédio incrível!
+Dialogue: 0,0:15:19.39,0:15:20.89,Default,,0,0,0,,Você ficará bem agora.
+Dialogue: 0,0:15:26.39,0:15:29.09,Default,,0,0,0,,Sinto muito, Otoko!
+Dialogue: 0,0:15:30.67,0:15:33.27,Default,,0,0,0,,Esse remédio não vai funcionar!
+Dialogue: 0,0:15:38.82,0:15:40.03,Default,,0,0,0,,Hiyori-{\i1}san{\i0}!
+Dialogue: 0,0:15:40.86,0:15:44.16,Default,,0,0,0,,Por favor, Toko! Volte!
+Dialogue: 0,0:15:45.64,0:15:46.62,Default,,0,0,0,,Papai.
+Dialogue: 0,0:15:57.74,0:16:01.43,Default,,0,0,0,,{Eu encontrei você}Aí está você, seu pirralho.
+Dialogue: 0,0:16:07.43,0:16:10.10,Default,,0,0,0,,Abram caminho!
+Dialogue: 0,0:16:31.04,0:16:36.42,Default,,0,0,0,,Entendo. Ela é filha do Yasuie!
+Dialogue: 0,0:16:36.42,0:16:39.55,Default,,0,0,0,,Não é de se admirar que ela seja tão insolente!
+Dialogue: 0,0:16:39.55,0:16:42.43,Default,,0,0,0,,Você. É você!
+Dialogue: 0,0:16:42.43,0:16:44.76,Default,,0,0,0,,Você conseguiu!
+Dialogue: 0,0:16:45.43,0:16:48.31,Default,,0,0,0,,Se você não tivesse rido naquela noite,
+Dialogue: 0,0:16:49.02,0:16:52.68,Default,,0,0,0,,Komurasaki {nunca teria morrido!}não teria que morrer!
+Dialogue: 0,0:16:53.44,0:16:55.52,Default,,0,0,0,,Garoto punk!
+Dialogue: 0,0:16:56.38,0:16:57.94,Default,,0,0,0,,Papai. Papai!
+Dialogue: 0,0:16:57.94,0:17:03.03,Default,,0,0,0,,{Vocês dois me irritaram!} Ora, vocês dois...! Sua família realmente sabe como me irritar! {Isso é MUITO diferente, a saber: "Duas gerações da sua família ganharam minha ira!"}
+Dialogue: 0,0:17:08.83,0:17:11.37,Default,,0,0,0,,Levanta, papai!
+Dialogue: 0,0:17:11.37,0:17:13.50,Default,,0,0,0,,É a sua execução!
+Dialogue: 0,0:17:16.63,0:17:20.88,Default,,0,0,0,,Morra, seu filhote!
+Dialogue: 0,0:17:20.88,0:17:23.62,Default,,0,0,0,,Otoko, corra!
+Dialogue: 0,0:17:23.62,0:17:26.28,Default,,0,0,0,,Não morra na minha frente!
+Dialogue: 0,0:17:27.10,0:17:31.02,Default,,0,0,0,,Saia da minha frente!
+Dialogue: 0,0:18:26.34,0:18:27.59,Default,,0,0,0,,E-Eles são...
+Dialogue: 0,0:18:28.64,0:18:32.80,Default,,0,0,0,,o magistrado assassino Zorojuro e o cozinheiro de soba Sangoro!
+Dialogue: 0,0:18:41.31,0:18:45.20,Default,,0,0,0,,Eles fizeram isso de novo!
+Dialogue: 0,0:18:45.20,0:18:47.60,Default,,0,0,0,,Isso provavelmente causará um escândalo.
+Dialogue: 0,0:18:47.60,0:18:50.17,Default,,0,0,0,,Não posso culpá-los.
+Dialogue: 0,0:18:50.17,0:18:53.16,Default,,0,0,0,,Sim, eles fizeram bem em salvar Otoko.
+Dialogue: 0,0:18:54.07,0:18:58.36,Default,,0,0,0,,Maldito seja você por interferir na execução!
+Dialogue: 0,0:18:58.36,0:19:02.45,Default,,0,0,0,,{Então, a matilha daquele rato apareceu de novo?}A rata e sua matilha continuam aparecendo de novo, hein?!
+Dialogue: 0,0:19:02.45,0:19:08.75,Default,,0,0,0,,A filha pirralha do Yasuie cometeu um crime grave!
+Dialogue: 0,0:19:08.75,0:19:15.13,Default,,0,0,0,,Samurai, você tem minha permissão para matar todos que interferiram na execução!
+Dialogue: 0,0:19:15.84,0:19:17.03,Default,,0,0,0,,Sim, meu senhor!
+Dialogue: 0,0:19:24.81,0:19:28.44,Default,,0,0,0,,Ei, essas armas estão apontadas para nós?!
+Dialogue: 0,0:19:28.44,0:19:29.52,Default,,0,0,0,,Oh não!
+Dialogue: 0,0:19:33.32,0:19:35.88,Default,,0,0,0,,Corram, seus idiotas!
+Dialogue: 0,0:19:35.88,0:19:36.86,Default,,0,0,0,,Corte-os!
+Dialogue: 0,0:19:53.09,0:19:55.92,Default,,0,0,0,,Desculpe, mas não tenho tempo para você agora.
+Dialogue: 0,0:19:56.63,0:19:58.18,Default,,0,0,0,,Idem.
+Dialogue: 0,0:19:58.18,0:20:00.80,Default,,0,0,0,,Então saia daqui, Browgoro.
+Dialogue: 0,0:20:01.37,0:20:02.60,Default,,0,0,0,,Browgoro?
+Dialogue: 0,0:20:02.60,0:20:04.37,Default,,0,0,0,,É Sangoro!
+Dialogue: 0,0:20:04.37,0:20:07.10,Default,,0,0,0,,{\i1}Você{\i0} sai daqui, Mossjuro!
+Dialogue: 0,0:20:07.10,0:20:09.07,Default,,0,0,0,,Musgo juro?!
+Dialogue: 0,0:20:09.07,0:20:11.51,Default,,0,0,0,,Você tem essa cabeça cheia de musgo!
+Dialogue: 0,0:20:11.51,0:20:12.75,Default,,0,0,0,,O que você disse?!
+Dialogue: 0,0:20:12.75,0:20:15.55,Default,,0,0,0,,{Você quer sua vez com minhas lâminas antes de Orochi?!}Devo deixar você provar minhas lâminas antes de Orochi?
+Dialogue: 0,0:20:15.55,0:20:19.45,Default,,0,0,0,,Cale a boca! {Tente isso e eu enfio a minha bota na sua bunda antes de chegar no Kaido!}Tente isso e eu enfio o meu pé na sua bunda antes do Kaido!{-Zenef- Só porque o Sanji não está usando botas.}
+Dialogue: 0,0:20:19.45,0:20:21.16,Default,,0,0,0,,Você quer um pouco?!
+Dialogue: 0,0:20:21.77,0:20:23.49,Default,,0,0,0,,Papai!
+Dialogue: 0,0:20:24.29,0:20:27.21,Default,,0,0,0,,Otoko, você está segura!
+Dialogue: 0,0:20:27.67,0:20:30.79,Default,,0,0,0,,Esse é o amigo do Zorojuro-{\i1}san{\i0}?
+Dialogue: 0,0:20:30.79,0:20:35.92,Default,,0,0,0,,Roronoa Zoro, dos Piratas do Chapéu de Palha. E o outro é...
+Dialogue: 0,0:20:36.46,0:20:38.43,Default,,0,0,0,,Vinsmoke Sanji?
+Dialogue: 0,0:20:38.43,0:20:42.15,Default,,0,0,0,,{Parece que os Piratas do Chapéu de Palha estão aqui em Wano.} Afinal, os Piratas do Chapéu de Palha se reuniram em Wano.
+Dialogue: 0,0:20:42.15,0:20:45.80,Default,,0,0,0,,Mesmo assim, fiquei surpreso com a audácia com que eles apareceram.
+Dialogue: 0,0:20:45.80,0:20:46.73,Default,,0,0,0,,Ei!
+Dialogue: 0,0:20:46.73,0:20:49.84,Default,,0,0,0,,Há algo errado em ser descarado?
+Dialogue: 0,0:20:49.84,0:20:52.40,Default,,0,0,0,,Isso mesmo! Além disso,
+Dialogue: 0,0:20:52.99,0:20:56.65,Default,,0,0,0,,Nunca mais me chame pelo nome "Vinsmoke"! Entendeu?!
+Dialogue: 0,0:20:57.38,0:21:00.28,Default,,0,0,0,,Então vamos terminar isso aqui mesmo!
+Dialogue: 0,0:21:05.62,0:21:06.87,Default,,0,0,0,,Fogo!
+Dialogue: 0,0:21:13.11,0:21:15.29,Default,,0,0,0,,Escória Ronin.
+Dialogue: 0,0:21:15.29,0:21:16.59,Default,,0,0,0,,Preparar!
+Dialogue: 0,0:21:21.30,0:21:22.84,Default,,0,0,0,,Fogo!
+Dialogue: 0,0:21:27.81,0:21:30.14,Default,,0,0,0,,Tire Otoko daqui logo!
+Dialogue: 0,0:21:30.14,0:21:31.94,Default,,0,0,0,,Não, ainda não.
+Dialogue: 0,0:21:32.93,0:21:34.31,Default,,0,0,0,,Ele é meu.
+Dialogue: 0,0:21:35.46,0:21:38.28,Default,,0,0,0,,Ele é arrogante para um rato!
+Dialogue: 0,0:21:40.11,0:21:42.11,Default,,0,0,0,,Take care of her.
+Dialogue: 0,0:21:42.11,0:21:44.12,Default,,0,0,0,,What?! Wait!
+Dialogue: 0,0:21:45.14,0:21:46.49,Default,,0,0,0,,Is he coming?!
+Dialogue: 0,0:21:46.49,0:21:48.49,Default,,0,0,0,,Charge! Engage him!
+Dialogue: 0,0:21:48.49,0:21:51.67,Default,,0,0,0,,That ronin is coming for me!
+Dialogue: 0,0:21:52.71,0:21:54.71,Default,,0,0,0,,Run, Browgoro!
+Dialogue: 0,0:21:57.67,0:22:01.72,Default,,0,0,0,,You're no better than a lowly servant, you cocksure brat!
+Dialogue: 0,0:22:03.16,0:22:05.97,Default,,0,0,0,,I will kill you myself!
+Dialogue: 0,0:22:05.97,0:22:09.26,Default,,0,0,0,,Hey, Moss Head! Don't charge in {by yourself!}without backup!{-Zenef- a tad redundant with the previous line: myself/yourself}
+Dialogue: 0,0:22:09.26,0:22:10.60,Default,,0,0,0,,Ready your arms!
+Dialogue: 0,0:22:11.19,0:22:12.06,Default,,0,0,0,,Uh-oh!
+Dialogue: 0,0:22:12.53,0:22:13.64,Default,,0,0,0,,Fire!
+Dialogue: 0,0:22:16.01,0:22:17.73,Default,,0,0,0,,Stop already, you idiot!
+Dialogue: 0,0:22:17.73,0:22:20.94,Default,,0,0,0,,What did Tonoyasu die for?!
+Dialogue: 0,0:22:24.79,0:22:27.12,Default,,0,0,0,,Whoa, wait a moment, milord!{Flashback: Wano 14 @ 3:16}
+Dialogue: 0,0:22:27.12,0:22:33.16,Default,,0,0,0,,We live our lives on the cusp of evens and odds, just as with good and evil.
+Dialogue: 0,0:22:33.16,0:22:36.23,Default,,0,0,0,,Let's put an end to this here!
+Dialogue: 0,0:22:36.23,0:22:37.00,Default,,0,0,0,,Okay?!
+Dialogue: 0,0:22:38.38,0:22:42.29,Default,,0,0,0,,In this country, everyone calls that kind of smile
+Dialogue: 0,0:22:42.29,0:22:46.01,Default,,0,0,0,,an "Ebisu grin," milord!
+Dialogue: 0,0:22:46.01,0:22:49.06,Default,,0,0,0,,That's why this place is called Ebisu!
+Dialogue: 0,0:22:49.06,0:22:52.52,Default,,0,0,0,,Poverty and misfortune won't get us down!
+Dialogue: 0,0:22:53.37,0:22:54.63,Default,,0,0,0,,Yasu...
+Dialogue: 0,0:22:58.48,0:23:03.45,Default,,0,0,0,,Could he be one of the Red Scabbards' men?
+Dialogue: 0,0:23:03.45,0:23:06.90,Default,,0,0,0,,Protect me, samurai!
+Dialogue: 0,0:23:08.45,0:23:10.99,Default,,0,0,0,,{\fad(150,150)}Seven-Twenty-Pound Phoenix!
+Dialogue: 0,0:23:23.97,0:23:26.90,Default,,0,0,0,,Who's that man?!
+Dialogue: 0,0:23:26.90,0:23:28.55,Default,,0,0,0,,Boss Kyoshiro...
+Dialogue: 0,0:23:29.80,0:23:32.73,Default,,0,0,0,,My lord, you are too careless.
+Dialogue: 0,0:23:32.73,0:23:36.35,Default,,0,0,0,,You shouldn't have come to the execution with such a meager escort.
+Dialogue: 0,0:23:36.35,0:23:39.02,Default,,0,0,0,,But... that ronin...
+Dialogue: 0,0:23:39.54,0:23:42.19,Default,,0,0,0,,truly intended to kill me.
+Dialogue: 0,0:23:44.65,0:23:47.61,Default,,0,0,0,,Hey, Moss Head! What the hell do you think you're doing?!
+Dialogue: 0,0:23:47.61,0:23:50.08,Default,,0,0,0,,Cool your head!
+Dialogue: 0,0:23:58.83,0:24:01.50,Default,,0,0,0,,A surprise attack from that monster?!
+Dialogue: 0,0:24:09.84,0:24:11.97,Default,,0,0,0,,Ready your fire!
+Dialogue: 0,0:24:15.56,0:24:19.27,Default,,0,0,0,,Well, well, well. This is quite the scene.
+Dialogue: 0,0:24:19.27,0:24:23.13,Default,,0,0,0,,What should we do? Just stand here and watch?!
+Dialogue: 0,0:24:23.13,0:24:26.53,Default,,0,0,0,,At this point, we've got no choice but to fight.
+Dialogue: 0,0:24:26.95,0:24:31.29,Default,,0,0,0,,Hold it! That would ruin the whole operation.
+Dialogue: 0,0:24:31.29,0:24:36.77,Default,,0,0,0,,Besides, if we get involved, we won't be welcome in the capital.
+Dialogue: 0,0:24:36.77,0:24:41.71,Default,,0,0,0,,{Be that as it may, we cannot let Lord Yasuie's body get desecrated!}Be that as it may, we cannot allow them to desecrate Lord Yasuie's body!
+Dialogue: 0,0:24:41.71,0:24:44.59,Default,,0,0,0,,We've got to carry {his corpse}him away somehow!
+Dialogue: 0,0:24:45.17,0:24:47.59,Default,,0,0,0,,That's true, but...
+Dialogue: 0,0:24:47.59,0:24:51.76,Default,,0,0,0,,Let's split up. Where should we rendezvous?
+Dialogue: 0,0:24:51.76,0:24:53.49,Default,,0,0,0,,I'll join you in the fight!
+Dialogue: 0,0:24:53.49,0:24:58.94,Default,,0,0,0,,No, wait. It's not a good idea for anyone associated with Lord Oden to be seen here!
+Dialogue: 0,0:24:58.94,0:25:04.32,Default,,0,0,0,,That's right. You two need to slip away without getting seen.
+Dialogue: 0,0:25:04.32,0:25:05.50,Default,,0,0,0,,But...
+Dialogue: 0,0:25:05.50,0:25:10.57,Default,,0,0,0,,We're the ones who started this, so we'll take care of it ourselves.
+Dialogue: 0,0:25:12.27,0:25:13.65,Default,,0,0,0,,We cannot thank you enough.
+Dialogue: 0,0:25:13.65,0:25:17.54,Default,,0,0,0,,We must go, Shinobu. Leave this to Lady Onami.
+Dialogue: 0,0:25:20.87,0:25:23.13,Default,,0,0,0,,Take the lord shogun to the castle.
+Dialogue: 0,0:25:25.46,0:25:27.69,Default,,0,0,0,,Very good. Kill him!
+Dialogue: 0,0:25:27.69,0:25:31.51,Default,,0,0,0,,Kill anyone who stands against me!
+Dialogue: 0,0:25:32.94,0:25:34.26,Default,,0,0,0,,He's mine.{Phos: For this and the following lines, I've elected to snap to keyframes at expense of cutting Japanese. Let me know if I have to change it.}
+Dialogue: 0,0:25:36.30,0:25:37.02,Default,,0,0,0,,Fire!
+Dialogue: 0,0:25:37.02,0:25:38.18,Default,,0,0,0,,{Handle it!}Cover me!
+Dialogue: 0,0:25:38.18,0:25:40.02,Default,,0,0,0,,All right!
+Dialogue: 0,0:25:45.77,0:25:47.11,Default,,0,0,0,,Guns don't work?!
+Dialogue: 0,0:25:47.11,0:25:49.49,Default,,0,0,0,,What is that carpenter?!
+Dialogue: 0,0:25:51.20,0:25:54.45,Default,,0,0,0,,{\fad(150,150)}Strong Right!
+Dialogue: 0,0:25:57.58,0:25:58.91,Default,,0,0,0,,Who is he?!
+Dialogue: 0,0:25:58.91,0:26:01.96,Default,,0,0,0,,Who the hell are these guys?!
+Dialogue: 0,0:26:01.96,0:26:03.58,Default,,0,0,0,,Oh, there he is.
+Dialogue: 0,0:26:05.09,0:26:07.86,Default,,0,0,0,,Ah! He took Lord Yasuie!
+Dialogue: 0,0:26:07.86,0:26:10.30,Default,,0,0,0,,What in the world is happening?!
+Dialogue: 0,0:26:10.30,0:26:14.76,Default,,0,0,0,,Don't worry, I won't let them put you on a pike.
+Dialogue: 0,0:26:15.26,0:26:16.48,Default,,0,0,0,,Oh, no!
+Dialogue: 0,0:26:18.83,0:26:19.56,Default,,0,0,0,,Who's that?
+Dialogue: 0,0:26:20.47,0:26:25.52,Default,,0,0,0,,Oh, Usohachi! Thanks, you're a lifesaver!
+Dialogue: 0,0:26:27.65,0:26:30.07,Default,,0,0,0,,He's atop that ladder! Bring him down!
+Dialogue: 0,0:26:32.78,0:26:38.03,Default,,0,0,0,,Hey now, if the sniper gets sniped, we're done for.
+Dialogue: 0,0:26:38.53,0:26:39.99,Default,,0,0,0,,{\fad(150,150)}Mil Fleur:
+Dialogue: 0,0:26:39.99,0:26:42.87,Default,,0,0,0,,{\fad(150,150)}Gigantesco Mano Spank!
+Dialogue: 0,0:26:46.06,0:26:47.63,Default,,0,0,0,,Thanks for the help, Orobi!
+Dialogue: 0,0:26:47.63,0:26:50.90,Default,,0,0,0,,And another one of them?
+Dialogue: 0,0:26:50.90,0:26:56.47,Default,,0,0,0,,That woman... is the geisha from before! I knew she was a sorceress!
+Dialogue: 0,0:26:56.47,0:26:59.85,Default,,0,0,0,,The enemy is formidable! Surround them!
+Dialogue: 0,0:27:01.81,0:27:02.68,Default,,0,0,0,,Onami!
+Dialogue: 0,0:27:02.68,0:27:04.06,Default,,0,0,0,,Leave it to me!
+Dialogue: 0,0:27:04.06,0:27:06.48,Default,,0,0,0,,{\fad(150,150)}Thunderbolt Tempo!
+Dialogue: 0,0:27:10.88,0:27:12.28,Default,,0,0,0,,Saiam do meu caminho!
+Dialogue: 0,0:27:18.86,0:27:20.58,Default,,0,0,0,,Não vai acontecer.
+Dialogue: 0,0:27:21.00,0:27:22.54,Default,,0,0,0,,Então,
+Dialogue: 0,0:27:24.58,0:27:26.50,Default,,0,0,0,,você está morto!
+Dialogue: 0,0:27:36.99,0:27:41.01,Default,,0,0,0,,Eu sirvo como o cão do xogum.
+Dialogue: 0,0:27:42.64,0:27:45.48,Default,,0,0,0,,{\fad(150,150)}Frigideira: Espectro!
+Dialogue: 0,0:27:49.90,0:27:52.98,Default,,0,0,0,,Temos que dar o fora daqui!
+Dialogue: 0,0:27:52.98,0:27:54.37,Default,,0,0,0,,Sim!
+Dialogue: 0,0:27:54.37,0:27:56.86,Default,,0,0,0,,{\fad(150,150)}Cometa Atlas letal!
+Dialogue: 0,0:27:57.98,0:28:00.91,Default,,0,0,0,,{\fad(150,150)}Mil Fleur: Mão Gigantesca!
+Dialogue: 0,0:28:03.04,0:28:05.33,Default,,0,0,0,,{\fad(150,150)}Armas restantes!
+Dialogue: 0,0:28:07.09,0:28:09.04,Default,,0,0,0,,{\fad(150,150)}Tornado Tempo!
+Dialogue: 0,0:28:21.68,0:28:24.39,Default,,0,0,0,,Todas as tropas, ataquem! Ataquem!
+Dialogue: 0,0:28:24.39,0:28:27.86,Default,,0,0,0,,Usurpadores estão se revoltando na cidade de Rasetsu!
+Dialogue: 0,0:28:27.86,0:28:32.02,Default,,0,0,0,,Por ordem do xogum, esses criminosos são procurados vivos ou mortos!
+Dialogue: 0,0:28:32.02,0:28:34.20,Default,,0,0,0,,Mate-os se for preciso!
+Dialogue: 0,0:28:34.20,0:28:36.53,Default,,0,0,0,,Vamos lá, pessoal!
+Dialogue: 0,0:28:36.53,0:28:38.65,Default,,0,0,0,,Pegue-os!
+Dialogue: 0,0:28:38.65,0:28:41.15,Default,,0,0,0,,Diga, Senhor Chapéu de Palha,
+Dialogue: 0,0:28:38.65,0:28:40.53,Default,,0,0,0,,É isso!
+Dialogue: 0,0:28:40.53,0:28:41.15,Default,,0,0,0,,Huh?
+Dialogue: 0,0:28:41.15,0:28:45.34,Default,,0,0,0,,{Aqueles caras que aparecem na projeção do caracol de rolagem de luz são seus amigos?}Aqueles são seus amigos lá em cima na projeção do caracol de rolagem de luz?{Z}
+Dialogue: 0,0:28:45.34,0:28:48.92,Default,,0,0,0,,Hein? É isso mesmo. Me disseram para manter segredo.
+Dialogue: 0,0:28:48.92,0:28:51.73,Default,,0,0,0,,{Meh, eu não me importo.} Mas eu realmente não me importo. {Z- "Meh" não é atemporal o suficiente.}
+Dialogue: 0,0:28:53.54,0:28:54.21,Default,,0,0,0,,Vamos!
+Dialogue: 0,0:28:54.21,0:28:58.05,Default,,0,0,0,,Entra aí! Você consegue! Pega eles!
+Dialogue: 0,0:28:56.05,0:28:58.05,Default,,0,0,0,,Isso não pode ser bom.
+Dialogue: 0,0:28:58.05,0:29:00.35,Default,,0,0,0,,Continue assim, Zorojuro!
+Dialogue: 0,0:29:00.35,0:29:02.10,Default,,0,0,0,,Ei, Chapéu de Palha,
+Dialogue: 0,0:29:02.10,0:29:05.21,Default,,0,0,0,,aquele cara de cabelo verde está com você?
+Dialogue: 0,0:29:05.21,0:29:10.37,Default,,0,0,0,,{Eu juro que Zorojuro foi o vilão que destruiu o tribunal de magistrados.}Eu poderia jurar que Zorojuro foi o vilão que destruiu o tribunal de magistrados.{Z- ou "tribunal de magistrados". Algo sobre a primeira construção parece desajeitado}
+Dialogue: 0,0:29:11.77,0:29:16.36,Default,,0,0,0,,Engraçado, eu nunca imaginaria que eles estavam atrás da cabeça de Orochi.
+Dialogue: 0,0:29:18.20,0:29:22.88,Default,,0,0,0,,O que foi, Babanuki? Está ficando bom. Volte mais tarde.
+Dialogue: 0,0:29:22.88,0:29:27.79,Default,,0,0,0,,Entendo, mas um prisioneiro acabou de chegar da Capital das Flores.
+Dialogue: 0,0:29:27.79,0:29:31.70,Default,,0,0,0,,Da Capital das Flores? Quem poderia ser numa hora dessas?
+Dialogue: 0,0:29:31.70,0:29:34.00,Default,,0,0,0,,Ele deve chegar em breve.
+Dialogue: 0,0:29:34.00,0:29:36.13,Default,,0,0,0,,Ele está passando por aquele portão.
+Dialogue: 0,0:29:53.10,0:29:54.77,Default,,0,0,0,,Quem é aquele?
+Dialogue: 0,0:29:54.77,0:29:59.90,Default,,0,0,0,,Este degenerado falhou na missão do xogum na Capital das Flores.
+Dialogue: 0,0:29:59.90,0:30:04.91,Default,,0,0,0,,Lorde Orochi disse para puni-lo como acharmos melhor.
+Dialogue: 0,0:30:10.17,0:30:13.25,Default,,0,0,0,,Apresentamos Kamazo, o Ceifador.
+Dialogue: 0,0:30:13.25,0:30:17.58,Default,,0,0,0,,Então, você é o Kamazo dos rumores, hein?
+Dialogue: 0,0:30:17.58,0:30:19.42,Default,,0,0,0,,Tem mais um.
+Dialogue: 0,0:30:27.35,0:30:29.29,Default,,0,0,0,,Pare aí mesmo.
+Dialogue: 0,0:30:29.29,0:30:30.58,Default,,0,0,0,,Aqui está meu relatório:
+Dialogue: 0,0:30:30.58,0:30:35.69,Default,,0,0,0,,Enquanto trazíamos o Kamazo para cá, pegamos mais um pedaço de lixo,
+Dialogue: 0,0:30:36.38,0:30:39.32,Default,,0,0,0,,o fugitivo Capitão Kid!
+Dialogue: 0,0:30:39.76,0:30:40.86,Default,,0,0,0,,Serrilhada!
+Dialogue: 0,0:30:41.28,0:30:45.63,Default,,0,0,0,,Essa escória estava gritando algo enquanto se aproximava de nós,
+Dialogue: 0,0:30:45.63,0:30:51.54,Default,,0,0,0,,{então dei alguns tiros nele, e ele nem tentou fugir!}então dei alguns tiros nele. Mesmo assim, ele não tentou fugir!
+Dialogue: 0,0:30:51.54,0:30:55.82,Default,,0,0,0,,Acho que ele esqueceu que está usando algemas de pedra do mar!
+Dialogue: 0,0:30:56.75,0:31:00.88,Default,,0,0,0,,Garoto, você é um idiota!
+Dialogue: 0,0:31:10.26,0:31:14.93,Default,,0,0,0,,Ele escapou ileso, então por que foi pego?!
+Dialogue: 0,0:31:21.31,0:31:22.61,Default,,0,0,0,,Ei, pare com isso!
+Dialogue: 0,0:31:25.03,0:31:26.90,Default,,0,0,0,,Eu já disse para você parar com isso!
+Dialogue: 0,0:31:29.13,0:31:34.87,Default,,0,0,0,,Você... você disse que odiava seu jeito de rir.
+Dialogue: 0,0:31:35.36,0:31:39.82,Default,,0,0,0,,{Achei que você tivesse parado de rir tanto.}Achei que você tivesse se esforçado ao máximo para não rir.
+Dialogue: 0,0:31:39.82,0:31:45.80,Default,,0,0,0,,Você não foi o cara que quase matou todo mundo {que riu do seu jeito de rir?!}que zombou do seu jeito de rir?!
+Dialogue: 0,0:31:49.28,0:31:52.67,Default,,0,0,0,,Pare com isso agora mesmo.
+Dialogue: 0,0:31:52.67,0:31:57.06,Default,,0,0,0,,Você costumava cobrir seu rosto com uma máscara.
+Dialogue: 0,0:31:57.66,0:32:00.35,Default,,0,0,0,,Que diabos...
+Dialogue: 0,0:32:00.35,0:32:02.31,Default,,0,0,0,,aconteceu com você?!
+Dialogue: 0,0:32:02.89,0:32:06.05,Default,,0,0,0,,O que Kaido fez com você depois que nos separamos?!
+Dialogue: 0,0:32:06.05,0:32:09.95,Default,,0,0,0,,Ou seria Orochi?! Cadê todo mundo?!
+Dialogue: 0,0:32:11.41,0:32:12.78,Default,,0,0,0,,Responda-me!
+Dialogue: 0,0:32:15.63,0:32:18.91,Default,,0,0,0,,Vamos lá! Por favor, me responda,
+Dialogue: 0,0:32:19.29,0:32:21.11,Default,,0,0,0,,Assassino!
+Dialogue: 0,0:32:24.25,0:32:26.30,Default,,0,0,0,,O quê?! É ele?!
+Dialogue: 0,0:32:32.56,0:32:35.77,Default,,0,0,0,,Esse é o cara mascarado que estava com Jaggy.
+Dialogue: 0,0:32:35.77,0:32:39.12,Default,,0,0,0,,Jaggy tentou ajudá-lo.
+Dialogue: 0,0:32:39.12,0:32:40.93,Default,,0,0,0,,É uma coisa terrível.
+Dialogue: 0,0:32:40.94,0:32:43.16,Default,,0,0,0,,Forçado a comer uma fruta SMILE,
+Dialogue: 0,0:32:43.16,0:32:48.55,Default,,0,0,0,,ele ficou preso a uma máscara de riso que nunca poderá remover.
+Dialogue: 0,0:32:48.55,0:32:51.32,Default,,0,0,0,,Aquele bastardo do Orochi faz coisas indizíveis.
+Dialogue: 0,0:32:59.46,0:33:02.83,Default,,0,0,0,,O que fizeram com você para mudar tanto?!
+Dialogue: 0,0:33:11.34,0:33:16.35,Default,,0,0,0,,Quem fez isso com meu parceiro?!
+Dialogue: 0,0:33:17.14,0:33:20.56,Default,,0,0,0,,Onde está minha equipe?!
+Dialogue: 0,0:33:20.56,0:33:23.44,Default,,0,0,0,,Caramba!
+Dialogue: 0,0:33:44.29,0:33:47.21,Default,,0,0,0,,Não mexa comigo!
+Dialogue: 0,0:33:48.67,0:33:50.17,Default,,0,0,0,,Maldito!
+Dialogue: 0,0:33:51.75,0:33:54.45,Default,,0,0,0,,Você tem algo a me dizer?
+Dialogue: 0,0:33:58.18,0:34:03.19,Default,,0,0,0,,Isso mesmo. Pensei em um jogo divertido.
+Dialogue: 0,0:34:18.87,0:34:22.79,Default,,0,0,0,,Desculpem por fazer vocês esperarem, seus filhos da puta!
+Dialogue: 0,0:34:25.66,0:34:28.13,Default,,0,0,0,,O Inferno do Sumô...
+Dialogue: 0,0:34:31.05,0:34:33.68,Default,,0,0,0,,currículos.
+Dialogue: 0,0:34:40.43,0:34:44.69,Default,,0,0,0,,No entanto, há uma nova regra.
+Dialogue: 0,0:34:44.69,0:34:51.65,Default,,0,0,0,,As lâminas em suas coleiras matam você no momento em que você sai deste ringue.
+Dialogue: 0,0:34:52.42,0:34:55.24,Default,,0,0,0,,Essa regra não mudou.
+Dialogue: 0,0:34:55.24,0:34:58.88,Default,,0,0,0,,Mas a nova regra...
+Dialogue: 0,0:34:58.88,0:35:05.12,Default,,0,0,0,,é que esses dois ficarão presos debaixo d'água enquanto vocês dois estiverem vivos.
+Dialogue: 0,0:35:06.25,0:35:10.65,Default,,0,0,0,,Em outras palavras, vamos tirar esses dois da água...
+Dialogue: 0,0:35:11.28,0:35:12.92,Default,,0,0,0,,somente quando você e aquele velho...
+Dialogue: 0,0:35:13.37,0:35:15.95,Default,,0,0,0,,estão mortos.
+Dialogue: 0,0:35:15.95,0:35:19.64,Default,,0,0,0,,{Seu idiota!} Isso é pura idiotice! Não tenho nada a ver com eles!
+Dialogue: 0,0:35:19.64,0:35:23.62,Default,,0,0,0,,Ah, eu sei. Mas eu me pergunto,
+Dialogue: 0,0:35:23.62,0:35:26.52,Default,,0,0,0,,Por que essa regra deixou você chateado?
+Dialogue: 0,0:35:28.15,0:35:32.28,Default,,0,0,0,,É porque vocês são rivais lutando na mesma época?
+Dialogue: 0,0:35:32.28,0:35:37.03,Default,,0,0,0,,Se for isso, então você tem a opção de simplesmente morrer.
+Dialogue: 0,0:35:37.03,0:35:40.79,Default,,0,0,0,,Não importa quão infame ou quão grande seja a recompensa,
+Dialogue: 0,0:35:40.79,0:35:43.84,Default,,0,0,0,,todos os humanos...
+Dialogue: 0,0:35:43.84,0:35:48.98,Default,,0,0,0,,afogar-se em apenas cinco centímetros de água.
+Dialogue: 0,0:35:54.58,0:35:57.76,Default,,0,0,0,,Que o jogo comece!
+Dialogue: 0,0:36:33.58,0:36:35.37,Default,,0,0,0,,Se é assim,
+Dialogue: 0,0:36:35.37,0:36:38.22,Default,,0,0,0,,junte-se a mim no ringue!
+Dialogue: 0,0:36:39.68,0:36:44.06,Default,,0,0,0,,Vou chutar sua bunda e acabar com isso!
+Dialogue: 0,0:36:54.18,0:36:56.94,Default,,0,0,0,,Com quem você acha que está falando?!
+Dialogue: 0,0:36:56.94,0:36:59.95,Default,,0,0,0,,Não fique convencido,
+Dialogue: 0,0:36:59.95,0:37:02.03,Default,,0,0,0,,seu pequeno punk!
+Dialogue: 0,0:37:06.20,0:37:07.62,Default,,0,0,0,,Senhor Chapéu de Palha!
+Dialogue: 0,0:37:14.34,0:37:15.34,Default,,0,0,0,,Ei,
+Dialogue: 0,0:37:17.92,0:37:19.22,Default,,0,0,0,,punk.
+Dialogue: 0,0:37:22.84,0:37:26.72,Default,,0,0,0,,{O que você está esperando?}O que faz você se apegar à esperança desse jeito?
+Dialogue: 0,0:37:31.47,0:37:36.15,Default,,0,0,0,,Você realmente acha que vai sair daqui vivo?
+Dialogue: 0,0:37:37.03,0:37:40.20,Default,,0,0,0,,Você acha que pode nos vencer?
+Dialogue: 0,0:37:43.45,0:37:48.00,Default,,0,0,0,,Vocês todos {\i1}irão{\i0} morrer!
+Dialogue: 0,0:37:49.29,0:37:51.71,Default,,0,0,0,,Um por um!
+Dialogue: 0,0:37:53.13,0:37:55.88,Default,,0,0,0,,Cale a boca!
+Dialogue: 0,0:38:21.95,0:38:24.03,Default,,0,0,0,,{Eu escolho...}Eu morro...
+Dialogue: 0,0:38:25.50,0:38:27.30,Default,,0,0,0,,onde {\i1}{onde eu morro!}Eu{\i0} escolho!
+Dialogue: 0,0:38:52.01,0:38:54.56,Default,,0,0,0,,Ei, que som é esse?!
+Dialogue: 0,0:38:58.98,0:39:00.94,Default,,0,0,0,,{\i1}Ei, o que houve?{\i0}
+Dialogue: 0,0:39:00.94,0:39:02.40,Default,,0,0,0,,{\i1}Entre já!{\i0}
+Dialogue: 0,0:39:03.36,0:39:07.16,Default,,0,0,0,,{Lord Queen}Rainha, Vossa Majestade, perdemos contato com os guardas do portão!
+Dialogue: 0,0:39:42.61,0:39:45.20,Default,,0,0,0,,Finalmente consegui.
+Dialogue: 0,0:39:49.41,0:39:51.99,Default,,0,0,0,,{\i1}Oshiruko{\i0}!

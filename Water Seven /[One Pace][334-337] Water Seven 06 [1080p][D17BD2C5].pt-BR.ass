@@ -39,7 +39,7 @@ Dialogue: 5,0:01:38.90,0:01:43.07,Credits-207+,,0,0,0,,{\pos(781.\N5,609)\blur0.
 Dialogue: 6,0:01:38.90,0:01:43.07,Credits-207+,,0,0,0,,{\pos(781.\N5,609)\blur0.\N6\fscx105\fscy105\bord0\4a&HFF&}Tradução
 Dialogue: 5,0:02:12.65,0:02:16.60,Main-207+,,0,0,0,,{Who was the first to find him?\N\NPlease let us question them!\N}Quem o encontrou primeiro?\NPor favor, deixe-nos questioná-los!
 Dialogue: 5,0:02:16.60,0:02:18.95,Main-207+,,0,0,0,,{Who's the culprit?!}Há algum suspeito?
-Dialogue: 5,0:02:18.95,0:02:21.58,Main-207+,,0,0,0,,{Are they connected with \Nthe annihilation of Franky House?\N!\N}Isso poderia estar relacionado à destruição da Franky House?
+Dialogue: 5,0:02:18.95,0:02:21.58,Main-207+,,0,0,0,,{Are they connected with \Nthe annihilation of Franky House?!\N}Isso poderia estar relacionado à destruição da Franky House?
 Dialogue: 5,0:02:21.58,0:02:22.80,Main-207+,,0,0,0,,{Please give us a statement!}Podemos obter uma declaração?!
 Dialogue: 5,0:02:22.80,0:02:24.54,Main-207+,,0,0,0,,{Please tell us the latest developments!}Algum novo desenvolvimento?!
 Dialogue: 5,0:02:24.54,0:02:27.72,Main-207+,,0,0,0,,{the incident}Ei, você ouviu sobre o que aconteceu em Shipyard Island?
@@ -55,7 +55,7 @@ Dialogue: 5,0:03:02.58,0:03:04.37,Main-207+,,0,0,0,,Lá.
 Dialogue: 5,0:03:08.50,0:03:11.32,Main-207+,,0,0,0,,Onde você foi, Sanji?
 Dialogue: 5,0:03:11.32,0:03:15.51,Main-207+,,0,0,0,,{Hmm... I kept a lookout at the rocky cape all night,}Hum? Fiquei de olho no cabo rochoso a noite toda...
 Dialogue: 5,0:03:15.51,0:03:18.68,Main-207+,,0,0,0,,{thinking that Robin-chan might come back.}apenas no caso de Robin-chan voltar.
-Dialogue: 5,0:03:24.60,0:03:28.14,Main-207+,,0,0,0,,{anything to us.\N.\N.\N}Eu me pergunto para onde ela foi.\N.\N.\Nsem dizer uma palavra.
+Dialogue: 5,0:03:24.60,0:03:28.14,Main-207+,,0,0,0,,{anything to us...\N}Eu me pergunto para onde ela foi...\Nsem dizer uma palavra.
 Dialogue: 5,0:03:33.19,0:03:37.28,Main-207+,,0,0,0,,Acho que vou passear pela cidade procurando por ela hoje.
 Dialogue: 5,0:03:38.04,0:03:41.08,Main-207+,,0,0,0,,{we can}Eu me pergunto se vamos encontrá-la.
 Dialogue: 5,0:03:41.08,0:03:43.43,Main-207+,,0,0,0,,Quem sabe?
@@ -68,10 +68,10 @@ Dialogue: 5,0:03:59.30,0:04:00.72,Main-207+,,0,0,0,,Luffy!
 Dialogue: 5,0:04:00.72,0:04:03.09,Main-207+,,0,0,0,,{\i1}Nami-san!
 Dialogue: 5,0:04:03.09,0:04:04.51,Main-207+,,0,0,0,,{This is terrible! }Tenho más notícias.
 Dialogue: 5,0:04:04.51,0:04:07.52,Main-207+,,0,0,0,,A cidade inteira está falando sobre isso!
-Dialogue: 5,0:04:07.52,0:04:12.31,Main-207+,,0,0,0,,{\i1}Luffy!\NOntem à noite, Iceburg-san do estaleiro estava.\N.\N.
+Dialogue: 5,0:04:07.52,0:04:12.31,Main-207+,,0,0,0,,{\i1}Luffy!\NOntem à noite, Iceburg-san do estaleiro estava...
 Dialogue: 5,0:04:14.73,0:04:17.74,Main-207+,,0,0,0,,{\i1}Iceburg-san foi baleado em sua casa?!
 Dialogue: 5,0:04:17.74,0:04:19.57,Main-207+,,0,0,0,,{Hey! Don't be silly!}Ei, pare com essa merda!
-Dialogue: 5,0:04:19.57,0:04:21.78,Main-207+,,0,0,0,,{–Was he killed?\N!\N\N–Well, hey!\N}– Ele está morto?\N!\N- Desacelerar!
+Dialogue: 5,0:04:19.57,0:04:21.78,Main-207+,,0,0,0,,{–Was he killed?!\N\N–Well, hey!\N}– Ele está morto?!\N- Desacelerar!
 Dialogue: 5,0:04:21.78,0:04:26.29,Main-207+,,200,200,0,,{He isn't someone who makes enemies of people!\N}– Ele não é do tipo que faz das pessoas inimigos!\N– Espere um segundo.\NCalma, Paulie!
 Dialogue: 5,0:04:26.29,0:04:29.00,Main-207+,,0,0,0,,{\i1}Escute-me.
 Dialogue: 5,0:04:29.00,0:04:35.25,Main-207+,,0,0,0,,{\i1}Olha, Iceburg-san foi encontrado coberto de sangue em seu quarto esta manhã.
@@ -80,7 +80,7 @@ Dialogue: 5,0:04:39.26,0:04:42.22,Main-207+,,0,0,0,,{\i1}De qualquer forma, vá 
 Dialogue: 5,0:04:47.30,0:04:49.64,Main-207+,,0,0,0,,{Where's Paulie}Lulu! Viu Paulie?
 Dialogue: 5,0:04:49.64,0:04:52.30,Main-207+,,0,0,0,,{I just called him.\NHe'll be here soon.\N}Acabei de ligar para ele.\NEle chegará em breve.
 Dialogue: 5,0:04:52.30,0:04:53.79,Main-207+,,0,0,0,,{I see.}É isso mesmo?
-Dialogue: 5,0:04:53.79,0:04:57.40,Main-207+,,0,0,0,,{Newspaper reporters are already here and it's quite an uproar outside.\N.\N.\N}Os repórteres estão fazendo um grande alvoroço lá fora.
+Dialogue: 5,0:04:53.79,0:04:57.40,Main-207+,,0,0,0,,{Newspaper reporters are already here and it's quite an uproar outside...\N}Os repórteres estão fazendo um grande alvoroço lá fora.
 Dialogue: 5,0:04:57.40,0:05:02.75,Main-207+,,0,0,0,,{even though we're the ones who want to know what's going on.\N}Muito irônico, considerando que estamos tão fora do circuito quanto eles.
 Dialogue: 5,0:05:02.75,0:05:05.05,Main-207+,,0,0,0,,{Although they tore up the whole office,}Eles destruíram todo o escritório,
 Dialogue: 5,0:05:05.05,0:05:08.49,Main-207+,,0,0,0,,{there's no trace of money or valuables being stolen.\N}mas não há sinal de que dinheiro ou objetos de valor tenham sido furtados.
@@ -131,9 +131,9 @@ Dialogue: 5,0:07:58.08,0:08:00.25,Main-207+,,0,0,0,,Afinal, Franky deve ser o cu
 Dialogue: 5,0:08:00.25,0:08:06.21,Main-207+,,200,200,0,,{I don't know what it was all about, but he must've done it out of spite.\N}Não sei qual era o problema dele, mas acho que Corgi guardava algum ressentimento indevido.
 Dialogue: 5,0:08:06.21,0:08:08.34,Main-207+,,0,0,0,,{complain}Não critique o governo.
 Dialogue: 5,0:08:08.34,0:08:11.68,Main-207+,,0,0,0,,{you'll pay for it}Se alguém ouvir, isso lhe custará caro.
-Dialogue: 5,0:08:13.10,0:08:17.18,Main-207+,,0,0,0,,{Is the goal of this unforgivable culprit to gain wealth or power?\N!\N}Qual é o objetivo do perpetrador hediondo?\NRiqueza ou poder?
-Dialogue: 5,0:08:17.18,0:08:20.06,Main-207+,,0,0,0,,{ is}Quem é esse assassino que desapareceu sem deixar rastros?\N!
-Dialogue: 5,0:08:23.19,0:08:26.65,Main-207+,,0,0,0,,{I'm not gonna let him get away with it!\N}Quem diabos fez isso?\N!\NEles vão pagar!
+Dialogue: 5,0:08:13.10,0:08:17.18,Main-207+,,0,0,0,,{Is the goal of this unforgivable culprit to gain wealth or power?!\N}Qual é o objetivo do perpetrador hediondo?\NRiqueza ou poder?
+Dialogue: 5,0:08:17.18,0:08:20.06,Main-207+,,0,0,0,,{ is}Quem é esse assassino que desapareceu sem deixar rastros?!
+Dialogue: 5,0:08:23.19,0:08:26.65,Main-207+,,0,0,0,,{I'm not gonna let him get away with it!\N}Quem diabos fez isso?!\NEles vão pagar!
 Dialogue: 5,0:08:31.24,0:08:33.86,Main-207+,,0,0,0,,{\i1}Obrigado por andar no Puffing Tom.
 Dialogue: 5,0:08:33.86,0:08:39.29,Main-207+,,0,0,0,,{\i1}Em breve chegaremos à Estação Azul na Cidade das Águas, Água Sete.
 Dialogue: 5,0:09:03.90,0:09:05.86,Main-207+,,0,0,0,,{\i1}Ah, Paulie-san!
@@ -143,10 +143,10 @@ Dialogue: 5,0:09:10.95,0:09:14.24,Main-207+,,0,0,0,,Cale-se. Saia do meu caminho
 Dialogue: 5,0:09:14.24,0:09:16.91,Main-207+,,0,0,0,,{your}Que explicação a empresa lhe deu?
 Dialogue: 5,0:09:16.91,0:09:18.15,Main-207+,,0,0,0,,{Please give us a statement!}Por favor, diga alguma coisa!
 Dialogue: 5,0:09:18.15,0:09:20.75,Main-207+,,0,0,0,,{Are you deaf?\NI told you to get out of my way!\N}Você é surdo?\NEu disse para sair do meu caminho!
-Dialogue: 5,0:09:20.75,0:09:25.17,Main-207+,,0,0,0,,{Hasn't there been any trouble that could have caused someone to target Mr.\NIceburg's life?\N!\N}Aconteceu alguma coisa que poderia ter levado alguém a mirar na vida do Sr.\NIceburg?\N!
+Dialogue: 5,0:09:20.75,0:09:25.17,Main-207+,,0,0,0,,{Hasn't there been any trouble that could have caused someone to target Mr.\NIceburg's life?!\N}Aconteceu alguma coisa que poderia ter levado alguém a mirar na vida do Sr.\NIceburg?!
 Dialogue: 5,0:09:25.17,0:09:26.53,Main-207+,,0,0,0,,{Anything that comes to your mind!}Alguma coisa vem à mente?!
 Dialogue: 5,0:09:26.53,0:09:27.95,Main-207+,,0,0,0,,Algum problema com piratas?!
-Dialogue: 5,0:09:27.95,0:09:30.59,Main-207+,,0,0,0,,{–Paulie-san!\NTell us.\N.\N.\N\N–I said get out of my way!\N}–Paulie-san!\NConte-nos.\N.\N.\N– Eu disse para sair da minha frente!
+Dialogue: 5,0:09:27.95,0:09:30.59,Main-207+,,0,0,0,,{–Paulie-san!\NTell us...\N\N–I said get out of my way!\N}–Paulie-san!\NConte-nos...\N– Eu disse para sair da minha frente!
 Dialogue: 5,0:09:30.59,0:09:33.55,Main-207+,,0,0,0,,Seus idiotas!
 Dialogue: 5,0:09:35.30,0:09:38.81,Main-207+,,0,0,0,,{it's true that he}Então ele realmente foi atacado.
 Dialogue: 5,0:09:38.81,0:09:42.73,Main-207+,,0,0,0,,{Yeah.\NEven if we go to the shipyard, \Nwe may not be able to see him like this.\N}Sim.\NTalvez nem consigamos vê-lo no estaleiro.
@@ -163,7 +163,7 @@ Dialogue: 5,0:10:26.76,0:10:31.57,Main-207+,,0,0,0,,Quem fez isso enquanto eu es
 Dialogue: 5,0:10:32.57,0:10:35.57,Main-207+,,0,0,0,,{..}Eu vejo. Devem ser eles.
 Dialogue: 5,0:10:36.82,0:10:39.88,Main-207+,,0,0,0,,Como você ousa, Chapéu de Palha Luffy?!
 Dialogue: 5,0:10:39.88,0:10:43.75,Main-207+,,0,0,0,,{So you did this as retaliation for my stealing your 200 million belly?\N}Eu roubei sua barriga de 200 milhões e foi assim que ele revidou!
-Dialogue: 5,0:10:43.75,0:10:47.29,Main-207+,,0,0,0,,{underlings}Como você ousa fazer isso com meus preciosos meninos?\N!
+Dialogue: 5,0:10:43.75,0:10:47.29,Main-207+,,0,0,0,,{underlings}Como você ousa fazer isso com meus preciosos meninos?!
 Dialogue: 5,0:10:47.29,0:10:49.54,Main-207+,,0,0,0,,{How}Tão sangue frio...
 Dialogue: 5,0:10:50.92,0:10:53.88,Main-207+,,0,0,0,,{I won't forgive you.}Não há como perdoar isso!
 Dialogue: 5,0:10:53.88,0:10:55.59,Main-207+,,0,0,0,,Grande irmão Franky!
@@ -178,7 +178,7 @@ Dialogue: 5,0:11:18.11,0:11:21.20,Main-207+,,0,0,0,,Nós os vimos entrando em um
 Dialogue: 5,0:11:21.20,0:11:24.66,Main-207+,,0,0,0,,De lá, eles foram para Shipyard Island há pouco.
 Dialogue: 5,0:11:24.66,0:11:28.58,Main-207+,,0,0,0,,{I bet they went to the place they went yesterday, Dock One.\N}Eles devem estar indo para a Doca Um, como ontem.
 Dialogue: 5,0:11:28.58,0:11:31.96,Main-207+,,0,0,0,,{..}OK. Eu entendi.
-Dialogue: 5,0:11:32.71,0:11:37.85,Main-207+,,0,0,0,,{Straw Hat Luffy.\N.\N.\NI'll crush you without fail!\N}Chapéu de Palha Luffy, prepare-se para o chute na bunda da sua vida!
+Dialogue: 5,0:11:32.71,0:11:37.85,Main-207+,,0,0,0,,{Straw Hat Luffy...\NI'll crush you without fail!\N}Chapéu de Palha Luffy, prepare-se para o chute na bunda da sua vida!
 Dialogue: 5,0:11:47.49,0:11:49.65,Main-207+,,0,0,0,,Avó! Avó!
 Dialogue: 5,0:11:49.65,0:11:53.48,Main-207+,,0,0,0,,O vento está soprando como um louco!\NEi, vovó!
 Dialogue: 5,0:11:56.40,0:11:59.67,Main-207+,,0,0,0,,Vento louco! Vento louco!
@@ -220,7 +220,7 @@ Dialogue: 5,0:13:55.20,0:13:58.01,Main-207+,,0,0,0,,O que?! Esse lugar vai afund
 Dialogue: 5,0:13:58.01,0:14:01.64,Main-207+,,0,0,0,,{\i1}Parece que sim.\NDe qualquer forma, vamos nos apressar e encontrar Robin-chan.
 Dialogue: 5,0:14:01.64,0:14:02.78,Main-207+,,0,0,0,,{Yep.}Tudo bem.
 Dialogue: 5,0:14:02.78,0:14:04.28,Main-207+,,0,0,0,,{\i1}Por favor, conte-nos algo!
-Dialogue: 5,0:14:04.28,0:14:07.23,Main-207+,,0,0,0,,{–Iceburg-san!\N\N–What the hell happened?\N!\N}– Iceburg-san!\N– O que diabos aconteceu?\N!
+Dialogue: 5,0:14:04.28,0:14:07.23,Main-207+,,0,0,0,,{–Iceburg-san!\N\N–What the hell happened?!\N}– Iceburg-san!\N– O que diabos aconteceu?!
 Dialogue: 5,0:14:07.23,0:14:09.41,Main-207+,,0,0,0,,O que está acontecendo?!
 Dialogue: 5,0:14:10.24,0:14:12.44,Main-207+,,0,0,0,,Não podemos entrar, hein?
 Dialogue: 5,0:14:12.44,0:14:16.87,Main-207+,,0,0,0,,{We'll have to see Iceboss sooner or later.\N}De qualquer forma, precisamos ver Iceboss novamente de alguma forma.
@@ -235,7 +235,7 @@ Dialogue: 5,0:14:43.94,0:14:47.65,Main-207+,,0,0,0,,{Well}Mas, quanto maior o p�
 Dialogue: 5,0:14:55.41,0:14:57.41,Main-207+,,0,0,0,,{h}Ah! Essa batida...
 Dialogue: 5,0:14:57.41,0:14:59.22,Main-207+,,0,0,0,,{Don't tell me...! Oh, no...!}Não pode ser... Ele não!
 Dialogue: 5,0:14:59.22,0:15:00.71,Main-207+,,0,0,0,,Por que num momento como este?!
-Dialogue: 5,0:15:00.71,0:15:04.67,Main-207+,,0,0,0,,Ei, pessoal!\NVocê acabou de chamar meu nome?\N!
+Dialogue: 5,0:15:00.71,0:15:04.67,Main-207+,,0,0,0,,Ei, pessoal!\NVocê acabou de chamar meu nome?!
 Dialogue: 5,0:15:04.67,0:15:07.30,Main-207+,,0,0,0,,Nós não! Vá embora!
 Dialogue: 5,0:15:07.30,0:15:10.38,Main-207+,,0,0,0,,Onde?! Onde ele está?!
 Dialogue: 5,0:15:10.38,0:15:13.35,Main-207+,,0,0,0,,{h}Ah! Ele está ali!
@@ -243,18 +243,18 @@ Dialogue: 5,0:15:13.35,0:15:16.40,Main-207+,,0,0,0,,{–He's here!\N\N–Yow!\NY
 Dialogue: 5,0:15:16.40,0:15:17.35,Main-207+,,0,0,0,,{Yow!}
 Dialogue: 5,0:15:18.23,0:15:22.23,Main-207+,,0,0,0,,♪ Venha agora, não seja tímido, pergunte meu nome!\N♪
 Dialogue: 5,0:15:22.23,0:15:24.40,Main-207+,,0,0,0,,{We don't wanna ask! Get lost!}Nós não queremos! Se perder!
-Dialogue: 5,0:15:24.40,0:15:26.61,Main-207+,,0,0,0,,{You're the one who attacked \NIceburg-san, aren't you?\N!\N}Você atacou Iceburg-san, não foi?\N!
-Dialogue: 5,0:15:26.61,0:15:29.15,Main-207+,,0,0,0,,{–What?\N!\NHe did it?\N!\N\N–It's gotta be him!\N}- O que?\N!\NEle fez isso?\N!\N– Deve ser ele!
+Dialogue: 5,0:15:24.40,0:15:26.61,Main-207+,,0,0,0,,{You're the one who attacked \NIceburg-san, aren't you?!\N}Você atacou Iceburg-san, não foi?!
+Dialogue: 5,0:15:26.61,0:15:29.15,Main-207+,,0,0,0,,{–What?!\NHe did it?!\N\N–It's gotta be him!\N}- O que?!\NEle fez isso?!\N– Deve ser ele!
 Dialogue: 5,0:15:29.15,0:15:31.57,Main-207+,,0,0,0,,{Be gone from this island!}Saia desta ilha!
 Dialogue: 5,0:15:31.57,0:15:33.62,Main-207+,,0,0,0,,{You should be sent to the gallows, you punk!}Você deveria ser mandado para a forca, punk!
 Dialogue: 5,0:15:33.62,0:15:37.04,Main-207+,,0,0,0,,{Geez... what noisy flies...}Ugh... cale a boca, você voa!
 Dialogue: 5,0:15:38.12,0:15:42.29,Main-207+,,0,0,0,,{I'm the No. 1 super guy!}♪ Eu sou o super cara número um desta ilha! ♪
 Dialogue: 5,0:15:42.29,0:15:44.63,Main-207+,,0,0,0,,♪ A face do submundo Water Seven! ♪
-Dialogue: 5,0:15:44.63,0:15:47.71,Main-207+,,0,0,0,,{That's right!\NPeople call me.\N.\N.\Nwow.\N.\N.\N}Isso mesmo!\NAs pessoas me chamam.\N.\N.\NUau!
+Dialogue: 5,0:15:44.63,0:15:47.71,Main-207+,,0,0,0,,{That's right!\NPeople call me...\Nwow...\N}Isso mesmo!\NAs pessoas me chamam...\NUau!
 Dialogue: 5,0:15:50.67,0:15:52.80,Main-207+,,0,0,15,,Franky!
 Dialogue: 5,0:16:02.27,0:16:04.48,Main-207+,,0,0,0,,Mostre-se, Chapéu de Palha!
 Dialogue: 5,0:16:05.21,0:16:09.23,Main-207+,,0,0,0,,Você deve estar aqui, Chapéu de Palha Luffy!
-Dialogue: 5,0:16:09.23,0:16:13.74,Main-207+,,0,0,0,,{?\N}Que diabos?\N!\NAquele cara pervertido chamou meu nome!
+Dialogue: 5,0:16:09.23,0:16:13.74,Main-207+,,0,0,0,,{?\N}Que diabos?!\NAquele cara pervertido chamou meu nome!
 Dialogue: 5,0:16:13.74,0:16:17.33,Main-207+,,0,0,0,,As pessoas não o chamavam de Franky agora há pouco?
 Dialogue: 5,0:16:17.33,0:16:19.16,Main-207+,,0,0,0,,{So he is...}É ele!
 Dialogue: 5,0:16:21.66,0:16:24.12,Thoughts-207+,,0,0,0,,{He is the one who beat up Usopp!}Foi ele quem bateu no Usopp!
@@ -282,7 +282,7 @@ Dialogue: 5,0:17:42.80,0:17:45.25,Main-207+,,0,0,0,,{Well... sorry for making yo
 Dialogue: 5,0:17:45.25,0:17:48.08,Main-207+,,0,0,0,,De qualquer forma, estou feliz que você esteja vivo!
 Dialogue: 5,0:17:48.08,0:17:50.67,Main-207+,,0,0,0,,Por favor, concentre-se em descansar.
 Dialogue: 5,0:17:50.67,0:17:53.76,Main-207+,,0,0,0,,{We'll take care of the stuff at the shipyard.}Cuidaremos das coisas no estaleiro.
-Dialogue: 5,0:17:53.76,0:17:59.39,Main-207+,,0,0,0,,{By the way, about the culprits that broke into my room last night.\N.\N.\N}A propósito, sobre os culpados que invadiram meu quarto ontem à noite.\N.\N.
+Dialogue: 5,0:17:53.76,0:17:59.39,Main-207+,,0,0,0,,{By the way, about the culprits that broke into my room last night...\N}A propósito, sobre os culpados que invadiram meu quarto ontem à noite...
 Dialogue: 5,0:17:59.39,0:18:02.85,Main-207+,,0,0,0,,{Er}Uh... eles ainda estão investigando.
 Dialogue: 5,0:18:02.85,0:18:04.43,Main-207+,,0,0,0,,{Well, I remember it.}Sim, mas eu me lembro.
 Dialogue: 5,0:18:04.43,0:18:05.41,Main-207+,,0,0,0,,{What?}O que...?
@@ -290,12 +290,12 @@ Dialogue: 5,0:18:05.41,0:18:06.77,Main-207+,,0,0,0,,O que?
 Dialogue: 5,0:18:09.90,0:18:14.03,Main-207+,,0,0,0,,{There were two.\NOne was a big man with a mask on.\N}Havia dois.\NUm deles era um homem grande usando uma máscara.
 Dialogue: 5,0:18:14.03,0:18:15.74,Main-207+,,0,0,0,,O outro foi...
 Dialogue: 5,0:18:16.95,0:18:19.39,Main-207+,,0,0,0,,uma mulher alta com longos cabelos pretos.
-Dialogue: 5,0:18:22.95,0:18:27.54,Main-207+,,0,0,0,,{mistake about}Não há dúvidas.\NEsses olhos negros pertencem a.\N.\N.
+Dialogue: 5,0:18:22.95,0:18:27.54,Main-207+,,0,0,0,,{mistake about}Não há dúvidas.\NEsses olhos negros pertencem a...
 Dialogue: 5,0:18:36.21,0:18:38.47,Main-207+,,0,0,0,,{\i1}Iceburg-san...
 Dialogue: 5,0:18:39.09,0:18:43.56,Main-207+,,0,0,0,,{\i1}Iceburg-san recuperou a consciência!
-Dialogue: 5,0:18:43.56,0:18:44.97,Main-207+,,0,0,0,,{–Is that true?\N!\N\N–All right!\N}– Isso é verdade?\N!\N- Tudo bem!
+Dialogue: 5,0:18:43.56,0:18:44.97,Main-207+,,0,0,0,,{–Is that true?!\N\N–All right!\N}– Isso é verdade?!\N- Tudo bem!
 Dialogue: 5,0:18:44.97,0:18:47.80,Main-207+,,0,0,0,,{–Good!\N\N–All right!\N}- Ótimo!\N- Tudo bem!
-Dialogue: 5,0:18:52.44,0:18:57.57,Main-207+,,0,0,0,,{So you are.\N.\N.\NStraw Hat Luffy?\N}Então é você quem eles chamam de.\N.\N.\NLuffy do Chapéu de Palha?\N!
+Dialogue: 5,0:18:52.44,0:18:57.57,Main-207+,,0,0,0,,{So you are...\NStraw Hat Luffy?\N}Então é você quem eles chamam de...\NLuffy do Chapéu de Palha?!
 Dialogue: 5,0:19:00.32,0:19:06.29,Main-207+,,0,0,0,,Você ficou furioso enquanto eu estava fora, não foi?
 Dialogue: 5,0:19:06.29,0:19:09.08,Main-207+,,0,0,15,,Quando voltei, não pude acreditar no que via.
 Dialogue: 5,0:19:09.08,0:19:14.17,Main-207+,,0,0,15,,{Well, my house is totally unrecognizable.}Não sobrou nada da minha casa!
@@ -305,7 +305,7 @@ Dialogue: 5,0:19:21.39,0:19:24.68,Main-207+,,0,0,0,,{No one can stop me this wee
 Dialogue: 5,0:19:25.20,0:19:26.93,Main-207+,,0,0,0,,{No matter what you say,}Nada do que você disser terá importância.
 Dialogue: 5,0:19:26.93,0:19:32.40,Main-207+,,0,0,0,,{until I tear you up like rags, my anger won't subside!\N}Não vou me acalmar até te fazer em pedaços!
 Dialogue: 5,0:19:32.40,0:19:34.27,Main-207+,,0,0,0,,{–Hey, you!\N\N–Hm?\N}– Ei, você!\N- Hum?
-Dialogue: 5,0:19:34.27,0:19:38.03,Main-207+,,0,0,0,,{What'd you do with our money?\N!\N\NThe 200 million belly?\N!\N}Sim, você!\NO que você fez com nossa barriga de 200 milhões?\N!
+Dialogue: 5,0:19:34.27,0:19:38.03,Main-207+,,0,0,0,,{What'd you do with our money?!\N\NThe 200 million belly?!\N}Sim, você!\NO que você fez com nossa barriga de 200 milhões?!
 Dialogue: 5,0:19:38.03,0:19:39.61,Main-207+,,0,0,0,,Devolva-o para nós!
 Dialogue: 5,0:19:39.61,0:19:43.16,Main-207+,,0,0,0,,Huh?! 200 milhões de barriga?!
 Dialogue: 5,0:19:43.91,0:19:47.62,Main-207+,,0,0,0,,{I've already spent it!\N\NIt's completely gone!\N}Eu já gastei!\NDesapareceu completamente!
@@ -347,10 +347,10 @@ Dialogue: 5,0:23:12.82,0:23:14.83,Main-207+,,0,0,0,,{A}Eu sou um ciborgue!
 Dialogue: 5,0:23:24.25,0:23:26.13,Main-207+,,0,0,0,,{, you say}Um dos chapéus de palha?
 Dialogue: 5,0:23:27.84,0:23:30.01,Main-207+,,0,0,0,,Isso é verdade?
 Dialogue: 5,0:23:30.01,0:23:34.01,Main-207+,,0,0,0,,{Yes.\NMy own investigation led to the same culprit.\N}Sim.\NMinha própria investigação levou à mesma conclusão.
-Dialogue: 5,0:23:34.01,0:23:37.60,Main-207+,,0,0,0,,{Then.\N.\N.\N}Acabei de pedir ao Lucci para confirmar isso com o governo.\NEntão você vê.\N.\N.
+Dialogue: 5,0:23:34.01,0:23:37.60,Main-207+,,0,0,0,,{Then...\N}Acabei de pedir ao Lucci para confirmar isso com o governo.\NEntão você vê...
 Dialogue: 5,0:23:37.60,0:23:41.85,Main-207+,,0,0,0,,{Coo coo! }Sim. Quando entrei em contato com o governo,
 Dialogue: 5,0:23:41.85,0:23:45.36,Main-207+,,0,0,0,,{they said that she's one of the Straw Hats. Coo coo!}eles disseram que ela é um dos Chapéus de Palha.
-Dialogue: 5,0:23:52.91,0:23:59.00,Main-207+,,0,0,0,,{are the culprits.\N}Então.\N.\N.\Neles, os Chapéus de Palha, não têm pernas para se apoiar.
+Dialogue: 5,0:23:52.91,0:23:59.00,Main-207+,,0,0,0,,{are the culprits.\N}Então...\Neles, os Chapéus de Palha, não têm pernas para se apoiar.
 Dialogue: 5,0:23:59.00,0:24:00.84,Main-207+,,0,0,0,,Que diabos?!
 Dialogue: 5,0:24:00.84,0:24:03.29,Main-207+,,0,0,0,,Eles fizeram isso para se vingar de nós, já que não consertávamos a nave deles?!
 Dialogue: 5,0:24:03.81,0:24:05.79,Main-207+,,0,0,0,,Difícil dizer.
@@ -372,7 +372,7 @@ Dialogue: 5,0:25:02.98,0:25:09.23,Main-207+,,0,0,0,,{At Dock One, the pirate Str
 Dialogue: 5,0:25:09.23,0:25:12.19,Main-207+,,0,0,0,,{started a fight with Franky \Nand they're wrecking the shipyard!\N}e eles estão destruindo o estaleiro!
 Dialogue: 5,0:25:16.53,0:25:18.62,Main-207+,,0,0,0,,Chapéu de Palha...
 Dialogue: 5,0:25:18.62,0:25:20.20,Main-207+,,0,0,0,,{\i1}Iceburg-san!
-Dialogue: 5,0:25:23.16,0:25:28.13,Main-207+,,0,0,0,,{That bastard.\N.\N.\N!\NHow dare he just show up at the Dock like that.\N.\N.\N?\N}Aquele bastardo!\NEle tem coragem de mostrar a cara no cais!
+Dialogue: 5,0:25:23.16,0:25:28.13,Main-207+,,0,0,0,,{That bastard...!\NHow dare he just show up at the Dock like that...?\N}Aquele bastardo!\NEle tem coragem de mostrar a cara no cais!
 Dialogue: 5,0:25:31.46,0:25:35.18,Main-207+,,0,0,0,,{\i1}Por favor, descanse um pouco, Iceburg-san.
 Dialogue: 5,0:25:36.97,0:25:40.01,Main-207+,,0,0,0,,{, so..}Estarei aqui ao seu lado.
 Dialogue: 5,0:25:49.52,0:25:51.40,Main-207+,,0,0,0,,{\fad(150,150)}Pistola!
@@ -389,7 +389,7 @@ Dialogue: 5,0:26:54.46,0:26:57.34,Main-207+,,0,0,0,,{\fad(150,150)}Chicote de ch
 Dialogue: 5,0:27:06.39,0:27:09.89,Main-207+,,0,0,0,,Que diabos?! O que aconteceu?!
 Dialogue: 5,0:27:09.89,0:27:11.19,Main-207+,,0,0,0,,Ah! Isso é...!
 Dialogue: 5,0:27:13.48,0:27:14.98,Main-207+,,0,0,0,,Quem foi esse?!
-Dialogue: 5,0:27:20.16,0:27:26.79,Main-207+,,0,0,0,,{How dare you pull all this crap?\N\NWhat's your goal, Straw Hat?\N!\N}Você tem muita ousadia em puxar essa porcaria!\NQual é o seu objetivo, Chapéu de Palha?\N!
+Dialogue: 5,0:27:20.16,0:27:26.79,Main-207+,,0,0,0,,{How dare you pull all this crap?\N\NWhat's your goal, Straw Hat?!\N}Você tem muita ousadia em puxar essa porcaria!\NQual é o seu objetivo, Chapéu de Palha?!
 Dialogue: 5,0:27:33.38,0:27:36.50,Main-207+,,0,0,0,,Galley-La... O que você quer?
 Dialogue: 5,0:27:38.51,0:27:42.47,Main-207+,,0,0,0,,{foremen from Dock One}São os capatazes do Dock One!
 Dialogue: 5,0:27:53.10,0:27:57.07,Main-207+,,0,0,0,,Tudo bem! Os capatazes finalmente chegaram!
@@ -402,26 +402,26 @@ Dialogue: 5,0:28:13.46,0:28:15.34,Main-207+,,0,0,0,,Você quer se machucar?
 Dialogue: 5,0:28:15.34,0:28:17.71,Main-207+,,0,0,0,,{It's amazing you say that.}É incrível você dizer isso.
 Dialogue: 5,0:28:17.71,0:28:20.17,Main-207+,,0,0,0,,{After you messed up our factory this much,}Você destruiu nossa fábrica,
 Dialogue: 5,0:28:20.17,0:28:23.34,Main-207+,,0,0,0,,{we don't even need a reason to come stop you!}então temos que fazer você pagar o preço!
-Dialogue: 5,0:28:23.34,0:28:28.11,Main-207+,,0,0,0,,{He's right, Franky!\N\NHow are you gonna settle this?\N!\N}Ele está certo, Franky!\NComo você vai resolver isso?\N!
+Dialogue: 5,0:28:23.34,0:28:28.11,Main-207+,,0,0,0,,{He's right, Franky!\N\NHow are you gonna settle this?!\N}Ele está certo, Franky!\NComo você vai resolver isso?!
 Dialogue: 5,0:28:28.11,0:28:32.69,Main-207+,,0,0,0,,{gaijin - "It" is fine as a translation for "その"}Espere um segundo, Tilestone.\NFalaremos sobre isso mais tarde.
 Dialogue: 5,0:28:32.69,0:28:36.02,Main-207+,,0,0,0,,Temos negócios mais importantes agora.
 Dialogue: 5,0:28:37.61,0:28:40.53,Main-207+,,0,0,0,,Certo, Luffy do Chapéu de Palha?
 Dialogue: 5,0:28:40.53,0:28:42.40,Main-207+,,0,0,0,,{You know what I'm talking about, right?}Você sabe do que estou falando.
 Dialogue: 5,0:28:42.40,0:28:45.24,Main-207+,,0,0,0,,{I'm surprised that you \Ncould show your face again.\N}Estou surpreso que você tenha aparecido aqui novamente.
 Dialogue: 5,0:28:45.24,0:28:49.49,Main-207+,,0,0,0,,{pops}O que?\NPor que?\NViemos aqui porque ouvimos as notícias sobre o Iceboss.
-Dialogue: 5,0:28:51.00,0:28:56.46,Main-207+,,0,0,0,,{Geez.\N.\N.\NOur family wasn't enough, \Nso you messed with Galley-La, too?\N}Honestamente, minha família não era suficiente, então você mexeu com Galley-La também?
-Dialogue: 5,0:28:56.46,0:29:00.96,Main-207+,,200,200,0,,{Are you guys all going through puberty, hurting everyone you come across?\N}O quê, vocês são apenas alguns punks púberes que irritam e irritam todo mundo que encontram?\N!
+Dialogue: 5,0:28:51.00,0:28:56.46,Main-207+,,0,0,0,,{Geez...\NOur family wasn't enough, \Nso you messed with Galley-La, too?\N}Honestamente, minha família não era suficiente, então você mexeu com Galley-La também?
+Dialogue: 5,0:28:56.46,0:29:00.96,Main-207+,,200,200,0,,{Are you guys all going through puberty, hurting everyone you come across?\N}O quê, vocês são apenas alguns punks púberes que irritam e irritam todo mundo que encontram?!
 Dialogue: 5,0:29:00.96,0:29:04.55,Main-207+,,0,0,0,,Como eu disse, não fizemos nada!
 Dialogue: 5,0:29:04.55,0:29:08.51,Main-207+,,0,0,0,,{If you play innocent, \Nthen we'll just put the screws on you.\N}Faça-se de bobo e nós simplesmente colocaremos os parafusos em você!
 Dialogue: 5,0:29:08.51,0:29:12.62,Main-207+,,0,0,0,,{\fad(150,150)}Ação de corda meio nó!
 Dialogue: 5,0:29:13.94,0:29:16.65,Main-207+,,0,0,0,,{..}Eu não consigo respirar. Eu não consigo respirar!
 Dialogue: 5,0:29:17.61,0:29:20.73,Main-207+,,0,0,0,,{\fad(150,150)}Ar... Dirija!
-Dialogue: 5,0:29:23.53,0:29:28.03,Main-207+,,0,0,0,,Seus bastardos!\NEu disse para não interferir!\NVocê não entende?\N!
+Dialogue: 5,0:29:23.53,0:29:28.03,Main-207+,,0,0,0,,Seus bastardos!\NEu disse para não interferir!\NVocê não entende?!
 Dialogue: 5,0:29:28.03,0:29:31.49,Main-207+,,0,0,0,,{who holds the}Sou eu que tenho rancor dele!
 Dialogue: 5,0:29:35.21,0:29:36.46,Main-207+,,0,0,0,,{Coo coo!}
 Dialogue: 5,0:29:36.46,0:29:39.30,Main-207+,,0,0,0,,{Beat them up, Galley-La Company!}Bata neles, Companhia Galley-La!
 Dialogue: 5,0:29:39.30,0:29:41.84,Main-207+,,0,0,0,,{strongest five}Os cinco furiosos da empresa estão lutando!
-Dialogue: 5,0:29:41.84,0:29:45.47,Main-207+,,0,0,0,,{What?\NWhat?\N}Espere, o que?\NPor que os construtores navais também estão lutando contra nós?\N!
+Dialogue: 5,0:29:41.84,0:29:45.47,Main-207+,,0,0,0,,{What?\NWhat?\N}Espere, o que?\NPor que os construtores navais também estão lutando contra nós?!
 Dialogue: 5,0:29:45.47,0:29:47.30,Main-207+,,0,0,0,,{Itching, itching...}Está esquentando.
 Dialogue: 5,0:29:50.14,0:29:56.66,Main-207+,,0,0,0,,{I don't have }Ei!\NEspere!\NNão tenho o menor motivo para brigar com vocês!
 Dialogue: 5,0:30:00.19,0:30:03.36,Main-207+,,0,0,0,,Ele tem... poderes de fruta do diabo?
@@ -436,9 +436,9 @@ Dialogue: 5,0:30:50.03,0:30:54.41,Main-207+,,0,0,0,,{super strong, as always!\N}
 Dialogue: 5,0:31:02.25,0:31:05.63,Main-207+,,0,0,0,,{Coo coo! Coo coo!}
 Dialogue: 5,0:31:09.68,0:31:12.93,Main-207+,,0,0,0,,{...}Seu idiota! Pare com isso!
 Dialogue: 5,0:31:29.24,0:31:31.20,Main-207+,,0,0,0,,{really strong...}Esses caras são durões!
-Dialogue: 5,0:31:31.20,0:31:34.77,Main-207+,,0,0,0,,{What's with you guys?\N!\N\NTell me the reason at least!\N}Droga!\NO que há com você?\N!\NPelo menos me diga por que você está fazendo isso!
-Dialogue: 5,0:31:40.29,0:31:44.42,Main-207+,,0,0,0,,{.\N.\N.\NWe're}Chapéu de Palha, somos nós que gostaríamos de saber porquê.
-Dialogue: 5,0:31:46.71,0:31:53.01,Main-207+,,200,200,0,,{The culprits who broke in to our main office last night and attacked Iceburg-san.\N.\N.\N}Ontem à noite, intrusos invadiram nosso escritório principal e atacaram Iceburg-san.
+Dialogue: 5,0:31:31.20,0:31:34.77,Main-207+,,0,0,0,,{What's with you guys?!\N\NTell me the reason at least!\N}Droga!\NO que há com você?!\NPelo menos me diga por que você está fazendo isso!
+Dialogue: 5,0:31:40.29,0:31:44.42,Main-207+,,0,0,0,,{...\NWe're}Chapéu de Palha, somos nós que gostaríamos de saber porquê.
+Dialogue: 5,0:31:46.71,0:31:53.01,Main-207+,,200,200,0,,{The culprits who broke in to our main office last night and attacked Iceburg-san...\N}Ontem à noite, intrusos invadiram nosso escritório principal e atacaram Iceburg-san.
 Dialogue: 5,0:31:53.01,0:31:54.64,Main-207+,,0,0,0,,{were from your gang, weren't they?!}Foram vocês! Admita!
 Dialogue: 5,0:31:54.64,0:31:58.06,Main-207+,,0,0,0,,Não pode ser... Isso não pode ser...
 Dialogue: 5,0:31:58.06,0:32:00.77,Thoughts-207+,,0,0,0,,{They butted into my fight.}Eles realmente mexeram com a minha luta.
@@ -460,11 +460,11 @@ Dialogue: 5,0:33:13.93,0:33:16.97,Main-207+,,0,0,0,,Os culpados que atacaram o S
 Dialogue: 5,0:33:19.81,0:33:23.52,Main-207+,,0,0,0,,os Piratas do Chapéu de Palha!
 Dialogue: 5,0:33:26.73,0:33:30.48,Main-207+,,0,0,0,,Iceburg foi atacado?\NDo que você está falando?
 Dialogue: 5,0:33:34.03,0:33:36.78,Main-207+,,0,0,0,,{Wh-What did they mean?}O que eles significam?
-Dialogue: 5,0:33:38.45,0:33:43.12,Main-207+,,0,0,0,,D.\N.\N.\NNão seja ridículo!\NPor que.\N.\N.\NPor que faríamos uma coisa dessas?\N!
+Dialogue: 5,0:33:38.45,0:33:43.12,Main-207+,,0,0,0,,D...\NNão seja ridículo!\NPor que...\NPor que faríamos uma coisa dessas?!
 Dialogue: 5,0:33:43.66,0:33:50.46,Main-207+,,200,200,0,,{When Iceburg-san came around, he told us that he remembered the two culprits.\N}Quando Iceburg-san apareceu, ele nos disse que se lembrava dos dois que fizeram isso.
 Dialogue: 5,0:33:50.46,0:33:53.97,Main-207+,,0,0,0,,{One was a big man with a mask on.}Um deles era um homem grande usando uma máscara.
 Dialogue: 5,0:33:53.97,0:33:57.18,Main-207+,,0,0,0,,A outra era uma mulher alta.
-Dialogue: 5,0:33:57.18,0:34:03.10,Main-207+,,0,0,0,,{said that she's one of you guys.\N.\N.\N}Quando perguntamos ao governo, eles confirmaram a afiliação dela a você:
+Dialogue: 5,0:33:57.18,0:34:03.10,Main-207+,,0,0,0,,{said that she's one of you guys...\N}Quando perguntamos ao governo, eles confirmaram a afiliação dela a você:
 Dialogue: 5,0:34:03.93,0:34:06.96,Main-207+,,0,0,0,,{For Gaijin: can you think of anything better for this line?\N}Nico Robin, a mulher com uma recompensa pela cabeça!
 Dialogue: 5,0:34:08.06,0:34:09.49,Main-207+,,0,0,0,,Robin?!
 Dialogue: 5,0:34:13.82,0:34:19.28,Main-207+,,0,0,0,,{Did you come to this island in order \Nto kill Iceburg-san from the start?\N}A vinda para esta ilha foi apenas uma conspiração para matar Iceburg-san?
@@ -490,7 +490,7 @@ Dialogue: 5,0:35:25.68,0:35:31.15,Main-207+,,0,0,0,,{say things like that}não f
 Dialogue: 5,0:35:31.15,0:35:32.86,Main-207+,,0,0,0,,Luffy...
 Dialogue: 5,0:35:32.86,0:35:34.77,Main-207+,,0,0,0,,Deixe-me ver o Iceboss!
 Dialogue: 5,0:35:34.77,0:35:37.82,Main-207+,,0,0,0,,{I'm sure he was mistaken!\N\NThere's no way it was Robin!\N}Tenho certeza que ele está enganado!\NNão tem como ser Robin!
-Dialogue: 5,0:35:37.82,0:35:42.49,Main-207+,,0,0,0,,{don't know what you'd do}Por que deixaríamos você se aproximar quando não podemos determinar suas intenções?\N!
+Dialogue: 5,0:35:37.82,0:35:42.49,Main-207+,,0,0,0,,{don't know what you'd do}Por que deixaríamos você se aproximar quando não podemos determinar suas intenções?!
 Dialogue: 5,0:35:43.49,0:35:46.49,Main-207+,,0,0,0,,{He's right! Tie up the culprits!}Ele está certo! Amarre-os!
 Dialogue: 5,0:35:46.49,0:35:49.37,Main-207+,,0,0,0,,{town's }Eles tentaram matar nosso herói!
 Dialogue: 5,0:35:49.37,0:35:51.87,Main-207+,,0,0,0,,Mande-os para a forca!

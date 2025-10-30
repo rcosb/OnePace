@@ -119,7 +119,7 @@ Dialogue: 0,0:02:14.32,0:02:15.44,Main-480p,,0,0,0,,Huh?
 Dialogue: 0,0:02:16.72,0:02:18.87,Main-480p,,0,0,0,[Honorifics],{\i1}Ahh... Crocodilo-sama!
 Dialogue: 0,0:02:18.87,0:02:20.16,Main-480p,,0,0,0,,{As always, he came for us!}Eu sabia que ele viria!
 Dialogue: 0,0:02:20.16,0:02:22.13,Main-480p,,0,0,0,,Crocodilo?!
-Dialogue: 0,0:02:22.13,0:02:23.66,Main-480p,,0,0,0,,{Don't tell me it's the Crocodile,\None of the Seven Warlords.\N.\N.\N}Dos Sete Senhores da Guerra.\N.\N.\N?
+Dialogue: 0,0:02:22.13,0:02:23.66,Main-480p,,0,0,0,,{Don't tell me it's the Crocodile,\None of the Seven Warlords...\N}Dos Sete Senhores da Guerra...?
 Dialogue: 0,0:02:24.93,0:02:27.20,Main-480p,,0,0,0,,Silêncio, seus tolos!
 Dialogue: 0,0:02:27.20,0:02:31.63,Main-480p,,0,0,0,,{I just came to get that pirate's head.}Eu só vim pela cabeça daquele pirata!
 Dialogue: 0,0:02:31.63,0:02:33.21,Main-480p,,0,0,0,,{He's so wonderful...}Ele é incrível...
@@ -136,15 +136,15 @@ Dialogue: 0,0:02:48.89,0:02:54.36,Captions-480p,,0,0,0,,{\pos(320,420)\c&H000000
 Dialogue: 0,0:02:52.38,0:02:54.98,Main-480p,,0,0,0,,Bem, me chame do que quiser.
 Dialogue: 0,0:02:54.98,0:02:59.65,Main-480p,,0,0,0,,{Anyway, pirates, don't cause\Na ruckus in this country.\N}Não pensem que podem entrar e saquear este país, piratas.
 Dialogue: 0,0:02:59.65,0:03:03.32,Main-480p,,0,0,0,,Ei, ei, ei, ei!\NVocê não está nos subestimando?
-Dialogue: 0,0:03:03.32,0:03:06.62,Main-480p,,0,0,0,,{Are you planning to take\Non all of us by yourself?\N!\N}Você está pensando em nos enfrentar sozinho?\N!
+Dialogue: 0,0:03:03.32,0:03:06.62,Main-480p,,0,0,0,,{Are you planning to take\Non all of us by yourself?!\N}Você está pensando em nos enfrentar sozinho?!
 Dialogue: 0,0:03:06.62,0:03:10.29,Main-480p,,0,0,0,,{You're the government's dog,\None who sold his soul to authority!\N}Você se vendeu às autoridades, seu cão do governo!
-Dialogue: 0,0:03:10.29,0:03:12.50,Main-480p,,0,0,0,,{Who do you think you are,\Nacting like a hero?\N!\N}Você se imagina algum tipo de herói?\N!
+Dialogue: 0,0:03:10.29,0:03:12.50,Main-480p,,0,0,0,,{Who do you think you are,\Nacting like a hero?!\N}Você se imagina algum tipo de herói?!
 Dialogue: 0,0:03:13.13,0:03:15.46,Main-480p,,0,0,0,,{Those who don't wanna die,\Nlay down on the ground.\N}Aqueles que desejam viver, deitem-se no chão.
-Dialogue: 0,0:03:15.46,0:03:18.42,Main-480p,,0,0,0,,{an idiot or what}Ele é estúpido?\N!\NEle está bem aberto!
+Dialogue: 0,0:03:15.46,0:03:18.42,Main-480p,,0,0,0,,{an idiot or what}Ele é estúpido?!\NEle está bem aberto!
 Dialogue: 0,0:03:18.92,0:03:22.84,Main-480p,,0,0,0,,Pegue-o!\NO dinheiro e os objetos de valor desta cidade são nossos!
 Dialogue: 0,0:03:22.84,0:03:24.60,Main-480p,,0,0,0,,- Sim!
 Dialogue: 0,0:03:22.84,0:03:24.60,Main-480p,,0,0,0,,- Sim!
-Dialogue: 0,0:03:31.60,0:03:33.35,Main-480p,,0,0,0,,{So this is what the famous\NSeven Warlords are like?\N!\N}Este é realmente um famoso senhor da guerra?\N!
+Dialogue: 0,0:03:31.60,0:03:33.35,Main-480p,,0,0,0,,{So this is what the famous\NSeven Warlords are like?!\N}Este é realmente um famoso senhor da guerra?!
 Dialogue: 0,0:04:08.35,0:04:10.02,Main-480p,,0,0,0,,Humph.
 Dialogue: 0,0:04:10.02,0:04:14.02,Main-480p,,0,0,0,,{I'm a pirate on a\Ndifferent level, you pig.\N}Sou um pirata de um calibre totalmente diferente, porco.
 Dialogue: 0,0:04:17.23,0:04:18.52,Main-480p,,0,0,0,,Ah!
@@ -155,7 +155,7 @@ Dialogue: 0,0:04:55.39,0:04:57.73,Main-480p,,0,0,0,,Crocodilo de novo...
 Dialogue: 0,0:04:57.60,0:05:02.03,Captions-480p,,0,0,0,,{\pos(320,337)\bord0\4a&HFF&\blur0.6\fad(1500,0)}Palácio Onionarna, Reino de Arabasa
 Dialogue: 0,0:04:57.60,0:05:02.03,Captions-480p,,0,0,0,,{\pos(320,337)\c&H000000&\1a&HFF&\blur0.6\fad(1500,0)\t(4411,0,\1a&H00&)}Palácio Onionarna, Reino de Arabasa
 Dialogue: 0,0:04:59.80,0:05:02.03,Main-480p,,0,0,0,,Ele estava um passo à frente de novo?
-Dialogue: 0,0:05:02.03,0:05:05.86,Main-480p,,0,0,0,,{it was already.\N.\N.\N}Quando chegamos a Nanohana, tudo estava acabado.
+Dialogue: 0,0:05:02.03,0:05:05.86,Main-480p,,0,0,0,,{it was already...\N}Quando chegamos a Nanohana, tudo estava acabado.
 Dialogue: 0,0:05:05.86,0:05:07.80,Main-480p,,0,0,0,,Eu vejo.
 Dialogue: 0,0:05:07.80,0:05:10.74,Main-480p,,0,0,0,,{okay}De qualquer forma, tudo bem, desde que os cidadãos estejam seguros.
 Dialogue: 0,0:05:10.74,0:05:14.66,Captions-480p,,0,0,0,,{\pos(320,340)\bord0\4a&HFF&\blur0.6\fad(0,1400)}Rei de Alabasta, Nefertari Cobra
@@ -166,7 +166,7 @@ Dialogue: 0,0:05:18.42,0:05:21.60,Main-480p,,0,0,0,,{This}Error 500 (Server Erro
 Dialogue: 0,0:05:25.30,0:05:26.97,Main-480p,,0,0,0,,Luffy! Não minta!
 Dialogue: 0,0:05:27.85,0:05:29.93,Main-480p,,0,0,0,,Diga-me o que você sabe.
 Dialogue: 0,0:05:30.91,0:05:34.39,Main-480p,,0,0,0,,Ei, por que você está desviando o olhar?\NOlhe-me nos olhos!
-Dialogue: 0,0:05:35.79,0:05:39.36,Main-480p,,0,0,0,,Bem.\N.\N.\Nhum, sério.\N.\N.\Neu não sei de nada.
+Dialogue: 0,0:05:35.79,0:05:39.36,Main-480p,,0,0,0,,Bem...\Nhum, sério...\Neu não sei de nada.
 Dialogue: 0,0:05:39.36,0:05:41.06,Main-480p,,0,0,0,,{Then let me ask you something.}Então me responda isso.
 Dialogue: 0,0:05:41.06,0:05:43.00,Main-480p,,0,0,0,,{How did enough food for 8 people,}Para esta viagem a Alabasta,
 Dialogue: 0,0:05:43.00,0:05:46.20,Main-480p,,0,0,0,,{which I carefully divided so that\Nit'd last until we get to Arabasta,}Eu cuidadosamente adquiri e dividi comida suficiente para oito pessoas,
@@ -176,18 +176,18 @@ Dialogue: 0,0:05:58.18,0:06:01.00,Main-480p,,0,0,0,,{DemonRin, in Viz, Sanji not
 Dialogue: 0,0:06:01.00,0:06:03.46,Main-480p,,0,0,0,,{Food crumbs}Ah! Atirar! Farofa?!
 Dialogue: 0,0:06:05.05,0:06:08.49,Main-480p,,0,0,0,,{See, it was you!}Foi você!
 Dialogue: 0,0:06:12.28,0:06:14.01,Main-480p,,0,0,0,,{Geez...}Vamos...
-Dialogue: 0,0:06:14.01,0:06:16.73,Main-480p,,0,0,0,[Honorifics],{\i1}Ah, Nami-san.\N.\N.\NVocê viu, certo?
+Dialogue: 0,0:06:14.01,0:06:16.73,Main-480p,,0,0,0,[Honorifics],{\i1}Ah, Nami-san...\NVocê viu, certo?
 Dialogue: 0,0:06:16.73,0:06:19.69,Main-480p,,0,0,0,,{is no longer good enough.\N}A grande ratoeira simplesmente não serve mais.
 Dialogue: 0,0:06:19.69,0:06:22.40,Main-480p,,0,0,0,,{a lockable refrigerator.}Por favor, compre uma geladeira com fechadura.
 Dialogue: 0,0:06:22.40,0:06:24.44,Main-480p,,0,0,0,,Bem...
 Dialogue: 0,0:06:25.66,0:06:27.36,Main-480p,,0,0,0,,vou pensar sobre isso...
 Dialogue: 0,0:06:27.36,0:06:29.82,Main-480p,,0,0,0,,{since it can be a life or death issue...}já que nossas vidas podem depender disso.
 Dialogue: 0,0:06:31.54,0:06:32.24,Main-480p,,0,0,0,,Hum?
-Dialogue: 0,0:06:33.49,0:06:36.37,Main-480p,,0,0,0,[Honorifics],{Well.\N.\N.\N}Pois bem!\NÉ melhor pegarmos alguma coisa para Sanji-kun.
+Dialogue: 0,0:06:33.49,0:06:36.37,Main-480p,,0,0,0,[Honorifics],{Well...\N}Pois bem!\NÉ melhor pegarmos alguma coisa para Sanji-kun.
 Dialogue: 0,0:06:37.36,0:06:40.21,Main-480p,,0,0,0,,Ei, teve sorte na pesca?
 Dialogue: 0,0:06:40.71,0:06:42.63,Main-480p,,0,0,0,,B-Bem...
 Dialogue: 0,0:06:47.97,0:06:50.09,Main-480p,,0,0,0,,{\i1}me sinto com sorte...
-Dialogue: 0,0:06:50.09,0:06:52.80,Main-480p,,0,0,0,,{Seriously, I can't take my eyes\Noff these guys for a moment.\N.\N.\N}Sério, não posso virar as costas nem por um segundo!
+Dialogue: 0,0:06:50.09,0:06:52.80,Main-480p,,0,0,0,,{Seriously, I can't take my eyes\Noff these guys for a moment...\N}Sério, não posso virar as costas nem por um segundo!
 Dialogue: 0,0:06:58.97,0:07:00.81,Main-480p,,0,0,0,[Honorifics],{\i1}Sr.2 Bon Kurei-sama!
 Dialogue: 0,0:07:00.81,0:07:01.98,Main-480p,,0,0,0,,O que é?!
 Dialogue: 0,0:07:01.98,0:07:04.94,Main-480p,,0,0,0,,Há fumaça às 12 horas!
@@ -207,19 +207,19 @@ Dialogue: 0,0:07:47.61,0:07:50.44,Main-480p,,0,0,0,,{see}Crocodilo, hein...? Mal
 Dialogue: 0,0:07:50.44,0:07:52.99,Main-480p,,0,0,0,,Crocodilo é um herói em Alabasta...
 Dialogue: 0,0:07:52.99,0:07:55.74,Main-480p,,0,0,0,,{crushes}porque ele impede os piratas que atacam as cidades.
 Dialogue: 0,0:07:55.74,0:07:59.24,Main-480p,,0,0,0,,Mas essa é apenas a sua face pública.
-Dialogue: 0,0:07:59.24,0:08:03.72,Main-480p,,0,0,0,,{Behind the scenes, he is pulling strings to cause a civil war in Arabasta.\N.\N.\N}Ele é o cérebro por trás da guerra civil.\N.\N.
+Dialogue: 0,0:07:59.24,0:08:03.72,Main-480p,,0,0,0,,{Behind the scenes, he is pulling strings to cause a civil war in Arabasta...\N}Ele é o cérebro por trás da guerra civil...
 Dialogue: 0,0:08:03.72,0:08:05.96,Main-480p,,0,0,0,,{in order to take over Arabasta...}projetado para assumir Alabasta.
 Dialogue: 0,0:08:05.96,0:08:09.04,Main-480p,,0,0,0,,Ninguém percebeu isso.
 Dialogue: 0,0:08:09.04,0:08:11.67,Main-480p,,0,0,0,,{The citizens... My father... No one...}Nem os cidadãos... nem meu pai...
 Dialogue: 0,0:08:11.67,0:08:12.70,Main-480p,,0,0,0,,{splitted lines for being too long}Tudo bem então!
-Dialogue: 0,0:08:12.70,0:08:16.09,Main-480p,,0,0,0,,{In any case, all we have to do is beat up that Crocodile, right?\N}Eu só tenho que chutar a bunda desse Crocodilo, certo?\N!
-Dialogue: 0,0:08:16.09,0:08:21.72,Main-480p,,0,0,0,,{If we can first stop the\Ncivil war and expel Baroque Works.\N.\N.\N}Sim.\NPrimeiro paramos a guerra civil, depois expulsamos a Baroque Works.\N.\N.
+Dialogue: 0,0:08:12.70,0:08:16.09,Main-480p,,0,0,0,,{In any case, all we have to do is beat up that Crocodile, right?\N}Eu só tenho que chutar a bunda desse Crocodilo, certo?!
+Dialogue: 0,0:08:16.09,0:08:21.72,Main-480p,,0,0,0,,{If we can first stop the\Ncivil war and expel Baroque Works...\N}Sim.\NPrimeiro paramos a guerra civil, depois expulsamos a Baroque Works...
 Dialogue: 0,0:08:21.72,0:08:23.15,Main-480p,,0,0,0,,Obras Barrocas?
-Dialogue: 0,0:08:23.15,0:08:26.80,Main-480p,,0,0,0,,Ahh.\N.\N.\NÉ, você também não sabe sobre eles, não é?
+Dialogue: 0,0:08:23.15,0:08:26.80,Main-480p,,0,0,0,,Ahh...\NÉ, você também não sabe sobre eles, não é?
 Dialogue: 0,0:08:26.80,0:08:29.60,Main-480p,,0,0,0,,{I can't\Nquite understand, either.\N}Para ser sincero, também estou um pouco perdido.
 Dialogue: 0,0:08:29.60,0:08:32.32,Main-480p,,0,0,0,,A Baroque Works tem um sistema complicado.
 Dialogue: 0,0:08:32.32,0:08:34.78,Main-480p,,0,0,0,,O sistema em si é simples.
-Dialogue: 0,0:08:34.78,0:08:37.87,Main-480p,,0,0,0,,{First, at the top}Começando no topo, está o chefe, Crocodile.\N.\N.
+Dialogue: 0,0:08:34.78,0:08:37.87,Main-480p,,0,0,0,,{First, at the top}Começando no topo, está o chefe, Crocodile...
 Dialogue: 0,0:08:37.87,0:08:40.33,Main-480p,,0,0,0,,{in other words,}também conhecido como Sr.
 Dialogue: 0,0:08:41.40,0:08:46.40,Main-480p,,0,0,0,,{There're 12 agents and one animal who receive orders from the boss directly.\N}Recebendo ordens diretamente do chefe estão 12 agentes e 1 animal.
 Dialogue: 0,0:08:46.40,0:08:52.05,Main-480p,,0,0,0,,{Each of the 12 agents operates separately as a pair with a female agent.\N}Cada um dos 12 melhores homens está emparelhado com uma agente feminina.
@@ -240,7 +240,7 @@ Dialogue: 0,0:09:25.29,0:09:28.38,Main-480p,,0,0,0,,É aquela mulher que consegu
 Dialogue: 0,0:09:28.38,0:09:32.80,Main-480p,,0,0,0,,{From }Do Sr.\N1 ao Sr.\N5 são chamados de "agentes oficiais".
 Dialogue: 0,0:09:32.80,0:09:35.31,Main-480p,,0,0,0,,{They all have the powers of a devil fruit.}Todos eles têm habilidades de Akuma no Mi,
 Dialogue: 0,0:09:35.31,0:09:38.59,Main-480p,,0,0,0,,{And they work only on\Nreally important missions.\N}e eles só recebem as missões mais importantes.
-Dialogue: 0,0:09:38.59,0:09:43.12,Main-480p,,0,0,0,,{For Mr.\N6 through Mr.\N13, their job\Nis fund raising for the company.\N.\N.\N}Do Sr.\N6 ao Sr.\N13 têm a tarefa de aumentar o capital da empresa,
+Dialogue: 0,0:09:38.59,0:09:43.12,Main-480p,,0,0,0,,{For Mr.\N6 through Mr.\N13, their job\Nis fund raising for the company...\N}Do Sr.\N6 ao Sr.\N13 têm a tarefa de aumentar o capital da empresa,
 Dialogue: 0,0:09:43.12,0:09:47.48,Main-480p,,0,0,0,,{by leading the employees at\Nthe entrance of the Grand Line.\N}e supervisionam os funcionários no início da Grand Line.
 Dialogue: 0,0:09:47.48,0:09:49.98,Main-480p,,0,0,0,,{Come to think of it}Você sabe, havia um macaco e uma galinha estranhos.
 Dialogue: 0,0:09:49.98,0:09:53.67,Main-480p,,0,0,0,,{They're Mr. 13 and Miss Friday}Eles seriam o Sr. 13 e a Srta. Sexta-feira.
@@ -253,13 +253,13 @@ Dialogue: 0,0:10:11.29,0:10:14.57,Main-480p,,0,0,0,,{Rin: Usopp... this math isn
 Dialogue: 0,0:10:14.57,0:10:16.26,Main-480p,,0,0,0,,Existem 2.000 subordinados?!
 Dialogue: 0,0:10:16.26,0:10:17.30,Main-480p,,0,0,0,,2.000!
 Dialogue: 0,0:10:17.30,0:10:19.38,Main-480p,,0,0,0,,Tudo bem! Eu entendo muito bem agora!
-Dialogue: 0,0:10:19.38,0:10:23.01,Main-480p,,0,0,0,,{In any case, all we have to do\Nis beat up that Crocodile, right?\N}O que significa que eu só preciso chutar a bunda desse Crocodilo, certo?\N!
+Dialogue: 0,0:10:19.38,0:10:23.01,Main-480p,,0,0,0,,{In any case, all we have to do\Nis beat up that Crocodile, right?\N}O que significa que eu só preciso chutar a bunda desse Crocodilo, certo?!
 Dialogue: 0,0:10:23.01,0:10:25.22,Main-480p,,0,0,0,,{I'm sure you don't get it at all!\N}Definitivamente entra por um ouvido e sai pelo outro!
-Dialogue: 0,0:10:25.22,0:10:30.21,Main-480p,,0,0,0,,{If Baroque Works' last big job\Nis to take over Arabasta.\N.\N.\N}Se o objectivo final da Baroque Works é assumir Alabasta.\N.\N.
+Dialogue: 0,0:10:25.22,0:10:30.21,Main-480p,,0,0,0,,{If Baroque Works' last big job\Nis to take over Arabasta...\N}Se o objectivo final da Baroque Works é assumir Alabasta...
 Dialogue: 0,0:10:30.21,0:10:35.19,Main-480p,,0,0,0,,o resto desses agentes oficiais serão todos...
 Dialogue: 0,0:10:35.19,0:10:37.65,Main-480p,,0,0,0,,{gather in Arabasta.}reunir-se em Alabasta.
 Dialogue: 0,0:10:38.57,0:10:39.99,Main-480p,,0,0,0,,Sim.
-Dialogue: 0,0:10:39.99,0:10:43.26,Main-480p,,0,0,0,,{Then, in any case,\Nwe'll beat that Crocodile guy.\N.\N.\N}Entendo.\N.\N.\NDe qualquer forma, só preciso chutar a bunda desse Crocodilo-
+Dialogue: 0,0:10:39.99,0:10:43.26,Main-480p,,0,0,0,,{Then, in any case,\Nwe'll beat that Crocodile guy...\N}Entendo...\NDe qualquer forma, só preciso chutar a bunda desse Crocodilo-
 Dialogue: 0,0:10:43.26,0:10:45.30,Main-480p,,0,0,0,,{That's enough.\N\NYou keep your mouth shut!\N}Legal.\NNós ouvimos você pela primeira vez.
 Dialogue: 0,0:10:45.30,0:10:45.99,Main-480p,,0,0,0,,Oh sim?
 Dialogue: 0,0:10:51.02,0:10:52.83,Main-480p,,0,0,0,,Ah... estou morrendo de fome.
@@ -267,7 +267,7 @@ Dialogue: 0,0:10:52.83,0:10:55.25,Main-480p,,0,0,0,,Os peixes não estão morden
 Dialogue: 0,0:10:55.25,0:10:58.72,Main-480p,,0,0,0,,{It's because you even ate the bait!\N}Luffy!\NA culpa é sua!\NQuero dizer, você até comeu a isca!
 Dialogue: 0,0:10:58.72,0:11:01.05,Main-480p,,0,0,0,,Se não tivermos isca, o peixe não morde!
 Dialogue: 0,0:11:01.05,0:11:02.90,Main-480p,,0,0,0,,Você comeu um pouco também!
-Dialogue: 0,0:11:02.90,0:11:06.10,Main-480p,,0,0,0,,{Well.\N.\N.\NI only ate the\Nstuff on the bait box cover.\N}Isso é.\N.\N.\Nsó comi o que estava grudado na tampa da caixa de isca.
+Dialogue: 0,0:11:02.90,0:11:06.10,Main-480p,,0,0,0,,{Well...\NI only ate the\Nstuff on the bait box cover.\N}Isso é...\Nsó comi o que estava grudado na tampa da caixa de isca.
 Dialogue: 0,0:11:06.10,0:11:09.35,Main-480p,,0,0,0,[Honorifics],{\i1}Luffy-san.\NUsopp-san.\NVocê pegou alguma coisa?
 Dialogue: 0,0:11:10.60,0:11:11.10,Main-480p,,0,0,0,,Ahh!
 Dialogue: 0,0:11:13.14,0:11:15.69,Main-480p,,0,0,0,,Karoo! Oh não!
@@ -281,7 +281,7 @@ Dialogue: 0,0:11:42.34,0:11:43.76,Main-480p,,0,0,0,,{I wonder if it's cotton can
 Dialogue: 0,0:11:43.76,0:11:45.39,Main-480p,,0,0,0,[Honorifics],{\i1}Eu vou buscar a Nami-san!
 Dialogue: 0,0:11:51.18,0:11:51.98,Main-480p,,0,0,0,,Hum?
 Dialogue: 0,0:11:51.98,0:11:53.81,Main-480p,,0,0,0,[Honorifics],{\i1}Nami-san, é urgente!\NVenha ver!
-Dialogue: 0,0:11:57.90,0:12:01.90,Main-480p,,0,0,0,,Ah.\N.\N.\Nnão se preocupe.\NNão é nada.\NÉ apenas vapor.
+Dialogue: 0,0:11:57.90,0:12:01.90,Main-480p,,0,0,0,,Ah...\Nnão se preocupe.\NNão é nada.\NÉ apenas vapor.
 Dialogue: 0,0:12:01.90,0:12:04.34,Main-480p,,0,0,0,,O vapor está subindo do mar?
 Dialogue: 0,0:12:04.34,0:12:05.87,Main-480p,,0,0,0,,Sim. É um ponto quente.
 Dialogue: 0,0:12:05.87,0:12:07.37,Main-480p,,0,0,0,,O que diabos é isso?
@@ -291,12 +291,12 @@ Dialogue: 0,0:12:12.34,0:12:13.33,Main-480p,,0,0,0,,{I see...}Oh?
 Dialogue: 0,0:12:13.33,0:12:15.83,Main-480p,,0,0,0,,Um vulcão mesmo sendo submarino?
 Dialogue: 0,0:12:15.83,0:12:21.76,Main-480p,,0,0,0,,{There're more undersea\Nvolcanoes than above ground ones.\N}Isso mesmo.\NExistem mais vulcões debaixo d'água do que acima dela.
 Dialogue: 0,0:12:21.76,0:12:25.26,Main-480p,,0,0,0,,Uau...
-Dialogue: 0,0:12:23.32,0:12:25.26,Secondary-480p,,0,0,0,,{I don't really care.\N.\N.\N\Nsince it's not food.\N}Quem se importa?\NNão podemos comê-lo.
-Dialogue: 0,0:12:25.26,0:12:28.90,Main-480p,,0,0,0,,{With the volcano like this, \Na new island will be born here}Com um vulcão ativo aqui, uma nova ilha nascerá.\N.\N.
+Dialogue: 0,0:12:23.32,0:12:25.26,Secondary-480p,,0,0,0,,{I don't really care...\N\Nsince it's not food.\N}Quem se importa?\NNão podemos comê-lo.
+Dialogue: 0,0:12:25.26,0:12:28.90,Main-480p,,0,0,0,,{With the volcano like this, \Na new island will be born here}Com um vulcão ativo aqui, uma nova ilha nascerá...
 Dialogue: 0,0:12:28.90,0:12:31.22,Main-480p,,0,0,0,,ao longo de milhares – ou dezenas de milhares – de anos.
 Dialogue: 0,0:12:31.85,0:12:33.69,Main-480p,,0,0,0,[Honorifics],{\i1}Você é tão legal, Nami-san!
-Dialogue: 0,0:12:33.69,0:12:36.98,Main-480p,,0,0,0,,Dezenas de milhares de anos.\N.\N.\NEu me pergunto se poderei viver tanto tempo.
-Dialogue: 0,0:12:36.98,0:12:39.67,Main-480p,,0,0,0,,{Well, you're a human.\NSo you should\Ntry dying sometime before that.\N.\N.\N}Não, os humanos não vivem tanto.
+Dialogue: 0,0:12:33.69,0:12:36.98,Main-480p,,0,0,0,,Dezenas de milhares de anos...\NEu me pergunto se poderei viver tanto tempo.
+Dialogue: 0,0:12:36.98,0:12:39.67,Main-480p,,0,0,0,,{Well, you're a human.\NSo you should\Ntry dying sometime before that...\N}Não, os humanos não vivem tanto.
 Dialogue: 0,0:12:41.44,0:12:42.69,Main-480p,,0,0,0,,{Have you caught anything?}Já pegou alguma coisa?
 Dialogue: 0,0:12:42.96,0:12:46.46,Main-480p,,0,0,0,,{ hey}Ah, Sanji.\NEstou com fome.\NCozinhe alguma coisa.
 Dialogue: 0,0:12:46.46,0:12:48.45,Main-480p,,0,0,0,,Vocês estão desesperados.
@@ -316,7 +316,7 @@ Dialogue: 0,0:13:30.32,0:13:31.28,Main-480p,,0,0,0,,Não pode ser!
 Dialogue: 0,0:13:31.28,0:13:33.70,Main-480p,,0,0,0,[Honorifics],{\i1}Sr.2 Bon Kurei-sama!
 Dialogue: 0,0:13:35.16,0:13:36.51,Main-480p,,0,0,0,,Uau...!
 Dialogue: 0,0:13:42.96,0:13:44.65,Main-480p,,0,0,0,,{Shoot!}Ah, cocô!
-Dialogue: 0,0:13:44.65,0:13:48.51,Main-480p,,0,0,0,,{Why did I jump on the duck\Nthat I suddenly came across?\N!\N}Esse pato veio do nada e eu pulei nele?\N!
+Dialogue: 0,0:13:44.65,0:13:48.51,Main-480p,,0,0,0,,{Why did I jump on the duck\Nthat I suddenly came across?!\N}Esse pato veio do nada e eu pulei nele?!
 Dialogue: 0,0:13:49.51,0:13:50.97,Main-480p,,0,0,0,,Ele é um humano?
 Dialogue: 0,0:13:50.30,0:13:50.97,Secondary-480p,,0,0,0,,Não sei...
 Dialogue: 0,0:13:51.70,0:13:54.22,Main-480p,,0,0,0,,Oh?! Uau!
@@ -325,7 +325,7 @@ Dialogue: 0,0:13:59.48,0:14:02.15,Main-480p,,0,0,0,,Eu não sei nadar! Eu não p
 Dialogue: 0,0:14:11.41,0:14:13.91,Main-480p,,0,0,0,,pensei que ia morrer...
 Dialogue: 0,0:14:14.54,0:14:16.83,Main-480p,,0,0,0,,{really}Bem... eu sou muito cisne.
 Dialogue: 0,0:14:16.83,0:14:21.33,Note-480p,,0,0,0,,"Bon Kurei"
-Dialogue: 0,0:14:16.83,0:14:21.33,Main-480p,,0,0,0,,E pensar que fui salvo por piratas que são totalmente estranhos.\N.\N.
+Dialogue: 0,0:14:16.83,0:14:21.33,Main-480p,,0,0,0,,E pensar que fui salvo por piratas que são totalmente estranhos...
 Dialogue: 0,0:14:21.33,0:14:24.24,Main-480p,,0,0,0,,{I will never forget your\Nkindness for the rest of my life!\N}Jamais esquecerei sua gentileza!
 Dialogue: 0,0:14:24.24,0:14:27.76,Main-480p,,0,0,0,,Além disso, posso tomar uma xícara de sopa quente?
 Dialogue: 0,0:14:27.76,0:14:28.72,Main-480p,,0,0,0,,{We don't have it!}Grande chance!
@@ -337,8 +337,8 @@ Dialogue: 0,0:14:39.69,0:14:40.56,Main-480p,,0,0,0,,{Such a weirdo...}Tão estra
 Dialogue: 0,0:14:40.56,0:14:42.81,Main-480p,,0,0,0,,Então você não sabe nadar, hein?
 Dialogue: 0,0:14:42.81,0:14:46.78,Main-480p,,0,0,0,,Isso mesmo. Eu comi uma fruta do diabo.
 Dialogue: 0,0:14:46.78,0:14:48.74,Main-480p,,0,0,0,,Realmente? Que tipo de fruta?
-Dialogue: 0,0:14:49.36,0:14:54.62,Main-480p,,0,0,0,,{Well.\N.\N.\Nsince there's no need to rush\Nuntil my ship comes to pick me up.\N.\N.\N}Bem, bem.\N.\N.\Ntudo o que podemos fazer agora é esperar que meu navio venha me buscar.
-Dialogue: 0,0:14:54.62,0:14:57.08,Main-480p,,0,0,0,,{In lieu of entertainment,\NI'll show you.\N.\N.\N}Talvez eu faça um pequeno show.
+Dialogue: 0,0:14:49.36,0:14:54.62,Main-480p,,0,0,0,,{Well...\Nsince there's no need to rush\Nuntil my ship comes to pick me up...\N}Bem, bem...\Ntudo o que podemos fazer agora é esperar que meu navio venha me buscar.
+Dialogue: 0,0:14:54.62,0:14:57.08,Main-480p,,0,0,0,,{In lieu of entertainment,\NI'll show you...\N}Talvez eu faça um pequeno show.
 Dialogue: 0,0:14:57.70,0:15:00.54,Main-480p,,0,0,0,,{This is my power!}Eis meu poder!
 Dialogue: 0,0:15:05.31,0:15:06.13,Main-480p,,0,0,0,,O que você está...
 Dialogue: 0,0:15:06.13,0:15:09.55,Main-480p,,0,0,0,,Espere! Espere! Espere!
@@ -355,7 +355,7 @@ Dialogue: 0,0:15:29.57,0:15:31.45,Main-480p,,0,0,0,,{The voice, too...}Até a vo
 Dialogue: 0,0:15:31.45,0:15:33.53,Main-480p,,0,0,0,,{The}Seu corpo também era o mesmo!
 Dialogue: 0,0:15:33.53,0:15:35.48,Main-480p,,0,0,0,,A-Incrível!
 Dialogue: 0,0:15:35.48,0:15:37.11,Main-480p,,0,0,0,,Lá!
-Dialogue: 0,0:15:37.11,0:15:41.04,Main-480p,,0,0,0,,{Well, for that matter,\NI don't have to knock you down.\N.\N.\N}Ah!\NPensando bem, não precisei derrubá-lo.
+Dialogue: 0,0:15:37.11,0:15:41.04,Main-480p,,0,0,0,,{Well, for that matter,\NI don't have to knock you down...\N}Ah!\NPensando bem, não precisei derrubá-lo.
 Dialogue: 0,0:15:41.04,0:15:43.37,Main-480p,,0,0,0,,{Now, look!}Porque olha...!
 Dialogue: 0,0:15:43.37,0:15:45.67,Main-480p,,0,0,0,,{All I have to do is...}Tudo o que é necessário é...
 Dialogue: 0,0:15:45.67,0:15:48.17,Main-480p,,0,0,0,,{touch faces with my right hand.\N}tocar seus rostos com minha mão direita.
@@ -367,9 +367,9 @@ Dialogue: 0,0:15:55.60,0:15:57.56,Main-480p,,0,0,0,,Ai!
 Dialogue: 0,0:15:57.56,0:15:58.43,Main-480p,,0,0,0,,{Stop it!}Pare com isso!
 Dialogue: 0,0:15:58.43,0:16:00.26,Main-480p,,0,0,0,,Ei, você está bem?
 Dialogue: 0,0:16:00.26,0:16:02.47,Main-480p,,0,0,0,,Ai, ai, ai...
-Dialogue: 0,0:16:02.47,0:16:07.27,Main-480p,,0,0,0,,{Well.\N.\N.\Nsorry, but I can't\Nshow any more of my power.\N.\N.\N}Nossa.\N.\N.\Ninfelizmente, isso é tudo o que vou mostrar de bom grado do meu poder.
+Dialogue: 0,0:16:02.47,0:16:07.27,Main-480p,,0,0,0,,{Well...\Nsorry, but I can't\Nshow any more of my power...\N}Nossa...\Ninfelizmente, isso é tudo o que vou mostrar de bom grado do meu poder.
 Dialogue: 0,0:16:07.27,0:16:10.24,Main-480p,,0,0,0,,{amazing}Você é o melhor! Faça mais um pouco!
-Dialogue: 0,0:16:10.24,0:16:14.22,Main-480p,,0,0,0,,Ahhh.\N.\N.\NBom.\N.\N.\Nse você insiste.\N.\N.\Nacho que vou mostrar mais!
+Dialogue: 0,0:16:10.24,0:16:14.22,Main-480p,,0,0,0,,Ahhh...\NBom...\Nse você insiste...\Nacho que vou mostrar mais!
 Dialogue: 0,0:16:14.22,0:16:17.08,Main-480p,,0,0,0,,Sim! Mostre! Mostre!
 Dialogue: 0,0:16:15.12,0:16:17.08,Secondary-480p,,0,0,0,,{Gee}Não é tão emocionante.
 Dialogue: 0,0:16:17.08,0:16:19.54,Main-480p,,0,0,0,,Bem, então acho que vou mostrar...
@@ -391,11 +391,11 @@ Dialogue: 0,0:16:59.42,0:17:01.72,Main-480p,,0,0,0,,Esse é o meu navio!
 Dialogue: 0,0:17:01.72,0:17:03.12,Main-480p,,0,0,0,,Incrível! Incrível! Ele é...
 Dialogue: 0,0:17:03.12,0:17:05.28,Main-480p,,0,0,0,,Ciao!
 Dialogue: 0,0:17:06.88,0:17:11.84,Note-480p,,0,0,0,,"Bon Kurei"
-Dialogue: 0,0:17:06.88,0:17:10.88,Main-480p,,0,0,0,,{goodbye.\N.\N.\N}Já é hora de dizer adeus?\NQue pena.
+Dialogue: 0,0:17:06.88,0:17:10.88,Main-480p,,0,0,0,,{goodbye...\N}Já é hora de dizer adeus?\NQue pena.
 Dialogue: 0,0:17:10.88,0:17:11.84,Main-480p,,0,0,0,,O que?!
 Dialogue: 0,0:17:12.21,0:17:14.30,Main-480p,,0,0,0,,Por favor, não vá!
 Dialogue: 0,0:17:14.30,0:17:16.80,Main-480p,,0,0,0,,{Don't be sad!}Levante a cabeça e não fique triste!
-Dialogue: 0,0:17:16.80,0:17:19.05,Main-480p,,0,0,0,,{Journeys are always\Naccompanied by farewells.\N.\N}Cada viagem contém algumas despedidas.
+Dialogue: 0,0:17:16.80,0:17:19.05,Main-480p,,0,0,0,,{Journeys are always\Naccompanied by farewells..\N}Cada viagem contém algumas despedidas.
 Dialogue: 0,0:17:19.05,0:17:21.64,Main-480p,,0,0,0,,{But don't ever forget this.}Mas... nunca se esqueça disso:
 Dialogue: 0,0:17:21.64,0:17:23.60,Main-480p,,0,0,0,,Amizade...
 Dialogue: 0,0:17:23.60,0:17:28.44,Main-480p,,0,0,0,,{these lines were initally together.\NI separated them because of the keyframe.\N}não tem nada a ver com há quanto tempo nos conhecemos.
@@ -404,27 +404,27 @@ Dialogue: 0,0:17:30.40,0:17:33.36,Main-480p,,0,0,0,,{See you again!}Vamos nos en
 Dialogue: 0,0:17:33.36,0:17:35.92,Main-480p,,0,0,0,,Agora vamos, pessoal!
 Dialogue: 0,0:17:35.92,0:17:38.32,Main-480p,,0,0,0,[Honorifics],{\i1}Sim, senhor! Sr.2 Bon Kurei-sama!
 Dialogue: 0,0:17:43.70,0:17:45.71,Main-480p,,0,0,0,,Senhor 2?!
-Dialogue: 0,0:17:45.71,0:17:48.54,Main-480p,,0,0,0,,{So he is.\N.\N.\NMr.\N2 Bon Kurei.\N.\N.\N!\N}Então ele é.\N.\N.\NSr.\N2 Bon Kurei!
+Dialogue: 0,0:17:45.71,0:17:48.54,Main-480p,,0,0,0,,{So he is...\NMr.\N2 Bon Kurei...!\N}Então ele é...\NSr.\N2 Bon Kurei!
 Dialogue: 0,0:17:48.54,0:17:51.21,Main-480p,,0,0,0,,{Vivi! You didn't know his face?!}Vivi! Você nunca o viu?!
-Dialogue: 0,0:17:51.21,0:17:56.17,Main-480p,,0,0,0,,{No.\N.\N.\NI've never met Mr.\N2\Nand Mr.\N1 as well as his partner.\N}Nunca.\N.\N.\Nnão conheci nem o Sr.\N2 nem o Sr.\N1 e seu parceiro.
+Dialogue: 0,0:17:51.21,0:17:56.17,Main-480p,,0,0,0,,{No...\NI've never met Mr.\N2\Nand Mr.\N1 as well as his partner.\N}Nunca...\Nnão conheci nem o Sr.\N2 nem o Sr.\N1 e seu parceiro.
 Dialogue: 0,0:17:56.17,0:17:57.80,Main-480p,,0,0,0,,Também não conheço seus poderes.
 Dialogue: 0,0:18:00.14,0:18:02.14,Main-480p,,0,0,0,,{though I've heard of rumors...}Embora eu tenha ouvido rumores.
 Dialogue: 0,0:18:02.76,0:18:04.28,Main-480p,,0,0,0,,Supostamente, o Sr. 2 é...
-Dialogue: 0,0:18:07.34,0:18:11.00,Main-480p,,0,0,0,,{a ballerina with a large frame.\N.\N.\N\Nwho talks like a woman.\N.\N.\N}uma bailarina esguia que fala com voz afeminada.
+Dialogue: 0,0:18:07.34,0:18:11.00,Main-480p,,0,0,0,,{a ballerina with a large frame...\N\Nwho talks like a woman...\N}uma bailarina esguia que fala com voz afeminada.
 Dialogue: 0,0:18:11.00,0:18:16.49,Main-480p,,0,0,0,,{has}Ele sempre usa um casaco de cisne que exibe "Bon Kurei" nas costas.
 Dialogue: 0,0:18:18.45,0:18:19.61,Main-480p,,0,0,0,,{You should've noticed!}Você deveria ter notado!
 Dialogue: 0,0:18:20.24,0:18:21.45,Main-480p,,0,0,0,,Qual é o problema, Vivi?
-Dialogue: 0,0:18:21.45,0:18:26.41,Main-480p,,0,0,0,,{showed}Entre os rostos que ele tirou de sua memória estão.\N.\N.
+Dialogue: 0,0:18:21.45,0:18:26.41,Main-480p,,0,0,0,,{showed}Entre os rostos que ele tirou de sua memória estão...
 Dialogue: 0,0:18:27.09,0:18:29.20,Main-480p,,0,0,0,,da memória dele...
 Dialogue: 0,0:18:29.20,0:18:30.88,Main-480p,,0,0,0,,Eu vi o rosto do meu pai...
 Dialogue: 0,0:18:31.46,0:18:35.88,Main-480p,,0,0,0,,o rosto do rei de Alabasta, Nefertari Cobra!
 Dialogue: 0,0:18:36.51,0:18:40.01,Main-480p,,0,0,0,,Se, por exemplo, você pudesse imitar um rei,
-Dialogue: 0,0:18:40.01,0:18:43.04,Main-480p,,0,0,0,,{you'd be able to do\Nquite bad things, too.\N.\N.\N}você poderia se safar de praticamente qualquer coisa.
+Dialogue: 0,0:18:40.01,0:18:43.04,Main-480p,,0,0,0,,{you'd be able to do\Nquite bad things, too...\N}você poderia se safar de praticamente qualquer coisa.
 Dialogue: 0,0:18:43.04,0:18:45.85,Main-480p,,0,0,0,,Deixamos um cara problemático escapar, hein?
 Dialogue: 0,0:18:46.35,0:18:48.18,Main-480p,,0,0,0,,{Then he's our enemy?}Então ele era nosso inimigo?
 Dialogue: 0,0:18:48.18,0:18:52.15,Main-480p,,0,0,0,,{He's certainly quite a problem\Nif he's on our enemy's side.\N}Ele é um grande problema se estiver do lado oposto.
 Dialogue: 0,0:18:53.02,0:18:56.76,Main-480p,,0,0,0,,{enemy}Se ele perceber que somos seus inimigos...
-Dialogue: 0,0:18:56.76,0:19:00.61,Main-480p,,0,0,0,,{memory from earlier}Se ele se transformar em um de nós usando seu recurso de memória.\N.\N.
+Dialogue: 0,0:18:56.76,0:19:00.61,Main-480p,,0,0,0,,{memory from earlier}Se ele se transformar em um de nós usando seu recurso de memória...
 Dialogue: 0,0:19:00.61,0:19:03.89,Main-480p,,0,0,0,,não seremos capazes de confiar em nossos próprios amigos.
 Dialogue: 0,0:19:03.89,0:19:04.87,Main-480p,,0,0,0,,Ah...!
 Dialogue: 0,0:19:04.87,0:19:06.33,Main-480p,,0,0,0,,{Really}Tem certeza que?
@@ -432,7 +432,7 @@ Dialogue: 0,0:19:06.33,0:19:07.94,Main-480p,,0,0,0,,Escute, Luffy–
 Dialogue: 0,0:19:07.94,0:19:09.33,Main-480p,,0,0,0,,{Well, hold on.}Espere. Espere.
 Dialogue: 0,0:19:09.33,0:19:12.63,Main-480p,,0,0,0,,{It's true that his opinion\Ndoesn't have any basis,}Embora seja verdade, podemos estar apenas seguindo a intuição de Luffy,
 Dialogue: 0,0:19:12.63,0:19:16.13,Main-480p,,0,0,0,,{but he's right about us not\Nhaving to be scared of him.\N}Acredito que ele está certo em pensar que não precisamos ter medo dele.
-Dialogue: 0,0:19:16.13,0:19:20.80,Main-480p,,0,0,0,,{We should consider ourselves lucky\Nthat we got to see him now.\N.\N.\N}Foi um golpe de sorte termos nos encontrado com ele agora.\N.\N.
+Dialogue: 0,0:19:16.13,0:19:20.80,Main-480p,,0,0,0,,{We should consider ourselves lucky\Nthat we got to see him now...\N}Foi um golpe de sorte termos nos encontrado com ele agora...
 Dialogue: 0,0:19:20.80,0:19:23.09,Main-480p,,0,0,0,,{because we can figure\Nout counter-measures.\N}porque agora nós o enganamos.
 Dialogue: 0,0:19:23.73,0:19:25.78,Main-480p,,0,0,0,[Honorifics],{\i1}Sr.2 Bon Kurei-sama é...
 Dialogue: 0,0:19:23.73,0:19:25.24,Secondary-480p,,0,0,0,,Um dois três!
@@ -452,7 +452,7 @@ Dialogue: 0,0:20:03.85,0:20:05.70,Main-480p,,0,0,0,,{Have the ship go back! Go b
 Dialogue: 0,0:20:05.70,0:20:07.73,Main-480p,,0,0,0,,W-W-W-W-W-Não podemos!
 Dialogue: 0,0:20:09.18,0:20:09.68,Main-480p,,0,0,0,,Oh!
 Dialogue: 0,0:20:09.68,0:20:13.02,Main-480p,,0,0,0,,{Capture it without fail!\N}Não deixe isso escapar!\NTemos que capturá-lo!
-Dialogue: 0,0:20:14.81,0:20:18.36,Main-480p,,0,0,0,,{How should I cook you, cat monster?\N!\N}Agora, como você gostaria de ser cozinhado, monstro gato?\N!
+Dialogue: 0,0:20:14.81,0:20:18.36,Main-480p,,0,0,0,,{How should I cook you, cat monster?!\N}Agora, como você gostaria de ser cozinhado, monstro gato?!
 Dialogue: 0,0:20:19.32,0:20:21.32,Main-480p,,0,0,0,,{No!}Você não pode!
 Dialogue: 0,0:20:24.28,0:20:27.16,Main-480p,,0,0,0,,Vivi! Seu idiota! O que você está fazendo?!
 Dialogue: 0,0:20:27.16,0:20:29.62,Main-480p,,0,0,0,[Honorifics],{\i1}O... Por que... Vivi-chan?
@@ -460,28 +460,28 @@ Dialogue: 0,0:20:29.62,0:20:31.37,Main-480p,,0,0,0,,Você não pode comê-lo!
 Dialogue: 0,0:20:31.37,0:20:35.15,Main-480p,,0,0,0,,Os gatos marinhos são um animal sagrado em Alabasta!
 Dialogue: 0,0:20:35.15,0:20:36.33,Main-480p,,0,0,0,,{You should've told us sooner!}Conte-nos antes!
 Dialogue: 0,0:20:36.33,0:20:38.78,Main-480p,,0,0,0,,{There sure are many kinds\Nof creatures in the sea!\N}O mar está cheio de todos os tipos de criaturas!
-Dialogue: 0,0:20:40.31,0:20:42.97,Main-480p,,0,0,0,,{Being scared of things like that.\N.\N.\N\NYou've still got a long way to go.\N.\N.\N}Você tem um longo caminho a percorrer se tiver medo de coisas assim.
+Dialogue: 0,0:20:40.31,0:20:42.97,Main-480p,,0,0,0,,{Being scared of things like that...\N\NYou've still got a long way to go...\N}Você tem um longo caminho a percorrer se tiver medo de coisas assim.
 Dialogue: 0,0:20:42.97,0:20:44.61,Main-480p,,0,0,0,,Ok então!
 Dialogue: 0,0:20:44.61,0:20:49.47,Main-480p,,0,0,0,,{I'll tell you a story about when I bravely fought Sea Kings in the Calm Belt.\N}Aqui está uma história sobre como lutei bravamente contra os reis dos mares no Calm Belt.
 Dialogue: 0,0:20:49.47,0:20:50.99,Main-480p,,0,0,0,,{Fought Sea Kings?!}Lutou contra os reis do mar?!
 Dialogue: 0,0:20:50.99,0:20:53.81,Main-480p,,0,0,0,,{\i1}Grandes! Eles eram tão grandes!
 Dialogue: 0,0:20:53.81,0:20:57.30,Main-480p,,0,0,0,,O-Nossa comida fugiu...
 Dialogue: 0,0:20:57.30,0:21:00.82,Main-480p,,0,0,0,,{But don't worry.\NYou'll be\Nable to stuff yourself soon.\N}Nada para se preocupar!\NEm breve você terá bastante para encher a barriga!
-Dialogue: 0,0:21:00.82,0:21:04.28,Main-480p,,0,0,0,,{Really?\N!\NWhat cat will appear this time?\N!\N}Realmente?\N!\NQue tipo de gato aparecerá na próxima vez?\N!
+Dialogue: 0,0:21:00.82,0:21:04.28,Main-480p,,0,0,0,,{Really?!\NWhat cat will appear this time?!\N}Realmente?!\NQue tipo de gato aparecerá na próxima vez?!
 Dialogue: 0,0:21:04.28,0:21:08.24,Main-480p,,0,0,0,,{becoming stable.\N}Vivi!\NO vento e o tempo parecem estar se estabilizando.
 Dialogue: 0,0:21:08.24,0:21:09.54,Main-480p,,0,0,0,,Sim.
 Dialogue: 0,0:21:09.54,0:21:12.17,Main-480p,,0,0,0,,Entramos na área climática de Alabasta.
 Dialogue: 0,0:21:12.17,0:21:14.71,Main-480p,,0,0,0,,O aparecimento de um gato marinho também é a prova.
 Dialogue: 0,0:21:14.71,0:21:17.46,Main-480p,,0,0,0,,{And what we see behind us...}E basta olhar para trás.
-Dialogue: 0,0:21:17.46,0:21:19.67,Main-480p,,0,0,0,,{is probably also proof\Nof Arabasta being close.\N.\N.\N}Mais provas de que Alabasta está por perto, certo?
-Dialogue: 0,0:21:30.89,0:21:33.43,Main-480p,,0,0,0,,São tantos navios!\NQuando isso aconteceu?\N!
+Dialogue: 0,0:21:17.46,0:21:19.67,Main-480p,,0,0,0,,{is probably also proof\Nof Arabasta being close...\N}Mais provas de que Alabasta está por perto, certo?
+Dialogue: 0,0:21:30.89,0:21:33.43,Main-480p,,0,0,0,,São tantos navios!\NQuando isso aconteceu?!
 Dialogue: 0,0:21:33.43,0:21:38.40,Main-480p,,0,0,0,,{They all have\Nthe Baroque Works' symbol!\N}Ei!\NEles estão todos voando com as cores da Baroque Works!
 Dialogue: 0,0:21:38.40,0:21:41.86,Main-480p,,0,0,0,,Seus funcionários começaram a se reunir.
-Dialogue: 0,0:21:41.86,0:21:46.74,Main-480p,,0,0,0,,{They're probably billions.\N.\N.\N}Os bilhões, provavelmente: os subordinados dos agentes oficiais.
-Dialogue: 0,0:21:46.74,0:21:49.92,Main-480p,,0,0,0,,{Which means that our\Nenemy is at least 200.\N.\N.\N}Então há pelo menos 200 homens por aí.
-Dialogue: 0,0:21:49.92,0:21:53.70,Main-480p,,0,0,0,,{On top of that, they are the\N200 elites of Baroque Works.\N.\N.\N}Na verdade, são as 200 elites da Baroque Works.
+Dialogue: 0,0:21:41.86,0:21:46.74,Main-480p,,0,0,0,,{They're probably billions...\N}Os bilhões, provavelmente: os subordinados dos agentes oficiais.
+Dialogue: 0,0:21:46.74,0:21:49.92,Main-480p,,0,0,0,,{Which means that our\Nenemy is at least 200...\N}Então há pelo menos 200 homens por aí.
+Dialogue: 0,0:21:49.92,0:21:53.70,Main-480p,,0,0,0,,{On top of that, they are the\N200 elites of Baroque Works...\N}Na verdade, são as 200 elites da Baroque Works.
 Dialogue: 0,0:21:53.70,0:21:57.17,Main-480p,,0,0,0,,{They're far from those bounty\Nhunters in Whisky Peak.\N}Os caçadores de recompensas que você enfrentou em Whiskey Peak nem se comparam.
-Dialogue: 0,0:21:58.22,0:22:00.92,Main-480p,,0,0,0,,Devemos atirar neles enquanto podemos?\N!
+Dialogue: 0,0:21:58.22,0:22:00.92,Main-480p,,0,0,0,,Devemos atirar neles enquanto podemos?!
 Dialogue: 0,0:22:01.59,0:22:03.70,Main-480p,,0,0,0,,{Let's get on it already!}Vamos dar uma olhada neles!
 Dialogue: 0,0:22:03.70,0:22:06.38,Main-480p,,0,0,0,,{th}É mais rápido se formos lá e acabarmos com eles!
 Dialogue: 0,0:22:07.54,0:22:09.84,Main-480p,,0,0,0,,{have to}Não, espere! Temos que comer primeiro!
@@ -501,7 +501,7 @@ Dialogue: 0,0:22:48.06,0:22:53.26,Main-480p,,0,0,0,,É muito ruim!\NVocê deveri
 Dialogue: 0,0:22:53.26,0:22:56.47,Main-480p,,0,0,0,,Conhecendo alguém assim está entre nossos inimigos,
 Dialogue: 0,0:22:56.47,0:22:59.27,Main-480p,,0,0,0,,não podemos agir descuidadamente sozinhos.
 Dialogue: 0,0:23:01.41,0:23:04.23,Main-480p,,0,0,0,,Ei, o que devo fazer?
-Dialogue: 0,0:23:04.23,0:23:08.22,Main-480p,,0,0,0,,Ahh.\N.\N.\NFaça o que você pode fazer.\NVocê não precisa fazer mais nada.
+Dialogue: 0,0:23:04.23,0:23:08.22,Main-480p,,0,0,0,,Ahh...\NFaça o que você pode fazer.\NVocê não precisa fazer mais nada.
 Dialogue: 0,0:23:08.22,0:23:11.20,Main-480p,,0,0,0,,{the}Não há problema em fugir de um inimigo que você não pode derrotar!
 Dialogue: 0,0:23:11.20,0:23:14.49,Main-480p,,0,0,0,,Você está falando com ele ou com você mesmo?
 Dialogue: 0,0:23:15.14,0:23:17.70,Main-480p,,0,0,0,,O que posso fazer, hein?
@@ -512,7 +512,7 @@ Dialogue: 0,0:23:23.40,0:23:24.96,Main-480p,,0,0,0,,{We have to hide the ship.}m
 Dialogue: 0,0:23:24.96,0:23:28.71,Main-480p,,0,0,0,,{At any rate}Tudo bem!\NDe qualquer forma, não importa o que aconteça,
 Dialogue: 0,0:23:28.71,0:23:32.22,Main-480p,,0,0,0,,{this thing on our left arm is\Nthe sign of our friendship!\N}nossos braços esquerdos provam que somos definitivamente companheiros de tripulação!
 Dialogue: 0,0:23:35.26,0:23:37.68,Main-480p,,0,0,0,,{Well then, we'll land!}Agora, vamos desembarcar!
-Dialogue: 0,0:23:37.68,0:23:40.99,Main-480p,,0,0,0,,{Oh, and to Arabasta.\N}Para um restaurante!\N.\N.\N.\Ne para Alabasta.
+Dialogue: 0,0:23:37.68,0:23:40.99,Main-480p,,0,0,0,,{Oh, and to Arabasta.\N}Para um restaurante!...\Ne para Alabasta.
 Dialogue: 0,0:23:40.99,0:23:42.69,Main-480p,,0,0,0,,{It's a}Como observação lateral?
 Dialogue: 0,0:23:44.65,0:23:48.28,Main-480p,,0,0,0,,{The enemy this time is an\Nassassination gang, Luffy.\N}Nosso inimigo desta vez é um grupo de assassinos, Luffy.
 Dialogue: 0,0:23:48.28,0:23:49.58,Main-480p,,0,0,0,,{Yeah, it is.}Sim. Isso mesmo.

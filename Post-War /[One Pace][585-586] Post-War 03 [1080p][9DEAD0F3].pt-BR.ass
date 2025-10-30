@@ -2111,9 +2111,9 @@ Dialogue: 0,0:03:41.37,0:03:42.97,Main,,0,0,0,,{let's go for }Ok, crocodilo pare
 Dialogue: 0,0:03:42.97,0:03:45.30,Main,,0,0,0,,{ meat}Eu amo crocodilo!
 Dialogue: 0,0:03:45.30,0:03:48.34,Main,,0,0,0,,Luffy, não seja comido dessa vez.
 Dialogue: 0,0:03:48.84,0:03:51.54,Main,,0,0,0,,{were okay the}Você sobreviveu da última vez apenas porque foi engolido inteiro.
-Dialogue: 0,0:03:52.85,0:03:56.52,Main,,0,0,0,,Você espera aqui, Luffy.\NVocê não sabe nadar, então nos atrasaria.\N.\N.
+Dialogue: 0,0:03:52.85,0:03:56.52,Main,,0,0,0,,Você espera aqui, Luffy.\NVocê não sabe nadar, então nos atrasaria...
 Dialogue: 0,0:03:56.78,0:03:58.82,Main,,0,0,0,,{ meat}Crocodilo!
-Dialogue: 0,0:03:58.82,0:04:01.75,Main,,0,0,0,,- O que?\N!\N– Eu disse "espere"!\N!
+Dialogue: 0,0:03:58.82,0:04:01.75,Main,,0,0,0,,- O que?!\N– Eu disse "espere"!!
 Dialogue: 0,0:04:09.88,0:04:15.40,Narrator,,0,0,0,,{harsh}O ambiente inóspito do Monte Colubo os condicionou dia após dia.
 Dialogue: 0,0:04:17.44,0:04:19.22,Narrator,,0,0,0,,{On}Ao norte da montanha...
 Dialogue: 0,0:04:20.31,0:04:24.31,Narrator,,0,0,0,,{there is the place where}reside o destino final de qualquer coisa estranha à sociedade.\NÉ chamado de Terminal Cinza.
@@ -2140,7 +2140,7 @@ Dialogue: 0,0:06:06.78,0:06:08.55,Main,,0,0,0,,{pick}tenha cuidado com quem voc�
 Dialogue: 0,0:06:10.68,0:06:12.48,Main,,0,0,0,,{ the}I-Eles são...
 Dialogue: 0,0:06:13.39,0:06:14.55,Main,,0,0,0,,Vamos fazer isso!
 Dialogue: 0,0:06:14.55,0:06:15.89,Main,,0,0,0,,{\i1}- Sim! - Certo!
-Dialogue: 0,0:06:33.24,0:06:38.21,Narrator,,0,0,0,,{In the middle of the walled}Mais adiante na cidade, outro alto muro de pedra ergue-se.\N.\N.
+Dialogue: 0,0:06:33.24,0:06:38.21,Narrator,,0,0,0,,{In the middle of the walled}Mais adiante na cidade, outro alto muro de pedra ergue-se...
 Dialogue: 0,0:06:38.21,0:06:44.15,Narrator,,0,0,0,,{which }para cercar a Cidade Alta, onde residem a realeza e a nobreza.
 Dialogue: 0,0:06:47.32,0:06:50.19,Narrator,,0,0,0,,{The name of this country is the Goa.}Este país se chama Goa.
 Dialogue: 0,0:06:50.19,0:06:51.62,Narrator,,0,0,0,,{There is no garbage on streets}Suas ruas estão livres de lixo,
@@ -5802,8 +5802,8 @@ Dialogue: 0,0:08:05.60,0:08:07.99,Main,,0,0,0,,{go}– Droga, eles descobriram!\
 Dialogue: 0,0:08:08.90,0:08:10.67,Main,,0,0,0,,Eles não pagaram!
 Dialogue: 0,0:08:10.67,0:08:12.84,Main,,0,0,0,,{, somebody}Alguém os pegue!
 Dialogue: 0,0:08:14.04,0:08:17.34,Main,,0,0,0,,{noodles were}– O ramen estava ótimo!\N- Eu te disse!
-Dialogue: 0,0:08:17.94,0:08:20.91,Main,,0,0,0,,– Pegá-los?\N!\N– Eles são apenas crianças!
-Dialogue: 0,0:08:23.92,0:08:29.19,Main,,0,0,0,,{were they let in?\N!\N}E-São eles de novo!\NEles são uma praga!\NPor que a loja os deixou entrar?\N!
+Dialogue: 0,0:08:17.94,0:08:20.91,Main,,0,0,0,,– Pegá-los?!\N– Eles são apenas crianças!
+Dialogue: 0,0:08:23.92,0:08:29.19,Main,,0,0,0,,{were they let in?!\N}E-São eles de novo!\NEles são uma praga!\NPor que a loja os deixou entrar?!
 Dialogue: 0,0:08:29.19,0:08:34.56,Main,,0,0,0,,{run}Não os deixe escapar!\NAlguém pegue esses três!
 Dialogue: 0,0:08:35.76,0:08:39.03,Main,,0,0,0,,Não acredito que eles pularam pela janela!
 Dialogue: 0,0:08:39.03,0:08:41.83,Main,,0,0,0,,{4th}Este é o quarto andar!
@@ -5998,7 +5998,7 @@ Dialogue: 0,0:09:17.60,0:09:19.94,Main,,0,0,0,,{ed}Ele está me confundindo com 
 Dialogue: 0,0:09:22.24,0:09:24.01,Main,,0,0,0,,E-espere aí!
 Dialogue: 0,0:09:35.35,0:09:36.76,Main,,0,0,0,,Sabo...
 Dialogue: 0,0:09:37.72,0:09:41.53,Main,,0,0,0,,{will have a visit this spring}"Decidimos visitar o seu país nesta primavera"?
-Dialogue: 0,0:09:41.53,0:09:45.50,Main,,0,0,0,,{the country called Goa?\N!\N}Dogra!\NMagra!\NOnde é esse lugar “Goa”?\N!
+Dialogue: 0,0:09:41.53,0:09:45.50,Main,,0,0,0,,{the country called Goa?!\N}Dogra!\NMagra!\NOnde é esse lugar “Goa”?!
 Dialogue: 0,0:09:45.83,0:09:50.50,Main,,0,0,0,,{the }Monte Colubo, Terminal Gray e Foosha Village...
 Dialogue: 0,0:09:50.50,0:09:52.87,Main,,0,0,0,,{ supposedly}aparentemente fazem parte de Goa.
 Dialogue: 0,0:09:52.87,0:09:54.44,Main,,0,0,0,,Isso é o que eu pensei.
@@ -6187,7 +6187,7 @@ Dialogue: 0,0:13:28.85,0:13:31.52,Flashbacks,,0,0,0,,Você é apenas filho de um
 Dialogue: 0,0:13:31.92,0:13:33.49,Flashbacks,,0,0,0,,Vou te ensinar uma lição!
 Dialogue: 0,0:13:35.06,0:13:37.46,Flashbacks,,0,0,0,,{Don't}Pare com isso!
 Dialogue: 0,0:13:43.10,0:13:47.87,Flashbacks,,0,0,0,,É imperdoável prejudicar um filho da família real!
-Dialogue: 0,0:13:47.87,0:13:51.98,Flashbacks,,0,0,0,,Sabo!\NVocê realmente brigou com esse garoto real?\N!
+Dialogue: 0,0:13:47.87,0:13:51.98,Flashbacks,,0,0,0,,Sabo!\NVocê realmente brigou com esse garoto real?!
 Dialogue: 0,0:13:51.98,0:13:54.65,Flashbacks,,0,0,0,,{, I did!}Sim. Eu me machuquei.
 Dialogue: 0,0:13:54.65,0:13:57.95,Flashbacks,,0,0,0,,{Because }De repente ele veio até mim com uma faca...
 Dialogue: 0,0:14:03.46,0:14:08.96,Flashbacks,,0,0,0,,{Did you get hurt?! Did he get hurt?!}Desculpe! Ele não está ferido, está?!
@@ -6225,7 +6225,7 @@ Dialogue: 0,0:16:27.33,0:16:30.27,Main,,0,0,0,,{Because I'm feared or hated or w
 Dialogue: 0,0:16:30.27,0:16:32.37,Main,,0,0,0,,{my name will be known all over!}Farei meu nome conhecido mundialmente!
 Dialogue: 0,0:16:34.37,0:16:37.36,Main,,0,0,0,,{got it}Eu vejo! Tudo bem então!
 Dialogue: 0,0:16:39.38,0:16:42.88,Main,,0,0,0,,{come...!}Eu vou estar...
-Dialogue: 0,0:16:49.92,0:16:53.26,Main,,0,0,0,,{You fool.\N.\N.\N}Nossa, eu queria saber o que você teria a dizer.
+Dialogue: 0,0:16:49.92,0:16:53.26,Main,,0,0,0,,{You fool...\N}Nossa, eu queria saber o que você teria a dizer.
 Dialogue: 0,0:16:56.06,0:16:58.20,Main,,0,0,0,,Você é engraçado, Luffy!
 Dialogue: 0,0:16:58.20,0:17:01.40,Main,,0,0,0,,{ in the future}Mal posso esperar para ver como você vai ficar!
 Dialogue: 0,0:17:02.50,0:17:05.64,Main,,0,0,0,,{come}Todos nós podemos ser piratas,
@@ -6268,7 +6268,7 @@ Dialogue: 0,0:20:45.46,0:20:50.90,Main,,0,0,0,,{ will take care of}Garantiremos 
 Dialogue: 0,0:20:52.13,0:20:57.24,Main,,0,0,0,,Espere um minuto, Bluejam!\NPai, isso é o suficiente!\NEu entendo!
 Dialogue: 0,0:20:58.04,0:21:00.17,Main,,0,0,0,,O que você entende?
 Dialogue: 0,0:21:01.67,0:21:02.74,Main,,0,0,0,,Não faça isso, Sabo!
-Dialogue: 0,0:21:04.38,0:21:10.11,Main,,0,0,0,,Farei o que você diz.\NVou viver como você quiser, então.\N.\N.
+Dialogue: 0,0:21:04.38,0:21:10.11,Main,,0,0,0,,Farei o que você diz.\NVou viver como você quiser, então...
 Dialogue: 0,0:21:10.11,0:21:14.82,Main,,0,0,0,,por favor, não machuque esses dois!
 Dialogue: 0,0:21:15.12,0:21:16.55,Main,,0,0,0,,Eu estou te implorando.
 Dialogue: 0,0:21:17.12,0:21:19.82,Main,,0,0,0,,Eles são muito importantes para mim; eles são meus irmãos.
@@ -6382,7 +6382,7 @@ Dialogue: 0,0:28:05.00,0:28:08.90,Main,,0,0,0,,O-O-O que você está fazendo?! V
 Dialogue: 0,0:28:08.90,0:28:11.64,Main,,0,0,0,,{were}O que você está falando?!
 Dialogue: 0,0:28:11.64,0:28:13.94,Main,,0,0,0,,O que está acontecendo? Conte-me tudo!
 Dialogue: 0,0:28:13.94,0:28:19.01,Main,,0,0,0,,Vai haver um incêndio no Terminal Cinza amanhã.
-Dialogue: 0,0:28:19.41,0:28:21.48,Main,,0,0,0,,– Um incêndio?\N!\N- Sim.
+Dialogue: 0,0:28:19.41,0:28:21.48,Main,,0,0,0,,– Um incêndio?!\N- Sim.
 Dialogue: 0,0:28:21.48,0:28:24.75,Main,,0,0,0,,Você não sabe disso porque não estava aqui.
 Dialogue: 0,0:28:24.75,0:28:27.38,Main,,0,0,0,,Mas eles decidiram isso meses atrás.
 Dialogue: 0,0:28:27.99,0:28:29.85,Main,,0,0,0,,Você sabia que o Governo Mundial...
@@ -6410,7 +6410,7 @@ Dialogue: 0,0:29:55.47,0:29:57.54,Thoughts,,0,0,0,,{from}Eles estiveram lá esta
 Dialogue: 0,0:29:59.01,0:30:02.85,Main,,0,0,0,,Estamos prontos para amanhã?\NNão pode haver nenhum erro de cálculo.
 Dialogue: 0,0:30:02.85,0:30:06.68,Main,,0,0,0,,{unknown\Nfactor}Estamos prontos, mas o problema são os piratas.
 Dialogue: 0,0:30:06.68,0:30:09.32,Main,,0,0,0,,{burn the trash precisely.}Eles têm que atear fogo de acordo com o plano.
-Dialogue: 0,0:30:10.22,0:30:13.76,Main,,0,0,0,,A tripulação do Bluejam está colocando caixas de óleo e explosivos.\N.\N.
+Dialogue: 0,0:30:10.22,0:30:13.76,Main,,0,0,0,,A tripulação do Bluejam está colocando caixas de óleo e explosivos...
 Dialogue: 0,0:30:13.76,0:30:17.80,Main,,0,0,0,,por todo o Terminal Cinza até a hora marcada de amanhã.
 Dialogue: 0,0:30:18.76,0:30:22.43,Thoughts,,0,0,0,,Bluejam está envolvido nisso?\NEntão deve ser verdade!
 Dialogue: 0,0:30:22.43,0:30:24.33,Thoughts,,0,0,0,,Mas é tão ridículo!
@@ -6442,8 +6442,8 @@ Dialogue: 0,0:32:02.07,0:32:04.67,Main,,0,0,0,,{Which}De qual família você é?
 Dialogue: 0,0:32:05.07,0:32:07.54,Thoughts,,0,0,0,,Então é verdade!
 Dialogue: 0,0:32:09.11,0:32:10.24,Main,,0,0,0,,Ei, garoto!
 Dialogue: 0,0:32:10.41,0:32:13.31,Thoughts,,0,0,0,,O que está acontecendo aqui?\NTodo mundo sabe disso?
-Dialogue: 0,0:32:13.64,0:32:16.51,Thoughts,,0,0,0,,{and}Todos eles sabem disso, mas estão agindo normalmente?\N!
-Dialogue: 0,0:32:16.51,0:32:20.54,Thoughts,,0,0,0,,Ninguém se importa com o incêndio no Terminal Cinza?\N!
+Dialogue: 0,0:32:13.64,0:32:16.51,Thoughts,,0,0,0,,{and}Todos eles sabem disso, mas estão agindo normalmente?!
+Dialogue: 0,0:32:16.51,0:32:20.54,Thoughts,,0,0,0,,Ninguém se importa com o incêndio no Terminal Cinza?!
 Dialogue: 0,0:32:24.42,0:32:27.29,Main,,0,0,0,,{you brats}Oh, aí estão vocês, pequeninos.
 Dialogue: 0,0:32:27.29,0:32:29.56,Main,,0,0,0,,{Do you want us to carry the boxes?}Há mais caixas para carregar hoje?
 Dialogue: 0,0:32:29.56,0:32:32.86,Main,,0,0,0,,{there will be}Sim, e tenho uma grande tarefa para você esta noite.
@@ -6466,7 +6466,7 @@ Dialogue: 0,0:33:27.55,0:33:31.05,Thoughts,,0,0,0,,{Today of all days, it's wind
 Dialogue: 0,0:33:31.05,0:33:33.22,Main,,0,0,0,,{it}Aí está ele! Não é ele?!
 Dialogue: 0,0:33:33.66,0:33:36.09,Main,,0,0,0,,Não há dúvida! Esse é o garoto fugitivo!
 Dialogue: 0,0:33:36.73,0:33:38.83,Main,,0,0,0,,Ei você, pare!
-Dialogue: 0,0:33:38.83,0:33:41.93,Thoughts,,0,0,0,,{The people in this country\Nare planning to burn up.\N.\N.\N}Esta noite, o povo deste país está planejando atear fogo.\N.\N.
+Dialogue: 0,0:33:38.83,0:33:41.93,Thoughts,,0,0,0,,{The people in this country\Nare planning to burn up...\N}Esta noite, o povo deste país está planejando atear fogo...
 Dialogue: 0,0:33:41.93,0:33:44.10,Thoughts,,0,0,0,,{ tonight}para sua vergonha nacional!
 Dialogue: 0,0:33:44.84,0:33:48.41,Thoughts,,0,0,0,,{the\N}Você tem que sair do Terminal Cinza!\NÁs!\NLuffy!
 Dialogue: 0,0:33:48.87,0:33:52.44,Main,,0,0,0,,Correr! Ás! Luffy!
@@ -6479,7 +6479,7 @@ Dialogue: 0,0:34:11.30,0:34:13.66,Main,,0,0,0,,Eu não sou o mentor.
 Dialogue: 0,0:34:16.00,0:34:18.60,Main,,0,0,0,,{There was }Petróleo e explosivos estavam nas caixas...
 Dialogue: 0,0:34:18.94,0:34:21.17,Main,,0,0,0,,que vocês carregaram ontem e hoje.
 Dialogue: 0,0:34:21.17,0:34:26.34,Main,,0,0,0,,{And there's gonna be a massive\Nfire that no one can escape from.\N}Ninguém escapará do enorme incêndio que está prestes a acontecer.
-Dialogue: 0,0:34:26.34,0:34:28.71,Main,,0,0,0,,{No.\N.\N.\N}– Como você pôde?\N– Você está louco?
+Dialogue: 0,0:34:26.34,0:34:28.71,Main,,0,0,0,,{No...\N}– Como você pôde?\N– Você está louco?
 Dialogue: 0,0:34:30.15,0:34:33.52,Main,,0,0,0,,Até garotos punk como vocês dois estão pirando?
 Dialogue: 0,0:34:34.08,0:34:37.59,Main,,0,0,0,,Mas agora você sabe sobre o plano.
 Dialogue: 0,0:34:37.99,0:34:41.86,Main,,0,0,0,,Não podemos deixar você ir.
@@ -6494,7 +6494,7 @@ Dialogue: 0,0:35:32.81,0:35:34.38,Main,,0,0,0,,{Isn't it burning?}Está pegando 
 Dialogue: 0,0:35:39.55,0:35:42.12,Main,,0,0,0,,Este é o melhor jogo que já joguei!
 Dialogue: 0,0:35:42.12,0:35:45.92,Main,,0,0,0,,B-B-Chefe! Chefe! Você tem que ver isso!
 Dialogue: 0,0:35:46.22,0:35:47.82,Main,,0,0,0,,Por que você está gritando?
-Dialogue: 0,0:35:47.82,0:35:50.59,Main,,0,0,0,,{it}– O céu ao norte, olha!\N– Essa é a cidade?\N!
+Dialogue: 0,0:35:47.82,0:35:50.59,Main,,0,0,0,,{it}– O céu ao norte, olha!\N– Essa é a cidade?!
 Dialogue: 0,0:35:50.93,0:35:55.74,Main,,0,0,0,,Não, mais perto que isso!\NDeve ser o Terminal Cinza!\NEstá pegando fogo!
 Dialogue: 0,0:35:57.13,0:35:59.90,Captions,,0,0,0,,{\blur0.6\fad(600,0)\pos(640,530)\bord1.5\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)}Centro da cidade
 Dialogue: 1,0:35:57.13,0:35:59.90,Captions,,0,0,0,,{\blur0.6\fad(600,0)\pos(640,530)\bord0\4a&HFF&}Centro da cidade
@@ -6536,8 +6536,8 @@ Dialogue: 0,0:38:17.11,0:38:19.61,Main,,0,0,0,,Sou eu, Bluejam. Abrir.
 Dialogue: 0,0:38:23.21,0:38:25.15,Main,,0,0,0,,{Don't}Ei! Você está me ouvindo?!
 Dialogue: 0,0:38:28.59,0:38:29.69,Main,,0,0,0,,É isto...
 Dialogue: 0,0:38:30.89,0:38:33.26,Main,,0,0,0,,Capitão, poderia ser...
-Dialogue: 0,0:38:34.62,0:38:40.06,Main,,0,0,0,,Ei, pessoal, o que vocês estão fazendo?\N!\NAbra o portão!
-Dialogue: 0,0:38:40.06,0:38:44.07,Main,,0,0,0,,O plano era você nos deixar evacuar daqui, certo?\N!
+Dialogue: 0,0:38:34.62,0:38:40.06,Main,,0,0,0,,Ei, pessoal, o que vocês estão fazendo?!\NAbra o portão!
+Dialogue: 0,0:38:40.06,0:38:44.07,Main,,0,0,0,,O plano era você nos deixar evacuar daqui, certo?!
 Dialogue: 0,0:38:44.07,0:38:47.70,Main,,0,0,0,,Não foi isso que combinamos! Seus bastardos!
 Dialogue: 0,0:38:47.70,0:38:50.27,Main,,0,0,0,,{King}O que aconteceu com sua promessa, Majestade?!
 Dialogue: 0,0:38:50.27,0:38:53.58,Main,,0,0,0,,Você disse que nos tornaria nobres...
@@ -6576,7 +6576,7 @@ Dialogue: 0,0:40:30.34,0:40:33.51,Main,,0,0,0,,– Seja um bom garoto e evacue!\
 Dialogue: 0,0:40:37.41,0:40:40.25,Main,,0,0,0,,A-Ás. Luffy.
 Dialogue: 0,0:41:02.67,0:41:04.64,Main,,0,0,0,,O que aconteceu com você, garoto?
 Dialogue: 0,0:41:10.75,0:41:12.32,Main,,0,0,0,,O-Velho...
-Dialogue: 0,0:41:15.39,0:41:20.59,Main,,0,0,0,,{nobles}A realeza e a nobreza estão.\N.\N.\Npor trás do fogo.\N.\N.
+Dialogue: 0,0:41:15.39,0:41:20.59,Main,,0,0,0,,{nobles}A realeza e a nobreza estão...\Npor trás do fogo...
 Dialogue: 0,0:41:23.49,0:41:25.23,Main,,0,0,0,,{Believe me...}Você tem que acreditar em mim!
 Dialogue: 0,0:41:26.76,0:41:32.07,Main,,0,0,0,,Esta cidade cheira pior que o Terminal Cinza.
 Dialogue: 0,0:41:32.64,0:41:36.44,Main,,0,0,0,,Cheira a gente podre!

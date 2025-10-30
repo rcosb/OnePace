@@ -83,7 +83,7 @@ Dialogue: 0,0:02:29.19,0:02:31.11,Main,,0,0,0,,O que devemos fazer com o bolo?!
 Dialogue: 0,0:02:33.99,0:02:36.11,Main,,0,0,0,,Aumente nossa velocidade!
 Dialogue: 0,0:02:36.11,0:02:39.24,Main,,0,0,0,,Vá direto para o porto!
 Dialogue: 0,0:02:44.58,0:02:47.29,Main,,0,0,0,,O navio de Bege acelerou!
-Dialogue: 0,0:02:47.29,0:02:51.13,Main,,0,0,0,,O que ele está pensando?\N!\NEle vai bater no porto!
+Dialogue: 0,0:02:47.29,0:02:51.13,Main,,0,0,0,,O que ele está pensando?!\NEle vai bater no porto!
 Dialogue: 0,0:02:53.76,0:02:56.01,Main,,0,0,0,,Por que ele não está desacelerando?!
 Dialogue: 0,0:02:57.98,0:03:00.47,Main,,0,0,0,,Não me diga... é um ataque suicida?!
 Dialogue: 0,0:03:06.24,0:03:09.31,Main,,0,0,0,,Está navegando para a costa!
@@ -174,7 +174,7 @@ Dialogue: 0,0:10:07.22,0:10:09.15,Main,,0,0,0,,Não está estranhamente quente a
 Dialogue: 0,0:10:11.25,0:10:14.72,Main,,0,0,0,,{\i1}Pai, o mar parece estranho-rero!
 Dialogue: 0,0:10:21.80,0:10:24.27,Main,,0,0,0,,Os peixes estão flutuando na superfície!
 Dialogue: 0,0:10:24.27,0:10:26.44,Main,,0,0,0,,O mar está tão quente que os ferveu?!
-Dialogue: 0,0:10:26.44,0:10:29.73,Main,,0,0,0,,Com a quantidade certa de sal, provavelmente ficariam gostosos.\N.\N.
+Dialogue: 0,0:10:26.44,0:10:29.73,Main,,0,0,0,,Com a quantidade certa de sal, provavelmente ficariam gostosos...
 Dialogue: 0,0:10:29.73,0:10:32.15,Main,,0,0,0,,Nós seremos os próximos, seu idiota!
 Dialogue: 0,0:10:33.36,0:10:36.71,Main,,0,0,0,,Só existe uma pessoa capaz disso...
 Dialogue: 0,0:10:36.73,0:10:38.13,Main,,0,0,0,,Olhar!
@@ -193,7 +193,7 @@ Dialogue: 0,0:11:16.51,0:11:20.63,Main,,0,0,0,,Big Mom não ficará satisfeita c
 Dialogue: 0,0:11:22.67,0:11:24.39,Main,,0,0,0,,O que aconteceu?!
 Dialogue: 0,0:11:24.39,0:11:27.02,Main,,0,0,0,,O calor quebrou os remos!
 Dialogue: 0,0:11:27.02,0:11:30.76,Main,,0,0,0,,{\i1}Rero-rero! Ele está planejando afundar nosso navio?!
-Dialogue: 0,0:11:30.76,0:11:35.02,Main,,0,0,0,,{\i1}Oven-sama esqueceu o quão importante é esse bolo?\N!
+Dialogue: 0,0:11:30.76,0:11:35.02,Main,,0,0,0,,{\i1}Oven-sama esqueceu o quão importante é esse bolo?!
 Dialogue: 0,0:11:35.02,0:11:37.20,Main,,0,0,0,,Tudo bem...
 Dialogue: 0,0:11:37.20,0:11:39.24,Main,,0,0,0,,Vai ficar tudo bem...
 Dialogue: 0,0:11:39.24,0:11:41.32,Main,,0,0,0,,Afundar...
@@ -239,7 +239,7 @@ Dialogue: 0,0:15:03.82,0:15:08.73,Main,,0,0,0,,Eu quero segurá-los pelo menos u
 Dialogue: 0,0:15:09.31,0:15:12.98,Main,,0,0,0,,Linlin!
 Dialogue: 0,0:15:12.98,0:15:17.52,Main,,0,0,0,,Eles são... meus filhos...
 Dialogue: 0,0:15:19.44,0:15:22.58,Thoughts,,0,0,0,,{\i1}Isso foi há 26 anos...
-Dialogue: 0,0:15:23.24,0:15:27.79,Thoughts,,0,0,0,,{\i1}Chiffon.\N.\N.\NEstou feliz por ter visto você pelo menos uma vez.
+Dialogue: 0,0:15:23.24,0:15:27.79,Thoughts,,0,0,0,,{\i1}Chiffon...\NEstou feliz por ter visto você pelo menos uma vez.
 Dialogue: 0,0:15:27.79,0:15:32.17,Thoughts,,0,0,0,,{\i1}Parece que você está sendo perseguido,
 Dialogue: 0,0:15:32.91,0:15:36.63,Thoughts,,0,0,0,,{\i1}mas estou feliz que você pareça feliz...
 Dialogue: 0,0:15:42.71,0:15:44.80,Main,,0,0,0,,Qual é o problema, Pez?
@@ -256,7 +256,7 @@ Dialogue: 0,0:16:33.01,0:16:37.78,Main,,0,0,0,,Vai ficar tudo bem. Seu papai e s
 Dialogue: 0,0:16:38.90,0:16:42.24,Thoughts,,0,0,0,,Fiquei preocupado com você esse tempo todo.
 Dialogue: 0,0:16:42.73,0:16:45.74,Thoughts,,0,0,0,,Você passou por alguma dificuldade?
 Dialogue: 0,0:16:46.19,0:16:49.45,Thoughts,,0,0,0,,Você já esteve sozinho?
-Dialogue: 0,0:16:49.45,0:16:55.06,Thoughts,,0,0,0,,{\i1}Me desculpe por não poder estar ao seu lado nesses dias.\N.\N.
+Dialogue: 0,0:16:49.45,0:16:55.06,Thoughts,,0,0,0,,{\i1}Me desculpe por não poder estar ao seu lado nesses dias...
 Dialogue: 0,0:16:56.79,0:16:58.67,Thoughts,,0,0,0,,{\i1}Eu sei que estou atrasado...
 Dialogue: 0,0:16:59.62,0:17:02.05,Thoughts,,0,0,0,,{\i1}mas eu queria te contar uma coisa.
 Dialogue: 0,0:17:03.04,0:17:04.98,Main,,0,0,0,,Parabéns...
@@ -302,7 +302,7 @@ Dialogue: 0,0:19:03.78,0:19:09.43,Main,,0,0,1,,{\i1}Bavarois-sama! Vou te mostra
 Dialogue: 0,0:19:06.21,0:19:10.79,Captions,,0,0,235,,{\fad(500,0)}26º filho da família Charlotte Charlotte Bavarois
 Dialogue: 0,0:19:06.31,0:19:10.79,Note,,0,0,0,,Bavarois: Nomeado em homenagem ao Creme Bávaro.
 Dialogue: 0,0:19:09.43,0:19:10.79,Main,,0,0,1,,Droga...
-Dialogue: 0,0:19:10.79,0:19:16.00,Main,,0,0,0,,Mamãe não diminuiu a velocidade.\N.\N.\Ne nós também estamos a todo vapor!
+Dialogue: 0,0:19:10.79,0:19:16.00,Main,,0,0,0,,Mamãe não diminuiu a velocidade...\Ne nós também estamos a todo vapor!
 Dialogue: 0,0:19:16.00,0:19:17.92,Main,,0,0,0,,Por que não podemos alcançá-los?!
 Dialogue: 0,0:19:19.83,0:19:23.72,Main,,0,0,0,,Bem, eles têm Jinbe, que conhece os mares como a palma da sua mão.
 Dialogue: 0,0:19:27.51,0:19:31.47,Main,,0,0,0,,{\i1}Bavarois-sama! Acabamos de receber uma ligação!
@@ -339,7 +339,7 @@ Dialogue: 0,0:21:57.72,0:21:58.91,Main,,0,0,0,,Por trás?
 Dialogue: 0,0:22:00.65,0:22:02.16,Main,,0,0,0,,Isso é...
 Dialogue: 0,0:22:02.16,0:22:07.58,Main,,0,0,0,,{\i1}Uma frota de reforços liderada pelo Sweet Commander Smoothie-sama chegou!
 Dialogue: 0,0:22:03.80,0:22:07.58,Captions,,0,0,230,,{\fad(500,0)}14ª Filha da Família Charlotte Sweet Commander Smoothie
-Dialogue: 0,0:22:08.88,0:22:12.22,Main,,0,0,0,,{\i1}Além disso, o navio-bandeira de Smoothie-sama.\N.\N.
+Dialogue: 0,0:22:08.88,0:22:12.22,Main,,0,0,0,,{\i1}Além disso, o navio-bandeira de Smoothie-sama...
 Dialogue: 0,0:22:11.01,0:22:16.43,Captions,,0,700,235,,{\fad(500,0)}16ª Filha da Família Charlotte Canela
 Dialogue: 0,0:22:11.01,0:22:16.43,Captions,,650,0,235,,{\fad(500,0)}15ª Filha da Família Charlotte Citron
 Dialogue: 0,0:22:12.22,0:22:16.43,Main,,0,0,0,,{\i1}tem Citron-sama e Cinnamon-sama a bordo também!
@@ -363,11 +363,11 @@ Dialogue: 0,0:23:15.57,0:23:18.66,Main,,0,0,0,,Os navios de Daifuku estão se pr
 Dialogue: 0,0:23:19.74,0:23:23.18,Main,,0,0,0,,Acho que ainda não estamos ao alcance deles...
 Dialogue: 0,0:23:23.18,0:23:28.46,Main,,0,0,0,,Mesmo que tentemos nos esquivar, estaremos cercados por todos os lados.
 Dialogue: 0,0:23:29.87,0:23:33.84,Main,,0,0,0,,Jinbei, vamos continuar avançando sem desacelerar!
-Dialogue: 0,0:23:33.84,0:23:40.18,Main,,0,0,0,,Mas estamos enfrentando a nave de Daifuku.\N.\N.\NEle controla um gênio e é um oponente formidável!
+Dialogue: 0,0:23:33.84,0:23:40.18,Main,,0,0,0,,Mas estamos enfrentando a nave de Daifuku...\NEle controla um gênio e é um oponente formidável!
 Dialogue: 0,0:23:40.18,0:23:45.39,Main,,0,0,0,,Não temos escolha a não ser forçar a passagem pela frente!
 Dialogue: 0,0:23:45.39,0:23:48.65,Main,,0,0,0,,Certo. Vamos nos preparar.
 Dialogue: 0,0:23:48.65,0:23:55.45,Main,,0,0,0,,Vou começar pegando uma Rumble Ball!\NAproxime-me o suficiente para pular na nave deles!
-Dialogue: 0,0:23:55.45,0:23:59.37,Main,,0,0,0,,Lutar de perto.\N.\N.\NVai ser difícil.
+Dialogue: 0,0:23:55.45,0:23:59.37,Main,,0,0,0,,Lutar de perto...\NVai ser difícil.
 Dialogue: 0,0:23:59.37,0:24:00.31,Main,,0,0,0,,Hum-hm.
 Dialogue: 0,0:24:00.31,0:24:02.91,Main,,0,0,0,,Vamos!
 Dialogue: 0,0:24:04.74,0:24:07.88,Main,,0,0,0,,Eles estarão ao alcance em breve.
@@ -385,7 +385,7 @@ Dialogue: 0,0:24:29.76,0:24:32.64,Main,,0,0,0,,Com certeza serei útil!
 Dialogue: 0,0:24:32.64,0:24:34.06,Main,,0,0,0,,Cenoura?!
 Dialogue: 0,0:24:36.31,0:24:38.19,Main,,0,0,0,,Porque...
 Dialogue: 0,0:24:39.14,0:24:41.90,Main,,0,0,0,,esta noite é lua cheia...
-Dialogue: 0,0:24:42.52,0:24:48.07,Main,,0,0,0,,Não me diga.\N.\N.\NSulong?\N!\NVocê está treinado para isso?\N!
+Dialogue: 0,0:24:42.52,0:24:48.07,Main,,0,0,0,,Não me diga...\NSulong?!\NVocê está treinado para isso?!
 Dialogue: 0,0:24:42.52,0:24:48.07,Note,,0,0,0,,Avanço: "Leão da Lua"
 Dialogue: 0,0:24:48.07,0:24:52.87,Main,,0,0,0,,Não se preocupe... Pedro me treinou.
 Dialogue: 0,0:24:54.12,0:24:56.93,Main,,0,0,0,,Eu sei o que Pedro diria agora...
@@ -403,7 +403,7 @@ Dialogue: 0,0:25:35.33,0:25:36.67,Main,,0,0,0,,{\i1}Eu vou lutar...
 Dialogue: 0,0:25:36.67,0:25:38.72,Thoughts,,0,0,0,,{\i1}para sua-teia compartilhe também...
 Dialogue: 0,0:25:40.35,0:25:42.15,Main,,0,0,0,,{\i1}Pedro!
 Dialogue: 0,0:26:02.47,0:26:03.80,Main,,0,0,0,,O que é aquilo?
-Dialogue: 0,0:27:05.17,0:27:08.83,Main,,0,0,0,,Os olhos dela estão vermelhos.\N.\N.\NEla parece uma pessoa diferente.\N.\N.
+Dialogue: 0,0:27:05.17,0:27:08.83,Main,,0,0,0,,Os olhos dela estão vermelhos...\NEla parece uma pessoa diferente...
 Dialogue: 0,0:27:08.83,0:27:12.31,Main,,0,0,0,,Cenoura... Ela é tão linda...
 Dialogue: 0,0:27:12.31,0:27:15.27,Main,,0,0,0,,Que místico...
 Dialogue: 0,0:27:15.27,0:27:18.45,Main,,0,0,0,,Ah, ela parece incrível...
@@ -419,10 +419,10 @@ Dialogue: 0,0:27:54.26,0:27:56.48,Main,,0,0,0,,O verdadeiro poder de...
 Dialogue: 0,0:27:56.48,0:27:58.39,Main,,0,0,0,,a tribo dos visons!
 Dialogue: 0,0:28:12.90,0:28:16.16,Main,,0,0,0,,D-Não me diga que isso é...
 Dialogue: 0,0:28:16.16,0:28:18.50,Main,,0,0,0,,{\i1}Isso é ruim, Daifuku-sama!
-Dialogue: 0,0:28:18.50,0:28:23.29,Main,,0,0,0,,Esta noite é lua cheia!\NAquela garota Mink que está com o inimigo.\N.\N.
+Dialogue: 0,0:28:18.50,0:28:23.29,Main,,0,0,0,,Esta noite é lua cheia!\NAquela garota Mink que está com o inimigo...
 Dialogue: 0,0:28:23.75,0:28:25.25,Main,,0,0,0,,Virou Sulong!
 Dialogue: 0,0:28:28.58,0:28:32.55,Main,,0,0,0,,Pessoal! Prepare-se para uma batalha corpo a corpo!
-Dialogue: 0,0:28:33.21,0:28:37.81,Main,,0,0,0,,Se estou certo, Pedro era de Zou, a Ilha Fantasma.\N.\N.
+Dialogue: 0,0:28:33.21,0:28:37.81,Main,,0,0,0,,Se estou certo, Pedro era de Zou, a Ilha Fantasma...
 Dialogue: 0,0:28:37.82,0:28:41.06,Main,,0,0,0,,Acho que ela é do mesmo lugar...
 Dialogue: 0,0:28:48.56,0:28:50.81,Main,,0,0,0,,Ela vai cair no mar!
 Dialogue: 0,0:28:52.56,0:28:54.15,Main,,0,0,0,,Huh?! O que...
@@ -442,7 +442,7 @@ Dialogue: 0,0:30:16.02,0:30:17.32,Main,,0,0,0,,Ei!
 Dialogue: 0,0:30:17.32,0:30:19.95,Main,,0,0,0,,O que está acontecendo? Helicóptero!
 Dialogue: 0,0:30:23.79,0:30:25.42,Main,,0,0,0,,Maldito ratinho!
 Dialogue: 0,0:30:25.42,0:30:30.09,Main,,0,0,0,,Você planeja lutar contra todos os soldados desta frota para nos deter?!
-Dialogue: 0,0:30:30.09,0:30:35.51,Main,,0,0,0,,Enquanto você faz isso, seu navio afundará!\NPare com sua resistência fútil e.\N.\N.
+Dialogue: 0,0:30:30.09,0:30:35.51,Main,,0,0,0,,Enquanto você faz isso, seu navio afundará!\NPare com sua resistência fútil e...
 Dialogue: 0,0:30:37.55,0:30:39.01,Main,,0,0,0,,O leme?!
 Dialogue: 0,0:30:40.47,0:30:43.23,Main,,0,0,0,,E-Ela quebrou o leme!
 Dialogue: 0,0:30:43.23,0:30:46.56,Main,,0,0,0,,Oh não! Para onde nosso navio está indo?!

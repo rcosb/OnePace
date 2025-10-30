@@ -90,7 +90,7 @@ Dialogue: 0,0:03:13.05,0:03:14.75,Main,Clerk,0,0,0,,O que?!
 Dialogue: 0,0:03:14.75,0:03:16.60,Main,Clerk,0,0,0,,Senhor, você está...?!
 Dialogue: 0,0:03:16.60,0:03:18.31,Main,Fujitora,0,0,0,,Com licença.
 Dialogue: 0,0:03:18.75,0:03:21.91,Main,Luffy,0,0,0,,Você é muito forte, meu velho! Quem é você?
-Dialogue: 0,0:03:23.40,0:03:30.72,Main,Fujitora,0,0,0,,Parece.\N.\N.\Nque seria melhor para nós dois se eu não te contasse.
+Dialogue: 0,0:03:23.40,0:03:30.72,Main,Fujitora,0,0,0,,Parece...\Nque seria melhor para nós dois se eu não te contasse.
 Dialogue: 0,0:03:34.90,0:03:37.09,Main,Man,0,0,0,,Ei! Por que você não observa para onde está indo?!
 Dialogue: 0,0:03:37.09,0:03:39.36,Main,Fujitora,0,0,0,,Eu-eu sinto muito. Você está ferido?
 Dialogue: 0,0:03:39.36,0:03:44.44,Main,Sanji,0,0,0,,Melhor para nós dois?\NEle é tipo um cara realmente infame?
@@ -108,7 +108,7 @@ Dialogue: 0,0:04:09.34,0:04:11.45,Main,Zoro,0,0,0,,Shuusui estava bem aqui!
 Dialogue: 0,0:04:11.45,0:04:14.03,Main,Kin'emon,0,0,0,,O que?! O tesouro do País Wano?!
 Dialogue: 0,0:04:14.40,0:04:16.00,Main,OH GOD KILL IT WITH FIRE,0,0,0,,Parece que todo mundo já foi enganado.
 Dialogue: 0,0:04:17.50,0:04:19.42,Main,OH GOD KILL IT WITH FIRE,0,0,0,,As fadas os roubaram.
-Dialogue: 0,0:04:19.42,0:04:23.21,Main,Zoro,0,0,0,,O que isso quer dizer?\N!\NÉ algum tipo de organização criminosa?
+Dialogue: 0,0:04:19.42,0:04:23.21,Main,Zoro,0,0,0,,O que isso quer dizer?!\NÉ algum tipo de organização criminosa?
 Dialogue: 0,0:04:23.21,0:04:27.31,Main,OH GOD KILL IT WITH FIRE,0,0,0,,Fadas são fadas.\NVocê apenas tem que rir e aceitar o que eles fazem.
 Dialogue: 0,0:04:27.31,0:04:33.14,Main,OH GOD KILL IT WITH FIRE,0,0,0,,As fadas não podem ser vistas, mas são as guardiãs de Dressrosa há gerações.
 Dialogue: 0,0:04:33.14,0:04:37.32,Main,OH GOD KILL IT WITH FIRE,0,0,0,,Devemos fechar os olhos para tudo o que eles fazem.
@@ -156,7 +156,7 @@ Dialogue: 0,0:06:59.02,0:07:04.07,Main,Masked man,0,0,0,,Não sei os detalhes, m
 Dialogue: 0,0:07:04.91,0:07:07.65,Main,Masked man,0,0,0,,Não pude acreditar quando descobri.
 Dialogue: 0,0:07:09.41,0:07:10.88,Main,Masked man,0,0,0,,É algo que qualquer um iria querer.
 Dialogue: 0,0:07:11.99,0:07:13.17,Main,Luffy,0,0,0,,Você não quer dizer...
-Dialogue: 0,0:07:14.63,0:07:17.05,Main,Luffy,0,0,0,,aquela carne ultradeliciosa de que o Mingo estava falando?\N!
+Dialogue: 0,0:07:14.63,0:07:17.05,Main,Luffy,0,0,0,,aquela carne ultradeliciosa de que o Mingo estava falando?!
 Dialogue: 0,0:07:17.66,0:07:21.57,Main,Franky,0,0,0,,Ele apenas disse que era algo que você desejaria.
 Dialogue: 0,0:07:23.50,0:07:26.16,Captions,,0,0,180,,{\fad(420,0)}Dressrosa's Corrida Colosseum
 Dialogue: 0,0:07:23.20,0:07:24.10,Main,Child,0,0,0,,{\an8}Ai!
@@ -221,7 +221,7 @@ Dialogue: 0,0:11:29.39,0:11:32.54,Main,Franky,0,0,0,,Ah, sim, Ace era seu...
 Dialogue: 0,0:11:32.85,0:11:35.37,Main,Luffy,0,0,0,,Eu quero aquela Fruta Flamejante!
 Dialogue: 0,0:11:36.00,0:11:39.51,Main,Luffy,0,0,0,,Ah, eu sei! Por que você não come, Franky?
 Dialogue: 0,0:11:39.51,0:11:42.11,Main,Franky,0,0,0,,{ def: dude, you're like 60% metal already.  how much swimming are you doing? }Prefiro não me tornar uma âncora.
-Dialogue: 0,0:11:42.11,0:11:45.89,Main,Luffy,0,0,0,,Já comi a Fruta Borracha, então não posso comer outra.\N.\N.
+Dialogue: 0,0:11:42.11,0:11:45.89,Main,Luffy,0,0,0,,Já comi a Fruta Borracha, então não posso comer outra...
 Dialogue: 0,0:11:45.89,0:11:50.69,Main,Luffy,0,0,0,,mas não quero que algum estranho fuja com o poder de Ace!
 Dialogue: 0,0:11:50.69,0:11:53.30,Main,Franky,0,0,0,,Então é como uma lembrança para você?
 Dialogue: 0,0:11:53.30,0:11:58.60,Main,Franky,0,0,0,,Pensando no que Doflamingo disse, isso provavelmente é uma armadilha.

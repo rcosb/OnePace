@@ -114,7 +114,7 @@ Dialogue: 0,0:02:31.51,0:02:32.96,Main,,0,0,0,,O que?
 Dialogue: 0,0:02:32.96,0:02:35.70,Main,,0,0,0,,Isso não é um navio de guerra.
 Dialogue: 0,0:02:35.70,0:02:39.70,Main,,0,0,0,,Ouvimos dizer que um navio do governo acabou de chegar a esta ilha.
 Dialogue: 0,0:02:39.70,0:02:43.66,Main,,0,0,0,,Provavelmente será uma investigação mais rigorosa do que nunca.
-Dialogue: 0,0:02:43.66,0:02:47.13,Main,,0,0,0,,Ouça, Robin.\NMesmo que o Governo venha aqui.\N.\N.
+Dialogue: 0,0:02:43.66,0:02:47.13,Main,,0,0,0,,Ouça, Robin.\NMesmo que o Governo venha aqui...
 Dialogue: 0,0:02:47.13,0:02:51.31,Main,,0,0,0,,você absolutamente não pode dizer a eles que é arqueólogo.
 Dialogue: 0,0:02:51.31,0:02:56.86,Main,,0,0,0,,Como você é pequeno, ninguém pensará que você é um estudioso.\NEntendeu?
 Dialogue: 0,0:02:58.40,0:02:59.66,Main,,0,0,0,,Mover!
@@ -132,7 +132,7 @@ Dialogue: 0,0:03:29.33,0:03:35.35,Main,,0,0,0,,Suspeitamos agora que os estudios
 Dialogue: 0,0:03:35.35,0:03:36.77,Main,,0,0,0,,O que?! Por que?!
 Dialogue: 0,0:03:36.77,0:03:41.40,Main,,0,0,0,,Eles são estudiosos de classe mundial e o orgulho desta ilha!
 Dialogue: 0,0:03:41.40,0:03:45.58,Main,,0,0,0,,Conseqüentemente, realizaremos uma busca em larga escala em toda a ilha!
-Dialogue: 0,0:03:45.58,0:03:48.85,Main,,0,0,0,,Durante esse tempo, aqueles que não têm nada a ver com arqueologia.\N.\N.
+Dialogue: 0,0:03:45.58,0:03:48.85,Main,,0,0,0,,Durante esse tempo, aqueles que não têm nada a ver com arqueologia...
 Dialogue: 0,0:03:48.85,0:03:50.76,Main,,0,0,0,,espera-se que carreguem uma identificação...
 Dialogue: 0,0:03:50.76,0:03:53.87,Main,,0,0,0,,e refugiar-se temporariamente no navio de evacuação na costa oeste.
 Dialogue: 0,0:03:53.87,0:03:55.98,Main,,0,0,0,,Um navio de evacuação?! Isso é realmente necessário?!
@@ -203,7 +203,7 @@ Dialogue: 0,0:07:43.54,0:07:46.28,Main,,0,0,0,,Não há como dizer o que o gover
 Dialogue: 0,0:07:46.28,0:07:47.97,Main,,0,0,0,,Você deveria ir por ali também.
 Dialogue: 0,0:07:47.97,0:07:51.93,Main,,0,0,0,,Não!\NMesmo se eu entrar naquele navio, as pessoas de lá não serão legais!
 Dialogue: 0,0:07:51.93,0:07:53.61,Main,,0,0,0,,Vou ficar aqui com vocês!
-Dialogue: 0,0:07:53.61,0:07:56.05,Main,,0,0,0,,– Robin.\N.\N.\N– Assim como vocês, eu sou um–
+Dialogue: 0,0:07:53.61,0:07:56.05,Main,,0,0,0,,– Robin...\N– Assim como vocês, eu sou um–
 Dialogue: 0,0:07:56.05,0:07:57.76,Main,,0,0,0,,Basta ir já!
 Dialogue: 0,0:08:00.23,0:08:02.15,Main,,0,0,0,,Trabalhando duro, homens?
 Dialogue: 0,0:08:02.15,0:08:04.57,Main,,0,0,0,,Obrigado por reservar um tempo para vir aqui, chefe!
@@ -225,9 +225,9 @@ Dialogue: 0,0:09:03.68,0:09:06.22,Thoughts,,0,0,0,,ficou tão grande...!!
 Dialogue: 0,0:09:06.93,0:09:09.19,Thoughts,,0,0,0,,Ólvia...
 Dialogue: 0,0:09:12.94,0:09:14.51,Main,,0,0,0,,O que eles fizeram?!
 Dialogue: 0,0:09:14.51,0:09:16.89,Main,,0,0,0,,Eles não têm respeito pela biblioteca?!
-Dialogue: 0,0:09:16.89,0:09:19.48,Main,,0,0,0,,E pensar que eles tomariam medidas tão drásticas.\N.\N.\N!
+Dialogue: 0,0:09:16.89,0:09:19.48,Main,,0,0,0,,E pensar que eles tomariam medidas tão drásticas...!
 Dialogue: 0,0:09:19.48,0:09:22.57,Main,,0,0,0,,Uau... eles fizeram um grande show.
-Dialogue: 0,0:09:23.70,0:09:26.73,Main,,0,0,0,,{\i1}– Clique.\N- Olá?\NEste é o chefe?\N!
+Dialogue: 0,0:09:23.70,0:09:26.73,Main,,0,0,0,,{\i1}– Clique.\N- Olá?\NEste é o chefe?!
 Dialogue: 0,0:09:26.73,0:09:28.16,Main,,0,0,0,,Sim, sou eu.
 Dialogue: 0,0:09:28.16,0:09:29.86,Main,,0,0,0,,{\i1}Nós encontramos!
 Dialogue: 0,0:09:29.86,0:09:31.45,Main,,0,0,0,,{\i1}No porão há...
@@ -244,7 +244,7 @@ Dialogue: 0,0:10:04.01,0:10:06.28,Main,,0,0,0,,Tudo o que resta é relatar isso 
 Dialogue: 0,0:10:06.28,0:10:07.63,Main,,0,0,0,,Rogério.
 Dialogue: 0,0:10:09.06,0:10:12.30,Main,,0,0,0,,Professor! Eles realmente vão matar vocês?! Eles estão mentindo, certo?!
 Dialogue: 0,0:10:12.30,0:10:14.99,Main,,0,0,0,,Tudo porque você pode ler os textos antigos? Por que?!
-Dialogue: 0,0:10:14.99,0:10:20.75,Main,,0,0,0,,Idiota!\NSeu pirralho!\NO objetivo de sua pesquisa é reviver uma arma poderosa.\N.\N.
+Dialogue: 0,0:10:14.99,0:10:20.75,Main,,0,0,0,,Idiota!\NSeu pirralho!\NO objetivo de sua pesquisa é reviver uma arma poderosa...
 Dialogue: 0,0:10:20.75,0:10:23.73,Main,,0,0,0,,e cometer assassinato em massa!
 Dialogue: 0,0:10:23.73,0:10:26.26,Main,,0,0,0,,Isso não é verdade! Essa não é a intenção deles!
 Dialogue: 0,0:10:26.26,0:10:30.80,Main,,0,0,0,,Robin, pare com isso. Ele não vai entender. Ele é apenas um garoto de recados.
@@ -253,7 +253,7 @@ Dialogue: 0,0:10:31.75,0:10:35.40,Main,,0,0,0,,É realmente da própria arma que
 Dialogue: 0,0:10:35.60,0:10:36.76,Main,,0,0,0,,- Professor!\N– Professor Trevo!
 Dialogue: 0,0:10:36.76,0:10:38.51,Main,,0,0,0,,Está conectado, chefe.
 Dialogue: 0,0:10:38.51,0:10:39.55,Main,,0,0,0,,OK.
-Dialogue: 0,0:10:39.55,0:10:41.48,Main,,0,0,0,,– Este é um bom momento.\N- Huh?\N!
+Dialogue: 0,0:10:39.55,0:10:41.48,Main,,0,0,0,,– Este é um bom momento.\N- Huh?!
 Dialogue: 0,0:10:41.48,0:10:46.18,Main,,0,0,0,,Deixe-me falar com os Cinco Anciãos, os líderes mundiais, antes de morrer.
 Dialogue: 0,0:10:46.18,0:10:49.75,Main,,0,0,0,,Nós, os estudiosos de Ohara, continuamos nossa pesquisa há muito tempo,
 Dialogue: 0,0:10:49.75,0:10:51.69,Main,,0,0,0,,e embora nossa pesquisa ainda não tenha terminado,
@@ -289,7 +289,7 @@ Dialogue: 0,0:12:24.36,0:12:25.32,Main,,0,0,0,,O que...!
 Dialogue: 0,0:12:25.32,0:12:29.77,Main,,0,0,0,,Não seja rude!\NVocê está falando com os líderes do mundo!
 Dialogue: 0,0:12:29.77,0:12:33.64,Main,,0,0,0,,{\i1}Este é o professor Clover de Ohara, a autoridade da arqueologia?
 Dialogue: 0,0:12:34.39,0:12:39.11,Main,,0,0,0,,{\i1}Conheço bem o seu nome, pois você contribuiu para a cultura mundial.
-Dialogue: 0,0:12:39.11,0:12:42.31,Main,,0,0,0,,{\i1}E pensar que alguém do seu calibre seguiria o caminho errado.\N.\N.
+Dialogue: 0,0:12:39.11,0:12:42.31,Main,,0,0,0,,{\i1}E pensar que alguém do seu calibre seguiria o caminho errado...
 Dialogue: 0,0:12:42.31,0:12:45.32,Main,,0,0,0,,O passado pertence a toda a humanidade.
 Dialogue: 0,0:12:46.02,0:12:52.53,Main,,0,0,0,,Ninguém tem o direito de nos impedir de querer conhecer a nossa história tácita!
 Dialogue: 0,0:12:52.53,0:12:53.46,Main,,0,0,0,,Professor...
@@ -306,13 +306,13 @@ Dialogue: 0,0:13:19.68,0:13:25.41,Main,,0,0,0,,É assim mesmo?\NEsse raciocínio
 Dialogue: 0,0:13:25.41,0:13:28.44,Main,,0,0,0,,Dos fatos que ainda permanecem...
 Dialogue: 0,0:13:28.44,0:13:33.07,Main,,0,0,0,,estamos mais interessados ​​nos Poneglyphs...
 Dialogue: 0,0:13:33.07,0:13:34.87,Main,,0,0,0,,e a própria razão de sua existência.
-Dialogue: 0,0:13:34.87,0:13:39.02,Main,,0,0,0,,Por que os antigos se deram ao trabalho de inscrever o texto em pedras duras.\N.\N.
+Dialogue: 0,0:13:34.87,0:13:39.02,Main,,0,0,0,,Por que os antigos se deram ao trabalho de inscrever o texto em pedras duras...
 Dialogue: 0,0:13:39.02,0:13:41.96,Main,,0,0,0,,para transmiti-lo ao futuro?
 Dialogue: 0,0:13:41.96,0:13:44.37,Main,,0,0,0,,Eles inscreveram a história em pedras inquebráveis...
 Dialogue: 0,0:13:44.37,0:13:46.63,Main,,0,0,0,,e os espalhou pelo mundo.
-Dialogue: 0,0:13:46.63,0:13:50.38,Main,,0,0,0,,Não é porque pensaram que a sua mensagem seria erradicada.\N.\N.
+Dialogue: 0,0:13:46.63,0:13:50.38,Main,,0,0,0,,Não é porque pensaram que a sua mensagem seria erradicada...
 Dialogue: 0,0:13:50.38,0:13:54.86,Main,,0,0,0,,se eles escreveram em papel ou em livros?
-Dialogue: 0,0:13:54.86,0:13:58.76,Main,,0,0,0,,Em outras palavras, é a prova de que aqueles que deixaram os Poneglyphs.\N.\N.
+Dialogue: 0,0:13:54.86,0:13:58.76,Main,,0,0,0,,Em outras palavras, é a prova de que aqueles que deixaram os Poneglyphs...
 Dialogue: 0,0:13:58.76,0:14:00.86,Main,,0,0,0,,claramente tinha um inimigo.
 Dialogue: 0,0:14:02.70,0:14:06.17,Main,,0,0,0,,O que você está tentando dizer, Professor Clover?
 Dialogue: 0,0:14:06.17,0:14:11.22,Main,,0,0,0,,Supondo que eles foram destruídos por algum inimigo...
@@ -332,14 +332,14 @@ Dialogue: 0,0:15:11.51,0:15:17.32,Main,,0,0,0,,e assim inscreveram tudo o que sa
 Dialogue: 0,0:15:17.32,0:15:21.28,Main,,0,0,0,,Na verdade, essas pedras são os Poneglyphs que permanecem até hoje.
 Dialogue: 0,0:15:22.03,0:15:25.09,Main,,0,0,0,,Eu vejo. Essa é uma hipótese ousada.
 Dialogue: 0,0:15:25.09,0:15:28.75,Main,,0,0,0,,{\i1}É verdade que a arma antiga ameaçaria o mundo.
-Dialogue: 0,0:15:28.75,0:15:34.56,Main,,0,0,0,,No entanto, não é verdade que o Governo Mundial está mais ameaçado.\N.\N.
+Dialogue: 0,0:15:28.75,0:15:34.56,Main,,0,0,0,,No entanto, não é verdade que o Governo Mundial está mais ameaçado...
 Dialogue: 0,0:15:34.56,0:15:39.84,Main,,0,0,0,,pelas pessoas se tornarem conscientes da existência e da ideologia desse reino?
 Dialogue: 0,0:15:41.60,0:15:44.96,Main,,0,0,0,,Ainda temos que analisar qual é essa ameaça,
-Dialogue: 0,0:15:44.96,0:15:50.60,Main,,0,0,0,,mas o nome deste reino outrora próspero que detém a chave de tudo é.\N.\N.
+Dialogue: 0,0:15:44.96,0:15:50.60,Main,,0,0,0,,mas o nome deste reino outrora próspero que detém a chave de tudo é...
 Dialogue: 0,0:15:52.24,0:15:53.44,Main,,0,0,0,,Elimine-o!
 Dialogue: 0,0:16:03.87,0:16:06.20,Main,,0,0,0,,Professor!
 Dialogue: 0,0:16:08.94,0:16:10.66,Main,,0,0,0,,{\i1}Ohara tem...
-Dialogue: 0,0:16:13.41,0:16:15.38,Main,,0,0,0,,– Seus bastardos!\N– Como você ousa.\N.\N.\N!
+Dialogue: 0,0:16:13.41,0:16:15.38,Main,,0,0,0,,– Seus bastardos!\N– Como você ousa...!
 Dialogue: 0,0:16:15.38,0:16:18.21,Main,,0,0,0,,Professor Trevo!
 Dialogue: 0,0:16:18.22,0:16:20.97,Main,,0,0,0,,{\i1}venha saber demais.
 Dialogue: 0,0:16:22.61,0:16:25.17,Main,,0,0,0,,Dê o sinal de ataque.
@@ -438,7 +438,7 @@ Dialogue: 0,0:22:30.71,0:22:35.84,Main,,0,0,0,,{\i1}A pesquisa dos estudiosos de
 Dialogue: 0,0:22:35.84,0:22:40.05,Main,,0,0,0,,{\i1}O conhecimento pode ser transferido.\NNão o deixe sair daquela ilha.
 Dialogue: 0,0:22:40.05,0:22:45.64,Main,,0,0,0,,{\i1}Aniquile os demônios que vivem em Ohara!\NEm nome da justiça!
 Dialogue: 0,0:22:49.40,0:22:52.04,Main,,0,0,0,,Droga! O que está acontecendo?!
-Dialogue: 0,0:22:52.04,0:22:56.40,Main,,0,0,0,,Ainda não saímos da ilha!\NEles estão tentando nos matar?\N!
+Dialogue: 0,0:22:52.04,0:22:56.40,Main,,0,0,0,,Ainda não saímos da ilha!\NEles estão tentando nos matar?!
 Dialogue: 0,0:22:57.35,0:23:00.10,Main,,0,0,0,,A Árvore do Conhecimento está sendo atingida diretamente!
 Dialogue: 0,0:23:00.10,0:23:02.65,Main,,0,0,0,,Não há dúvida de que este é o poder militar do Quartel-General.
 Dialogue: 0,0:23:02.65,0:23:06.86,Main,,0,0,0,,O governo provavelmente faria isso desde o início.\NQue tolice.
@@ -479,21 +479,21 @@ Dialogue: 0,0:25:35.48,0:25:37.72,Main,,0,0,0,,Mais importante ainda, a situaç�
 Dialogue: 0,0:25:37.72,0:25:39.93,Main,,0,0,0,,Você tem que sair da ilha imediatamente!
 Dialogue: 0,0:25:39.93,0:25:41.55,Main,,0,0,0,,Por favor, cuide de Robin!
 Dialogue: 0,0:25:41.55,0:25:43.59,Main,,0,0,0,,Por favor, deixe minha filha escapar da ilha a qualquer custo!
-Dialogue: 0,0:25:43.59,0:25:48.02,Main,,0,0,0,,O que?\N!\NNão!\NE você, mãe?\N!\NVocê não vem comigo?\N!
+Dialogue: 0,0:25:43.59,0:25:48.02,Main,,0,0,0,,O que?!\NNão!\NE você, mãe?!\NVocê não vem comigo?!
 Dialogue: 0,0:25:48.84,0:25:50.48,Main,,0,0,0,,Olvia... O que você vai...
-Dialogue: 0,0:25:50.48,0:25:53.40,Main,,0,0,0,,Ainda há algo que preciso fazer aqui, então.\N.\N.
+Dialogue: 0,0:25:50.48,0:25:53.40,Main,,0,0,0,,Ainda há algo que preciso fazer aqui, então...
 Dialogue: 0,0:25:53.40,0:25:57.49,Main,,0,0,0,,Mãe! Não me deixe! Finalmente consegui ver você de novo!
 Dialogue: 0,0:25:57.49,0:25:59.03,Main,,0,0,0,,Eu vou ficar aqui também!
 Dialogue: 0,0:25:59.03,0:26:00.79,Main,,0,0,0,,Robin...
 Dialogue: 0,0:26:00.79,0:26:03.90,Main,,0,0,0,,Você é um estudioso de Ohara, então deveria saber disso muito bem.
 Dialogue: 0,0:26:03.90,0:26:05.77,Main,,0,0,0,,A história é o tesouro da humanidade.
 Dialogue: 0,0:26:05.77,0:26:09.25,Main,,0,0,0,,Iluminará o futuro em que viverá a sua geração.
-Dialogue: 0,0:26:09.25,0:26:12.16,Main,,0,0,0,,Mas a história que recebemos do passado desaparecerá.\N.\N.
+Dialogue: 0,0:26:09.25,0:26:12.16,Main,,0,0,0,,Mas a história que recebemos do passado desaparecerá...
 Dialogue: 0,0:26:12.16,0:26:15.59,Main,,0,0,0,,a menos que o passemos para a próxima era.
 Dialogue: 0,0:26:15.59,0:26:17.55,Main,,0,0,0,,– Apague o fogo!\N– Proteja os livros!
 Dialogue: 0,0:26:17.55,0:26:21.43,Main,,0,0,0,,Ohara não quer revelar nossa história.
 Dialogue: 0,0:26:21.43,0:26:24.02,Main,,0,0,0,,Queríamos apenas reconhecer e preservar as vozes do passado.
-Dialogue: 0,0:26:24.02,0:26:30.75,Main,,0,0,0,,Nossa pesquisa terminará agora, mas mesmo que Ohara seja destruída.\N.\N.
+Dialogue: 0,0:26:24.02,0:26:30.75,Main,,0,0,0,,Nossa pesquisa terminará agora, mas mesmo que Ohara seja destruída...
 Dialogue: 0,0:26:31.63,0:26:37.15,Main,,0,0,0,,não podemos desistir do futuro em que vocês, jovens, viverão!
 Dialogue: 0,0:26:37.94,0:26:40.16,Main,,0,0,0,,Eu não entendo!
 Dialogue: 0,0:26:41.29,0:26:44.31,Main,,0,0,0,,Você entenderá algum dia.
@@ -518,14 +518,14 @@ Dialogue: 0,0:27:49.52,0:27:53.48,Main,,0,0,0,,Sua mãe é honrada! Ohara é hon
 Dialogue: 0,0:27:53.48,0:27:58.03,Main,,0,0,0,,Algum dia, conte a história desta ilha, Robin!
 Dialogue: 0,0:27:58.03,0:28:01.77,Main,,0,0,0,,Ohara lutou contra o mundo!
 Dialogue: 0,0:28:04.32,0:28:07.41,Flashbacks,,0,0,0,,Pare com isso! Capturá-los é o suficiente!
-Dialogue: 0,0:28:07.41,0:28:12.78,Flashbacks,,0,0,0,,Eles nem são piratas violentos!\NVocê está tão fraco que não consegue suprimi-los?\N!
+Dialogue: 0,0:28:07.41,0:28:12.78,Flashbacks,,0,0,0,,Eles nem são piratas violentos!\NVocê está tão fraco que não consegue suprimi-los?!
 Dialogue: 0,0:28:12.78,0:28:16.49,Flashbacks,,0,0,0,,Capturamos navios de exploração histórica muitas vezes,
 Dialogue: 0,0:28:16.49,0:28:20.54,Flashbacks,,0,0,0,,mas não entendo por que eles tiveram que morrer.
 Dialogue: 0,0:28:20.54,0:28:24.26,Flashbacks,,0,0,0,,Vice-almirante Saul! Encontramos um sobrevivente!
 Dialogue: 0,0:28:24.26,0:28:26.46,Flashbacks,,0,0,0,,Como você ousa matar meus colegas estudiosos?!
 Dialogue: 0,0:28:27.59,0:28:30.43,Flashbacks,,0,0,0,,Você realmente quer a arma?
 Dialogue: 0,0:28:30.43,0:28:31.88,Flashbacks,,0,0,0,,Que gente lamentável...
-Dialogue: 0,0:28:31.88,0:28:34.34,Flashbacks,,0,0,0,,Você não tem sua própria vontade e ainda assim nos julga.\N.\N.
+Dialogue: 0,0:28:31.88,0:28:34.34,Flashbacks,,0,0,0,,Você não tem sua própria vontade e ainda assim nos julga...
 Dialogue: 0,0:28:34.34,0:28:35.80,Flashbacks,,0,0,0,,Ei! Ele é um vice-almirante!
 Dialogue: 0,0:28:35.80,0:28:39.94,Flashbacks,,0,0,0,,não duvidando das leis e dizendo que é para evitar o renascimento da arma!
 Dialogue: 0,0:28:39.94,0:28:44.53,Flashbacks,,0,0,0,,Você só está assustado com a história que você nem conhece!
@@ -561,7 +561,7 @@ Dialogue: 0,0:30:23.78,0:30:24.91,Main,,0,0,0,,Desculpe!
 Dialogue: 0,0:30:24.91,0:30:28.13,Main,,0,0,0,,Não se desculpe!\NEle já é cúmplice daquelas pessoas más!
 Dialogue: 0,0:30:28.13,0:30:32.51,Thoughts,,0,0,0,,Sinto muito, Robin. Isso deve ter te assustado.
 Dialogue: 0,0:30:33.27,0:30:35.27,Thoughts,,0,0,0,,Espere um segundo.
-Dialogue: 0,0:30:35.27,0:30:41.18,Thoughts,,0,0,0,,Deve ser isso!\NAtirando tão perto?\NE se você tivesse machucado Robin?\N!
+Dialogue: 0,0:30:35.27,0:30:41.18,Thoughts,,0,0,0,,Deve ser isso!\NAtirando tão perto?\NE se você tivesse machucado Robin?!
 Dialogue: 0,0:30:41.53,0:30:44.18,Main,,0,0,0,,Vice-almirante! Por favor, pare! O que você está fazendo?!
 Dialogue: 0,0:30:44.18,0:30:49.17,Main,,0,0,0,,Não sei o que é justiça nesta situação, então vou apenas proteger meu amigo!
 Dialogue: 0,0:30:49.17,0:30:51.44,Main,,0,0,0,,Pare com isso! Saulo!

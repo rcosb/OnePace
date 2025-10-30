@@ -104,7 +104,7 @@ Dialogue: 0,0:04:02.34,0:04:06.60,Captions,,0,0,0,,{\pos(650.\N286,480.\N429)}Ch
 Dialogue: 0,0:04:02.52,0:04:05.56,Main,,0,0,0,,{\i1}De onde ele voou?!
 Dialogue: 0,0:04:05.56,0:04:07.38,Main,,0,0,0,,{\an8}Acho que ele foi para a floresta...
 Dialogue: 0,0:04:07.35,0:04:11.16,Captions,,0,0,0,,{\pos(643.\N429,483.\N857)}Charlotte Galette 18ª filha de Charlotte, Ministra da Manteiga
-Dialogue: 0,0:04:07.38,0:04:11.14,Main,,0,0,0,,{\an8}.\N.\N.\Npara cuidar do Luffy do Chapéu de Palha ontem à noite.
+Dialogue: 0,0:04:07.38,0:04:11.14,Main,,0,0,0,,{\an8}...\Npara cuidar do Luffy do Chapéu de Palha ontem à noite.
 Dialogue: 0,0:04:11.48,0:04:13.14,Main,,0,0,0,,Isso significa...
 Dialogue: 0,0:04:15.60,0:04:19.07,Main,,0,0,0,,{\i1}O Chapéu de Palha Luffy deve estar em algum lugar próximo!
 Dialogue: 0,0:04:20.94,0:04:24.03,Main,,0,0,0,,Emita um alerta de emergência!
@@ -121,7 +121,7 @@ Dialogue: 0,0:05:08.54,0:05:09.58,Main,,0,0,0,,Libra!
 Dialogue: 0,0:05:10.07,0:05:12.10,Main,,0,0,0,,Onde você estava?!
 Dialogue: 0,0:05:12.10,0:05:17.58,Main,,0,0,0,,Bem, sinto muito por fugir.\NAchei que você fosse perder.
 Dialogue: 0,0:05:17.58,0:05:19.50,Main,,0,0,0,,Você está sendo muito honesto!
-Dialogue: 0,0:05:19.50,0:05:23.75,Main,,0,0,0,,Porque aquele cara era um dos Três Doces Comandantes.\N.\N.
+Dialogue: 0,0:05:19.50,0:05:23.75,Main,,0,0,0,,Porque aquele cara era um dos Três Doces Comandantes...
 Dialogue: 0,0:05:23.75,0:05:25.13,Main,,0,0,0,,Bem...
 Dialogue: 0,0:05:29.39,0:05:33.40,Main,,0,0,0,,De qualquer forma, vencemos!
 Dialogue: 0,0:05:33.40,0:05:35.10,Main,,0,0,0,,Nós conseguimos! Nós conseguimos!
@@ -162,13 +162,13 @@ Dialogue: 0,0:07:47.38,0:07:49.74,Main,,0,0,0,,mas Pekoms desapareceu.
 Dialogue: 0,0:07:49.74,0:07:53.04,Main,,0,0,0,,E embora Pudding tenha dito que traria Sanji,
 Dialogue: 0,0:07:53.04,0:07:57.03,Main,,0,0,0,,ninguém estava lá no ponto de encontro.
 Dialogue: 0,0:07:57.03,0:08:00.70,Main,,0,0,0,,Perdemos muito tempo enquanto estávamos perdidos na floresta!
-Dialogue: 0,0:08:01.39,0:08:06.92,Main,,0,0,0,,Quando eles se casarem, Sanji será subordinado da Big Mom, certo?\N!
+Dialogue: 0,0:08:01.39,0:08:06.92,Main,,0,0,0,,Quando eles se casarem, Sanji será subordinado da Big Mom, certo?!
 Dialogue: 0,0:08:08.13,0:08:10.85,Main,,0,0,0,,Temos que nos mexer!
 Dialogue: 0,0:08:12.01,0:08:14.89,Main,,0,0,0,,Sim! Quando é o casamento?
 Dialogue: 0,0:08:14.89,0:08:17.02,Main,,0,0,0,,Cracker disse que os Vinsmokes vão entrar...
 Dialogue: 0,0:08:17.02,0:08:19.54,Main,,0,0,0,,um castelo hoje, onde será realizado o casamento.
 Dialogue: 0,0:08:20.69,0:08:23.90,Main,,0,0,0,,Que horas são agora? Temos que detê-los!
-Dialogue: 0,0:08:23.90,0:08:28.23,Main,,0,0,0,,A-Você está falando sério?\NSe você não fugir, você realmente.\N.\N.
+Dialogue: 0,0:08:23.90,0:08:28.23,Main,,0,0,0,,A-Você está falando sério?\NSe você não fugir, você realmente...
 Dialogue: 0,0:08:28.23,0:08:30.19,Main,,0,0,0,,Eu não vou fugir!
 Dialogue: 0,0:08:38.56,0:08:39.79,Main,,0,0,0,,Ei, árvore!
 Dialogue: 0,0:08:42.48,0:08:44.99,Main,,0,0,0,,Você sabe onde fica o castelo, não é?!
@@ -179,7 +179,7 @@ Dialogue: 0,0:08:53.24,0:08:57.41,Main,,0,0,0,,Vamos levar Sanji de volta a qual
 Dialogue: 0,0:09:20.71,0:09:22.92,Main,,0,0,0,,{\i1}Nami, você pode me ouvir?!
 Dialogue: 0,0:09:22.92,0:09:23.83,Main,,0,0,0,,Helicóptero!
 Dialogue: 0,0:09:23.83,0:09:25.12,Main,,0,0,0,,Como vocês estão?
-Dialogue: 0,0:09:25.12,0:09:29.36,Main,,0,0,0,,{\i1}Estamos bem!\NSe tudo correr bem, veremos vocês e Brook.\N.\N.
+Dialogue: 0,0:09:25.12,0:09:29.36,Main,,0,0,0,,{\i1}Estamos bem!\NSe tudo correr bem, veremos vocês e Brook...
 Dialogue: 0,0:09:29.36,0:09:30.17,Main,,0,0,0,,{\i1}O que?
 Dialogue: 0,0:09:31.29,0:09:33.58,Main,,0,0,0,,Isso não parece bem! Helicóptero?
 Dialogue: 0,0:09:33.58,0:09:37.07,Main,,0,0,0,,{\i1}De qualquer forma, não podemos ser salvos de fora!
@@ -189,7 +189,7 @@ Dialogue: 0,0:09:40.08,0:09:43.30,Main,,0,0,0,,{\i1}Nami, não se preocupe! Esta
 Dialogue: 0,0:09:44.20,0:09:45.93,Main,,0,0,0,,Como posso não me preocupar?
 Dialogue: 0,0:09:45.93,0:09:49.47,Main,,0,0,0,,{\i1}Certo, vamos ao castelo encontrar o Sanji-kun!
 Dialogue: 0,0:09:49.47,0:09:50.61,Main,,0,0,0,,{\i1}OK!
-Dialogue: 0,0:09:50.61,0:09:54.28,Main,,0,0,0,,{\i1}Depois de resgatar Sanji, avise-nos novamente através deste espelho.\N.\N.
+Dialogue: 0,0:09:50.61,0:09:54.28,Main,,0,0,0,,{\i1}Depois de resgatar Sanji, avise-nos novamente através deste espelho...
 Dialogue: 0,0:09:55.18,0:09:56.28,Main,,0,0,0,,Ele quebrou!
 Dialogue: 0,0:09:56.28,0:09:58.99,Main,,0,0,0,,Ei, Chopper?! Cenoura?!
 Dialogue: 0,0:09:59.60,0:10:02.58,Main,,0,0,0,,Transformou-se em um espelho normal.\NEles estão bem?
@@ -197,7 +197,7 @@ Dialogue: 0,0:10:07.87,0:10:09.83,Main,,0,0,0,,Ele ficou menor do que antes?!
 Dialogue: 0,0:10:12.18,0:10:14.55,Main,,0,0,0,,Uau... O quê?
 Dialogue: 0,0:10:14.55,0:10:16.20,Main,,0,0,0,,O que está acontecendo?!
 Dialogue: 0,0:10:17.71,0:10:18.77,Main,,0,0,0,,Uau...
-Dialogue: 0,0:10:23.13,0:10:27.51,Main,,0,0,0,,Ele está quase de volta ao normal!\NIsso é humanamente possível?\N!
+Dialogue: 0,0:10:23.13,0:10:27.51,Main,,0,0,0,,Ele está quase de volta ao normal!\NIsso é humanamente possível?!
 Dialogue: 0,0:10:27.51,0:10:29.27,Main,,0,0,0,,– Carne... – Carne?!
 Dialogue: 0,0:10:30.92,0:10:32.30,Main,,0,0,0,,Ei, jovem.
 Dialogue: 0,0:10:33.58,0:10:34.86,Main,,0,0,0,,Você tem sorte.
@@ -209,8 +209,8 @@ Dialogue: 0,0:10:49.29,0:10:50.75,Main,,0,0,0,,É isso?!
 Dialogue: 0,0:10:51.79,0:10:55.05,Main,,0,0,0,,Olá, Sanji!
 Dialogue: 0,0:10:55.05,0:10:58.42,Main,,0,0,0,,Sua Majestade, algo está vindo em nossa direção.
 Dialogue: 0,0:11:00.01,0:11:02.93,Main,,0,0,0,,Já faz um tempo!
-Dialogue: 0,0:11:02.93,0:11:07.44,Main,,0,0,0,,O que?\N!\NAquele idiota chegou tão longe no território da Big Mom?\N!
-Dialogue: 0,0:11:09.13,0:11:12.46,Main,,0,0,0,,Qual é a grande árvore atrás dele?\N!\NEstá funcionando!
+Dialogue: 0,0:11:02.93,0:11:07.44,Main,,0,0,0,,O que?!\NAquele idiota chegou tão longe no território da Big Mom?!
+Dialogue: 0,0:11:09.13,0:11:12.46,Main,,0,0,0,,Qual é a grande árvore atrás dele?!\NEstá funcionando!
 Dialogue: 0,0:11:12.46,0:11:14.40,Main,,0,0,0,,Ei!
 Dialogue: 0,0:11:14.40,0:11:16.72,Main,,0,0,0,,{\i1}Sanji-kun!
 Dialogue: 0,0:11:16.72,0:11:19.35,Main,,0,0,0,,Estou feliz que chegamos a tempo!
@@ -227,10 +227,10 @@ Dialogue: 0,0:11:49.84,0:11:52.30,Main,,0,0,0,,Eu ia vir sozinho, mas...
 Dialogue: 0,0:11:52.30,0:11:55.11,Flashbacks,,0,0,0,,Você disse que suas mãos são importantes para você.
 Dialogue: 0,0:11:55.44,0:11:59.55,Flashbacks,,0,0,0,,Se você tentar sair desta ilha, suas mãos serão arrancadas!
 Dialogue: 0,0:12:03.03,0:12:06.41,Flashbacks,,0,0,0,,Se alguém recusar o convite da mamãe...
-Dialogue: 0,0:12:07.64,0:12:10.87,Main,,0,0,0,,.\N.\N.\NEntão, Zoro e os outros devem ter chegado ao País de Wano.\N.\N.
+Dialogue: 0,0:12:07.64,0:12:10.87,Main,,0,0,0,,...\NEntão, Zoro e os outros devem ter chegado ao País de Wano...
 Dialogue: 0,0:12:11.17,0:12:14.83,Flashbacks,,0,0,0,,Vamos cortar a cabeça desse cara.
-Dialogue: 0,0:12:15.90,0:12:19.53,Main,,0,0,0,,.\N.\N.\NÉ por isso que Nami, Chopper, Brook e eu viemos buscar você.\NE.\N.\N.
-Dialogue: 0,0:12:19.53,0:12:24.06,Flashbacks,,0,0,0,,Você é um sacrifício, Sanji.\Neu não mudei.\N.\N.
+Dialogue: 0,0:12:15.90,0:12:19.53,Main,,0,0,0,,...\NÉ por isso que Nami, Chopper, Brook e eu viemos buscar você.\NE...
+Dialogue: 0,0:12:19.53,0:12:24.06,Flashbacks,,0,0,0,,Você é um sacrifício, Sanji.\Neu não mudei...
 Dialogue: 0,0:12:24.06,0:12:28.64,Flashbacks,,0,0,0,,Mas se você trair a honra da masculinidade, também cortarei minha cabeça!
 Dialogue: 0,0:12:29.51,0:12:30.97,Flashbacks,,0,0,0,,Sanji, estou com fome!
 Dialogue: 0,0:12:31.46,0:12:34.92,Flashbacks,,0,0,0,,Não penso em você nem um pouco como meu filho!
@@ -248,14 +248,14 @@ Dialogue: 0,0:13:22.74,0:13:25.26,Main,,0,0,0,,Sinto muito por manter isso em se
 Dialogue: 0,0:13:25.26,0:13:28.28,Main,,0,0,0,,Achei que isso iria te levar à tristeza.
 Dialogue: 0,0:13:28.93,0:13:33.29,Main,,0,0,0,,A diferença entre as nossas classificações não poderia ser mais clara.
 Dialogue: 0,0:13:33.29,0:13:38.50,Main,,0,0,0,,Se eu ficar aqui, poderei gastar dinheiro e usar soldados e servos como quiser.
-Dialogue: 0,0:13:39.11,0:13:43.40,Main,,0,0,0,,Voltando para aquela porcaria de navio com você e seus amigos.\N.\N.
-Dialogue: 0,0:13:44.12,0:13:49.68,Main,,0,0,0,,.\N.\N.\Nou ficar aqui, casando-se com a linda filha da Big Mom.
+Dialogue: 0,0:13:39.11,0:13:43.40,Main,,0,0,0,,Voltando para aquela porcaria de navio com você e seus amigos...
+Dialogue: 0,0:13:44.12,0:13:49.68,Main,,0,0,0,,...\Nou ficar aqui, casando-se com a linda filha da Big Mom.
 Dialogue: 0,0:13:49.68,0:13:54.80,Main,,0,0,0,,É bastante óbvio o que é uma vida mais feliz.
 Dialogue: 0,0:13:54.80,0:13:57.84,Main,,0,0,0,,Não leve a nota a sério.
 Dialogue: 0,0:13:57.84,0:14:00.08,Main,,0,0,0,,Eu não vou voltar com você!
 Dialogue: 0,0:14:00.08,0:14:04.90,Main,,0,0,0,,Não acredito que você veio até aqui.\NObrigado pelo seu problema.
 Dialogue: 0,0:14:06.56,0:14:10.24,Main,,0,0,0,,Saia daqui... esqueci seu nome.
-Dialogue: 0,0:14:10.24,0:14:14.12,Main,,0,0,0,,Dane-se isso!\NO que você está falando?\N!\NNão estou convencido!
+Dialogue: 0,0:14:10.24,0:14:14.12,Main,,0,0,0,,Dane-se isso!\NO que você está falando?!\NNão estou convencido!
 Dialogue: 0,0:14:14.98,0:14:17.65,Main,,0,0,0,,Ok, vou ajudá-lo a expulsá-los.
 Dialogue: 0,0:14:17.65,0:14:18.90,Main,,0,0,0,,Sente-se!
 Dialogue: 0,0:14:21.24,0:14:22.72,Main,,0,0,0,,Doente...
@@ -272,7 +272,7 @@ Dialogue: 0,0:15:04.98,0:15:06.92,Main,,0,0,0,,Serei mais feliz.
 Dialogue: 0,0:15:08.30,0:15:10.51,Main,,0,0,0,,Eu não tenho tanta certeza sobre você
 Dialogue: 0,0:15:10.51,0:15:13.72,Main,,0,0,0,,tornando-se o Rei dos Piratas, para ser honesto.
 Dialogue: 0,0:15:13.72,0:15:17.25,Main,,0,0,0,,É da natureza humana entrar no movimento.
-Dialogue: 0,0:15:17.86,0:15:21.98,Main,,0,0,0,,{\i1}Pare de brincar, Sanji-kun!\NO que você está falando?\N!
+Dialogue: 0,0:15:17.86,0:15:21.98,Main,,0,0,0,,{\i1}Pare de brincar, Sanji-kun!\NO que você está falando?!
 Dialogue: 0,0:15:24.58,0:15:27.90,Main,,0,0,0,,Então, todo esse tempo,
 Dialogue: 0,0:15:28.58,0:15:30.90,Main,,0,0,0,,você está me enganando.
 Dialogue: 0,0:15:31.75,0:15:33.60,Main,,0,0,0,,Sim, está certo.
@@ -303,7 +303,7 @@ Dialogue: 0,0:17:59.57,0:18:02.36,Flashbacks,,0,0,0,,Seja o cozinheiro do meu na
 Dialogue: 0,0:18:03.97,0:18:06.15,Main,,0,0,0,,{\i1}Por favor, pare, Sanji-Kun!
 Dialogue: 0,0:18:06.89,0:18:09.90,Main,,0,0,0,,Viemos apenas buscar você!
 Dialogue: 0,0:18:09.90,0:18:11.44,Main,,0,0,0,,Luffy tem...
-Dialogue: 0,0:18:12.48,0:18:17.65,Main,,0,0,0,,.\N.\N.\Nlutou contra seu oficial superior a noite toda para chegar até aqui!
+Dialogue: 0,0:18:12.48,0:18:17.65,Main,,0,0,0,,...\Nlutou contra seu oficial superior a noite toda para chegar até aqui!
 Dialogue: 0,0:18:17.65,0:18:19.02,Main,,0,0,0,,Então o corpo dele é...
 Dialogue: 0,0:18:19.02,0:18:20.47,Main,,0,0,0,,Pare com isso, Nami!
 Dialogue: 0,0:18:21.53,0:18:23.17,Main,,0,0,0,,Fique fora disso!
@@ -349,12 +349,12 @@ Dialogue: 0,0:23:44.42,0:23:46.87,Main,,0,0,0,,Sanji!!
 Dialogue: 0,0:23:52.64,0:23:55.50,Main,,0,0,0,,"Pirata de classe baixa"?!
 Dialogue: 0,0:23:55.50,0:23:58.62,Main,,0,0,0,,Eu sei que você estava apenas dizendo coisas que não queria!
 Dialogue: 0,0:23:58.62,0:24:00.94,Main,,0,0,0,,Pare de mentir!
-Dialogue: 0,0:24:00.94,0:24:05.29,Main,,0,0,0,,Você achou que poderia me mandar embora tão facilmente?\N!
+Dialogue: 0,0:24:00.94,0:24:05.29,Main,,0,0,0,,Você achou que poderia me mandar embora tão facilmente?!
 Dialogue: 0,0:24:05.29,0:24:07.46,Main,,0,0,0,,Dane-se isso!
 Dialogue: 0,0:24:07.46,0:24:11.47,Main,,0,0,0,,Não importa quantas vezes você me chute,
 Dialogue: 0,0:24:12.27,0:24:13.95,Main,,0,0,0,,você é o único...
 Dialogue: 0,0:24:16.12,0:24:18.28,Main,,0,0,0,,... isso machuca!!
-Dialogue: 0,0:24:27.94,0:24:32.05,Main,,0,0,0,,Luffy!\NPor que?\N!\NSeja qual for o motivo, ele não pode fazer isso.\N.\N.
+Dialogue: 0,0:24:27.94,0:24:32.05,Main,,0,0,0,,Luffy!\NPor que?!\NSeja qual for o motivo, ele não pode fazer isso...
 Dialogue: 0,0:24:32.05,0:24:33.61,Main,,0,0,0,,Cale-se!
 Dialogue: 0,0:24:34.22,0:24:36.07,Main,,0,0,0,,Devemos parar, Sanji?
 Dialogue: 0,0:24:37.90,0:24:39.58,Main,,0,0,0,,Continue.

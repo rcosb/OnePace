@@ -54,7 +54,7 @@ Dialogue: 0,0:01:41.05,0:01:48.25,Lyrics,,0,0,0,,{\i1}Em busca de luz ainda invi
 Dialogue: 0,0:01:49.77,0:01:52.61,Title,,0,0,240,,{\fad(600,300)}Provação
 Dialogue: 0,0:01:53.18,0:01:56.25,Main,,0,0,0,,Fomos enganados!
 Dialogue: 0,0:01:56.25,0:02:00.59,Main,,0,0,0,,Aquela senhora disse que não havia problema em passar.
-Dialogue: 0,0:02:00.59,0:02:03.12,Main,,0,0,0,,E quando o fazemos, dizem que entramos ilegalmente?\N!
+Dialogue: 0,0:02:00.59,0:02:03.12,Main,,0,0,0,,E quando o fazemos, dizem que entramos ilegalmente?!
 Dialogue: 0,0:02:03.12,0:02:06.92,Main,,0,0,0,,Isso é fraude! Vou processar por isso!
 Dialogue: 0,0:02:06.92,0:02:08.59,Main,,0,0,0,,Exatamente...
 Dialogue: 0,0:02:08.59,0:02:11.60,Main,,0,0,0,,Claro, mesmo que nos dissessem: "Não passe",
@@ -84,7 +84,7 @@ Dialogue: 0,0:03:13.99,0:03:17.66,Main,,0,0,0,,Então, você pode esperar aqui e
 Dialogue: 0,0:03:17.66,0:03:19.66,Main,,0,0,0,,De jeito nenhum, eles virão atrás de mim!
 Dialogue: 0,0:03:19.66,0:03:21.33,Main,,0,0,0,,Temos que sair deste lugar!
 Dialogue: 0,0:03:21.33,0:03:23.00,Main,,0,0,0,,Sair daqui?! Você está maluco?!
-Dialogue: 0,0:03:23.00,0:03:25.67,Main,,0,0,0,,O que é mais importante para você, a aventura ou a vida?\N!
+Dialogue: 0,0:03:23.00,0:03:25.67,Main,,0,0,0,,O que é mais importante para você, a aventura ou a vida?!
 Dialogue: 0,0:03:25.67,0:03:28.67,Main,,0,0,0,,Vida! Então dinheiro!
 Dialogue: 0,0:03:28.67,0:03:31.34,Main,,0,0,0,,Oh! Então, o próximo seria eu?!
 Dialogue: 0,0:03:31.34,0:03:32.71,Main,,0,0,0,,Cale a boca!
@@ -93,8 +93,8 @@ Dialogue: 0,0:03:34.05,0:03:37.72,Main,,0,0,0,,Pensando bem, estávamos tentando
 Dialogue: 0,0:03:37.72,0:03:41.72,Main,,0,0,0,,então não estávamos pensando em como voltar.
 Dialogue: 0,0:03:41.72,0:03:45.32,Main,,0,0,0,,Diga, existe uma maneira de voltarmos com segurança?
 Dialogue: 0,0:03:45.32,0:03:48.66,Main,,0,0,0,,Podemos voltar para o Mar Azul?
-Dialogue: 0,0:03:48.66,0:03:53.66,Main,,0,0,0,,Existe uma maneira, mas neste momento não posso mais dizer que é seguro.\N.\N.
-Dialogue: 0,0:03:53.66,0:03:57.67,Main,,0,0,0,,.\N.\N.\Nse você for para Cloud End, o limite mais distante das nuvens.
+Dialogue: 0,0:03:48.66,0:03:53.66,Main,,0,0,0,,Existe uma maneira, mas neste momento não posso mais dizer que é seguro...
+Dialogue: 0,0:03:53.66,0:03:57.67,Main,,0,0,0,,...\Nse você for para Cloud End, o limite mais distante das nuvens.
 Dialogue: 0,0:03:57.67,0:04:01.34,Main,,0,0,0,,Fim da nuvem? Como chegamos lá?
 Dialogue: 0,0:04:01.34,0:04:03.58,Main,,0,0,0,,Cloud End fica no extremo leste.
 Dialogue: 0,0:04:03.58,0:04:08.38,Main,,0,0,0,,Para chegar lá, você precisa primeiro descer até o Mar Branco.
@@ -127,7 +127,7 @@ Dialogue: 0,0:05:28.46,0:05:29.79,Main,,0,0,0,,Esses caras são realmente assust
 Dialogue: 0,0:05:29.79,0:05:32.80,Main,,0,0,0,,Quem se importa? Eu não me importo de qualquer maneira.
 Dialogue: 0,0:05:32.80,0:05:35.47,Main,,0,0,0,,Não desconte em mim.
 Dialogue: 0,0:05:35.47,0:05:39.14,Main,,0,0,0,,Chopper, você está do meu lado... não é?!
-Dialogue: 0,0:05:39.14,0:05:41.13,Main,,0,0,0,,--O que?\N!\N-Não o ameace!
+Dialogue: 0,0:05:39.14,0:05:41.13,Main,,0,0,0,,--O que?!\N-Não o ameace!
 Dialogue: 0,0:05:43.64,0:05:45.13,Main,,0,0,0,,Ponto Pesado!
 Dialogue: 0,0:05:50.45,0:05:52.78,Main,,0,0,0,,Eu estava prestes a deixar cair uma escada de corda.
 Dialogue: 0,0:05:52.78,0:05:54.45,Main,,0,0,0,,Ops.
@@ -176,7 +176,7 @@ Dialogue: 0,0:08:17.18,0:08:19.18,Main,,0,0,0,,{\i1}Isto é para você, Conis-ch
 Dialogue: 0,0:08:19.18,0:08:21.85,Main,,0,0,0,,Oh?! Você fez um para mim também?!
 Dialogue: 0,0:08:21.85,0:08:25.52,Main,,0,0,0,,Claro! O título deste almoço é...
 Dialogue: 0,0:08:25.52,0:08:28.86,Main,,0,0,0,,"O amor é um dilema. Almoço para o anjo caído."
-Dialogue: 0,0:08:28.86,0:08:31.86,Main,,0,0,0,,--Oh.\N.\N.\N--Bem, quando estiverem no seu estômago,
+Dialogue: 0,0:08:28.86,0:08:31.86,Main,,0,0,0,,--Oh...\N--Bem, quando estiverem no seu estômago,
 Dialogue: 0,0:08:31.86,0:08:33.59,Main,,0,0,0,,eles são todos iguais.
 Dialogue: 0,0:08:35.20,0:08:37.90,Main,,0,0,0,,Não diga coisas que destruam meu trabalho duro!
 Dialogue: 0,0:08:37.90,0:08:40.24,Main,,0,0,0,,Ouça. Com comida, a apresentação vem em primeiro lugar!
@@ -206,7 +206,7 @@ Dialogue: 0,0:09:38.68,0:09:40.55,Main,,0,0,0,,Olhe embaixo do navio!
 Dialogue: 0,0:09:44.02,0:09:47.96,Main,,0,0,0,,Aguentar! O que é isso? O que está acontecendo?!
 Dialogue: 0,0:09:51.53,0:09:53.53,Main,,0,0,0,,O que...?!
 Dialogue: 0,0:09:53.53,0:09:56.33,Main,,0,0,0,,Ahh...! Isso é...
-Dialogue: 0,0:09:58.80,0:10:02.79,Main,,0,0,0,,.\N.\N.\Na famosa Lagosta Super-Express do Mar Branco-Branco!
+Dialogue: 0,0:09:58.80,0:10:02.79,Main,,0,0,0,,...\Na famosa Lagosta Super-Express do Mar Branco-Branco!
 Dialogue: 0,0:10:04.96,0:10:07.63,Main,,0,0,0,,Está tentando nos levar a algum lugar!
 Dialogue: 0,0:10:07.63,0:10:11.63,Main,,0,0,0,,Ei! Todos fora do navio! Ainda dá tempo!
 Dialogue: 0,0:10:11.63,0:10:15.30,Main,,0,0,0,,E o navio?! Se o nosso navio for levado...
@@ -230,28 +230,28 @@ Dialogue: 0,0:11:27.01,0:11:30.91,Main,,0,0,0,,Então... vou voltar para aquela 
 Dialogue: 0,0:11:32.18,0:11:38.38,Main,,0,0,0,,{\i1}Luffy!! USOPP!! Sanji-Kun!!
 Dialogue: 0,0:12:02.46,0:12:05.13,Main,,0,0,0,,Por que...? Por que uma camiseta...?
 Dialogue: 0,0:12:05.13,0:12:07.13,Main,,0,0,0,,Você ainda está falando sobre isso?!
-Dialogue: 0,0:12:07.13,0:12:10.62,Main,,0,0,0,,Oi, Luffy!\NIsso é terrível!\NO que faremos?\N!\NO que faremos?\N!
+Dialogue: 0,0:12:07.13,0:12:10.62,Main,,0,0,0,,Oi, Luffy!\NIsso é terrível!\NO que faremos?!\NO que faremos?!
 Dialogue: 0,0:12:12.13,0:12:14.80,Main,,0,0,0,,Para onde eles foram?
 Dialogue: 0,0:12:14.80,0:12:17.51,Main,,0,0,0,,Onde?! Claro...! Errar...
 Dialogue: 0,0:12:17.51,0:12:19.06,Main,,0,0,0,,Então, onde?
-Dialogue: 0,0:12:21.01,0:12:23.14,Main,,0,0,0,,--Onde.\N.\N.\N--.\N.\N.\Neles.\N.\N.\N--.\N.\N.\Nforam?
+Dialogue: 0,0:12:21.01,0:12:23.14,Main,,0,0,0,,--Onde...\N--...\Neles...\N--...\Nforam?
 Dialogue: 0,0:12:25.18,0:12:28.18,Main,,0,0,0,,O Super-Express Lobster é um mensageiro de Deus.
 Dialogue: 0,0:12:28.18,0:12:32.19,Main,,0,0,0,,O que transporta é sempre uma oferenda a Deus.
 Dialogue: 0,0:12:32.19,0:12:36.12,Main,,0,0,0,,Então, ele está indo para o nordeste do Upper Yard...
 Dialogue: 0,0:12:36.12,0:12:39.13,Main,,0,0,0,,...para o altar sacrificial.
 Dialogue: 0,0:12:39.13,0:12:42.46,Main,,0,0,0,,{\i1}Sacrifício?! Nami-san, Robin-chan e o resto...
-Dialogue: 0,0:12:42.46,0:12:45.47,Main,,0,0,0,,--O resto?\N!\N--.\N.\N.\Nserá sacrificado?\N!
+Dialogue: 0,0:12:42.46,0:12:45.47,Main,,0,0,0,,--O resto?!\N--...\Nserá sacrificado?!
 Dialogue: 0,0:12:45.47,0:12:48.14,Main,,0,0,0,,Por esse maldito Deus?!
 Dialogue: 0,0:12:48.14,0:12:50.14,Main,,0,0,0,,Aquele filho da puta!
 Dialogue: 0,0:12:50.14,0:12:53.17,Main,,0,0,0,,Não mexa com a gente!! Seu bastardo!!
 Dialogue: 0,0:12:53.17,0:12:55.84,Main,,0,0,0,,Espere um segundo, por favor! Mas, sinto muito.
 Dialogue: 0,0:12:55.84,0:12:58.05,Main,,0,0,0,,Esse não é o caso!
-Dialogue: 0,0:12:58.05,0:13:02.32,Main,,0,0,0,,--O que?\N!\N-Ouvi dizer que embora seja chamado de sacrifício,
+Dialogue: 0,0:12:58.05,0:13:02.32,Main,,0,0,0,,--O que?!\N-Ouvi dizer que embora seja chamado de sacrifício,
 Dialogue: 0,0:13:02.32,0:13:06.85,Main,,0,0,0,,no Julgamento do Céu, existem dois tipos de punição que os criminosos recebem.
 Dialogue: 0,0:13:06.85,0:13:09.19,Main,,0,0,0,,Sacrifício e uma provação.
 Dialogue: 0,0:13:09.19,0:13:15.36,Main,,0,0,0,,Atualmente são reféns, por assim dizer, nas mãos de Deus.
 Dialogue: 0,0:13:16.56,0:13:18.20,Main,,0,0,0,,Reféns?!
-Dialogue: 0,0:13:18.20,0:13:22.20,Main,,0,0,0,,Então, aqueles que estão realmente sendo julgados são.\N.\N.
+Dialogue: 0,0:13:18.20,0:13:22.20,Main,,0,0,0,,Então, aqueles que estão realmente sendo julgados são...
 Dialogue: 0,0:13:22.20,0:13:25.57,Main,,0,0,0,,...vocês três.
 Dialogue: 0,0:13:25.57,0:13:28.24,Main,,0,0,0,,Huh? O que você quer dizer?
 Dialogue: 0,0:13:28.24,0:13:29.58,Main,,0,0,0,,Se tivéssemos algum tipo de mapa...
@@ -268,7 +268,7 @@ Dialogue: 0,0:14:13.72,0:14:15.60,Main,,0,0,0,,Bem, velho,
 Dialogue: 0,0:14:15.60,0:14:18.73,Main,,0,0,0,,em vez de se dar ao trabalho de passar pelo meio da ilha,
 Dialogue: 0,0:14:18.73,0:14:23.10,Main,,0,0,0,,basta dar uma volta pela ilha de barco, certo?
 Dialogue: 0,0:14:23.10,0:14:28.10,Main,,0,0,0,,Aquela lagosta também foi para Upper Yard por ali, certo?
-Dialogue: 0,0:14:28.10,0:14:35.44,Main,,0,0,0,,Bem.\N.\N.\Nmesmo que você possa desembarcar nas proximidades, você não pode chegar ao altar a pé.
+Dialogue: 0,0:14:28.10,0:14:35.44,Main,,0,0,0,,Bem...\Nmesmo que você possa desembarcar nas proximidades, você não pode chegar ao altar a pé.
 Dialogue: 0,0:14:35.44,0:14:39.11,Main,,0,0,0,,A grande diferença entre este mapa e o atual Upper Yard
 Dialogue: 0,0:14:39.11,0:14:43.12,Main,,0,0,0,,são as Estradas Lácteas que se estendem por toda a ilha.
 Dialogue: 0,0:14:43.12,0:14:45.12,Main,,0,0,0,,Os canais de nuvens que você mencionou, hein?
@@ -311,20 +311,20 @@ Dialogue: 0,0:17:18.97,0:17:23.28,Main,,0,0,0,,Salvá-los?\NEles vão ficar bem!
 Dialogue: 0,0:17:23.28,0:17:25.25,Main,,0,0,0,,Como se pudéssemos realmente contar com ele!
 Dialogue: 0,0:17:25.25,0:17:28.28,Main,,0,0,0,,Só espero que o navio não esteja mais danificado,
 Dialogue: 0,0:17:28.28,0:17:30.35,Main,,0,0,0,,mas as coisas têm estado tão loucas ultimamente...
-Dialogue: 0,0:17:30.35,0:17:32.72,Main,,0,0,0,,Huh?\N!\NTem algo no meio da rua!
+Dialogue: 0,0:17:30.35,0:17:32.72,Main,,0,0,0,,Huh?!\NTem algo no meio da rua!
 Dialogue: 0,0:17:32.72,0:17:34.21,Main,,0,0,0,,Eh?
 Dialogue: 0,0:17:39.78,0:17:42.63,Main,,0,0,0,,Que cara estranha! O que é isso? Um selo?
 Dialogue: 0,0:17:42.63,0:17:47.03,Main,,0,0,0,,Parece uma estranha figura de lama, mas provavelmente é uma estátua religiosa.
 Dialogue: 0,0:17:47.03,0:17:50.40,Main,,0,0,0,,Idiotas! Isso é arte! Eu posso dizer!
 Dialogue: 0,0:17:50.40,0:17:56.71,Main,,0,0,0,,É Vearth.\NAs pessoas do céu sempre o admiraram.
 Dialogue: 0,0:17:56.71,0:17:57.81,Main,,0,0,0,,Terra?
-Dialogue: 0,0:17:57.81,0:18:03.84,Main,,0,0,0,,Eh?\N!\NVocês admiram essa coisa?\NVocê deve estar louco.\N.\N.
+Dialogue: 0,0:17:57.81,0:18:03.84,Main,,0,0,0,,Eh?!\NVocês admiram essa coisa?\NVocê deve estar louco...
 Dialogue: 0,0:18:05.65,0:18:10.56,Main,,0,0,0,,Sim, tenho certeza de que deve ser difícil para as pessoas do Mar Azul entenderem.
 Dialogue: 0,0:18:10.56,0:18:12.63,Main,,0,0,0,,Ah, as docas são por aqui!
 Dialogue: 0,0:18:12.63,0:18:15.26,Main,,0,0,0,,Eh?! Já estamos saindo da cidade?!
-Dialogue: 0,0:18:15.26,0:18:18.27,Main,,0,0,0,,Do que você está falando?\N!\NEste não é o nosso destino!
+Dialogue: 0,0:18:15.26,0:18:18.27,Main,,0,0,0,,Do que você está falando?!\NEste não é o nosso destino!
 Dialogue: 0,0:18:18.27,0:18:21.46,Main,,0,0,0,,Vamos, não podemos ficar um pouco mais?
-Dialogue: 0,0:18:26.64,0:18:29.54,Main,,0,0,0,,--Parece que funcionou.\N.\N.\N--Eles foram direto para as docas.\N.\N.
+Dialogue: 0,0:18:26.64,0:18:29.54,Main,,0,0,0,,--Parece que funcionou...\N--Eles foram direto para as docas...
 Dialogue: 0,0:18:29.54,0:18:31.48,Main,,0,0,0,,Estamos salvos!
 Dialogue: 0,0:18:42.03,0:18:45.37,Captions,,0,0,0,,{\fad(1200,600)\pos(205.\N714,442.\N571)}Desembarque de barco na Ilha Angel
 Dialogue: 0,0:18:48.66,0:18:50.30,Main,,0,0,0,,Oh!
@@ -350,7 +350,7 @@ Dialogue: 0,0:20:11.95,0:20:15.85,Main,,0,0,0,,V-Você não gosta? Desculpe. Mas
 Dialogue: 0,0:20:15.85,0:20:18.49,Main,,0,0,0,,Seu maldito ingrato! Desculpar-se!
 Dialogue: 0,0:20:18.49,0:20:22.26,Main,,0,0,0,,{\i1}Peça desculpas a Conis-chan do fundo do seu coração!\NSeu canalha!
 Dialogue: 0,0:20:22.26,0:20:25.19,Main,,0,0,0,,Não preste atenção ao seu egoísmo!
-Dialogue: 0,0:20:25.19,0:20:27.46,Main,,0,0,0,,--Desculpe!\N--N-Sem problemas.\N.\N.
+Dialogue: 0,0:20:25.19,0:20:27.46,Main,,0,0,0,,--Desculpe!\N--N-Sem problemas...
 Dialogue: 0,0:20:27.46,0:20:30.46,Main,,0,0,0,,Sua saída é o portão nº 2.
 Dialogue: 0,0:20:30.46,0:20:35.57,Main,,0,0,0,,Isso o levará à gigante Milky Road, que se conecta ao Upper Yard.
 Dialogue: 0,0:20:35.57,0:20:38.90,Main,,0,0,0,,Y-Você simplesmente precisa pegar isso.
@@ -363,7 +363,7 @@ Dialogue: 0,0:21:05.93,0:21:08.83,Main,,0,0,0,,Não! Ela não faria isso!
 Dialogue: 0,0:21:10.94,0:21:17.10,Main,,0,0,0,,{\i1}Conis-chan!\NVocê está preocupado conosco!\NIsso é tão comovente!
 Dialogue: 0,0:21:18.55,0:21:22.65,Main,,0,0,0,,Mesmo assim, vocês vão ficar bem?!
 Dialogue: 0,0:21:22.65,0:21:26.19,Main,,0,0,0,,Todos na cidade estão claramente nos evitando,
-Dialogue: 0,0:21:26.19,0:21:31.93,Main,,0,0,0,,mas você está nos emprestando seu barco e até nos dando instruções.\N.\N.
+Dialogue: 0,0:21:26.19,0:21:31.93,Main,,0,0,0,,mas você está nos emprestando seu barco e até nos dando instruções...
 Dialogue: 0,0:21:31.93,0:21:35.93,Main,,0,0,0,,Isso não faz de vocês nossos cúmplices?
 Dialogue: 0,0:21:35.93,0:21:39.59,Main,,0,0,0,,Diga, você também está pálido...
 Dialogue: 0,0:21:41.10,0:21:43.77,Main,,0,0,0,,Você deveria ter nos contado se estava com tanto medo.
@@ -372,21 +372,21 @@ Dialogue: 0,0:21:46.04,0:21:49.57,Main,,0,0,0,,Não. Eu estou...
 Dialogue: 0,0:21:53.73,0:21:56.07,Main,,0,0,0,,Ela não faria isso!
 Dialogue: 0,0:21:56.07,0:21:59.24,Main,,0,0,0,,Não diga nada que não deveria!
 Dialogue: 0,0:21:59.24,0:22:01.84,Main,,0,0,0,,É estranho, não é?
-Dialogue: 0,0:22:01.84,0:22:07.31,Main,,0,0,0,,Explicando o caminho para sua "provação", guiando você até aqui.\N.\N.
-Dialogue: 0,0:22:07.31,0:22:12.68,Main,,0,0,0,,É como se eu quisesse te levar até lá, apesar de dizer o quão assustador é.\N.\N.
+Dialogue: 0,0:22:01.84,0:22:07.31,Main,,0,0,0,,Explicando o caminho para sua "provação", guiando você até aqui...
+Dialogue: 0,0:22:07.31,0:22:12.68,Main,,0,0,0,,É como se eu quisesse te levar até lá, apesar de dizer o quão assustador é...
 Dialogue: 0,0:22:14.32,0:22:18.16,Main,,0,0,0,,Pare com isso! Não diga nada tolo!
 Dialogue: 0,0:22:18.16,0:22:20.89,Main,,0,0,0,,Huh? O que é que foi isso?!
 Dialogue: 0,0:22:30.70,0:22:33.93,Thoughts,,0,0,0,,Não me diga que são todos...
 Dialogue: 0,0:22:45.51,0:22:48.08,Main,,0,0,0,,{\i1}Perdoe-me, cones-san...
 Dialogue: 0,0:22:54.54,0:22:56.74,Main,,0,0,0,,Você poderia fugir?
 Dialogue: 0,0:23:02.02,0:23:03.85,Main,,0,0,0,,Desculpe!
-Dialogue: 0,0:23:07.22,0:23:10.69,Main,,0,0,0,,--Parar!\N--O que você está dizendo?\N!
+Dialogue: 0,0:23:07.22,0:23:10.69,Main,,0,0,0,,--Parar!\N--O que você está dizendo?!
 Dialogue: 0,0:23:10.69,0:23:16.06,Main,,0,0,0,,Fui eu que liguei para o Super-Express Lobster!
-Dialogue: 0,0:23:16.06,0:23:20.43,Main,,0,0,0,,{\i1}A coisa que levou Nami-san e os outros?\N!\NVocê ligou?\N!
+Dialogue: 0,0:23:16.06,0:23:20.43,Main,,0,0,0,,{\i1}A coisa que levou Nami-san e os outros?!\NVocê ligou?!
 Dialogue: 0,0:23:22.40,0:23:27.17,Main,,0,0,0,,Enquanto você não estava a bordo,
 Dialogue: 0,0:23:27.17,0:23:31.18,Main,,0,0,0,,Eu menti para eles sobre uma corrente que leva ao Cloud End
 Dialogue: 0,0:23:31.18,0:23:33.65,Main,,0,0,0,,e fez com que levantassem a âncora.
-Dialogue: 0,0:23:40.29,0:23:44.23,Main,,0,0,0,,{\i1}Garota tola!\NVocê quer morrer?\N!\NEste é o nosso dever!
+Dialogue: 0,0:23:40.29,0:23:44.23,Main,,0,0,0,,{\i1}Garota tola!\NVocê quer morrer?!\NEste é o nosso dever!
 Dialogue: 0,0:23:44.23,0:23:45.76,Main,,0,0,0,,Quando sabemos que alguém é um criminoso,
 Dialogue: 0,0:23:45.76,0:23:50.86,Main,,0,0,0,,seremos mortos se não os conduzirmos ao local do julgamento!
 Dialogue: 0,0:23:52.94,0:23:56.54,Main,,0,0,0,,Pare com isso! Você percebe o que está dizendo?!
@@ -395,7 +395,7 @@ Dialogue: 0,0:23:59.88,0:24:03.08,Main,,0,0,0,,Este é o dever dos nossos cidad�
 Dialogue: 0,0:24:03.08,0:24:04.58,Main,,0,0,0,,Você está falando sério?!
 Dialogue: 0,0:24:04.58,0:24:06.58,Main,,0,0,0,,Desculpe!
 Dialogue: 0,0:24:06.58,0:24:09.95,Main,,0,0,0,,É tudo tão estranho, não é?!
-Dialogue: 0,0:24:11.16,0:24:16.33,Main,,0,0,0,,Não seja estúpido!\NVocê não teve escolha, certo?\N!
+Dialogue: 0,0:24:11.16,0:24:16.33,Main,,0,0,0,,Não seja estúpido!\NVocê não teve escolha, certo?!
 Dialogue: 0,0:24:19.23,0:24:20.43,Main,,0,0,0,,Então...
 Dialogue: 0,0:24:20.43,0:24:23.16,Main,,0,0,0,,...por que você acabou de nos contar isso!?
 Dialogue: 0,0:24:28.84,0:24:31.30,Main,,0,0,0,,Sua vida está em perigo!
@@ -404,7 +404,7 @@ Dialogue: 0,0:24:33.77,0:24:37.44,Main,,0,0,0,,--Fique longe da garota!\N-O julg
 Dialogue: 0,0:25:11.13,0:25:13.19,Main,,0,0,0,,Não é bom! É muito grande!
 Dialogue: 0,0:25:56.54,0:25:59.04,Main,,0,0,0,,O que é que foi isso?!
 Dialogue: 0,0:25:59.04,0:26:01.68,Main,,0,0,0,,O que aconteceu?!
-Dialogue: 0,0:26:01.68,0:26:06.48,Main,,0,0,0,,{\i1}--Luffy!\N--Conis-chan!\NEi!\NAonde você foi?\N!
+Dialogue: 0,0:26:01.68,0:26:06.48,Main,,0,0,0,,{\i1}--Luffy!\N--Conis-chan!\NEi!\NAonde você foi?!
 Dialogue: 0,0:26:06.48,0:26:09.25,Main,,0,0,0,,Luffy! Conis!
 Dialogue: 0,0:26:09.25,0:26:10.39,Main,,0,0,0,,Não adianta...
 Dialogue: 0,0:26:10.39,0:26:14.29,Main,,0,0,0,,O Deus todo-poderoso Enel vê tudo...!

@@ -1357,7 +1357,7 @@ Dialogue: 0,0:07:00.79,0:07:05.09,Captions,,0,0,240,,{\fad(400,0)}Planalto do Pa
 Dialogue: 0,0:07:14.56,0:07:16.75,Main,,0,0,0,,Seu insolente...
 Dialogue: 0,0:07:26.66,0:07:29.70,Main,,0,0,0,,{\fad(150,150)}Exército Bandera!
 Dialogue: 0,0:07:38.32,0:07:39.49,Main,,0,0,0,,O terreno é...
-Dialogue: 0,0:07:44.00,0:07:47.40,Main,,0,0,0,,Gosta disto?\N!\NO chão ondula como uma bandeira!
+Dialogue: 0,0:07:44.00,0:07:47.40,Main,,0,0,0,,Gosta disto?!\NO chão ondula como uma bandeira!
 Dialogue: 0,0:07:47.40,0:07:49.76,Main,,0,0,0,,Parece que você está lutando apenas para ficar de pé!
 Dialogue: 0,0:08:06.70,0:08:07.50,Main,,0,0,0,,{\fad(150,150)}Embreagem!
 Dialogue: 0,0:08:09.04,0:08:09.93,Thoughts,,0,0,0,,Rebeca.
@@ -1492,7 +1492,7 @@ Dialogue: 0,0:11:35.46,0:11:39.44,Main,,0,0,0,,Cora-san estava plenamente consci
 Dialogue: 0,0:11:40.50,0:11:44.38,Main,,0,0,0,,Se eu pudesse derrotar você apenas com meu nome, teria sido tão fácil.
 Dialogue: 0,0:11:46.78,0:11:49.38,Main,,0,0,0,,Esse foi o catalisador.
 Dialogue: 0,0:11:52.00,0:11:52.96,Main,,0,0,0,,Estou aqui...
-Dialogue: 0,0:11:55.56,0:12:00.18,Main,,0,0,0,,.\N.\N.\Nporque a bondosa Cora-san não conseguiu puxar o gatilho naquele dia!
+Dialogue: 0,0:11:55.56,0:12:00.18,Main,,0,0,0,,...\Nporque a bondosa Cora-san não conseguiu puxar o gatilho naquele dia!
 Dialogue: 0,0:12:01.32,0:12:03.66,Main,,0,0,0,,Estou aqui para fazer isso em nome dele!
 Dialogue: 0,0:12:14.58,0:12:15.98,Main,,0,0,0,,Doffy!
 Dialogue: 0,0:12:29.19,0:12:31.04,Main,,0,0,0,,Eu não gosto disso...

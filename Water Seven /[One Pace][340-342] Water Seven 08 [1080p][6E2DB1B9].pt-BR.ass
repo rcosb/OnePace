@@ -42,13 +42,13 @@ Dialogue: 5,0:02:55.91,0:02:58.03,Main-207+,,0,0,0,,{a typhoon might come throug
 Dialogue: 5,0:02:58.70,0:03:01.16,Main-207+,,0,0,0,,Esta cidade é chamada de Cidade da Água.
 Dialogue: 5,0:03:01.16,0:03:04.58,Main-207+,,0,0,0,,{In other words, it can be a weak point \Nthat could easily lead to flood damage.\N}Em outras palavras, está sujeito a sofrer danos por enchentes.
 Dialogue: 5,0:03:04.58,0:03:06.67,Main-207+,,0,0,0,,Então? E quanto a isso?
-Dialogue: 5,0:03:06.67,0:03:10.75,Main-207+,,0,0,0,,{Well.\N.\N.\NIt bothers me a little, \Nso I'll check into it later.\N}Bem, isso me incomoda um pouco, então analisarei isso mais tarde.
+Dialogue: 5,0:03:06.67,0:03:10.75,Main-207+,,0,0,0,,{Well...\NIt bothers me a little, \Nso I'll check into it later.\N}Bem, isso me incomoda um pouco, então analisarei isso mais tarde.
 Dialogue: 5,0:03:10.75,0:03:13.59,Main-207+,,0,0,0,,{go}De qualquer forma, vamos voltar para a pousada.
 Dialogue: 5,0:03:16.30,0:03:21.97,Main-207+,,0,0,0,,{\i1}Seguindo o alerta Aqua Laguna emitido para toda a ilha
 Dialogue: 5,0:03:21.97,0:03:24.89,Main-207+,,0,0,0,,{\i1}todas as fábricas de construção naval e docas na Ilha do Estaleiro
 Dialogue: 5,0:03:24.89,0:03:27.15,Main-207+,,0,0,0,,{\i1}serão abertos como centros de evacuação.
 Dialogue: 5,0:03:27.94,0:03:32.40,Main-207+,,0,0,0,,{Large crowds are expected, \Nso please evacuate ahead of time.\N\i1}Esperamos grandes multidões, por isso evacue o mais rápido possível.
-Dialogue: 5,0:03:33.32,0:03:38.07,Main-207+,,0,0,0,,{\i1}Além disso, como o Dock One está atualmente em um estado perigoso.\N.\N.
+Dialogue: 5,0:03:33.32,0:03:38.07,Main-207+,,0,0,0,,{\i1}Além disso, como o Dock One está atualmente em um estado perigoso...
 Dialogue: 5,0:03:38.07,0:03:40.49,Main-207+,,0,0,0,,{Okay, I'll put the iron board on.}Ok, vou colocar a placa de ferro.
 Dialogue: 5,0:03:42.41,0:03:44.04,Main-207+,,0,0,0,,{You guys have everything you need?}Você tem tudo que precisa?
 Dialogue: 5,0:03:44.04,0:03:47.42,Main-207+,,0,0,0,,Sim, nós fazemos. Vamos evacuar para o estaleiro.
@@ -104,21 +104,21 @@ Dialogue: 5,0:06:41.17,0:06:42.51,Main-207+,,0,0,0,,Sim.
 Dialogue: 5,0:06:46.39,0:06:49.35,Main-207+,,0,0,0,,{..}O trem marítimo ainda está em serviço.
 Dialogue: 5,0:06:49.35,0:06:52.02,Main-207+,,0,0,0,,Parece que o trem da tarde já partiu,
 Dialogue: 5,0:06:52.02,0:06:55.65,Main-207+,,0,0,0,,{but there's another one that departs \Nat night in this bad weather?\N}mas parece que uma partida noturna ainda está programada com este mau tempo?
-Dialogue: 5,0:06:55.65,0:07:01.07,Main-207+,,0,0,0,,{11 p.\Nm.\N, leaving for Enies Lobby.\N.\N.\N}Com destino ao Enies Lobby às 11 da noite.\NO trem marítimo é bastante impressionante.
+Dialogue: 5,0:06:55.65,0:07:01.07,Main-207+,,0,0,0,,{11 p.\Nm.\N, leaving for Enies Lobby...\N}Com destino ao Enies Lobby às 11 da noite.\NO trem marítimo é bastante impressionante.
 Dialogue: 5,0:07:01.07,0:07:03.07,Main-207+,,0,0,0,,Ei! Alguma informação sobre os piratas?!
 Dialogue: 5,0:07:03.07,0:07:05.03,Main-207+,,0,0,0,,Não. Não temos nada.
 Dialogue: 5,0:07:05.03,0:07:09.66,Main-207+,,0,0,0,,{If we capture even one of those three \Nwhose faces are known and squeeze him,}Se conseguirmos capturar um e espremê-lo, eles vão derramar o feijão no resto.
 Dialogue: 5,0:07:09.66,0:07:12.24,Main-207+,,0,0,0,,{Hurry up! Before the waves get high!}Se apresse! Antes que as ondas fiquem muito altas!
 Dialogue: 5,0:07:13.16,0:07:16.58,Main-207+,,0,0,0,,Eu me pergunto se Robin pegou o trem marítimo.
 Dialogue: 5,0:07:16.58,0:07:20.17,Main-207+,,0,0,0,,Se ela o fizesse, as coisas não poderiam piorar.
-Dialogue: 5,0:07:20.88,0:07:24.55,Main-207+,,0,0,0,,{When Water Seven \Nis already too big to handle.\N.\N.\N}Water Seven já é grande demais para ser manuseado.
-Dialogue: 5,0:07:24.55,0:07:28.09,Main-207+,,0,0,0,,{I wonder if.\N.\N.\NI did something \Nto upset her at the bookstore.\N}Eu me pergunto se fiz algo que a aborreceu na livraria.
+Dialogue: 5,0:07:20.88,0:07:24.55,Main-207+,,0,0,0,,{When Water Seven \Nis already too big to handle...\N}Water Seven já é grande demais para ser manuseado.
+Dialogue: 5,0:07:24.55,0:07:28.09,Main-207+,,0,0,0,,{I wonder if...\NI did something \Nto upset her at the bookstore.\N}Eu me pergunto se fiz algo que a aborreceu na livraria.
 Dialogue: 5,0:07:28.09,0:07:30.60,Main-207+,,0,0,0,,{...}Seu idiota. Não há como ser esse o caso.
 Dialogue: 5,0:07:30.60,0:07:31.39,Main-207+,,0,0,0,,{Oh, hey, excuse me.}Ah, ei você.
 Dialogue: 5,0:07:31.97,0:07:33.93,Main-207+,,0,0,0,,Você já viu uma mulher bonita como ela?
-Dialogue: 5,0:07:33.93,0:07:37.31,Main-207+,,0,0,0,,{Oh, that.\N.\N.\NThe pretty woman who's 20 \Nyears older than in that picture, right?\N}Ah, isso.\N.\N.\Nvocê quer dizer a mulher bonita que era assim há 20 anos?
+Dialogue: 5,0:07:33.93,0:07:37.31,Main-207+,,0,0,0,,{Oh, that...\NThe pretty woman who's 20 \Nyears older than in that picture, right?\N}Ah, isso...\Nvocê quer dizer a mulher bonita que era assim há 20 anos?
 Dialogue: 5,0:07:37.31,0:07:41.36,Main-207+,,0,0,0,,{If I had, I would've told either \Nthe paper company or Galley-La immediately.\N}Se tivesse, teria contado imediatamente à empresa de papel ou à Galley-La.
-Dialogue: 5,0:07:41.36,0:07:45.78,Main-207+,,0,0,0,,{But to think she's an assassin.\N.\N.\N\NWhat a surprise, huh?\N}Mas pensar que ela é uma assassina.\N.\N.\NQue surpresa, hein?
+Dialogue: 5,0:07:41.36,0:07:45.78,Main-207+,,0,0,0,,{But to think she's an assassin...\N\NWhat a surprise, huh?\N}Mas pensar que ela é uma assassina...\NQue surpresa, hein?
 Dialogue: 5,0:07:45.78,0:07:50.16,Main-207+,,0,0,0,,Bem, tudo bem se você quiser procurar os culpados, mas você deve evacuar logo.
 Dialogue: 5,0:07:50.16,0:07:52.45,Main-207+,,0,0,0,,Ou você será engolido pelo Aqua Laguna.
 Dialogue: 5,0:07:53.49,0:07:55.00,Main-207+,,0,0,0,,{Well then, see ya.}Até mais.
@@ -139,10 +139,10 @@ Dialogue: 5,0:08:50.51,0:08:53.93,Main-207+,,0,0,0,,Uau! Ops!
 Dialogue: 5,0:08:56.31,0:08:57.68,Main-207+,,0,0,0,,E-Ei, você está bem?!
 Dialogue: 5,0:08:59.14,0:09:00.56,Main-207+,,0,0,0,,Helicóptero! Você está bem?!
 Dialogue: 5,0:09:01.44,0:09:02.56,Main-207+,,0,0,0,,Você está ferido?
-Dialogue: 5,0:09:02.56,0:09:06.48,Main-207+,,0,0,0,,{Geez, don't be reckless!\N\NWhat on earth is going on.\N.\N.\N}Vamos, não seja tão imprudente!\NO que diabos está acontecendo?
+Dialogue: 5,0:09:02.56,0:09:06.48,Main-207+,,0,0,0,,{Geez, don't be reckless!\N\NWhat on earth is going on...\N}Vamos, não seja tão imprudente!\NO que diabos está acontecendo?
 Dialogue: 5,0:09:06.48,0:09:10.32,Main-207+,,0,0,0,,{Starting to run so sudden... ly...}Começando a correr tão... de repente...
 Dialogue: 5,0:09:13.03,0:09:14.37,Main-207+,,0,0,0,,{\i1}–Robin!\N–Robin-chan!
-Dialogue: 5,0:09:16.37,0:09:19.33,Main-207+,,0,0,0,,{Wh-Where have you been?\N!\N\NWe looked all over for you!\N}Onde você esteve?\N!\NProcuramos você por toda parte!
+Dialogue: 5,0:09:16.37,0:09:19.33,Main-207+,,0,0,0,,{Wh-Where have you been?!\N\NWe looked all over for you!\N}Onde você esteve?!\NProcuramos você por toda parte!
 Dialogue: 5,0:09:19.33,0:09:23.08,Main-207+,,0,0,0,,{ together}Todo mundo está preocupado com você!\NAgora, vamos voltar para a pousada.
 Dialogue: 5,0:09:23.08,0:09:26.71,Main-207+,,0,0,0,,{Well, a lot has happened \Nwhile you've been gone.\NI'll explain in detail.\N}Bem, muita coisa aconteceu enquanto você estava fora.\NVou explicar detalhadamente.
 Dialogue: 5,0:09:26.71,0:09:29.34,Main-207+,,0,0,0,,Mas essa distância é irritante.
@@ -166,14 +166,14 @@ Dialogue: 5,0:10:18.14,0:10:19.47,Main-207+,,0,0,0,,{...}Não!
 Dialogue: 5,0:10:19.47,0:10:23.44,Main-207+,,0,0,0,,{guys}Carrego dentro de mim uma escuridão que todos vocês desconhecem.
 Dialogue: 5,0:10:24.10,0:10:27.27,Main-207+,,0,0,0,,Esta escuridão irá destruir você algum dia.
 Dialogue: 5,0:10:29.28,0:10:32.95,Flashbacks-720p,,0,0,0,,{The organizations Nico Robin had something \Nto do with up until today}Até o momento, todas as organizações que trouxeram Nico Robin
-Dialogue: 5,0:10:32.95,0:10:37.62,Flashbacks-720p,,0,0,0,,{all got annihilated.\N.\N.\Nexcept for her.\N}foi exterminado.\NEla é a única sobrevivente.
+Dialogue: 5,0:10:32.95,0:10:37.62,Flashbacks-720p,,0,0,0,,{all got annihilated...\Nexcept for her.\N}foi exterminado.\NEla é a única sobrevivente.
 Dialogue: 5,0:10:38.62,0:10:44.33,Main-207+,,0,0,0,,Na verdade, estou atribuindo esse crime a você e planejando fugir.
 Dialogue: 5,0:10:44.33,0:10:46.58,Main-207+,,0,0,0,,{The situation will get worse.}A situação só vai piorar.
 Dialogue: 5,0:10:46.58,0:10:49.00,Main-207+,,0,0,0,,O que você quer dizer?! Por que você está–
-Dialogue: 5,0:10:49.00,0:10:53.13,Main-207+,,0,0,0,,{Why I'm doing it.\N.\N.\N\NIt's something you don't need to know.\N}Por que estou fazendo isso?\NVocê não precisa saber.
-Dialogue: 5,0:10:55.22,0:10:59.56,Main-207+,,0,0,0,,{\i1}Robin-chan!\NEu não entendo o que você está dizendo!\NO que aconteceu com você?\N!
+Dialogue: 5,0:10:49.00,0:10:53.13,Main-207+,,0,0,0,,{Why I'm doing it...\N\NIt's something you don't need to know.\N}Por que estou fazendo isso?\NVocê não precisa saber.
+Dialogue: 5,0:10:55.22,0:10:59.56,Main-207+,,0,0,0,,{\i1}Robin-chan!\NEu não entendo o que você está dizendo!\NO que aconteceu com você?!
 Dialogue: 5,0:10:59.56,0:11:02.27,Main-207+,,0,0,0,,Robin! Vamos voltar juntos!
-Dialogue: 5,0:11:04.35,0:11:08.23,Main-207+,,0,0,0,,{Although I only spent a short time \Nwith you, after today.\N.\N.\N}Passei pouco tempo com você, mas depois de hoje,
+Dialogue: 5,0:11:04.35,0:11:08.23,Main-207+,,0,0,0,,{Although I only spent a short time \Nwith you, after today...\N}Passei pouco tempo com você, mas depois de hoje,
 Dialogue: 5,0:11:08.90,0:11:11.94,Main-207+,,0,0,0,,Nunca mais verei você.
 Dialogue: 5,0:11:12.61,0:11:16.91,Main-207+,,0,0,0,,{nice to a person like me}Obrigado por ser tão gentil com alguém como eu.
 Dialogue: 5,0:11:18.32,0:11:19.45,Main-207+,,0,0,0,,{Goodbye.}Até a próxima.
@@ -190,8 +190,8 @@ Dialogue: 5,0:11:57.70,0:12:00.41,Main-207+,,0,0,0,,{\i1}Espere! Robin-chan! Rob
 Dialogue: 5,0:12:08.37,0:12:11.13,Main-207+,,0,0,0,,Robin!
 Dialogue: 5,0:12:18.05,0:12:19.55,Main-207+,,0,0,0,,Eu a perdi de vista.
 Dialogue: 5,0:12:19.55,0:12:20.59,Main-207+,,0,0,0,,Sim.
-Dialogue: 5,0:12:23.89,0:12:26.06,Main-207+,,0,0,0,,– Helicóptero.\N.\N.\N– Hm?
-Dialogue: 5,0:12:26.06,0:12:31.06,Main-207+,,0,0,0,,{You go join Luffy and the others \Nand tell them everything that just happened.\N.\N.\N}Junte-se a Luffy e aos outros e conte-lhes tudo o que aconteceu.
+Dialogue: 5,0:12:23.89,0:12:26.06,Main-207+,,0,0,0,,– Helicóptero...\N– Hm?
+Dialogue: 5,0:12:26.06,0:12:31.06,Main-207+,,0,0,0,,{You go join Luffy and the others \Nand tell them everything that just happened...\N}Junte-se a Luffy e aos outros e conte-lhes tudo o que aconteceu.
 Dialogue: 5,0:12:31.06,0:12:34.28,Main-207+,,0,0,0,,{without leaving a single word out.}Não deixe de fora uma única palavra.
 Dialogue: 5,0:12:34.28,0:12:35.31,Main-207+,,0,0,0,,O que você vai fazer?
 Dialogue: 5,0:12:35.31,0:12:38.03,Main-207+,,0,0,0,,Vamos nos separar aqui um pouco.
@@ -199,7 +199,7 @@ Dialogue: 5,0:12:39.11,0:12:42.66,Main-207+,,0,0,0,,Bem, não se preocupe.\NNão
 Dialogue: 5,0:12:43.95,0:12:44.95,Main-207+,,0,0,0,,Para onde eles foram?
 Dialogue: 5,0:12:44.95,0:12:46.50,Main-207+,,0,0,0,,{Joined two lines}Olhe em cada canto e recanto!
 Dialogue: 5,0:12:46.50,0:12:48.50,Main-207+,,0,0,0,,E os becos?!
-Dialogue: 5,0:12:48.50,0:12:50.62,Main-207+,,0,0,0,,{Couldn't they have climbed \Nup on some rooftop?\N!\N}Eles poderiam ter subido em um telhado?\N!
+Dialogue: 5,0:12:48.50,0:12:50.62,Main-207+,,0,0,0,,{Couldn't they have climbed \Nup on some rooftop?!\N}Eles poderiam ter subido em um telhado?!
 Dialogue: 5,0:12:51.25,0:12:52.79,Main-207+,,0,0,0,,{They shook us off?!}Droga! Nós os perdemos!
 Dialogue: 5,0:12:53.34,0:12:55.55,Main-207+,,0,0,0,,Mas eles definitivamente correram nessa direção!
 Dialogue: 5,0:12:55.55,0:12:57.42,Main-207+,,0,0,0,,{Shall we check over there?!}Devemos verificar lá?!
@@ -222,7 +222,7 @@ Dialogue: 5,0:14:08.67,0:14:10.29,Main-207+,,0,0,0,,{Tsk... }Ok, então.
 Dialogue: 5,0:14:10.29,0:14:12.12,Main-207+,,0,0,0,,{But you can't buy that much \Nwith this little money.\N}Mas isso não é suficiente para tudo isso.
 Dialogue: 5,0:14:12.75,0:14:17.46,Main-207+,,0,0,0,,Então, para compensar o resto, gostaria de trocar minhas ferramentas.
 Dialogue: 5,0:14:17.46,0:14:19.71,Main-207+,,0,0,0,,Ei, ei, não seja ridículo! Pare com isso!
-Dialogue: 5,0:14:19.71,0:14:24.47,Main-207+,,0,0,0,,{To think you're tryin' to barter.\N.\N.\N}Eu só vendo.\NVocê não pode negociar aqui.\NO que você é, algum tipo de caipira?
+Dialogue: 5,0:14:19.71,0:14:24.47,Main-207+,,0,0,0,,{To think you're tryin' to barter...\N}Eu só vendo.\NVocê não pode negociar aqui.\NO que você é, algum tipo de caipira?
 Dialogue: 5,0:14:28.35,0:14:30.43,Main-207+,,0,0,0,,{Geez... You win.}Bem, serei a sela de um yagara.
 Dialogue: 5,0:14:38.44,0:14:42.19,Main-207+,,0,0,0,,{H-Hey!\NAre you okay carrying that stuff \Nwhen you're injured that badly?\N}E-Ei!\NVocê deveria carregar todas essas coisas com esse ferimento?
 Dialogue: 5,0:14:42.86,0:14:45.91,Main-207+,,0,0,0,,{Surely you have friends, right?! Hey!}Certamente você tem amigos para ajudar, certo?! Ei!
@@ -234,7 +234,7 @@ Dialogue: 5,0:15:12.98,0:15:15.60,Main-207+,,0,0,0,,{What is it? Are you gonna..
 Dialogue: 5,0:15:15.60,0:15:16.35,Main-207+,,0,0,0,,{No...}Não.
 Dialogue: 5,0:15:16.85,0:15:20.27,Main-207+,,0,0,0,,Aqui. Pegue isso. Você está com fome, certo?
 Dialogue: 5,0:15:25.45,0:15:26.45,Main-207+,,0,0,0,,Obrigado.
-Dialogue: 5,0:15:26.45,0:15:29.03,Main-207+,,0,0,0,,{Sure.\N.\N.\NBe careful going back.\N}Claro.\NTenha cuidado lá fora.
+Dialogue: 5,0:15:26.45,0:15:29.03,Main-207+,,0,0,0,,{Sure...\NBe careful going back.\N}Claro.\NTenha cuidado lá fora.
 Dialogue: 5,0:15:36.12,0:15:37.88,Main-207+,,0,0,0,,{Be careful going back!}Cuidado lá fora!
 Dialogue: 5,0:15:48.68,0:15:50.22,Main-207+,,0,0,0,,Isso é bom.
 Dialogue: 5,0:15:50.22,0:15:53.18,Main-207+,,0,0,0,,Estes são realmente bons.
@@ -251,7 +251,7 @@ Dialogue: 5,0:17:12.05,0:17:14.56,Main-207+,,0,0,0,,Talvez seja hora de começar
 Dialogue: 5,0:17:15.60,0:17:18.06,Main-207+,,0,0,0,,Irmão! Espere por nós!
 Dialogue: 5,0:17:19.39,0:17:22.02,Main-207+,,0,0,0,,Obrigado pela bebida, Blueno!
 Dialogue: 5,0:17:26.32,0:17:29.74,Main-207+,,0,0,0,,{\i1}O que aconteceu com Franky de repente, Kokoro-san?
-Dialogue: 5,0:17:33.32,0:17:40.16,Main-207+,,0,0,0,,{.\N.\N}Me bate.\NSimplesmente não há como dizer como os idiotas pensam.
+Dialogue: 5,0:17:33.32,0:17:40.16,Main-207+,,0,0,0,,{..\N}Me bate.\NSimplesmente não há como dizer como os idiotas pensam.
 Dialogue: 5,0:17:52.76,0:17:54.09,Main-207+,,0,0,0,,{I guess things have finally calmed down.}Finalmente se acalmou.
 Dialogue: 5,0:17:54.60,0:17:56.35,Main-207+,,0,0,0,,"Finalmente me acalmei"?!
 Dialogue: 5,0:17:56.35,0:17:59.52,Main-207+,,0,0,0,,Você tinha todos aqueles construtores navais perseguindo você!
@@ -267,7 +267,7 @@ Dialogue: 5,0:18:34.84,0:18:35.93,Main-207+,,0,0,0,,Sim.
 Dialogue: 5,0:18:42.64,0:18:45.31,Main-207+,,0,0,0,,{We all... were prepared for it, right?}Todos nós sabíamos que algo tinha que acontecer, certo?
 Dialogue: 5,0:18:47.86,0:18:52.40,Main-207+,,0,0,0,,{Even though it was for a short time, we let Robin, who showed up as an enemy, come on board.\N}Mesmo que tenha sido por pouco tempo, Robin era uma inimiga antes de embarcar.
 Dialogue: 5,0:18:53.07,0:18:57.32,Main-207+,,0,0,0,,Se ela de repente ficasse assustada e fugisse, isso não me agradaria.
-Dialogue: 5,0:18:59.03,0:19:02.83,Main-207+,,0,0,0,,{Isn't it about time \Nfor us to settle this matter.\N.\N.\N}Não é hora de resolvermos o assunto?
+Dialogue: 5,0:18:59.03,0:19:02.83,Main-207+,,0,0,0,,{Isn't it about time \Nfor us to settle this matter...\N}Não é hora de resolvermos o assunto?
 Dialogue: 5,0:19:03.66,0:19:07.96,Main-207+,,0,0,0,,{as to whether that woman is... foe or friend?}Essa mulher é amiga ou inimiga?
 Dialogue: 5,0:19:10.42,0:19:17.18,Flashbacks-720p,,0,0,0,,{\c&H000000&\3c&H000000&\t(0,2000,0.\N5\c&HFFFFFF&\3c&H525252&)}A situação só vai piorar.\NDepois de hoje, nunca mais te verei.
 Dialogue: 5,0:19:20.89,0:19:24.94,Main-207+,,0,0,0,,{So you're sure that Robin said that, Chopper?}Tem certeza que Robin disse isso, Chopper?
@@ -279,7 +279,7 @@ Dialogue: 5,0:19:41.95,0:19:43.75,Main-207+,,0,0,0,,Veja que grande confusão
 Dialogue: 5,0:19:43.75,0:19:46.87,Main-207+,,0,0,0,,{the attempted assassination \Nof the mayor caused in this town.\N}a tentativa de assassinato do prefeito aumentou.
 Dialogue: 5,0:19:46.87,0:19:49.92,Main-207+,,0,0,0,,Se for possível piorar a situação,
 Dialogue: 5,0:19:49.92,0:19:52.17,Main-207+,,0,0,0,,só há uma coisa que ela pode fazer.
-Dialogue: 5,0:19:52.71,0:19:55.63,Main-207+,,0,0,0,,{This time for sure.\N.\N.\N\NAssassinate the mayor.\N.\N.\N}Assassine o prefeito com certeza desta vez.
+Dialogue: 5,0:19:52.71,0:19:55.63,Main-207+,,0,0,0,,{This time for sure...\N\NAssassinate the mayor...\N}Assassine o prefeito com certeza desta vez.
 Dialogue: 5,0:19:58.47,0:20:00.85,Main-207+,,0,0,0,,{It's natural to think that way.}Essa é a conclusão natural.
 Dialogue: 5,0:20:02.76,0:20:06.98,Main-207+,,0,0,0,,{But we know that she's pinning \Nher crime on us on purpose,}Mas sabemos que ela pretende culpar-nos pelo crime.
 Dialogue: 5,0:20:06.98,0:20:11.36,Main-207+,,0,0,0,,{so it's possible that this could be a trap \Nto lure us out to the scene of the crime.\N}então é possível que seja uma armadilha para nos atrair para a cena do crime.
@@ -290,7 +290,7 @@ Dialogue: 5,0:20:18.99,0:20:23.49,Main-207+,,0,0,0,,{Hey!\NYou already sound lik
 Dialogue: 5,0:20:24.24,0:20:26.66,Main-207+,,0,0,0,,Estou falando sobre a possibilidade.
 Dialogue: 5,0:20:26.66,0:20:28.83,Main-207+,,0,0,0,,{It's not that I've decided on either.}Não é que eu tenha decidido de qualquer maneira.
 Dialogue: 5,0:20:29.79,0:20:33.59,Main-207+,,0,0,0,,{If I already decide either to believe her or not,}Se eu decidisse agora acreditar nela ou não,
-Dialogue: 5,0:20:33.59,0:20:35.80,Main-207+,,0,0,0,,{if the truth turns out to be \Nthe opposite of that.\N.\N.\N}e a verdade acabou sendo o oposto,
+Dialogue: 5,0:20:33.59,0:20:35.80,Main-207+,,0,0,0,,{if the truth turns out to be \Nthe opposite of that...\N}e a verdade acabou sendo o oposto,
 Dialogue: 5,0:20:37.26,0:20:40.76,Main-207+,,0,0,0,,{it'll slow down my reaction.}isso desaceleraria minha reação.
 Dialogue: 5,0:20:45.14,0:20:48.89,Main-207+,,0,0,0,,{If something is to happen, \Nit'll be tonight.\NAre we going?\N}Se algo vai acontecer, será esta noite.\NNós vamos?
 Dialogue: 5,0:20:48.89,0:20:50.10,Main-207+,,0,0,0,,Nós somos.
@@ -340,16 +340,16 @@ Dialogue: 5,0:23:19.21,0:23:22.76,Main-207+,,0,0,0,,Irmão! Você espancou aquel
 Dialogue: 5,0:23:22.76,0:23:24.13,Main-207+,,0,0,0,,Não, ainda não.
 Dialogue: 5,0:23:24.13,0:23:26.93,Main-207+,,0,0,0,,Houve alguma interferência maluca.\NEles fugiram.
 Dialogue: 5,0:23:26.93,0:23:27.97,Main-207+,,0,0,0,,O que?!
-Dialogue: 5,0:23:27.97,0:23:30.68,Main-207+,,0,0,0,,Eles fugiram de você quando você estava com raiva?\N!
+Dialogue: 5,0:23:27.97,0:23:30.68,Main-207+,,0,0,0,,Eles fugiram de você quando você estava com raiva?!
 Dialogue: 5,0:23:30.68,0:23:33.22,Main-207+,,0,0,0,,{What strong luck they have!}Que sorte eles devem ter!
-Dialogue: 5,0:23:33.22,0:23:39.61,Main-207+,,0,0,0,,{.\N.\N}Eu vejo.\NJá que aquele cara fraco e de nariz comprido estava consertando o navio sozinho,
+Dialogue: 5,0:23:33.22,0:23:39.61,Main-207+,,0,0,0,,{..\N}Eu vejo.\NJá que aquele cara fraco e de nariz comprido estava consertando o navio sozinho,
 Dialogue: 5,0:23:39.61,0:23:43.03,Main-207+,,0,0,0,,Eu simplesmente presumi que você bateu nos outros.
 Dialogue: 5,0:23:43.03,0:23:45.49,Main-207+,,0,0,0,,Huh? Você encontrou um deles?!
 Dialogue: 5,0:23:45.49,0:23:47.45,Main-207+,,0,0,0,,{... }S-Sim, no navio deles.
 Dialogue: 5,0:23:51.83,0:23:54.91,Main-207+,,0,0,0,,Se você encontrou um deles, isso torna tudo mais fácil.
 Dialogue: 5,0:23:54.91,0:23:59.38,Main-207+,,0,0,0,,{We can use him to drag them all out!}Podemos usá-lo para fazê-los se revelarem!
 Dialogue: 5,0:23:59.79,0:24:02.67,Main-207+,,0,0,0,,{ is showing his bad guy face.}B-Bro está com cara de vilão.
-Dialogue: 5,0:24:04.46,0:24:08.47,Main-207+,,0,0,0,,{Starting now, \Nmarch throughout the town.\N.\N.\N}Pois bem, pessoal!\NEu quero que você comece a marchar pela cidade,
+Dialogue: 5,0:24:04.46,0:24:08.47,Main-207+,,0,0,0,,{Starting now, \Nmarch throughout the town...\N}Pois bem, pessoal!\NEu quero que você comece a marchar pela cidade,
 Dialogue: 5,0:24:09.47,0:24:11.51,Main-207+,,0,0,0,,{shouting, "We've got long-nose!}gritando: "Temos o nariz comprido!
 Dialogue: 5,0:24:11.51,0:24:13.35,Main-207+,,0,0,0,,{If you don't want him to sink in theat the bottom of the sea,}Para impedi-lo de dormir com os peixes,
 Dialogue: 5,0:24:13.35,0:24:15.89,Main-207+,,0,0,0,,venha para o armazém debaixo da ponte!

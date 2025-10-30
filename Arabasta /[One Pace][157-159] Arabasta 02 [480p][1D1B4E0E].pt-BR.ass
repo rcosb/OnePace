@@ -75,7 +75,7 @@ Dialogue: 0,0:03:03.56,0:03:04.83,Main-480p,,0,0,0,[Italics End][Linebreaker Rem
 Dialogue: 0,0:03:04.83,0:03:08.04,Main-480p,,0,0,0,[Italics End][Linebreaker Removed][Honorifics],{I'll go shopping \Nfor you too}Vou comprar uma coisinha para você também, Vivi-chan!
 Dialogue: 0,0:03:10.41,0:03:11.42,Main-480p,,0,0,0,,{What is it?}O que está errado?
 Dialogue: 0,0:03:12.83,0:03:14.92,Main-480p,,0,0,0,,{\fad(480,0)}Navio do Sr. 3!
-Dialogue: 0,0:03:16.40,0:03:18.78,Main-480p,,0,0,0,[Linebreaker Removed],Afinal, aquele canalha não chutou o balde?\N!
+Dialogue: 0,0:03:16.40,0:03:18.78,Main-480p,,0,0,0,[Linebreaker Removed],Afinal, aquele canalha não chutou o balde?!
 Dialogue: 0,0:03:18.78,0:03:19.98,Main-480p,,0,0,0,,{There's no doubt about it!}Não há dúvidas!
 Dialogue: 0,0:03:19.98,0:03:23.55,Main-480p,,0,0,0,[Linebreaker Removed],Sua nave funciona com o poder de sua fruta Wax Wax!
 Dialogue: 0,0:03:23.55,0:03:24.88,Main-480p,,0,0,0,,O bastardo está aqui?
@@ -116,8 +116,8 @@ Dialogue: 0,0:05:46.99,0:05:49.16,Main-480p,,0,0,0,,{who wears}Ele é um pirata 
 Dialogue: 0,0:05:49.16,0:05:53.37,Main-480p,,0,0,0,[Linebreaker Removed],{I'm impressed you're bold enough to eat out in public...}Você tem muita coragem de comer fora em público,
 Dialogue: 0,0:05:53.37,0:05:57.08,Main-480p,,0,0,0,[Linebreaker Removed][*...],{...}Comandante da Segunda Divisão dos Piratas do Barba Branca,
 Dialogue: 0,0:05:57.89,0:06:02.25,Main-480p,,0,0,0,[*...],Portgas D. Ás.
-Dialogue: 0,0:06:02.25,0:06:05.63,Main-480p,,0,0,0,,O que-Barba Branca?\N!\NOs Piratas do Barba Branca?\N!
-Dialogue: 0,0:06:05.63,0:06:09.19,Main-480p,,0,0,0,[Linebreaker Removed],{dimwit}Esse idiota é um dos Piratas do Barba Branca?\N!
+Dialogue: 0,0:06:02.25,0:06:05.63,Main-480p,,0,0,0,,O que-Barba Branca?!\NOs Piratas do Barba Branca?!
+Dialogue: 0,0:06:05.63,0:06:09.19,Main-480p,,0,0,0,[Linebreaker Removed],{dimwit}Esse idiota é um dos Piratas do Barba Branca?!
 Dialogue: 0,0:06:09.19,0:06:11.78,Main-480p,,0,0,0,[Italics End][Linebreaker Removed],{Come to think of it, I have seen the mark on his back before!\N}Você sabe, eu reconheço a tatuagem nas costas dele!
 Dialogue: 0,0:06:11.78,0:06:14.51,Main-480p,,0,0,0,[Linebreaker Removed],Essa é a marca dos Piratas do Barba Branca!
 Dialogue: 0,0:06:14.51,0:06:16.14,Main-480p,,0,0,0,,O que ele está fazendo aqui?!
@@ -127,7 +127,7 @@ Dialogue: 0,0:06:26.03,0:06:31.37,Captions-480p,,0,0,0,,{\pos(500,300)\blur0.\N5
 Dialogue: 1,0:06:26.03,0:06:31.37,Captions-480p,,0,0,0,,{\pos(500,300)\bord0\blur0.\N5\fad(440,310)\4a&HFF&}Comandante Portgas D.\NAce Segunda Divisão Piratas do Barba Branca
 Dialogue: 0,0:06:31.41,0:06:32.78,Main-480p,,0,0,0,,{little}para meu irmão mais novo!
 Dialogue: 0,0:06:32.78,0:06:39.87,Main-480p,,0,0,0,,{Food place!}Foooood shoooooop!
-Dialogue: 0,0:06:42.04,0:06:46.25,Main-480p,,0,0,0,[Italics End][Linebreaker Removed],{What is that?\N!\NThere's a weird smell in the way!\N}O que é isso?\NHá um cheiro estranho no ar!
+Dialogue: 0,0:06:42.04,0:06:46.25,Main-480p,,0,0,0,[Italics End][Linebreaker Removed],{What is that?!\NThere's a weird smell in the way!\N}O que é isso?\NHá um cheiro estranho no ar!
 Dialogue: 0,0:06:46.25,0:06:50.24,Main-480p,,0,0,0,,{Oh! There's one! There's a food place!}Oh! Encontrei! Uma loja de comida!
 Dialogue: 0,0:06:54.47,0:06:58.40,Main-480p,,0,0,0,,Então? O que você quer de mim?
 Dialogue: 0,0:06:58.40,0:07:00.48,Main-480p,,0,0,0,,Para me deixar capturar você silenciosamente.
@@ -169,7 +169,7 @@ Dialogue: 0,0:08:58.40,0:08:59.24,Secondary-480p,,0,0,0,[*--],Vários lugares!
 Dialogue: 0,0:08:59.24,0:09:03.77,Main-480p,,0,0,0,[*--],{Is he not feeling good?\N}– Ele está se sentindo mal?\N– Ah, o perfume está afetando ele.
 Dialogue: 0,0:09:03.77,0:09:04.91,Main-480p,,0,0,0,,Perfume?
 Dialogue: 0,0:09:04.91,0:09:08.50,Main-480p,,0,0,0,[Italics End][Linebreaker Removed][Honorifics],{\i1}Ah, certo! Tony-kun tem um nariz sensível!
-Dialogue: 0,0:09:08.50,0:09:11.59,Main-480p,,0,0,0,[Italics End][Linebreaker Removed][*--],{Some of it can be rather strong}– Ah, isso.\N.\N.\N– Muitas vezes são muito potentes.
+Dialogue: 0,0:09:08.50,0:09:11.59,Main-480p,,0,0,0,[Italics End][Linebreaker Removed][*--],{Some of it can be rather strong}– Ah, isso...\N– Muitas vezes são muito potentes.
 Dialogue: 0,0:09:11.59,0:09:13.36,Main-480p,,0,0,0,,Assim?
 Dialogue: 0,0:09:13.36,0:09:16.45,Main-480p,,0,0,0,[*--],{Mellorine love into the abyss!\N}- Parar!\N– Meu amor se aprofunda muito, Mellorine!
 Dialogue: 0,0:09:16.45,0:09:18.45,Main-480p,,0,0,0,,{What are you, an idiot?}Você é sempre tão idiota?
@@ -179,14 +179,14 @@ Dialogue: 0,0:09:24.23,0:09:27.54,Main-480p,,0,0,0,[Linebreaker Removed],{was it
 Dialogue: 0,0:09:27.54,0:09:32.05,Main-480p,,0,0,0,[Linebreaker Removed],{Yes, but first is a trek through the desert.\N}Isso mesmo, mas ir até lá significa atravessar o deserto.
 Dialogue: 0,0:09:32.05,0:09:36.51,Main-480p,,0,0,0,,{Yum! This is such a yum food place!}Tão bom! A comida aqui é saborosa!
 Dialogue: 0,0:09:36.51,0:09:40.93,Main-480p,,0,0,0,,S-Sim. Obrigado. Mas...
-Dialogue: 0,0:09:42.22,0:09:46.22,Main-480p,,0,0,0,[Linebreaker Removed],{Uhh, you should probably run away while you can.\N.\N.\N}Bem, você.\N.\N.\Ndeveria fugir enquanto pode.
+Dialogue: 0,0:09:42.22,0:09:46.22,Main-480p,,0,0,0,[Linebreaker Removed],{Uhh, you should probably run away while you can...\N}Bem, você...\Ndeveria fugir enquanto pode.
 Dialogue: 0,0:09:46.22,0:09:47.39,Main-480p,,0,0,0,,Por quê?
 Dialogue: 0,0:09:48.88,0:09:51.80,Main-480p,,0,0,0,[*--],{– }Ora, você...!
 Dialogue: 0,0:09:51.80,0:09:53.94,Main-480p,,0,0,0,,Quem diabos fez isso?!
 Dialogue: 0,0:09:56.11,0:09:57.95,Main-480p,,0,0,0,,Que diabos?!
 Dialogue: 0,0:09:58.57,0:10:01.87,Main-480p,,0,0,0,,Qual é a grande ideia?!
 Dialogue: 0,0:10:05.79,0:10:09.08,Main-480p,,0,0,0,,Oh! Desculpas por perturbar sua refeição!
-Dialogue: 0,0:10:15.05,0:10:18.51,Main-480p,,0,0,0,[Linebreaker Removed],Que idiota faria algo tão louco?\N!
+Dialogue: 0,0:10:15.05,0:10:18.51,Main-480p,,0,0,0,[Linebreaker Removed],Que idiota faria algo tão louco?!
 Dialogue: 0,0:10:25.47,0:10:26.31,Main-480p,,0,0,0,[*--],Lu...!
 Dialogue: 0,0:10:27.02,0:10:27.98,Main-480p,,0,0,0,[*--],Ei! Lu- -
 Dialogue: 0,0:10:28.48,0:10:31.48,Main-480p,,0,0,0,,Chapéu de Palha!
@@ -206,7 +206,7 @@ Dialogue: 0,0:11:27.24,0:11:29.13,Main-480p,,0,0,0,,{They ran off without paying
 Dialogue: 0,0:11:29.13,0:11:33.14,Thoughts-480p,,0,0,0,[Italics End][Linebreaker Removed][*Gum-Gum],Isso é ruim!\NMeus movimentos de borracha não funcionam naquele cara!
 Dialogue: 0,0:11:33.14,0:11:35.14,Thoughts-480p,,0,0,0,[Italics End],{All I can do for now is run!}Tenho que correr por enquanto!
 Dialogue: 0,0:11:35.14,0:11:36.17,Main-480p,,0,0,0,,Tashigi!
-Dialogue: 0,0:11:36.17,0:11:39.48,Main-480p,,0,0,0,[Linebreaker Removed],{Do you want a towel?\N}S-Sim, Capitão Smoker?\N!\NVocê precisa de uma toalha?
+Dialogue: 0,0:11:36.17,0:11:39.48,Main-480p,,0,0,0,[Linebreaker Removed],{Do you want a towel?\N}S-Sim, Capitão Smoker?!\NVocê precisa de uma toalha?
 Dialogue: 0,0:11:39.48,0:11:41.13,Main-480p,,0,0,0,,{kingdom certainly is hot}Este lugar com certeza é quente!
 Dialogue: 0,0:11:41.13,0:11:42.84,Main-480p,,0,0,0,,{Catch that guy}Pegue ele! É o Chapéu de Palha!
 Dialogue: 0,0:11:42.84,0:11:44.22,Main-480p,,0,0,0,,Chapéu de Palha?!
@@ -219,7 +219,7 @@ Dialogue: 0,0:12:01.26,0:12:02.03,Secondary-480p,,0,0,0,,Uau!
 Dialogue: 0,0:12:02.82,0:12:05.24,Thoughts-480p,,0,0,0,[Italics End],Tripulação do Chapéu de Palha! Isso significa...
 Dialogue: 0,0:12:09.08,0:12:12.21,Thoughts-480p,,0,0,0,[Italics End],Roronoa Zoro está nesta cidade!
 Dialogue: 0,0:12:14.21,0:12:16.04,Main-480p,,0,0,0,[Attack],{\fad(150,150)}Cobra Branca!
-Dialogue: 0,0:12:22.05,0:12:24.22,Main-480p,,0,0,0,[Linebreaker Removed],{Why did you come to this kingdom?\N!\N}Chapéu de Palha!\NPor que você está neste país?\N!
+Dialogue: 0,0:12:22.05,0:12:24.22,Main-480p,,0,0,0,[Linebreaker Removed],{Why did you come to this kingdom?!\N}Chapéu de Palha!\NPor que você está neste país?!
 Dialogue: 0,0:12:24.22,0:12:25.55,Main-480p,,0,0,0,,O que você está procurando?!
 Dialogue: 0,0:12:25.55,0:12:29.77,Main-480p,,0,0,0,[Linebreaker Removed],{a}O que estou procurando?\NEstou aqui para espancar um cara chamado Crocodile!
 Dialogue: 0,0:12:29.77,0:12:32.23,Main-480p,,0,0,0,,O que?! Crocodilo?!
@@ -237,7 +237,7 @@ Dialogue: 0,0:13:05.80,0:13:07.30,Main-480p,,0,0,0,,A Marinha está aqui.
 Dialogue: 0,0:13:07.30,0:13:08.17,Main-480p,,0,0,0,,A Marinha?!
 Dialogue: 0,0:13:08.17,0:13:11.94,Main-480p,,0,0,0,[Linebreaker Removed],{Let's just find Luffy as quickly as possible and leave town!\N}Quanto mais cedo encontrarmos Luffy, mais cedo sairemos da cidade!
 Dialogue: 0,0:13:11.94,0:13:12.93,Main-480p,,0,0,0,,Ei! Esconder!
-Dialogue: 0,0:13:12.93,0:13:14.90,Main-480p,,0,0,0,[*--],– Para quê?\N!\N- O que é?\N!
+Dialogue: 0,0:13:12.93,0:13:14.90,Main-480p,,0,0,0,[*--],– Para quê?!\N- O que é?!
 Dialogue: 0,0:13:17.50,0:13:18.94,Main-480p,,0,0,0,,A Marinha!
 Dialogue: 0,0:13:18.94,0:13:21.02,Main-480p,,0,0,0,,Parece haver uma grande comoção!
 Dialogue: 0,0:13:21.02,0:13:23.99,Main-480p,,0,0,0,,Não deixe ele escapar! Depois dele!
@@ -268,10 +268,10 @@ Dialogue: 0,0:14:30.64,0:14:33.01,Main-480p,,0,0,0,,Você pode estar fumando,
 Dialogue: 0,0:14:33.01,0:14:34.39,Main-480p,,0,0,0,,mas eu sou fogo.
 Dialogue: 0,0:14:34.39,0:14:38.02,Main-480p,,0,0,0,[Linebreaker Removed],{A fight between your power and mine would never end.\N}Estamos muito equilibrados para resolver as coisas entre nós.
 Dialogue: 0,0:14:38.02,0:14:41.19,Main-480p,,0,0,0,,{d}Ele tem poderes de fruta do diabo?!
-Dialogue: 0,0:14:41.19,0:14:43.94,Main-480p,,0,0,0,[Linebreaker Removed],{s}Quem é ele, afinal?\N!\NPor que ele está nos ajudando?\N!
+Dialogue: 0,0:14:41.19,0:14:43.94,Main-480p,,0,0,0,[Linebreaker Removed],{s}Quem é ele, afinal?!\NPor que ele está nos ajudando?!
 Dialogue: 0,0:14:43.94,0:14:45.40,Main-480p,,0,0,0,,Ás?!
 Dialogue: 0,0:14:46.67,0:14:48.78,Main-480p,,0,0,0,,Você não mudou nada, Luffy.
-Dialogue: 0,0:14:48.78,0:14:53.08,Main-480p,,0,0,0,[Linebreaker Removed],Ás?\N!\NÉ você, Ás?\N!\NVocê comeu uma fruta do diabo?\N!
+Dialogue: 0,0:14:48.78,0:14:53.08,Main-480p,,0,0,0,[Linebreaker Removed],Ás?!\NÉ você, Ás?!\NVocê comeu uma fruta do diabo?!
 Dialogue: 0,0:14:53.08,0:14:55.24,Main-480p,,0,0,0,,Sim! A fruta da chama!
 Dialogue: 0,0:14:55.24,0:14:57.70,Main-480p,,0,0,0,[Linebreaker Removed],{We're securing the perimeter!\N}Capitão Fumante!\NProtegendo o perímetro!
 Dialogue: 0,0:14:57.70,0:15:01.94,Main-480p,,0,0,0,[Linebreaker Removed],{Anyways, we can't chat like this!\NI'll catch up!\NYou guys run!\N}Não há tempo para conversar!\NMexa-se!\NEu vou alcançá-lo!
@@ -286,11 +286,11 @@ Dialogue: 0,0:15:23.23,0:15:26.83,Main-480p,,0,0,0,,E pensar que você é irmão
 Dialogue: 0,0:15:39.22,0:15:40.79,Main-480p,,0,0,0,[Attack],{\fad(150,150)}Branco...
 Dialogue: 0,0:15:40.79,0:15:42.21,Main-480p,,0,0,0,[Attack],{\fad(150,150)}Fagulha!
 Dialogue: 0,0:15:48.51,0:15:50.43,Main-480p,,0,0,0,,O que é isso?!
-Dialogue: 0,0:15:50.43,0:15:54.51,Main-480p,,0,0,0,[*--],{it}– Uma casa está pegando fogo?\N!\N– Não, isso não é um fogo comum!
+Dialogue: 0,0:15:50.43,0:15:54.51,Main-480p,,0,0,0,[*--],{it}– Uma casa está pegando fogo?!\N– Não, isso não é um fogo comum!
 Dialogue: 0,0:15:54.51,0:15:56.80,Main-480p,,0,0,0,,O que está acontecendo no mundo?
-Dialogue: 0,0:15:56.80,0:15:59.30,Main-480p,,0,0,0,,É uma luta entre chama e fumaça?\N!
+Dialogue: 0,0:15:56.80,0:15:59.30,Main-480p,,0,0,0,,É uma luta entre chama e fumaça?!
 Dialogue: 0,0:15:59.30,0:16:03.94,Main-480p,,0,0,0,[Linebreaker Removed],Ele disse que comeu a fruta Flame Flame.
-Dialogue: 0,0:16:03.94,0:16:08.21,Main-480p,,0,0,0,[Linebreaker Removed],{Is it true that guy's your brother?\N!\N}Mas, Luffy!\NEsse cara é realmente seu irmão mais velho?
+Dialogue: 0,0:16:03.94,0:16:08.21,Main-480p,,0,0,0,[Linebreaker Removed],{Is it true that guy's your brother?!\N}Mas, Luffy!\NEsse cara é realmente seu irmão mais velho?
 Dialogue: 0,0:16:08.21,0:16:10.61,Main-480p,,0,0,0,,{Yeah}Sim! O nome dele é Ás!
 Dialogue: 0,0:16:10.61,0:16:13.75,Main-480p,,0,0,0,[Linebreaker Removed],{You having a brother isn't that surprising,}Que você tenha um irmão não é surpreendente!
 Dialogue: 0,0:16:13.75,0:16:15.74,Main-480p,,0,0,0,[Linebreaker Removed],{but what's he doing in the Grand Line?!}Por que ele estaria na Grand Line?!
@@ -310,12 +310,12 @@ Dialogue: 0,0:17:03.12,0:17:05.33,Main-480p,,0,0,0,,Embora já fosse bastante ó
 Dialogue: 0,0:17:06.67,0:17:08.75,Main-480p,,0,0,0,,{Straw Hat's crew}Para onde foram os Chapéus de Palha?
 Dialogue: 0,0:17:08.75,0:17:09.81,Main-480p,,0,0,0,,Eles se foram!
 Dialogue: 0,0:17:09.81,0:17:12.30,Main-480p,,0,0,0,,Ace também! Nós o perdemos de vista!
-Dialogue: 0,0:17:12.30,0:17:16.38,Main-480p,,0,0,0,[Linebreaker Removed],{I caught Straw Hat for the first time in the Grand Line.\N.\N.\N}Finalmente alcancei o Chapéu de Palha na Grand Line, mas.\N.\N.
+Dialogue: 0,0:17:12.30,0:17:16.38,Main-480p,,0,0,0,[Linebreaker Removed],{I caught Straw Hat for the first time in the Grand Line...\N}Finalmente alcancei o Chapéu de Palha na Grand Line, mas...
 Dialogue: 0,0:17:16.38,0:17:22.39,Main-480p,,0,0,0,[Italics End][Linebreaker Removed],{But Portgas D.\NAce.\NYou simply had to get in the way.\N}Portgas D.\NAce simplesmente teve que atrapalhar.
 Dialogue: 0,0:17:22.39,0:17:25.16,Main-480p,,0,0,0,[Linebreaker Removed],{stuff}Apresse-se e carregue os suprimentos!\NEstamos desembarcando!
 Dialogue: 0,0:17:25.16,0:17:26.35,Main-480p,,0,0,0,,Pressa!
 Dialogue: 0,0:17:26.77,0:17:28.40,Main-480p,,0,0,0,,{Set}Desenrole as velas!
-Dialogue: 0,0:17:30.48,0:17:35.47,Main-480p,,0,0,0,[Linebreaker Removed],{S-Say.\NAre we leaving again just after we finally reached the island?\N}Diga.\N.\N.\NVamos partir tão cedo mesmo tendo acabado de chegar?
+Dialogue: 0,0:17:30.48,0:17:35.47,Main-480p,,0,0,0,[Linebreaker Removed],{S-Say.\NAre we leaving again just after we finally reached the island?\N}Diga...\NVamos partir tão cedo mesmo tendo acabado de chegar?
 Dialogue: 0,0:17:35.47,0:17:40.30,Main-480p,,0,0,0,[Linebreaker Removed],{Yes.\NWe only stopped by this town to get what we're going to need.\N}Sim.\NEsta cidade era apenas uma parada para alguns suprimentos necessários.
 Dialogue: 0,0:17:40.30,0:17:44.16,Main-480p,,0,0,0,[Linebreaker Removed][*Alabasta],{Now we're going to head up the river into the interior of Arabasta.\N}Em seguida, navegaremos rio acima até Alabasta.
 Dialogue: 0,0:17:44.16,0:17:47.96,Main-480p,,0,0,0,[Linebreaker Removed],{Zenef: Our writing guide has the city's nickname as "the Green City", but "City of Green" feels like a better descriptor for this place.}Nosso próximo destino é Erumalu, a Cidade Verde.
@@ -353,7 +353,7 @@ Dialogue: 0,0:19:06.67,0:19:09.96,Main-480p,,0,0,0,[Linebreaker Removed],{I watc
 Dialogue: 0,0:19:17.17,0:19:19.33,Main-480p,,0,0,0,,{I guess we're both the same!}Então não mudamos!
 Dialogue: 0,0:19:19.33,0:19:21.10,Main-480p,,0,0,0,,Não!
 Dialogue: 0,0:19:21.10,0:19:23.22,Main-480p,,0,0,0,,{This b}Traz de volta memórias!
-Dialogue: 0,0:19:23.22,0:19:26.89,Main-480p,,0,0,0,[Linebreaker Removed],{Say,}Então.\N.\N.\Nseus amigos não estavam procurando por você?
+Dialogue: 0,0:19:23.22,0:19:26.89,Main-480p,,0,0,0,[Linebreaker Removed],{Say,}Então...\Nseus amigos não estavam procurando por você?
 Dialogue: 0,0:19:26.89,0:19:27.43,Main-480p,,0,0,0,,Sim.
 Dialogue: 0,0:19:27.43,0:19:30.52,Main-480p,,0,0,0,[Linebreaker Removed],{What are you doing in this country?\N}Mas, Ás.\NO que o traz a este país?
 Dialogue: 0,0:19:30.52,0:19:31.14,Main-480p,,0,0,0,[Linebreaker Removed],Huh?
@@ -437,8 +437,8 @@ Dialogue: 0,0:23:44.56,0:23:47.55,Main-480p,,0,0,0,[Italics End][Honorifics],{\i
 Dialogue: 0,0:23:48.65,0:23:50.28,Main-480p,,0,0,0,,Ah, vamos!
 Dialogue: 0,0:23:50.28,0:23:51.90,Main-480p,,0,0,0,,{..}De novo não.
 Dialogue: 0,0:23:53.66,0:23:55.90,Main-480p,,0,0,0,,Desculpe por isso, Sanji, Chopper!
-Dialogue: 0,0:23:55.90,0:24:00.97,Main-480p,,0,0,0,[Linebreaker Removed],{Do you not know how to learn your lesson?\N!\NI oughta gut you whole!\N}Como você nunca aprende com nada disso!\NEu deveria apenas estripar você aqui!
-Dialogue: 0,0:24:00.97,0:24:03.77,Main-480p,,0,0,0,[Linebreaker Removed],{Yeah!\NDo you have any idea how much trouble you've caused?\N!\N}Sim!\NVocê ao menos percebe o problema que causou?\N!
+Dialogue: 0,0:23:55.90,0:24:00.97,Main-480p,,0,0,0,[Linebreaker Removed],{Do you not know how to learn your lesson?!\NI oughta gut you whole!\N}Como você nunca aprende com nada disso!\NEu deveria apenas estripar você aqui!
+Dialogue: 0,0:24:00.97,0:24:03.77,Main-480p,,0,0,0,[Linebreaker Removed],{Yeah!\NDo you have any idea how much trouble you've caused?!\N}Sim!\NVocê ao menos percebe o problema que causou?!
 Dialogue: 0,0:24:03.77,0:24:06.13,Main-480p,,0,0,0,[Italics End],Tente agir como um capitão!
 Dialogue: 0,0:24:06.46,0:24:07.84,Main-480p,,0,0,0,,Desculpe.
 Dialogue: 0,0:24:07.84,0:24:09.63,Main-480p,,0,0,0,,Ah, isso mesmo! Ás!
@@ -450,7 +450,7 @@ Dialogue: 0,0:24:21.14,0:24:25.13,Main-480p,,0,0,0,[Linebreaker Removed],{Yeah!\
 Dialogue: 0,0:24:25.13,0:24:28.61,Main-480p,,0,0,0,[Linebreaker Removed],{but I still never beat him in a single fight!\N}e apesar disso, eu nunca conseguiria vencê-lo.
 Dialogue: 0,0:24:28.61,0:24:31.07,Main-480p,,0,0,0,,{\i1}Ele é muito forte, aquele Ace!
 Dialogue: 0,0:24:31.07,0:24:34.01,Main-480p,,0,0,0,[Italics End][Linebreaker Removed],Existe uma pessoa de carne e osso que você nunca conseguiria vencer?!
-Dialogue: 0,0:24:34.01,0:24:36.57,Main-480p,,0,0,0,[Linebreaker Removed],{I guess the big brother of a monster is an even bigger monster.\N.\N.\N}Então o irmão mais velho do monstro é um monstro ainda maior.
+Dialogue: 0,0:24:34.01,0:24:36.57,Main-480p,,0,0,0,[Linebreaker Removed],{I guess the big brother of a monster is an even bigger monster...\N}Então o irmão mais velho do monstro é um monstro ainda maior.
 Dialogue: 0,0:24:36.57,0:24:40.72,Main-480p,,0,0,0,,{I lost all the time!}Isso mesmo! Eu perdi para ele o tempo todo!
 Dialogue: 0,0:24:40.72,0:24:43.42,Main-480p,,0,0,0,,{But I'd win now if we tried!}Mas agora, eu venceria bem ele!
 Dialogue: 0,0:24:43.42,0:24:46.29,Main-480p,,0,0,0,,{I assume that's another groundless claim.\N}Acho que você não tem nada em que basear isso.
@@ -459,7 +459,7 @@ Dialogue: 0,0:24:51.34,0:24:52.63,Main-480p,,0,0,0,,{win what now}pode vencer qu
 Dialogue: 0,0:24:53.97,0:24:57.43,Main-480p,,0,0,0,[Linebreaker Removed],{This is the crew I was talking about!\N}Oh!\NÁs!\NEsses são os amigos de quem falamos!
 Dialogue: 0,0:24:57.43,0:25:01.66,Main-480p,,0,0,0,[Linebreaker Removed],{Oh!\NThank you all for taking care of my little brother!\N}Oh!\NObrigado a todos por cuidarem do meu irmão mais novo.
 Dialogue: 0,0:25:01.66,0:25:03.27,Main-480p,,0,0,0,,{Eh}Huh? Ah, de jeito nenhum.
-Dialogue: 0,0:25:03.27,0:25:08.73,Main-480p,,0,0,0,[Linebreaker Removed],{He might be a bit much for you to handle too, but.\N.\N.\N}E talvez às vezes ele seja um pouco demais para lidar, mas.\N.\N.
+Dialogue: 0,0:25:03.27,0:25:08.73,Main-480p,,0,0,0,[Linebreaker Removed],{He might be a bit much for you to handle too, but...\N}E talvez às vezes ele seja um pouco demais para lidar, mas...
 Dialogue: 0,0:25:08.73,0:25:10.46,Main-480p,,0,0,0,,Não, de jeito nenhum.
 Dialogue: 0,0:25:10.46,0:25:12.49,Main-480p,,0,0,0,,Cuide bem dele.
 Dialogue: 0,0:25:13.11,0:25:15.49,Main-480p,,0,0,0,[Linebreaker Removed],{You probably have lots of \Ncatching up to do.\N}Bem, vocês dois provavelmente querem conversar.
@@ -467,7 +467,7 @@ Dialogue: 0,0:25:15.49,0:25:17.95,Main-480p,,0,0,0,[Linebreaker Removed],{Why do
 Dialogue: 0,0:25:17.95,0:25:20.83,Main-480p,,0,0,0,[Linebreaker Removed],{No, uhh, that's okay.\N\NDon't do it on account of me.\N}Não, tudo bem.\NNão se preocupe por minha causa.
 Dialogue: 0,0:25:24.63,0:25:27.60,Main-480p,,0,0,0,,T-Fale sobre o inesperado...
 Dialogue: 0,0:25:27.60,0:25:29.21,Main-480p,,0,0,0,,Isso é certo.
-Dialogue: 0,0:25:29.21,0:25:32.79,Main-480p,,0,0,0,[Linebreaker Removed],{I would've expected him to be as reckless as Luffy.\N.\N.\N}Eu teria pensado que ele estaria terrivelmente inconsciente como Luffy.
+Dialogue: 0,0:25:29.21,0:25:32.79,Main-480p,,0,0,0,[Linebreaker Removed],{I would've expected him to be as reckless as Luffy...\N}Eu teria pensado que ele estaria terrivelmente inconsciente como Luffy.
 Dialogue: 0,0:25:32.79,0:25:37.02,Main-480p,,0,0,0,[Linebreaker Removed],Não, esse homem sensato não pode ser irmão de Luffy!
 Dialogue: 0,0:25:37.02,0:25:39.27,Main-480p,,0,0,0,[Linebreaker Removed],{He's a nice guy who cares about his brother!\N}Ele é legal e se preocupa com seu irmão mais novo.
 Dialogue: 0,0:25:39.27,0:25:41.48,Main-480p,,0,0,0,,Irmãos podem ser tão maravilhosos!
@@ -497,7 +497,7 @@ Dialogue: 0,0:27:33.52,0:27:35.84,Main-480p,,0,0,0,,{What do you think}O que voc
 Dialogue: 0,0:27:35.84,0:27:38.84,Main-480p,,0,0,0,,Vivi estava com eles.
 Dialogue: 0,0:27:38.84,0:27:43.64,Main-480p,,0,0,0,[Linebreaker Removed],Vivi? A Princesa Nefertari Vivi estava com os Chapéus de Palha?
 Dialogue: 0,0:27:43.64,0:27:45.41,Main-480p,,0,0,0,,Ela deve ser uma refém.
-Dialogue: 0,0:27:45.41,0:27:49.67,Main-480p,,0,0,0,[Linebreaker Removed],{They abducted the princess for some sort of scheme.\N.\N.\N}O rapto da princesa deve fazer parte de alguma trama.
+Dialogue: 0,0:27:45.41,0:27:49.67,Main-480p,,0,0,0,[Linebreaker Removed],{They abducted the princess for some sort of scheme...\N}O rapto da princesa deve fazer parte de alguma trama.
 Dialogue: 0,0:27:49.67,0:27:53.60,Main-480p,,0,0,0,[Linebreaker Removed],{she was }Não.\NVivi estava agindo como parte da equipe deles.
 Dialogue: 0,0:27:53.60,0:27:57.57,Main-480p,,0,0,0,,A princesa? Parte de sua tripulação?
 Dialogue: 0,0:27:57.57,0:28:01.70,Main-480p,,0,0,0,[Linebreaker Removed],{Something really is happening in this country.\N}Há algo acontecendo neste país.
@@ -507,8 +507,8 @@ Dialogue: 0,0:28:05.19,0:28:09.65,Main-480p,,0,0,0,[Linebreaker Removed],{he was
 Dialogue: 0,0:28:09.65,0:28:12.16,Main-480p,,0,0,0,[Linebreaker Removed],Ainda não localizamos os Chapéus de Palha!
 Dialogue: 0,0:28:12.16,0:28:16.50,Main-480p,,0,0,0,[Linebreaker Removed],{No need to fret.\NI have a good idea of where they're headed.\N}Junte-se a isso.\NAcredito que sei para onde eles estão indo.
 Dialogue: 0,0:28:16.50,0:28:19.17,Main-480p,,0,0,0,,{after}Ele está mirando em Crocodile.
-Dialogue: 0,0:28:19.17,0:28:23.13,Main-480p,,0,0,0,[Linebreaker Removed],{One of the Seven Warlords of the Sea,}Crocodilo?\N!\NUm pirata apoiado pelo governo,
-Dialogue: 0,0:28:23.13,0:28:25.51,Main-480p,,0,0,0,,{the pirates given government approval?\N!\N}um dos Sete Senhores da Guerra do Mar?\N!
+Dialogue: 0,0:28:19.17,0:28:23.13,Main-480p,,0,0,0,[Linebreaker Removed],{One of the Seven Warlords of the Sea,}Crocodilo?!\NUm pirata apoiado pelo governo,
+Dialogue: 0,0:28:23.13,0:28:25.51,Main-480p,,0,0,0,,{the pirates given government approval?!\N}um dos Sete Senhores da Guerra do Mar?!
 Dialogue: 0,0:28:25.51,0:28:28.71,Main-480p,,0,0,0,,{.}Você sabe que eu odeio os Sete Senhores da Guerra, certo?
 Dialogue: 0,0:28:28.71,0:28:30.51,Main-480p,,0,0,0,,{\i1}Especialmente aquele homem detestável.
 Dialogue: 0,0:28:30.51,0:28:35.10,Main-480p,,0,0,0,[Linebreaker Removed],{B-But standpoint-wise, \Nhe's a Navy and government ally!\N}M-Mas a partir de agora ele é um aliado da Marinha e do governo!
@@ -541,7 +541,7 @@ Dialogue: 0,0:29:50.14,0:29:54.83,Main-480p,,0,0,0,[Linebreaker Removed],{I gott
 Dialogue: 0,0:29:54.83,0:29:57.77,Main-480p,,0,0,0,,Então é por isso que você está perseguindo ele?
 Dialogue: 0,0:29:57.77,0:30:01.07,Main-480p,,0,0,0,,{entered the}Acabamos de começar a subir o rio Sandora.
 Dialogue: 0,0:30:01.07,0:30:03.15,Main-480p,,0,0,0,[Linebreaker Removed][*Alabasta],{,}Primeiro desembarcaremos em Erumalu.
-Dialogue: 0,0:30:03.15,0:30:05.16,Main-480p,,0,0,0,[Linebreaker Removed][*Alabasta],{then head into the interior of Arabasta.\N.\N.\N}Depois iremos ao interior de Alabasta.\N.\N.
+Dialogue: 0,0:30:03.15,0:30:05.16,Main-480p,,0,0,0,[Linebreaker Removed][*Alabasta],{then head into the interior of Arabasta...\N}Depois iremos ao interior de Alabasta...
 Dialogue: 0,0:30:05.16,0:30:06.57,Main-480p,,0,0,0,,para chegar a Yuba aqui!
 Dialogue: 0,0:30:06.57,0:30:09.90,Main-480p,,0,0,0,,{The leader of the rebel army is in Yuba.\N}É em Yuba que encontraremos o líder da Rebelião.
 Dialogue: 0,0:30:09.90,0:30:12.54,Main-480p,,0,0,0,,{So you're headed to Yuba next}Eu vejo. Yuba é então.

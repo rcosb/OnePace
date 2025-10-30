@@ -95,7 +95,7 @@ Dialogue: 0,0:01:42.26,0:01:51.41,Title,,0,0,230,,{\fad(1900,2200)}A Máscara de
 Dialogue: 0,0:01:52.02,0:01:55.59,Main,,0,0,0,,Bom trabalho, Ichiji, Niji.
 Dialogue: 0,0:02:00.10,0:02:06.60,Main,,0,0,0,,O Broc Coli, devastado pela guerra, é outra vítima da queda do regime Doflamingo, pode-se dizer.
 Dialogue: 0,0:02:07.52,0:02:14.71,Main,,0,0,0,,O exército deles não conseguia mais adquirir armas de Doflamingo, então eles pediram ajuda a nós.
-Dialogue: 0,0:02:16.12,0:02:19.45,Main,,0,0,0,,Eles desistiram da ideia de meramente suprimir seus rivais.\N.\N.
+Dialogue: 0,0:02:16.12,0:02:19.45,Main,,0,0,0,,Eles desistiram da ideia de meramente suprimir seus rivais...
 Dialogue: 0,0:02:19.45,0:02:24.02,Main,,0,0,0,,É um bom exemplo de como a bondade indiferente só leva a mais derramamento de sangue no final.
 Dialogue: 0,0:02:24.45,0:02:26.46,Main,,0,0,0,,Quem se importa com o motivo?
 Dialogue: 0,0:02:26.46,0:02:30.36,Main,,0,0,0,,Nós apenas fazemos com que quem nos pague ganhe, e é isso.
@@ -125,15 +125,15 @@ Dialogue: 0,0:04:08.69,0:04:14.40,Main,,0,0,0,,Você não sabe o quanto a comida
 Dialogue: 0,0:04:14.77,0:04:15.84,Main,,0,0,0,,Burro?!
 Dialogue: 0,0:04:16.49,0:04:19.97,Main,,0,0,0,,Você é um fraco, Sanji!
 Dialogue: 0,0:04:19.97,0:04:22.51,Main,,0,0,0,,Você não tem o direito de me insultar e me dizer o que fazer!
-Dialogue: 0,0:04:22.96,0:04:26.14,Main,,0,0,0,,Chame o chefe de cozinha!\NOnde você está, Cosette?\N!
+Dialogue: 0,0:04:22.96,0:04:26.14,Main,,0,0,0,,Chame o chefe de cozinha!\NOnde você está, Cosette?!
 Dialogue: 0,0:04:26.76,0:04:31.02,Captions,,30,0,240,,{\fad(500,0)}Chef Cosette
 Dialogue: 0,0:04:31.02,0:04:36.25,Main,,0,0,0,,Porque você serviu essa coisa nojenta, meu irmão me ofendeu!
 Dialogue: 0,0:04:36.26,0:04:39.12,Main,,0,0,0,,Sim, senhor! Desculpe!
-Dialogue: 0,0:04:39.43,0:04:42.33,Main,,0,0,0,,Eu não deveria servir nada desagradável para você.\N.\N.
+Dialogue: 0,0:04:39.43,0:04:42.33,Main,,0,0,0,,Eu não deveria servir nada desagradável para você...
 Dialogue: 0,0:04:42.33,0:04:43.20,Main,,0,0,0,,OK.
 Dialogue: 0,0:04:47.10,0:04:49.19,Main,,0,0,0,,Fique aí, Cosette.
-Dialogue: 0,0:05:25.84,0:05:30.05,Main,,0,0,0,,Seu bastardo.\N.\N.\NQuão baixo você vai afundar?\N!
-Dialogue: 0,0:05:30.05,0:05:33.41,Main,,0,0,0,,Você está tentando deixar uma cicatriz no rosto de uma senhora?\N!
+Dialogue: 0,0:05:25.84,0:05:30.05,Main,,0,0,0,,Seu bastardo...\NQuão baixo você vai afundar?!
+Dialogue: 0,0:05:30.05,0:05:33.41,Main,,0,0,0,,Você está tentando deixar uma cicatriz no rosto de uma senhora?!
 Dialogue: 0,0:05:59.16,0:06:03.21,Main,,0,0,0,,O que você disse? Uma senhora?
 Dialogue: 0,0:06:03.99,0:06:07.05,Main,,0,0,0,,Por que você está defendendo uma mera empregada de cozinha?!
 Dialogue: 0,0:06:13.39,0:06:15.39,Main,,0,0,0,,Que cavalheiro.
@@ -147,7 +147,7 @@ Dialogue: 0,0:06:39.70,0:06:42.71,Main,,0,0,0,,o corte da carne confitada també
 Dialogue: 0,0:06:44.25,0:06:47.21,Main,,0,0,0,,É um prato muito elaborado para fazer no café da manhã.
 Dialogue: 0,0:06:49.72,0:06:51.95,Main,,0,0,0,,Ah, por favor, não, Sanji-sama!
 Dialogue: 0,0:06:51.95,0:06:54.03,Main,,0,0,0,,Uma pessoa de sangue real não deve comer comida do chão!
-Dialogue: 0,0:06:55.46,0:06:58.92,Main,,0,0,0,,Ei, você está louco?\N!\NIsso é nojento!
+Dialogue: 0,0:06:55.46,0:06:58.92,Main,,0,0,0,,Ei, você está louco?!\NIsso é nojento!
 Dialogue: 0,0:06:59.26,0:07:01.53,Main,,0,0,0,,Também tem um sabor perfeito.
 Dialogue: 0,0:07:04.30,0:07:06.84,Main,,0,0,0,,O espírito dos pobres criou raízes em você!
 Dialogue: 0,0:07:08.41,0:07:11.14,Main,,0,0,0,,Pare de fazer uma coisa tão vergonhosa!
@@ -189,7 +189,7 @@ Dialogue: 0,0:10:36.61,0:10:39.65,Main,,0,0,0,,O que aconteceu com sua perna?
 Dialogue: 0,0:10:40.07,0:10:41.75,Main,,0,0,0,,Por que?!
 Dialogue: 0,0:10:41.75,0:10:46.62,Main,,0,0,0,,Não consigo pensar em nenhum motivo para você ser gentil comigo!
 Dialogue: 0,0:10:46.62,0:10:49.73,Main,,0,0,0,,Por que...? Por que você fez isso?!
-Dialogue: 0,0:10:51.82,0:10:57.57,Main,,0,0,0,,Porque você.\N.\N.\Ntem o mesmo sonho que eu.
+Dialogue: 0,0:10:51.82,0:10:57.57,Main,,0,0,0,,Porque você...\Ntem o mesmo sonho que eu.
 Dialogue: 0,0:10:58.98,0:11:01.01,Main,,0,0,0,,O Todo Azul...
 Dialogue: 0,0:11:06.76,0:11:10.96,Main,,0,0,0,,Isso é incrível, seu maldito velhote!\NEste é o restaurante do mar?
 Dialogue: 0,0:11:10.96,0:11:13.28,Main,,0,0,0,,Estaremos ocupados!
@@ -207,8 +207,8 @@ Dialogue: 0,0:11:37.78,0:11:39.99,Main,,0,0,0,,Berinjela bebê!
 Dialogue: 0,0:11:45.93,0:11:46.98,Main,,0,0,0,,Sanji!
 Dialogue: 0,0:11:48.98,0:11:52.19,Main,,0,0,0,,Não pegue um resfriado.
 Dialogue: 0,0:12:03.70,0:12:06.77,Main,,0,0,0,,Proprietário Zeff!!
-Dialogue: 0,0:12:08.54,0:12:13.63,Main,,0,0,0,,Obrigado por todas as malditas coisas que você fez por mim ao longo de todos esses anos!\N!
-Dialogue: 0,0:12:13.63,0:12:18.38,Main,,0,0,0,,Nunca esquecerei sua gentileza.\N.\N.\Npelo resto da minha vida!\N!
+Dialogue: 0,0:12:08.54,0:12:13.63,Main,,0,0,0,,Obrigado por todas as malditas coisas que você fez por mim ao longo de todos esses anos!!
+Dialogue: 0,0:12:13.63,0:12:18.38,Main,,0,0,0,,Nunca esquecerei sua gentileza...\Npelo resto da minha vida!!
 Dialogue: 0,0:12:31.23,0:12:34.93,Main,,0,0,0,,Vamos ter um casamento tranquilo amanhã.
 Dialogue: 0,0:12:35.32,0:12:40.59,Main,,0,0,0,,Almoçaremos com Big Mom e Pudding hoje.
 Dialogue: 0,0:12:40.59,0:12:42.71,Main,,0,0,0,,Prepare-se para partir para o castelo dela.
@@ -258,7 +258,7 @@ Dialogue: 0,0:17:48.55,0:17:50.55,Main,,0,0,0,,Chapéu de Palha!
 Dialogue: 0,0:17:58.29,0:18:02.40,Main,,0,0,0,,Os soldados da Germa 66?!
 Dialogue: 0,0:18:04.40,0:18:06.43,Main,,0,0,0,,Por que eles estão na água?
 Dialogue: 0,0:18:06.43,0:18:08.33,Main,,0,0,0,,É um líquido de biocultura.
-Dialogue: 0,0:18:08.76,0:18:12.77,Main,,0,0,0,,Todos eles têm a mesma cara.\N.\N.\NEles estão realmente vivos?
+Dialogue: 0,0:18:08.76,0:18:12.77,Main,,0,0,0,,Todos eles têm a mesma cara...\NEles estão realmente vivos?
 Dialogue: 0,0:18:12.77,0:18:15.56,Main,,0,0,0,,Sanji, seres humanos...
 Dialogue: 0,0:18:16.05,0:18:17.64,Main,,0,0,0,,...pode ser construído!
 Dialogue: 0,0:18:18.73,0:18:22.23,Main,,0,0,0,,Germa tem sido um reino da ciência há gerações.
@@ -307,7 +307,7 @@ Dialogue: 0,0:21:43.32,0:21:45.81,Main,,0,0,0,,...para merecer isso?!
 Dialogue: 0,0:21:48.62,0:21:52.66,Main,,0,0,0,,O que você fez foi um crime grave!\NVou te ensinar uma lição!
 Dialogue: 0,0:21:53.56,0:21:59.40,Main,,0,0,0,,Espere, Sanji!\NNão esqueça que estamos mantendo um refém no East Blue!
 Dialogue: 0,0:22:01.84,0:22:03.22,Main,,0,0,0,,{\fad(250,250)}Furtivo.
-Dialogue: 0,0:22:04.47,0:22:09.50,Main,,0,0,0,,Não acredito.\N.\N.\NVocê gostou daquela empregada de cozinha?
+Dialogue: 0,0:22:04.47,0:22:09.50,Main,,0,0,0,,Não acredito...\NVocê gostou daquela empregada de cozinha?
 Dialogue: 0,0:22:10.31,0:22:15.27,Main,,0,0,0,,Não revide.\NCaso contrário, haverá sangue no East Blue.
 Dialogue: 0,0:22:16.65,0:22:17.75,Main,,0,0,0,,{\fad(250,250)}Henrique...
 Dialogue: 0,0:22:18.82,0:22:20.02,Main,,0,0,0,,{\fad(250,250)}...Agulha!
@@ -350,7 +350,7 @@ Dialogue: 0,0:27:12.60,0:27:15.14,Main,,0,0,0,,Temos os resultados dos testes.
 Dialogue: 0,0:27:15.14,0:27:20.52,Main,,0,0,0,,Ichiji-sama, Niji-sama e Yonji-sama estão fazendo excelentes progressos.
 Dialogue: 0,0:27:20.52,0:27:22.69,Main,,0,0,0,,Seus exoesqueletos estão se desenvolvendo bem
 Dialogue: 0,0:27:22.69,0:27:28.49,Main,,0,0,0,,e a sua resiliência e força são equivalentes às dos homens adultos.
-Dialogue: 0,0:27:29.10,0:27:33.60,Main,,0,0,0,,No entanto, Sanji-sama é.\N.\N.\NMe dói dizer.\N.\N.
+Dialogue: 0,0:27:29.10,0:27:33.60,Main,,0,0,0,,No entanto, Sanji-sama é...\NMe dói dizer...
 Dialogue: 0,0:27:37.50,0:27:39.75,Main,,0,0,0,,O que é? Diga.
 Dialogue: 0,0:27:40.61,0:27:44.21,Main,,0,0,0,,Ele deve ser considerado um fracasso.
 Dialogue: 0,0:27:45.63,0:27:51.05,Main,,0,0,0,,Achamos que manipulamos com sucesso os Elementos da Linhagem para todos os quatro.
@@ -363,7 +363,7 @@ Dialogue: 0,0:28:17.54,0:28:19.41,Main,,0,0,0,,Eu faço!
 Dialogue: 0,0:28:19.41,0:28:21.79,Main,,0,0,0,,Reiju, você é tão gentil.
 Dialogue: 0,0:28:21.79,0:28:23.65,Main,,0,0,0,,Cale-se! Fique quieto!
 Dialogue: 0,0:28:25.63,0:28:29.13,Main,,0,0,0,,Você é gentil, mas por que você ri de mim?
-Dialogue: 0,0:28:29.13,0:28:34.14,Main,,0,0,0,,O que mais posso fazer?\N!\NSe eu tentar impedi-los, eles também me intimidarão.
+Dialogue: 0,0:28:29.13,0:28:34.14,Main,,0,0,0,,O que mais posso fazer?!\NSe eu tentar impedi-los, eles também me intimidarão.
 Dialogue: 0,0:28:34.14,0:28:35.49,Main,,0,0,0,,Eu não quero isso!
 Dialogue: 0,0:28:38.43,0:28:42.83,NolandBookLiar,,0,0,0,,{\frx350\fry18\frz17.07\org(1050,368.666)\pos(1055,353.667)}O mentiroso
 Dialogue: 0,0:28:38.43,0:28:42.83,NolandBookNoland,,0,0,0,,{\frx352\fry20\frz14.44\pos(1070,382)}Noland
@@ -373,11 +373,11 @@ Dialogue: 0,0:28:44.73,0:28:46.18,Main,,0,0,0,,Você pode comer isso.
 Dialogue: 0,0:28:47.27,0:28:49.41,Main,,0,0,0,,Eu fiz isso para você.
 Dialogue: 0,0:28:52.90,0:28:54.32,Main,,0,0,0,,Isso é bom?
 Dialogue: 0,0:28:55.60,0:28:59.29,Main,,0,0,0,,Sanji! Você está cozinhando comida para ratos de novo?!
-Dialogue: 0,0:28:59.29,0:29:02.87,Main,,0,0,0,,A realeza não serve!\NQuantas vezes tenho que te contar?\N!
+Dialogue: 0,0:28:59.29,0:29:02.87,Main,,0,0,0,,A realeza não serve!\NQuantas vezes tenho que te contar?!
 Dialogue: 0,0:29:02.87,0:29:04.32,Main,,0,0,0,,Mas, eu...
 Dialogue: 0,0:29:05.42,0:29:09.79,Main,,0,0,0,,Sua mãe está morta!\NPare de perseguir a sombra dela!
 Dialogue: 0,0:29:10.80,0:29:14.70,Main,,0,0,0,,Ao contrário de seus irmãos, você não tem talento!
-Dialogue: 0,0:29:14.70,0:29:19.10,Main,,0,0,0,,Portanto, você deve trabalhar 10 vezes mais.\N.\N.\NNão, 100 vezes mais que os outros!
+Dialogue: 0,0:29:14.70,0:29:19.10,Main,,0,0,0,,Portanto, você deve trabalhar 10 vezes mais...\NNão, 100 vezes mais que os outros!
 Dialogue: 0,0:29:19.10,0:29:24.71,Main,,0,0,0,,Você é parte do meu plano para restaurar a glória de Germa!
 Dialogue: 0,0:29:24.71,0:29:26.51,Main,,0,0,0,,Não me decepcione!
 Dialogue: 0,0:29:33.45,0:29:36.32,Main,,0,0,0,,Nunca mais cozinhe!
@@ -390,7 +390,7 @@ Dialogue: 0,0:30:10.69,0:30:14.40,Main,,0,0,0,,Um naufrágio impensável... esto
 Dialogue: 0,0:30:14.40,0:30:19.53,Main,,0,0,0,,Eu esperava que todos os cinco conduzissem Germa juntos para o futuro!
 Dialogue: 0,0:30:19.53,0:30:24.60,Main,,0,0,0,,Perdi um filho promissor!
 Dialogue: 0,0:30:28.25,0:30:30.35,Main,,0,0,0,,O que?! O que é isso?!
-Dialogue: 0,0:30:32.05,0:30:37.15,Main,,0,0,0,,O que é isso?\NEu não posso tirar isso!\NO que vocês estão fazendo?\N!
+Dialogue: 0,0:30:32.05,0:30:37.15,Main,,0,0,0,,O que é isso?\NEu não posso tirar isso!\NO que vocês estão fazendo?!
 Dialogue: 0,0:30:37.90,0:30:40.14,Main,,0,0,0,,Sanji realmente morreu?
 Dialogue: 0,0:30:40.14,0:30:43.12,Main,,0,0,0,,Não sei. Quem realmente se importa com ele, afinal?
 Dialogue: 0,0:30:51.86,0:30:55.03,Main,,0,0,0,,Espere! Eu não quero estar aqui!

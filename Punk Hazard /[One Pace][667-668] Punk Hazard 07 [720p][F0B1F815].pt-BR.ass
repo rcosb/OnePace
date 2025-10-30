@@ -77,7 +77,7 @@ Dialogue: 0,0:04:23.51,0:04:26.04,Main,Luffy,0,0,0,,Vamos, Franky. Por aqui!
 Dialogue: 0,0:04:37.93,0:04:40.52,Main,Luffy,0,0,0,,Por que você está me atacando?!
 Dialogue: 0,0:04:46.50,0:04:49.23,Main,Chopper,0,0,0,,Não é bom! Eu sabia que ele iria ficar furioso!
 Dialogue: 0,0:04:49.96,0:04:53.09,Main,Usopp,0,0,0,,Então... o que Franky estava planejando fazer?
-Dialogue: 0,0:04:53.82,0:04:59.19,Main,Chopper,0,0,0,,Depois da violência ele não será capaz de se mover, então não acho que ele será de muita ajuda.\N.\N.\Nem nada.
+Dialogue: 0,0:04:53.82,0:04:59.19,Main,Chopper,0,0,0,,Depois da violência ele não será capaz de se mover, então não acho que ele será de muita ajuda...\Nem nada.
 Dialogue: 0,0:04:59.19,0:05:00.61,Main,Robin,0,0,0,,Ele só vai atrapalhar.
 Dialogue: 0,0:05:01.60,0:05:03.89,captions_soft,Text,0,0,0,,{\pos(640,544)\fad(500,0)}Laboratório de César
 Dialogue: 0,0:05:06.16,0:05:08.84,Main,Caesar,0,0,0,,Eu não sei onde ele conseguiu isso,
@@ -111,9 +111,9 @@ Dialogue: 0,0:06:49.91,0:06:51.85,Main,Nami,0,0,0,,Luffy não vai deixar você e
 Dialogue: 0,0:06:51.85,0:06:54.49,Main,Nami,0,0,0,,Você vai levar uma surra!
 Dialogue: 0,0:06:56.74,0:07:00.04,Main,Rock,0,0,0,,Cale a boca agora. Gente que fala demais...
 Dialogue: 0,0:07:00.79,0:07:02.67,Main,Scotch,0,0,0,,não são legais.
-Dialogue: 0,0:07:02.67,0:07:06.84,Main,Rock,0,0,0,,Mas aparentemente, a arma que está embutida no seu corpo.\N.\N.
+Dialogue: 0,0:07:02.67,0:07:06.84,Main,Rock,0,0,0,,Mas aparentemente, a arma que está embutida no seu corpo...
 Dialogue: 0,0:07:06.84,0:07:08.26,Main,Scotch,0,0,0,,é legal.
-Dialogue: 0,0:07:08.26,0:07:11.67,Main,Rock,0,0,0,,E quando entregarmos você ao Mestre, a recompensa será.\N.\N.
+Dialogue: 0,0:07:08.26,0:07:11.67,Main,Rock,0,0,0,,E quando entregarmos você ao Mestre, a recompensa será...
 Dialogue: 0,0:07:14.09,0:07:15.80,Main,Scotch+Rock,0,0,0,,{\i1}tão legal!
 Dialogue: 0,0:07:21.52,0:07:25.25,captions_soft,Text,0,0,0,,{\pos(640,545)\fad(500,0)}Pedra
 Dialogue: 0,0:07:26.17,0:07:29.52,captions_soft,Text,0,0,0,,{\pos(640,545)\fad(500,0)}Escocês
@@ -217,7 +217,7 @@ Dialogue: 0,0:16:22.32,0:16:23.23,Main,Nami,0,0,0,,O que?!
 Dialogue: 0,0:16:24.89,0:16:29.43,captions_soft,Text,0,0,0,,{\fad(500,0)\pos(640,542)}Abrigo Temporário dos Piratas do Chapéu de Palha
 Dialogue: 0,0:16:27.77,0:16:29.43,Main,Usopp+Chopper,0,0,0,,{\i1}O quê?!
 Dialogue: 0,0:16:29.83,0:16:34.29,Main,Usopp+Chopper,0,0,0,,{\i1}Estamos formando uma aliança com os Piratas Heart?!
-Dialogue: 0,0:16:34.29,0:16:40.82,Main,Usopp,0,0,0,,Você acabou de resgatar a Nami, então como é que chegou a um acordo tão maluco?\N!
+Dialogue: 0,0:16:34.29,0:16:40.82,Main,Usopp,0,0,0,,Você acabou de resgatar a Nami, então como é que chegou a um acordo tão maluco?!
 Dialogue: 0,0:16:40.82,0:16:41.97,Main,Luffy,0,0,0,,{\fscx250}Como eu disse-
 Dialogue: 0,0:16:41.97,0:16:48.47,Main,Usopp,0,0,0,,Não conseguirei dormir à noite se formarmos uma aliança com um bastardo tão enigmático e imprevisível!
 Dialogue: 0,0:16:49.01,0:16:51.96,Main,Nami,0,0,0,,Vamos Luffy, todo mundo é contra.
@@ -259,10 +259,10 @@ Dialogue: 0,0:18:54.64,0:18:55.64,Main,Robin,0,0,0,,nunca mais.
 Dialogue: 0,0:18:56.68,0:18:57.79,Main,Chopper,0,0,0,,Eu também estou...
 Dialogue: 0,0:18:58.67,0:19:00.19,Main,Chopper,0,0,0,,de volta ao normal.
 Dialogue: 0,0:19:00.91,0:19:03.30,Main,Chopper,0,0,0,,Mas como você pôde deixar meu corpo todo quebrado?!
-Dialogue: 0,0:19:03.30,0:19:06.48,Main,Chopper,0,0,0,,O que diabos você estava pensando, tratando o corpo dos outros assim?\N!
+Dialogue: 0,0:19:03.30,0:19:06.48,Main,Chopper,0,0,0,,O que diabos você estava pensando, tratando o corpo dos outros assim?!
 Dialogue: 0,0:19:06.48,0:19:08.83,Main,Luffy+Franky,0,0,0,,Ah, desculpe.
 Dialogue: 0,0:19:08.83,0:19:10.76,Main,Luffy+Franky,0,0,0,,É tudo culpa dele.
-Dialogue: 0,0:19:10.76,0:19:14.79,Main,Luffy,0,0,0,,O que?\N!\NVocê era quem estava furioso no corpo de Chopper!
+Dialogue: 0,0:19:10.76,0:19:14.79,Main,Luffy,0,0,0,,O que?!\NVocê era quem estava furioso no corpo de Chopper!
 Dialogue: 0,0:19:14.79,0:19:16.53,Main,Luffy,0,0,0,,Minha única escolha foi parar você!
 Dialogue: 0,0:19:16.53,0:19:20.94,Main,Luffy,0,0,0,,Mesmo assim, você não precisou usar um ataque poderoso o suficiente para eliminar o kraken!
 Dialogue: 0,0:19:20.94,0:19:22.23,Main,Chopper,0,0,0,,Vocês dois são igualmente ruins!
@@ -272,7 +272,7 @@ Dialogue: 0,0:19:28.07,0:19:31.38,Main,Nami,0,0,0,,Por que sou o único que tem 
 Dialogue: 0,0:19:31.38,0:19:33.96,Main,Nami,0,0,0,,Primeiro o corpo de Franky e agora de Sanji-kun.
 Dialogue: 0,0:19:35.10,0:19:37.66,Main,Nami,0,0,0,,Não ria às custas dos outros! Eu não posso acreditar em você!
 Dialogue: 0,0:19:38.62,0:19:40.11,Main,Usopp,0,0,0,,Não há nada que possamos fazer.
-Dialogue: 0,0:19:40.11,0:19:45.76,Main,Usopp,0,0,0,,Temos os corpos de Chopper e Franky, para que suas almas possam retornar aos lugares certos.\N.\N.
+Dialogue: 0,0:19:40.11,0:19:45.76,Main,Usopp,0,0,0,,Temos os corpos de Chopper e Franky, para que suas almas possam retornar aos lugares certos...
 Dialogue: 0,0:19:45.76,0:19:49.97,Main,Usopp,0,0,0,,mas Sanji levou seu corpo para procurar o samurai.
 Dialogue: 0,0:19:49.97,0:19:53.81,Main,Usopp,0,0,0,,Sua alma sobrou, então ela teve que ir para o corpo de Sanji.
 Dialogue: 0,0:19:53.81,0:19:56.09,Main,Nami,0,0,0,,Você não pode fazer nada? Vamos!
@@ -290,11 +290,11 @@ Dialogue: 0,0:20:34.73,0:20:36.83,Main,Law,0,0,0,,O projeto foi executado pelo G
 Dialogue: 0,0:20:38.84,0:20:42.25,Main,Robin,0,0,0,,O governo? Por que eles fariam uma coisa dessas?
 Dialogue: 0,0:20:42.95,0:20:44.63,Main,Law,0,0,0,,Muito provavelmente para fazer soldados.
 Dialogue: 0,0:20:44.63,0:20:49.51,Main,Law,0,0,0,,Ninguém poderia opor-se ao Governo se transformasse todos os seus soldados em gigantes.
-Dialogue: 0,0:20:51.89,0:20:58.15,Main,Law,0,0,0,,Se César aperfeiçoar o processo com sucesso, ele superará o governo e Vegapunk.\N.\N.
+Dialogue: 0,0:20:51.89,0:20:58.15,Main,Law,0,0,0,,Se César aperfeiçoar o processo com sucesso, ele superará o governo e Vegapunk...
 Dialogue: 0,0:20:58.15,0:21:00.42,Main,Law,0,0,0,,mas é claro que não é uma coisa fácil de fazer.
 Dialogue: 0,0:21:04.49,0:21:06.48,Main,Law,0,0,0,,Você realmente quer salvá-los?
 Dialogue: 0,0:21:06.48,0:21:09.20,Main,Law,0,0,0,,Eles são apenas algumas crianças aleatórias daqui e dali.
-Dialogue: 0,0:21:09.20,0:21:12.83,Main,Nami,0,0,0,,Sim.\NTalvez nunca tenhamos conhecido ou visto essas crianças antes.\N.\N.
+Dialogue: 0,0:21:09.20,0:21:12.83,Main,Nami,0,0,0,,Sim.\NTalvez nunca tenhamos conhecido ou visto essas crianças antes...
 Dialogue: 0,0:21:12.83,0:21:16.42,Main,Nami,0,0,0,,mas as crianças choraram e imploraram que as salvássemos.
 Dialogue: 0,0:21:17.38,0:21:21.33,Main,Nami,0,0,0,,O Mestre pode ter feito um bom trabalho enganando-os para trazê-los aqui,
 Dialogue: 0,0:21:21.33,0:21:26.14,Main,Nami,0,0,0,,mas algumas das crianças mais velhas já estão percebendo que esta instalação não é exatamente o que parece.
@@ -332,7 +332,7 @@ Dialogue: 0,0:23:22.41,0:23:25.02,Main,Nami,0,0,0,,Desculpe... não consigo para
 Dialogue: 0,0:23:25.90,0:23:27.87,Main,Franky,0,0,0,,Super fofo!
 Dialogue: 0,0:23:28.46,0:23:30.57,Main,Usopp,0,0,0,,Contamos com você, Chopper.
 Dialogue: 0,0:23:30.57,0:23:31.51,Main,Chopper,0,0,0,,Deixe isso comigo.
-Dialogue: 0,0:23:38.91,0:23:42.01,Main,Law,0,0,0,,Deve ficar claro pelas ações dos dois assassinos.\N.\N.
+Dialogue: 0,0:23:38.91,0:23:42.01,Main,Law,0,0,0,,Deve ficar claro pelas ações dos dois assassinos...
 Dialogue: 0,0:23:42.01,0:23:49.88,Main,Law,0,0,0,,Caesaro planeja matar você e o G-5 do White Hunter e depois levar as crianças de volta.
 Dialogue: 0,0:23:50.96,0:23:55.96,Main,Law,0,0,0,,Ele continuará vindo até conseguir o que quer.
 Dialogue: 0,0:23:55.96,0:24:01.61,Main,Law,0,0,0,,Há quatro anos, como ex-cientista do Governo, foi julgado criminoso após o acidente.

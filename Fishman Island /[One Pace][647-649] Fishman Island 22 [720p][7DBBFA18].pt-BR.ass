@@ -119,13 +119,13 @@ Dialogue: 0,0:08:34.98,0:08:39.64,Main,Fukaboshi,0,0,0,,Devemos destruir o Noé.
 Dialogue: 0,0:08:39.64,0:08:41.72,Main,Left Minister,0,0,0,,Chapéu de Palha!
 Dialogue: 0,0:08:41.90,0:08:44.19,Main,Neptune,0,0,0,,{Same phrasing as in 558}É o navio da promessa...
 Dialogue: 0,0:08:44.19,0:08:47.65,Main,Neptune,0,0,0,,mas não temos outra escolha. Nossas vidas são mais importantes.
-Dialogue: 0,0:08:48.05,0:08:52.68,Main,Neptune,0,0,0,,Perdoe-nos.\NParece que não conseguiremos cumprir nossa promessa -jamon.\N.\N.
+Dialogue: 0,0:08:48.05,0:08:52.68,Main,Neptune,0,0,0,,Perdoe-nos.\NParece que não conseguiremos cumprir nossa promessa -jamon...
 Dialogue: 0,0:08:52.68,0:08:54.35,Main,Neptune,0,0,0,,Joyboy.
 Dialogue: 0,0:08:54.68,0:08:55.81,Main,Sea King,0,0,0,,Parar!
 Dialogue: 0,0:09:01.82,0:09:03.06,Main,Luffy,0,0,0,,Quem está aí?!
 Dialogue: 0,0:09:07.71,0:09:10.49,Main,Shirahoshi,0,0,0,,Luffy-sama, por favor, pare!
 Dialogue: 0,0:09:10.49,0:09:13.47,Main,Shirahoshi,0,0,0,,Luffy-sama! Eu imploro, pare!
-Dialogue: 0,0:09:15.37,0:09:18.32,Main,Luffy,0,0,0,,{\i1}Saia do meu caminho, Fraco-hoshi!\NSe eu não destruí-la, a ilha vai.\N.\N.
+Dialogue: 0,0:09:15.37,0:09:18.32,Main,Luffy,0,0,0,,{\i1}Saia do meu caminho, Fraco-hoshi!\NSe eu não destruí-la, a ilha vai...
 Dialogue: 0,0:09:21.78,0:09:23.20,Main,Shirahoshi,0,0,0,,Está tudo bem!
 Dialogue: 0,0:09:23.20,0:09:26.58,Main,Luffy,0,0,0,,Claro que não! Todo mundo ainda está na ilha!
 Dialogue: 0,0:09:26.58,0:09:27.82,Main,Shirahoshi,0,0,0,,{\i1}O Noé já...
@@ -147,18 +147,18 @@ Dialogue: 0,0:10:50.60,0:10:52.17,Main,Shirahoshi,0,0,0,,Luffy-sama!
 Dialogue: 0,0:10:53.73,0:10:55.45,Main,Sea King,0,0,0,,Está tudo bem.
 Dialogue: 0,0:11:04.32,0:11:08.34,Main,Sea King,0,0,0,,Nossa, que humano notável.
 Dialogue: 0,0:11:08.34,0:11:12.31,Main,Sea King,0,0,0,,Que humano forte.
-Dialogue: 0,0:11:12.31,0:11:16.68,Main,Sea King,0,0,0,,Mesmo que estivéssemos atrasados, a ilha ainda poderia ter sido salva.\N.\N.
+Dialogue: 0,0:11:12.31,0:11:16.68,Main,Sea King,0,0,0,,Mesmo que estivéssemos atrasados, a ilha ainda poderia ter sido salva...
 Dialogue: 0,0:11:16.68,0:11:20.25,Main,Sea King,0,0,0,,mas o Noé teria sido completamente destruído.
 Dialogue: 0,0:11:23.12,0:11:31.25,Main,Sea King,0,0,0,,Estou tão feliz por termos conseguido.\NAinda bem que a princesa Shirahoshi nos chamou aqui.
 Dialogue: 0,0:11:32.78,0:11:36.13,Main,Shirahoshi,0,0,0,,Não pude fazer nada... fiquei tão triste.
-Dialogue: 0,0:11:36.13,0:11:42.03,Main,Sea King,0,0,0,,Isso não é verdade.\NVocê ficou tocado pelas fortes emoções da criança do Chapéu de Palha.\N.\N.
+Dialogue: 0,0:11:36.13,0:11:42.03,Main,Sea King,0,0,0,,Isso não é verdade.\NVocê ficou tocado pelas fortes emoções da criança do Chapéu de Palha...
 Dialogue: 0,0:11:43.05,0:11:44.36,Main,Sea King,0,0,0,,e você fez um desejo.
 Dialogue: 0,0:11:47.93,0:11:51.38,Main,Sea King,0,0,0,,Um desejo apaixonado...
 Dialogue: 0,0:11:51.38,0:11:57.18,Main,Sea King,0,0,0,,que você poderia ajudá-lo a salvar a ilha.
 Dialogue: 0,0:12:12.06,0:12:16.43,Main,Sea King,0,0,0,,Nosso poder é o seu poder.
 Dialogue: 0,0:12:16.43,0:12:20.78,Main,Sea King,0,0,0,,Você nos convocou para ajudá-lo.
 Dialogue: 0,0:12:29.36,0:12:31.99,Main,Guard,0,0,0,,A-Atenção a todos.
-Dialogue: 0,0:12:31.99,0:12:37.67,Main,Guard,0,0,0,,I-Isso é inacreditável.\NLevaria muito tempo para explicar tudo.\N.\N.
+Dialogue: 0,0:12:31.99,0:12:37.67,Main,Guard,0,0,0,,I-Isso é inacreditável.\NLevaria muito tempo para explicar tudo...
 Dialogue: 0,0:12:37.67,0:12:40.95,Main,Guard,0,0,0,,mas é a verdade inegável.
 Dialogue: 0,0:12:41.75,0:12:44.19,Main,Guard,0,0,0,,O Noah parou!
 Dialogue: 0,0:12:47.76,0:12:50.90,Main,Guard,0,0,0,,Também não foi completamente destruído!
@@ -242,7 +242,7 @@ Dialogue: 0,0:18:19.98,0:18:23.55,Main,Pirate,0,0,0,,Tenha piedade, chefe! Vamos
 Dialogue: 0,0:18:23.55,0:18:26.10,Main,Pirate,0,0,0,,Eu só estava com medo de Hordy e seu bando!
 Dialogue: 0,0:18:26.10,0:18:27.88,Main,Pirate,0,0,0,,Podemos ir, certo?!
 Dialogue: 0,0:18:27.88,0:18:30.54,Main,Pirate,0,0,0,,Não temos nada a ver com o conflito nesta ilha!\NSomos apenas humanos!
-Dialogue: 0,0:18:30.72,0:18:35.53,Main,Pirate,0,0,0,,Esta ilha depende do turismo e do dinheiro que recebe dos visitantes piratas humanos, certo?\N!
+Dialogue: 0,0:18:30.72,0:18:35.53,Main,Pirate,0,0,0,,Esta ilha depende do turismo e do dinheiro que recebe dos visitantes piratas humanos, certo?!
 Dialogue: 0,0:18:35.60,0:18:37.57,Main,Pirate,0,0,0,,Vamos!
 Dialogue: 0,0:18:37.75,0:18:41.76,Main,Jinbe,0,0,0,,Eu nunca disse que iríamos matar você.
 Dialogue: 0,0:18:43.03,0:18:46.42,Main,Jinbe,0,0,0,,Aguarde o julgamento da Família Real de Netuno.
@@ -397,9 +397,9 @@ Dialogue: 0,0:28:55.75,0:28:58.43,Main,Citizen,0,0,0,,Teremos medo de deixar nos
 Dialogue: 0,0:28:59.86,0:29:02.93,Main,Neptune,0,0,0,,Claro, eles trabalharão sob o comando do meu exército...
 Dialogue: 0,0:29:02.93,0:29:05.54,Main,Neptune,0,0,0,,e será colocado em serviço -jamon
 Dialogue: 0,0:29:05.54,0:29:10.89,Main,Neptune,0,0,0,,Darei a eles empregos onde sua força formidável possa ser bem aproveitada!
-Dialogue: 0,0:29:10.89,0:29:13.38,Main,Neptune,0,0,0,,O Distrito Fishman, que não podemos vigiar eficazmente.\N.\N.
+Dialogue: 0,0:29:10.89,0:29:13.38,Main,Neptune,0,0,0,,O Distrito Fishman, que não podemos vigiar eficazmente...
 Dialogue: 0,0:29:13.38,0:29:17.23,Main,Neptune,0,0,0,,estará completamente fechado a partir de hoje -jamon!
-Dialogue: 0,0:29:18.72,0:29:21.85,Narrator,Narrator,0,0,0,,A revelação do verdadeiro culpado por trás do assassinato da Rainha Otohime.\N.\N.
+Dialogue: 0,0:29:18.72,0:29:21.85,Narrator,Narrator,0,0,0,,A revelação do verdadeiro culpado por trás do assassinato da Rainha Otohime...
 Dialogue: 0,0:29:21.85,0:29:25.57,Narrator,Narrator,0,0,0,,trouxe à luz a escuridão da humanidade-peixe.
 Dialogue: 0,0:29:26.23,0:29:30.01,Narrator,Narrator,0,0,0,,A conspiração do Pirata Hordy Jones para conquistar a Ilha dos Tritões...
 Dialogue: 0,0:29:31.51,0:29:36.93,Narrator,Narrator,0,0,0,,foi, ironicamente, frustrado por piratas humanos que pararam na ilha.
@@ -424,15 +424,15 @@ Dialogue: 0,0:30:29.60,0:30:32.95,Main,Chopper,0,0,0,,Um ex-Senhor da Guerra em 
 Dialogue: 0,0:30:32.95,0:30:35.50,Main,Chopper,0,0,0,,{originally: And it would make things safer for Luffy, too.}E Luffy, você precisa descansar. Não se preocupe.
 Dialogue: 0,0:30:37.21,0:30:40.49,Main,Jinbe,0,0,0,,{\i1}Só estou dizendo que ainda não posso me juntar a você.
 Dialogue: 0,0:30:41.58,0:30:45.44,Main,Jinbe,0,0,0,,Estou feliz que você me convidou.
-Dialogue: 0,0:30:45.44,0:30:49.95,Main,Jinbe,0,0,0,,Tenho certeza que seria divertido viajar pelos mares com todos vocês.\N.\N.
+Dialogue: 0,0:30:45.44,0:30:49.95,Main,Jinbe,0,0,0,,Tenho certeza que seria divertido viajar pelos mares com todos vocês...
 Dialogue: 0,0:30:50.50,0:30:54.97,Main,Jinbe,0,0,0,,mas ainda há coisas que devo fazer primeiro.
 Dialogue: 0,0:30:54.97,0:31:01.24,Main,Jinbe,0,0,0,,Coisas que tenho a honra de fazer.\NSó fiz uma pequena pausa nessas obrigações.
-Dialogue: 0,0:31:02.01,0:31:08.09,Main,Jinbe,0,0,0,,Ainda devo completar essa jornada.\NAssim que eu puder me mover livremente novamente.\N.\N.
+Dialogue: 0,0:31:02.01,0:31:08.09,Main,Jinbe,0,0,0,,Ainda devo completar essa jornada.\NAssim que eu puder me mover livremente novamente...
 Dialogue: 0,0:31:08.09,0:31:13.23,Main,Jinbe,0,0,0,,Eu irei me encontrar com você. Isso eu prometo a você.
 Dialogue: 0,0:31:14.21,0:31:19.37,Main,Jinbe,0,0,0,,Se você ainda se sente da mesma maneira quando chegar a hora,
 Dialogue: 0,0:31:19.37,0:31:24.01,Main,Jinbe,0,0,0,,você me convidaria para participar mais uma vez, Piratas do Chapéu de Palha?
 Dialogue: 0,0:31:24.01,0:31:25.24,Main,Luffy,0,0,0,,Isto é uma promessa!
-Dialogue: 0,0:31:30.45,0:31:35.51,Main,Sanji,0,0,0,,Ei, agora.\N.\N.\NQuando um homem está cumprindo sua honra, você não deveria pressioná-lo.
+Dialogue: 0,0:31:30.45,0:31:35.51,Main,Sanji,0,0,0,,Ei, agora...\NQuando um homem está cumprindo sua honra, você não deveria pressioná-lo.
 Dialogue: 0,0:31:35.51,0:31:37.30,Main,Robin,0,0,0,,Parece que Luffy gostou bastante dele.
 Dialogue: 0,0:31:43.85,0:31:48.48,Main,Franky,0,0,0,,Um amigo do Luffy é um amigo nosso!\NEstaremos esperando por você, Jinbei!
 Dialogue: 0,0:31:49.68,0:31:51.79,Main,Jinbe,0,0,0,,Obrigado.
@@ -441,7 +441,7 @@ Dialogue: 0,0:31:55.04,0:31:56.38,Main,Zoro,0,0,0,,Será que vamos direto para o
 Dialogue: 0,0:31:57.99,0:32:01.04,Main,Shirahoshi,0,0,0,,Você está dizendo que já está indo embora?
 Dialogue: 0,0:32:01.04,0:32:05.41,Main,Shirahoshi,0,0,0,,Queria agradecer-lhe adequadamente e passar mais algum tempo com você.
 Dialogue: 0,0:32:05.41,0:32:10.40,Main,Sanji,0,0,0,,Ok, então!\NVamos passar pelo menos uma semana no Mermaid Café antes de partirmos!
-Dialogue: 0,0:32:10.40,0:32:12.99,Main,Usopp,0,0,0,,Você acha que não sabemos o verdadeiro motivo pelo qual você quer fazer isso?\N!
+Dialogue: 0,0:32:10.40,0:32:12.99,Main,Usopp,0,0,0,,Você acha que não sabemos o verdadeiro motivo pelo qual você quer fazer isso?!
 Dialogue: 0,0:32:12.99,0:32:14.26,Main,Usopp,0,0,0,,Concedido, concordo plenamente com você!
 Dialogue: 0,0:32:15.24,0:32:16.96,Main,Guard,0,0,0,,Ei! Por favor, aguarde!
 Dialogue: 0,0:32:17.68,0:32:19.33,Main,Luffy,0,0,0,,O que?
@@ -574,7 +574,7 @@ Dialogue: 0,0:41:34.64,0:41:37.56,Main,Neptune,0,0,0,,Não posso dizer que estou
 Dialogue: 0,0:41:37.56,0:41:39.38,Main,Robin,0,0,0,,Eu entendo.
 Dialogue: 0,0:41:39.38,0:41:46.41,Main,Robin,0,0,0,,Há dois anos, li um Poneglyph na Sky Island que contava a localização de uma arma antiga.
 Dialogue: 0,0:41:49.03,0:41:52.74,Main,Robin,0,0,0,,Dizia que estava aqui, nesta ilha.
-Dialogue: 0,0:41:54.60,0:41:57.88,Main,Robin,0,0,0,,A Princesa Sereia que viveu na mesma época que Joyboy.\N.\N.
+Dialogue: 0,0:41:54.60,0:41:57.88,Main,Robin,0,0,0,,A Princesa Sereia que viveu na mesma época que Joyboy...
 Dialogue: 0,0:41:59.41,0:42:02.32,Main,Robin,0,0,0,,Foi assim que a chamaram, talvez?
 Dialogue: 0,0:42:04.62,0:42:08.26,Main,Robin,0,0,0,,Ou em outras palavras, Princesa Shirahoshi, que carrega o mesmo poder...
 Dialogue: 0,0:42:08.26,0:42:11.43,Main,Robin,0,0,0,,também herdará este título.

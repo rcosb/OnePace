@@ -223,7 +223,7 @@ Dialogue: 0,0:10:21.71,0:10:27.25,Main,Not Sogeking,0,0,0,,Tenho certeza que ele
 Dialogue: 0,0:10:27.25,0:10:29.00,Main,Not Sogeking,0,0,0,,Traga sua bunda aqui!
 Dialogue: 0,0:10:31.02,0:10:33.05,Main,Nami,0,0,0,,Só direi mais uma vez.
 Dialogue: 0,0:10:34.36,0:10:38.47,Main,Nami,0,0,0,,Você não é meu tipo. Eu me recuso a beber com você.
-Dialogue: 0,0:10:39.54,0:10:44.53,Main,Nami,0,0,0,,Estamos claros, Chapéu de Palha.\N.\N.\NQuem você disse que era?
+Dialogue: 0,0:10:39.54,0:10:44.53,Main,Nami,0,0,0,,Estamos claros, Chapéu de Palha...\NQuem você disse que era?
 Dialogue: 0,0:10:45.93,0:10:47.59,Main,Not Luffy,0,0,0,,Você acabou de perguntar quem eu sou?!
 Dialogue: 0,0:10:49.06,0:10:51.31,Main,Not Luffy,0,0,0,,Eu sou o Luffy do Chapéu de Palha!
 Dialogue: 0,0:10:52.99,0:10:56.37,Main,Bartender,0,0,0,,Ei, você! Peça desculpas rápido! Isso é ruim!
@@ -244,7 +244,7 @@ Dialogue: 0,0:11:38.23,0:11:41.36,Main,Usopp,0,0,0,,Bem, senhorita, você gostar
 Dialogue: 0,0:11:46.59,0:11:48.37,Main,Nami,0,0,0,,Usopp! Já faz tanto tempo!
 Dialogue: 0,0:11:48.37,0:11:51.49,Main,Nami,0,0,0,,Vejo que você ficou um pouco mais masculino!
 Dialogue: 0,0:11:51.49,0:11:56.60,Main,Usopp,0,0,0,,E-eu vejo que você também floresceu.
-Dialogue: 0,0:11:56.60,0:12:01.10,Main,Not Franky,0,0,0,,Que diabos?\N!\NO homem que ela esperava era aquele cara geek?\N!
+Dialogue: 0,0:11:56.60,0:12:01.10,Main,Not Franky,0,0,0,,Que diabos?!\NO homem que ela esperava era aquele cara geek?!
 Dialogue: 0,0:12:01.10,0:12:03.05,Main,Nami,0,0,0,,Isso foi obra sua?
 Dialogue: 0,0:12:03.05,0:12:05.86,Main,Usopp,0,0,0,,Pode apostar que foi!\NEssa é a minha nova arma, a Pop Green!
 Dialogue: 0,0:12:05.86,0:12:10.52,Main,Usopp,0,0,0,,Não é como se eu tivesse passado os últimos dois anos olhando fixamente para o mar!
@@ -351,11 +351,11 @@ Dialogue: 0,0:17:28.30,0:17:29.49,Main,Not Zoro,0,0,0,,Quem eram eles?
 Dialogue: 0,0:17:29.49,0:17:31.99,Main,Chopper,0,0,0,,Isso é terrível! Eles levaram Robin!
 Dialogue: 0,0:17:32.44,0:17:33.78,Main,Chopper,0,0,0,,Eles devem ser sequestradores!
 Dialogue: 0,0:17:36.33,0:17:39.46,Main,Dudey McMan,0,0,0,,Arquipélago Sabaody aqui. Capturamos Nico Robin!
-Dialogue: 0,0:17:39.46,0:17:43.26,Main,Dudey McMan,0,0,0,,Mas tem uma raposa aqui também.\N.\N.\Nela está mordendo a cabeça.\N.\N.\Ne não solta!
+Dialogue: 0,0:17:39.46,0:17:43.26,Main,Dudey McMan,0,0,0,,Mas tem uma raposa aqui também...\Nela está mordendo a cabeça...\Ne não solta!
 Dialogue: 0,0:17:43.26,0:17:47.28,Main,Robin,0,0,0,,{\an8}Eu tenho que me apressar. Eles podem já estar todos aqui.
 Dialogue: 0,0:17:43.26,0:17:47.28,Captions,,0,0,220,,{\fad(500,0)}Bosque #12
 Dialogue: 0,0:17:50.01,0:17:53.39,Main,Dudey McMan,0,0,0,,Como ele pôde?! Ele simplesmente atirou nela sem avisar!
-Dialogue: 0,0:17:53.39,0:17:57.31,Main,Dudey McMan,0,0,0,,Como você pôde fazer isso?\N!\NO que fizemos com você?\N!
+Dialogue: 0,0:17:53.39,0:17:57.31,Main,Dudey McMan,0,0,0,,Como você pôde fazer isso?!\NO que fizemos com você?!
 Dialogue: 0,0:17:58.13,0:18:01.55,Main,Not Luffy,0,0,0,,Eu disse que sentia muito, certo? Encontrei as pessoas erradas.
 Dialogue: 0,0:18:01.55,0:18:05.74,Main,Not Luffy,0,0,0,,Desculpe.\NAcontece que estou procurando alguém que se pareça com você.
 Dialogue: 0,0:18:06.07,0:18:08.37,Main,Not Luffy,0,0,0,,Uma mulher com um homem de cabelo comprido e nariz comprido.
@@ -412,9 +412,9 @@ Dialogue: 0,0:20:54.03,0:20:56.96,Flashbacks,Nyon,0,0,0,,Não é nada!
 Dialogue: 0,0:20:57.15,0:20:59.13,Captions,,0,0,220,,{\fad(120,0)}Bosque do Arquipélago de Sabaody #47
 Dialogue: 0,0:21:01.89,0:21:06.10,Main,Not Luffy,0,0,0,,Você acabou de esbarrar em mim de propósito, não foi?
 Dialogue: 0,0:21:07.64,0:21:11.90,Main,Not Luffy,0,0,0,,Você sabe quem eu sou?
-Dialogue: 0,0:21:12.28,0:21:15.53,Main,Not Luffy,0,0,0,,Você não viu o quanto você me fez olhar mal lá atrás?\N!
+Dialogue: 0,0:21:12.28,0:21:15.53,Main,Not Luffy,0,0,0,,Você não viu o quanto você me fez olhar mal lá atrás?!
 Dialogue: 0,0:21:16.13,0:21:19.37,Main,Not Luffy,0,0,0,,Você me desonrou na frente daquela enorme multidão!
-Dialogue: 0,0:21:19.98,0:21:25.29,Main,Not Luffy,0,0,0,,Eu, o pirata de elite com uma recompensa de 400 milhões de barrigas!\NVocê ouviu isso?\N!
+Dialogue: 0,0:21:19.98,0:21:25.29,Main,Not Luffy,0,0,0,,Eu, o pirata de elite com uma recompensa de 400 milhões de barrigas!\NVocê ouviu isso?!
 Dialogue: 0,0:21:25.29,0:21:28.31,Main,Not Luffy,0,0,0,,Ajoelhe-se diante de mim agora, tenha medo de mim,
 Dialogue: 0,0:21:28.31,0:21:30.75,Main,Not Luffy,0,0,0,,e então implore por sua vida!
 Dialogue: 0,0:21:39.10,0:21:43.98,Main,Not Sogeking,0,0,0,,Não faz muito tempo, um homem de nariz comprido e uma mulher de cabelos compridos nos ridicularizaram.
@@ -520,12 +520,12 @@ Dialogue: 0,0:27:36.75,0:27:40.38,Main,Not Franky,0,0,0,,{Non-Canon}Lembre-se de
 Dialogue: 0,0:27:40.38,0:27:44.59,Main,Not Nami,0,0,0,,{Non-Canon}Esta será uma maneira perfeita de mostrar o terror dos Chapéus de Palha!
 Dialogue: 0,0:27:44.59,0:27:45.93,Main,Not Usopp,0,0,0,,{Non-Canon}Tudo bem, vamos!
 Dialogue: 0,0:27:45.93,0:27:48.33,Main,Chopper,0,0,0,,Espere um segundo, pessoal!
-Dialogue: 0,0:27:48.57,0:27:51.52,Main,Chopper,0,0,0,,Os últimos dois anos mudaram tanto seus corações?\N!
+Dialogue: 0,0:27:48.57,0:27:51.52,Main,Chopper,0,0,0,,Os últimos dois anos mudaram tanto seus corações?!
 Dialogue: 0,0:27:51.52,0:27:52.95,Main,Chopper,0,0,0,,Luffy!
 Dialogue: 0,0:27:52.95,0:27:56.69,Main,Chopper,0,0,0,,E-eu estou tão triste...
 Dialogue: 0,0:27:56.69,0:27:58.67,Main,Chopper,0,0,0,,Estou começando a chorar!
 Dialogue: 0,0:27:59.28,0:28:02.05,Main,Not Luffy,0,0,0,,Novamente, o que diabos é essa criatura?!
-Dialogue: 0,0:28:02.05,0:28:05.79,Main,Chopper,0,0,0,,E Robin?\N!\NVocês vão deixar isso acontecer?\N!
+Dialogue: 0,0:28:02.05,0:28:05.79,Main,Chopper,0,0,0,,E Robin?!\NVocês vão deixar isso acontecer?!
 Dialogue: 0,0:28:05.79,0:28:08.69,Main,,0,0,0,,{Non-Canon}O que? Como você pode falar?
 Dialogue: 0,0:28:08.69,0:28:12.73,Main,Chopper,0,0,0,,Droga... eu julguei mal vocês!
 Dialogue: 0,0:28:12.73,0:28:16.36,Main,Chopper,0,0,0,,Eu irei resgatá-la, mesmo que tenha que fazer isso sozinho!
@@ -596,7 +596,7 @@ Dialogue: 0,0:32:09.40,0:32:11.49,Main,Dudey McMan,0,0,0,,É um galeão!
 Dialogue: 0,0:32:11.49,0:32:14.54,Main,Dudey McMan,0,0,0,,A pressão da água esmagou-o porque não estava bem revestido?
 Dialogue: 0,0:32:14.54,0:32:16.37,Main,Dudey McMan,0,0,0,,Um Rei do Mar o destruiu?
 Dialogue: 0,0:32:16.37,0:32:20.04,Main,Dudey McMan,0,0,0,,Por esses cortes, parece que foi cortado por uma espada!
-Dialogue: 0,0:32:20.04,0:32:23.72,Main,Dudey McMan,0,0,0,,Não seja ridículo!\NQuem poderia destruir um navio tão grande?\N!
+Dialogue: 0,0:32:20.04,0:32:23.72,Main,Dudey McMan,0,0,0,,Não seja ridículo!\NQuem poderia destruir um navio tão grande?!
 Dialogue: 0,0:32:23.72,0:32:28.91,Main,Seriously unfortunate guy,0,0,0,,Maldito! Como você ousa arruinar nosso sonho de ir para o Novo Mundo?!
 Dialogue: 0,0:32:30.53,0:32:32.76,Main,Zoro,0,0,0,,Foi o destino.
 Dialogue: 0,0:32:32.76,0:32:38.11,Main,Zoro,0,0,0,,Você deveria culpar seu próprio destino. Trouxe uma maldição para o seu navio.
@@ -613,7 +613,7 @@ Dialogue: 0,0:33:11.61,0:33:17.81,Main,Chopper,0,0,0,,Luffy... Zoro... Nami... S
 Dialogue: 0,0:33:17.81,0:33:20.64,Main,Chopper,0,0,0,,Todos eles costumavam se preocupar muito com seus companheiros de tripulação.
 Dialogue: 0,0:33:21.46,0:33:24.96,Main,Chopper,0,0,0,,Como eles podem simplesmente ignorar quando Robin é sequestrada?!
 Dialogue: 0,0:33:24.96,0:33:26.74,Main,Chopper,0,0,0,,É horrível!
-Dialogue: 0,0:33:27.38,0:33:31.53,Main,Chopper,0,0,0,,Qual foi o sentido de todo o meu trabalho duro nesses últimos dois anos?\N!
+Dialogue: 0,0:33:27.38,0:33:31.53,Main,Chopper,0,0,0,,Qual foi o sentido de todo o meu trabalho duro nesses últimos dois anos?!
 Dialogue: 0,0:33:32.76,0:33:34.41,Main,Chopper,0,0,0,,Quem eu estava tentando ajudar?!
 Dialogue: 0,0:33:36.04,0:33:37.89,Main,Usopp,0,0,0,,Olá, Chopper!
 Dialogue: 0,0:33:39.93,0:33:41.38,Main,Nami,0,0,0,,Aqui!
@@ -647,10 +647,10 @@ Dialogue: 0,0:34:59.29,0:35:04.82,Main,Nami,0,0,0,,Bem, considerando o quão con
 Dialogue: 0,0:35:06.07,0:35:07.81,Main,Chopper,0,0,0,,Preciso trabalhar na minha assinatura!
 Dialogue: 0,0:35:07.81,0:35:10.19,Main,Usopp,0,0,0,,Eu já descobri o meu!
 Dialogue: 0,0:35:10.19,0:35:14.73,Main,Nami,0,0,0,,Não somos famosos, somos infames! Pegue?
-Dialogue: 0,0:35:16.57,0:35:21.75,Main,Not Sanji,0,0,0,,Sério.\N.\N.\NFinalmente conseguimos pegar o verdadeiro animal de estimação dos Chapéus de Palha!
+Dialogue: 0,0:35:16.57,0:35:21.75,Main,Not Sanji,0,0,0,,Sério...\NFinalmente conseguimos pegar o verdadeiro animal de estimação dos Chapéus de Palha!
 Dialogue: 0,0:35:23.08,0:35:24.89,Main,Not Zoro,0,0,0,,Ai! Meu lado dói!
 Dialogue: 0,0:35:25.03,0:35:26.47,Flashbacks,Not Luffy,0,0,0,,O que!?
-Dialogue: 0,0:35:26.47,0:35:31.31,Flashbacks,Not Luffy,0,0,0,,Aquela criatura estranha era uma sobrevivente dos verdadeiros Piratas do Chapéu de Palha?\N!
+Dialogue: 0,0:35:26.47,0:35:31.31,Flashbacks,Not Luffy,0,0,0,,Aquela criatura estranha era uma sobrevivente dos verdadeiros Piratas do Chapéu de Palha?!
 Dialogue: 0,0:35:31.52,0:35:35.24,Flashbacks,Not Luffy,0,0,0,,Por que você não disse isso antes?! Traga-o de volta aqui, agora!
 Dialogue: 0,0:35:37.09,0:35:40.97,Main,Not Sanji,0,0,0,,Isso é impossível! Para onde devemos olhar?!
 Dialogue: 0,0:35:40.97,0:35:44.73,Main,Not Zoro,0,0,0,,Nós o perdemos completamente de vista... O Arquipélago Sabaody é enorme!

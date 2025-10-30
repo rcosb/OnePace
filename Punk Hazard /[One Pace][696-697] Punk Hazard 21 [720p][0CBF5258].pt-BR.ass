@@ -203,7 +203,7 @@ Dialogue: 0,0:08:36.98,0:08:42.25,Main,Usopp,0,0,0,,Sim, provavelmente seríamos
 Dialogue: 0,0:08:42.25,0:08:44.63,Main,Usopp,0,0,0,,É melhor deixá-los com pessoas do lado da justiça.
 Dialogue: 0,0:08:44.63,0:08:45.59,Main,Nami,0,0,0,,Você tem razão.
 Dialogue: 0,0:08:46.49,0:08:48.09,Main,Nami,0,0,0,,Também...
-Dialogue: 0,0:08:48.77,0:08:53.95,Flashbacks,Tashigi,0,0,0,,Eu te imploro.\N.\N.\NPermita-me cuidar das crianças!
+Dialogue: 0,0:08:48.77,0:08:53.95,Flashbacks,Tashigi,0,0,0,,Eu te imploro...\NPermita-me cuidar das crianças!
 Dialogue: 0,0:08:54.72,0:08:59.28,Main,Nami,0,0,0,,Só tenho um fraco pelos olhos de uma fuzileira naval.
 Dialogue: 0,0:08:59.28,0:09:00.65,Main,Usopp,0,0,0,,Mulheres fuzileiros navais?
 Dialogue: 0,0:09:01.70,0:09:02.85,Main,Nami,0,0,0,,Sim.
@@ -248,7 +248,7 @@ Dialogue: 0,0:11:18.42,0:11:21.64,Main,Luffy,0,0,0,,O que aconteceu?\NÉ tão de
 Dialogue: 0,0:11:21.64,0:11:24.65,Main,Sanji,0,0,0,,Não, seu idiota, eles claramente passaram por muita coisa.
 Dialogue: 0,0:11:24.65,0:11:26.26,Main,Sanji,0,0,0,,O que aconteceu com esses caras?
 Dialogue: 0,0:11:28.05,0:11:28.47,Main,Brook,0,0,0,,Hum?
-Dialogue: 0,0:11:31.95,0:11:35.96,Main,Sanji,0,0,0,,O que aconteceu com a linha entre o bem e o mal, seus idiotas?\N!
+Dialogue: 0,0:11:31.95,0:11:35.96,Main,Sanji,0,0,0,,O que aconteceu com a linha entre o bem e o mal, seus idiotas?!
 Dialogue: 0,0:11:35.96,0:11:37.82,Main,Marines,0,0,0,,É uma trégua, mano.
 Dialogue: 0,0:11:39.14,0:11:42.39,Main,Zoro,0,0,0,,Ok, então, por que vocês não vão buscar alguma bebida no caminhão-tanque?
 Dialogue: 0,0:11:42.39,0:11:43.25,Main,Marine,0,0,0,,Com prazer.
@@ -366,13 +366,13 @@ Dialogue: 0,0:17:59.64,0:18:05.18,Main,Mocha,0,0,0,,Somos tão grandes e só ir�
 Dialogue: 0,0:18:05.58,0:18:07.62,Flashbacks,Mocha,0,0,0,,Eu quero ir para casa.
 Dialogue: 0,0:18:07.62,0:18:09.16,Flashbacks,Sind,0,0,0,,Voltaremos em breve.
 Dialogue: 0,0:18:09.16,0:18:10.10,Flashbacks,Sind,0,0,0,,Só mais um pouco.
-Dialogue: 0,0:18:10.60,0:18:14.60,Main,Sind,0,0,0,,{I might be wrong, but I don't think this qualifies as a complete sentence.\N-Starfish}Mesmo que esta seja uma ilha deserta onde ninguém nunca vem.\N.\N.
+Dialogue: 0,0:18:10.60,0:18:14.60,Main,Sind,0,0,0,,{I might be wrong, but I don't think this qualifies as a complete sentence.\N-Starfish}Mesmo que esta seja uma ilha deserta onde ninguém nunca vem...
 Dialogue: 0,0:18:14.60,0:18:15.94,Main,Doyo,0,0,0,,Eles vieram atrás de nós!
 Dialogue: 0,0:18:18.58,0:18:19.88,Flashbacks,Chopper,0,0,0,,{copy paste from 614}Desculpe!
 Dialogue: 0,0:18:21.46,0:18:25.48,Flashbacks,Chopper,0,0,0,,{end copy paste}Sinto muito... por não termos encontrado você antes!
 Dialogue: 0,0:18:26.27,0:18:29.15,Main,Marine,0,0,0,,Os piratas são sujos e podres!
 Dialogue: 0,0:18:29.82,0:18:31.53,Main,Marine,0,0,0,,Mas a Marinha...
-Dialogue: 0,0:18:31.53,0:18:34.69,Main,Doyo,0,0,0,,Se você nem nos deixa agradecer quando partirmos.\N.\N.
+Dialogue: 0,0:18:31.53,0:18:34.69,Main,Doyo,0,0,0,,Se você nem nos deixa agradecer quando partirmos...
 Dialogue: 0,0:18:36.37,0:18:38.33,Main,Doyo,0,0,0,,então a Marinha pode simplesmente...
 Dialogue: 0,0:18:38.64,0:18:40.30,Main,Tashigi,0,0,0,,Espere! Desculpe!
 Dialogue: 0,0:18:40.30,0:18:42.11,Main,Marine,0,0,0,,{\i1}Diga não aos piratas!

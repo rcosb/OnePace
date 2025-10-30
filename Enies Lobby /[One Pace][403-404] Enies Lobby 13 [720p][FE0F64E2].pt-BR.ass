@@ -73,7 +73,7 @@ YCbCr Matrix: TV.601
 PlayResX: 1280
 PlayResY: 720
 
-Dialogue: 0,0:00:06.41,0:00:10.33,Main,,0,0,0,,Nico Robin está se aproximando cada vez mais dos Portões da Justiça.\N.\N.
+Dialogue: 0,0:00:06.41,0:00:10.33,Main,,0,0,0,,Nico Robin está se aproximando cada vez mais dos Portões da Justiça...
 Dialogue: 0,0:00:10.33,0:00:13.78,Main,,0,0,0,,enquanto estamos aqui lutando assim.
 Dialogue: 0,0:00:13.78,0:00:18.99,Main,,0,0,0,,Ou talvez eu deva dizer que, do ponto de vista dela, ela está se aproximando do inferno?
 Dialogue: 0,0:00:18.99,0:00:21.23,Main,,0,0,0,,{.}Sim, eu sei.
@@ -183,7 +183,7 @@ Dialogue: 0,0:08:54.53,0:08:57.32,Main,,0,0,0,,Sinto muito pela chave.
 Dialogue: 0,0:08:57.32,0:08:58.53,Main,,0,0,0,,Não é isso!
 Dialogue: 0,0:08:58.53,0:09:00.56,Main,,0,0,0,,Estou dizendo isso por causa desse cavalheirismo estúpido,
 Dialogue: 0,0:09:00.56,0:09:03.23,Main,,0,0,0,,{.}você pode morrer!
-Dialogue: 0,0:09:03.66,0:09:06.16,Main,,0,0,0,,Você vai continuar mesmo depois de se machucar assim?\N!
+Dialogue: 0,0:09:03.66,0:09:06.16,Main,,0,0,0,,Você vai continuar mesmo depois de se machucar assim?!
 Dialogue: 0,0:09:06.16,0:09:07.94,Main,,0,0,0,,{.}O que faríamos sem você?!
 Dialogue: 0,0:09:08.53,0:09:10.74,Main,,0,0,0,,Não é como...
 Dialogue: 0,0:09:10.74,0:09:12.94,Main,,0,0,0,,Eu quero morrer.
@@ -259,14 +259,14 @@ Dialogue: 0,0:14:15.75,0:14:18.35,Main,,0,0,0,,Essas são portas grossas de ferr
 Dialogue: 0,0:14:18.35,0:14:22.17,Main,,0,0,0,,Além disso, não há como eles encontrarem aquelas portas!
 Dialogue: 0,0:14:22.17,0:14:27.30,Main,,0,0,0,,Bem, eles deveriam saber onde estão, já que uma criança e seu animal de estimação estavam nos seguindo.
 Dialogue: 0,0:14:27.30,0:14:28.52,Main,,0,0,0,,O que?!
-Dialogue: 0,0:14:28.52,0:14:31.74,Main,,0,0,0,,E-Se você sabia disso, por que não os matou?\N!
+Dialogue: 0,0:14:28.52,0:14:31.74,Main,,0,0,0,,E-Se você sabia disso, por que não os matou?!
 Dialogue: 0,0:14:33.04,0:14:34.56,Main,,0,0,0,,Porque...
 Dialogue: 0,0:14:35.12,0:14:36.81,Main,,0,0,0,,{.}Não recebi tal ordem.
 Dialogue: 0,0:14:36.81,0:14:38.98,Main,,0,0,0,,{.}O que?! Seu idiota!
 Dialogue: 0,0:14:39.41,0:14:41.90,Main,,0,0,0,,Para algo tão trivial, use seu próprio critério!
-Dialogue: 0,0:14:41.90,0:14:44.73,Main,,0,0,0,,{.\N}Você não poderia imaginar o que aconteceria se você não fizesse nada a respeito?\N!
+Dialogue: 0,0:14:41.90,0:14:44.73,Main,,0,0,0,,{.\N}Você não poderia imaginar o que aconteceria se você não fizesse nada a respeito?!
 Dialogue: 0,0:14:44.73,0:14:46.32,Main,,0,0,0,,Então o que você está dizendo?!
-Dialogue: 0,0:14:46.32,0:14:48.45,Main,,0,0,0,,Você está dizendo que alguém está vindo para cá?\N!
+Dialogue: 0,0:14:46.32,0:14:48.45,Main,,0,0,0,,Você está dizendo que alguém está vindo para cá?!
 Dialogue: 0,0:14:56.31,0:14:58.50,Main,,0,0,0,,{.}Tudo bem! De volta ao normal!
 Dialogue: 0,0:15:01.11,0:15:03.46,Main,,0,0,0,,Espere, Robin!
 Dialogue: 0,0:15:06.47,0:15:10.18,Main,,0,0,0,,Com certeza vou dar uma surra naquele pombo!
@@ -357,7 +357,7 @@ Dialogue: 0,0:19:33.97,0:19:38.28,Main,,0,0,0,,Cuidarei desses caras num instant
 Dialogue: 0,0:19:38.28,0:19:40.69,Main,,0,0,0,,Que tipo de idiota fica mais forte com cola?
 Dialogue: 0,0:19:40.69,0:19:42.45,Main,,0,0,0,,Cale-se! Esse seria eu!
 Dialogue: 0,0:19:44.50,0:19:46.18,Main,,0,0,0,,Quanto tempo...
-Dialogue: 0,0:19:46.18,0:19:49.53,Main,,0,0,0,,{.\N}você está planejando continuar com a comédia ?\N!
+Dialogue: 0,0:19:46.18,0:19:49.53,Main,,0,0,0,,{.\N}você está planejando continuar com a comédia ?!
 Dialogue: 0,0:19:49.53,0:19:52.89,Main,,0,0,0,,{.\N}Além disso, você está tentando fazer uma pausa para o chá durante uma briga?
 Dialogue: 0,0:19:52.89,0:19:54.80,Main,,0,0,0,,Que rude!
 Dialogue: 0,0:19:55.42,0:19:57.19,Main,,0,0,0,,{.}Três cabeças esotéricas:
@@ -396,7 +396,7 @@ Dialogue: 0,0:21:48.49,0:21:49.99,Main,,0,0,0,,O chá não...
 Dialogue: 0,0:21:50.41,0:21:53.45,Main,,0,0,0,,{.}me dê energia! Seu idiota!
 Dialogue: 0,0:21:54.70,0:21:56.75,Thoughts,,0,0,0,,Ele é... engraçado.
 Dialogue: 0,0:21:56.98,0:21:57.84,Main,,0,0,0,,Ei!
-Dialogue: 0,0:21:57.84,0:22:02.39,Main,,0,0,0,,O que há com aquele olhar de “me pergunto o que acontece com outras bebidas”?\N!
+Dialogue: 0,0:21:57.84,0:22:02.39,Main,,0,0,0,,O que há com aquele olhar de “me pergunto o que acontece com outras bebidas”?!
 Dialogue: 0,0:22:03.17,0:22:05.45,Main,,0,0,0,,Esta será a última vez, seu maldito cervo!
 Dialogue: 0,0:22:05.45,0:22:07.55,Main,,0,0,0,,Então não depende de como você está se sentindo?
 Dialogue: 0,0:22:07.55,0:22:08.72,Main,,0,0,0,,Eu preciso apenas de cola!

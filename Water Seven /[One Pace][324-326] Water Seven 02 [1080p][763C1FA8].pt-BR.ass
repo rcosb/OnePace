@@ -113,10 +113,10 @@ Dialogue: 5,0:06:15.20,0:06:17.29,Main-207+,,0,0,0,,{Give me one!}Oi, Luffy! Jog
 Dialogue: 5,0:06:17.29,0:06:19.90,Main-207+,,0,0,0,,{Buy it yourself}Não! Vá comprar o seu!
 Dialogue: 5,0:06:19.90,0:06:20.99,Main-207+,,0,0,0,,{Hm?}
 Dialogue: 5,0:06:20.99,0:06:23.86,Main-207+,,0,0,0,,{Gaijin, it seems weird to for Usopp to call the yagara a "boat" here.\NIs it possible to just have him say,\N"Hey, Nami!\NLet's pull up to that shop!\N"}Oi, Nami!\NEncoste o barco até aquela loja!
-Dialogue: 5,0:06:24.60,0:06:28.15,Main-207+,,0,0,0,,{More masks.\N.\N.\NNow that I look closer,\Nthey seem to be everywhere in town.\N}Mais máscaras?\NEles parecem estar por toda a cidade.
+Dialogue: 5,0:06:24.60,0:06:28.15,Main-207+,,0,0,0,,{More masks...\NNow that I look closer,\Nthey seem to be everywhere in town.\N}Mais máscaras?\NEles parecem estar por toda a cidade.
 Dialogue: 5,0:06:29.00,0:06:30.95,Main-207+,,0,0,0,,{And those wearing the masks...}As pessoas os usam em todos os lugares.
 Dialogue: 5,0:06:32.90,0:06:35.39,Main-207+,,0,0,0,,Oi, Nami!
-Dialogue: 5,0:06:37.39,0:06:40.89,Main-207+,,0,0,0,,{Now.\N.\N.\NWe're finally going to\Ngo to Shipyard Island}OK.\NPara a última etapa da nossa viagem à Ilha do Estaleiro,
+Dialogue: 5,0:06:37.39,0:06:40.89,Main-207+,,0,0,0,,{Now...\NWe're finally going to\Ngo to Shipyard Island}OK.\NPara a última etapa da nossa viagem à Ilha do Estaleiro,
 Dialogue: 5,0:06:40.89,0:06:42.85,Main-207+,,0,0,0,,{by using a water gate elevator.}subimos um elevador de água.
 Dialogue: 5,0:06:45.00,0:06:46.84,Main-207+,,0,0,0,,{ gate}Um elevador de água?
 Dialogue: 5,0:06:46.84,0:06:49.24,Main-207+,,0,0,0,,{That tower-like thing is the one.}É aquela coisa parecida com uma torre.
@@ -138,8 +138,8 @@ Dialogue: 5,0:08:04.60,0:08:05.54,Main-207+,,0,0,0,,Olá, Zoro.
 Dialogue: 5,0:08:07.46,0:08:10.53,Main-207+,,0,0,0,,{\i1}- Huh?\N–Onde está Robin-chan?\NEla não está no navio.
 Dialogue: 5,0:08:10.53,0:08:11.67,Main-207+,,0,0,0,,Hum?
 Dialogue: 5,0:08:12.51,0:08:16.97,Main-207+,,0,0,0,,Certo, ela não é.\NEla saiu com Chopper mais cedo.
-Dialogue: 5,0:08:16.97,0:08:20.54,Main-207+,,0,0,0,,- O que?\N!\N– Ela disse que ia fazer compras.
-Dialogue: 5,0:08:20.54,0:08:24.40,Main-207+,,0,0,0,,{are you}Que diabos?\N!\NEntão você é o único no navio?
+Dialogue: 5,0:08:16.97,0:08:20.54,Main-207+,,0,0,0,,- O que?!\N– Ela disse que ia fazer compras.
+Dialogue: 5,0:08:20.54,0:08:24.40,Main-207+,,0,0,0,,{are you}Que diabos?!\NEntão você é o único no navio?
 Dialogue: 5,0:08:24.40,0:08:27.59,Main-207+,,0,0,0,,{What a boring environment!}Quão chato é isso!?
 Dialogue: 5,0:08:27.59,0:08:30.36,Main-207+,,0,0,0,,Você acertou.
 Dialogue: 5,0:08:30.99,0:08:34.07,Main-207+,,0,0,0,,{ll go}Tudo bem, então.\NVou fazer compras.
@@ -147,7 +147,7 @@ Dialogue: 5,0:08:34.72,0:08:36.64,Main-207+,,0,0,0,,{So make sure you watch the 
 Dialogue: 5,0:08:39.54,0:08:42.30,Main-207+,,0,0,0,,Nossa, ele já está dormindo.
 Dialogue: 5,0:08:42.30,0:08:44.91,Main-207+,,0,0,0,,{Well, fine. I'll leave the ship to you.}Qualquer que seja. Ela é toda sua.
 Dialogue: 5,0:09:13.82,0:09:16.74,Main-207+,,0,0,0,,Estamos aqui!
-Dialogue: 5,0:09:20.20,0:09:25.46,Main-207+,,0,0,0,,{the world's }Então este é o centro de Water Seven com o maior estaleiro do mundo?\N!
+Dialogue: 5,0:09:20.20,0:09:25.46,Main-207+,,0,0,0,,{the world's }Então este é o centro de Water Seven com o maior estaleiro do mundo?!
 Dialogue: 5,0:09:31.61,0:09:34.80,Main-207+,,0,0,0,,{As expected, I see more ground around here.\N}Parece que há mais terra do que água por aqui.
 Dialogue: 5,0:09:38.68,0:09:41.43,Main-207+,,0,0,0,,{Things are huge all over!}Tudo é tão grande!
 Dialogue: 5,0:09:43.18,0:09:46.14,Main-207+,,0,0,0,,{I've never seen a huge town like this!}Nunca vi uma cidade tão grande!
@@ -233,10 +233,10 @@ Dialogue: 5,0:16:12.31,0:16:17.92,Main-207+,,0,0,0,,Há três coisas que quero d
 Dialogue: 5,0:16:17.92,0:16:23.79,Main-207+,,0,0,0,,Primeiro.\NEsqueci de te contar, mas esse cara tem uma recompensa de 100 milhões pela cabeça.
 Dialogue: 5,0:16:25.00,0:16:26.75,Main-207+,,0,0,0,,Segundo.
 Dialogue: 5,0:16:26.75,0:16:30.09,Main-207+,,0,0,0,,Não aceito a avaliação que você acabou de nos dar.
-Dialogue: 5,0:16:30.09,0:16:36.01,Main-207+,,0,0,0,,{Third.\N.\N.\Nif you lie to us again,\Nwe'll go after your head.\N}Terceiro.\NSe você mentir para nós de novo, sua cabeça será nossa.
+Dialogue: 5,0:16:30.09,0:16:36.01,Main-207+,,0,0,0,,{Third...\Nif you lie to us again,\Nwe'll go after your head.\N}Terceiro.\NSe você mentir para nós de novo, sua cabeça será nossa.
 Dialogue: 5,0:16:36.01,0:16:37.22,Main-207+,,0,0,0,,Isso é tudo.
 Dialogue: 5,0:16:37.22,0:16:41.39,Main-207+,,0,0,0,,{I... I'm sorry!}P-Por favor, me perdoe!
-Dialogue: 5,0:16:41.39,0:16:46.40,Main-207+,,0,0,0,,{Isn't this a dream?\N}Trezentos milhões de barriga?\N!\NNão estou sonhando, estou?
+Dialogue: 5,0:16:41.39,0:16:46.40,Main-207+,,0,0,0,,{Isn't this a dream?\N}Trezentos milhões de barriga?!\NNão estou sonhando, estou?
 Dialogue: 5,0:16:46.40,0:16:50.32,Main-207+,,0,0,0,,{borne fruit!\N}Nossa aventura na Sky Island finalmente valeu a pena!
 Dialogue: 5,0:16:50.32,0:16:52.53,Main-207+,,0,0,0,,Sou super rico!
 Dialogue: 5,0:16:52.53,0:16:53.65,Main-207+,,0,0,0,,{That should be}Você quer dizer "nós"!
@@ -274,7 +274,7 @@ Dialogue: 5,0:19:17.92,0:19:21.93,Main-207+,,0,0,0,,D-Diga, Nami, talvez devêss
 Dialogue: 5,0:19:21.93,0:19:25.89,Main-207+,,0,0,0,,Isso seria uma perda de tempo.\NO estaleiro fica logo acima desta colina.
 Dialogue: 5,0:19:25.89,0:19:29.85,Main-207+,,0,0,0,,Ei, estou um pouco chocado por vocês não me deixarem chegar perto do dinheiro.
 Dialogue: 5,0:19:29.85,0:19:32.25,Main-207+,,0,0,0,,Assim que conhecermos um construtor naval,
-Dialogue: 5,0:19:32.25,0:19:35.45,Main-207+,,0,0,0,,{we'll probably need to go back to the Merry right away}precisaremos voltar para o Merry com ele imediatamente.\N.\N.
+Dialogue: 5,0:19:32.25,0:19:35.45,Main-207+,,0,0,0,,{we'll probably need to go back to the Merry right away}precisaremos voltar para o Merry com ele imediatamente...
 Dialogue: 5,0:19:35.45,0:19:37.32,Main-207+,,0,0,0,,{so that he can assess the repair fee...}e peça-lhe que dê uma estimativa de reparo.
 Dialogue: 5,0:19:37.78,0:19:39.32,Main-207+,,0,0,0,,Eu vejo.
 Dialogue: 5,0:19:39.32,0:19:40.78,Main-207+,,0,0,0,,{That's true.}Esse parece ser o caso.
@@ -291,7 +291,7 @@ Dialogue: 5,0:19:56.01,0:19:57.12,Secondary-207+,,0,0,0,,Cale-se!
 Dialogue: 5,0:19:57.12,0:19:58.69,Main-207+,,0,0,0,,OK.
 Dialogue: 5,0:20:11.69,0:20:15.78,Main-207+,,0,0,0,,{We're back at the entrance to the shipyard.\N}Aqui estamos!\NDe volta à entrada do estaleiro.
 Dialogue: 5,0:20:17.60,0:20:22.61,Main-207+,,0,0,0,,Bom!\NParece que a multidão de antes se foi.
-Dialogue: 5,0:20:22.61,0:20:27.62,Main-207+,,0,0,0,,{well}De qualquer forma, vamos descobrir.\N.\N.\Nuhh.\N.\N.\NQual é mesmo o nome dele?
+Dialogue: 5,0:20:22.61,0:20:27.62,Main-207+,,0,0,0,,{well}De qualquer forma, vamos descobrir...\Nuhh...\NQual é mesmo o nome dele?
 Dialogue: 5,0:20:27.62,0:20:29.19,Main-207+,,0,0,0,,{\i1}Iceburg-san.
 Dialogue: 5,0:20:29.19,0:20:31.70,Main-207+,,0,0,0,,{Ice pops!}Certo, é isso! Cara do gelo!
 Dialogue: 5,0:20:31.70,0:20:33.64,Main-207+,,0,0,0,,Eu me pergunto quem ele é.
@@ -330,8 +330,8 @@ Dialogue: 5,0:22:04.10,0:22:07.84,Main-207+,,0,0,0,,{Well}Ora, ele é um homem d
 Dialogue: 5,0:22:07.84,0:22:09.80,Main-207+,,0,0,0,,{Where do we have to go to see him?}Onde o encontramos?
 Dialogue: 5,0:22:09.80,0:22:12.72,Main-207+,,0,0,0,,{I wonder where he is right now.}Hmm, onde ele poderia estar?
 Dialogue: 5,0:22:12.72,0:22:17.19,Main-207+,,0,0,0,,{a very busy person}Ele pode ser difícil de encontrar, pois está sempre zumbindo.
-Dialogue: 5,0:22:17.19,0:22:20.67,Main-207+,,0,0,0,,{Oh.\N.\N.\NCan't you get in touch\Nwith him or something?\N}Ah!\NVocê não pode alcançá-lo por nós?
-Dialogue: 5,0:22:20.67,0:22:23.74,Main-207+,,0,0,0,,{That's probably possible, but.\N.\N.\N\NAre you in a hurry?\N}Isso certamente é possível.\NO assunto é urgente?
+Dialogue: 5,0:22:17.19,0:22:20.67,Main-207+,,0,0,0,,{Oh...\NCan't you get in touch\Nwith him or something?\N}Ah!\NVocê não pode alcançá-lo por nós?
+Dialogue: 5,0:22:20.67,0:22:23.74,Main-207+,,0,0,0,,{That's probably possible, but...\N\NAre you in a hurry?\N}Isso certamente é possível.\NO assunto é urgente?
 Dialogue: 5,0:22:23.74,0:22:25.90,Main-207+,,0,0,0,,Não é que estejamos com pressa, mas...
 Dialogue: 5,0:22:27.11,0:22:31.87,Main-207+,,0,0,0,,{talk about}Resumindo, você quer discutir o reparo do seu navio, certo?
 Dialogue: 5,0:22:31.87,0:22:33.92,Main-207+,,0,0,0,,{Where did you anchor your ship?}Onde você ancorou?
@@ -356,7 +356,7 @@ Dialogue: 5,0:23:39.79,0:23:43.14,Main-207+,,0,0,0,,{He runs freely in town.}Ele
 Dialogue: 5,0:23:43.14,0:23:44.98,Main-207+,,0,0,0,,O que?
 Dialogue: 5,0:23:44.42,0:23:44.98,Secondary-207+,,0,0,0,,Huh?
 Dialogue: 5,0:23:44.98,0:23:46.98,Main-207+,,0,0,0,,{People call him the Mountain Wind.}Conhecido como Vento da Montanha,
-Dialogue: 5,0:23:47.61,0:23:52.91,Main-207+,,0,0,0,,{He's a shipwright foreman of\NGalley-La Company's Dock 1.\N.\N.\N}ele é um dos capatazes da Dock One da Galley-La Company:
+Dialogue: 5,0:23:47.61,0:23:52.91,Main-207+,,0,0,0,,{He's a shipwright foreman of\NGalley-La Company's Dock 1...\N}ele é um dos capatazes da Dock One da Galley-La Company:
 Dialogue: 5,0:23:54.87,0:23:55.83,Main-207+,,0,0,0,,{His name is }Kaku.
 Dialogue: 5,0:24:00.00,0:24:03.79,Main-207+,,0,0,0,,Bem, bem. Eu vejo.
 Dialogue: 5,0:24:03.79,0:24:08.04,Main-207+,,0,0,0,,A Cidade da Água. Isso é incrível!
@@ -450,7 +450,7 @@ Dialogue: 5,0:29:03.26,0:29:05.34,Main-207+,,0,0,0,,{reference letter.}Por favor
 Dialogue: 5,0:29:05.34,0:29:07.90,Main-207+,,0,0,0,,{.}Da velha Kokoro?
 Dialogue: 5,0:29:07.90,0:29:10.31,Main-207+,,0,0,0,,"Dê uma olhada no navio deles", hein?
 Dialogue: 5,0:29:11.00,0:29:12.31,Main-207+,,0,0,0,,{Ahhh!}
-Dialogue: 5,0:29:12.31,0:29:16.49,Main-207+,,0,0,0,,O que?\N!\NVocê não vai?\N!\NPor favor!\NPor favor, repare nosso navio!
+Dialogue: 5,0:29:12.31,0:29:16.49,Main-207+,,0,0,0,,O que?!\NVocê não vai?!\NPor favor!\NPor favor, repare nosso navio!
 Dialogue: 5,0:29:16.49,0:29:18.20,Main-207+,,0,0,0,,Nós temos dinheiro!
 Dialogue: 5,0:29:18.20,0:29:22.69,Main-207+,,0,0,0,,{The Merry is beat up after\Nour voyages!\NPlease, pops!\N}O Merry está todo espancado depois de nossas viagens!\NVamos, velho!
 Dialogue: 5,0:29:22.69,0:29:25.70,Main-207+,,0,0,0,,{How frivolous! So it's okay?!}Simples assim! Então está tudo bem?!
@@ -459,7 +459,7 @@ Dialogue: 5,0:29:25.70,0:29:27.70,Main-207+,,0,0,0,,Então por que você rasgou 
 Dialogue: 5,0:29:24.79,0:29:25.70,Secondary-207+,,0,0,0,,Sim.
 Dialogue: 5,0:29:27.70,0:29:29.71,Main-207+,,0,0,0,,{Her lipstick mark was unpleasant.}Suas marcas de batom me deixaram desconfortável.
 Dialogue: 5,0:29:29.71,0:29:32.45,Main-207+,,0,0,0,,{L}A velha Kokoro e eu bebemos há muito tempo.
-Dialogue: 5,0:29:32.45,0:29:35.90,Main-207+,,0,0,0,,{Well.\N.\N.\Nthat being said, Kaku has\Nalready gone to make an assessment.\N}Hum, deixando isso de lado, Kaku já saiu para fazer uma avaliação.
+Dialogue: 5,0:29:32.45,0:29:35.90,Main-207+,,0,0,0,,{Well...\Nthat being said, Kaku has\Nalready gone to make an assessment.\N}Hum, deixando isso de lado, Kaku já saiu para fazer uma avaliação.
 Dialogue: 5,0:29:35.90,0:29:38.42,Main-207+,,0,0,0,,{The matter is already in progress. Don't worry.}O assunto está bem encaminhado. Não se preocupe.
 Dialogue: 5,0:29:40.48,0:29:43.01,Main-207+,,0,0,0,,{It's a boring day today anyway.}Eu estava entediado hoje de qualquer maneira.
 Dialogue: 5,0:29:43.01,0:29:44.69,Main-207+,,0,0,0,,{Shall I show you around the factory?}Quer um tour pelo estaleiro?
@@ -479,7 +479,7 @@ Dialogue: 5,0:30:13.36,0:30:16.91,Main-207+,,0,0,0,,Acabou! Não consigo encontr
 Dialogue: 5,0:30:14.19,0:30:16.91,Secondary-207+,,0,0,0,,Hum? Huh?
 Dialogue: 5,0:30:17.46,0:30:18.83,Main-207+,,0,0,0,,{Ahh!}
 Dialogue: 5,0:30:18.83,0:30:21.15,Main-207+,,0,0,0,,Ahh! Lá!
-Dialogue: 5,0:30:27.80,0:30:31.31,Main-207+,,0,0,0,,{H.\N.\N.\NHey, you bastards!\NWho the\Nhell are you?\N!\NWho are you?\N!\N}E-Ei, seus bandidos!\NQuem diabos é você?\N!\NQuem é você?\N!
+Dialogue: 5,0:30:27.80,0:30:31.31,Main-207+,,0,0,0,,{H...\NHey, you bastards!\NWho the\Nhell are you?!\NWho are you?!\N}E-Ei, seus bandidos!\NQuem diabos é você?!\NQuem é você?!
 Dialogue: 5,0:30:31.31,0:30:33.90,Main-207+,,0,0,0,,Por que você está pegando nosso dinheiro?!
 Dialogue: 5,0:30:33.90,0:30:36.77,Main-207+,,0,0,0,,Ei! Espere!
 Dialogue: 5,0:30:38.33,0:30:39.73,Main-207+,,0,0,0,,{money!}Obrigado pela massa!

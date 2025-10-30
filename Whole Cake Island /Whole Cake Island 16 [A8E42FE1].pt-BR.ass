@@ -235,7 +235,7 @@ Dialogue: 0,0:02:22.78,0:02:25.96,Main,,0,0,0,,Isso significa que suas almas est
 Dialogue: 0,0:02:32.29,0:02:35.00,Main,,0,0,0,,Terminamos nossa inspeção, mamãe!
 Dialogue: 0,0:02:36.02,0:02:39.90,Main,,0,0,0,,Ele não está escondendo nada em suas roupas!
 Dialogue: 0,0:02:41.44,0:02:44.85,Main,,0,0,0,,E ele não tem nada neste tubo!
-Dialogue: 0,0:02:44.85,0:02:48.19,Main,,0,0,0,,– Nem na sua espada de bengala.\N.\N.\N– E nem dentro da sua capa.
+Dialogue: 0,0:02:44.85,0:02:48.19,Main,,0,0,0,,– Nem na sua espada de bengala...\N– E nem dentro da sua capa.
 Dialogue: 0,0:02:48.19,0:02:49.88,Main,,0,0,0,,Ele não tem nada!
 Dialogue: 0,0:02:49.88,0:02:54.32,Main,,0,0,0,,Ele não roubou nada!
 Dialogue: 0,0:02:56.96,0:03:00.32,Main,,0,0,0,,É bom ouvir isso, Soul King.
@@ -332,7 +332,7 @@ Dialogue: 0,0:09:51.65,0:09:54.15,Main,,0,0,0,,Responda-me se você estiver aqui
 Dialogue: 0,0:09:54.15,0:09:56.36,Main,,0,0,0,,Pare, Chapéu de Palha!
 Dialogue: 0,0:09:56.74,0:09:58.45,Main,,0,0,0,,Sanji!
 Dialogue: 0,0:09:58.45,0:09:59.82,Main,,0,0,0,,Ei!
-Dialogue: 0,0:09:59.82,0:10:04.46,Main,,0,0,0,,Tenho uma coisa para te contar!\NOnde você está?\N!
+Dialogue: 0,0:09:59.82,0:10:04.46,Main,,0,0,0,,Tenho uma coisa para te contar!\NOnde você está?!
 Dialogue: 0,0:10:04.46,0:10:07.62,Main,,0,0,0,,Você tem que me ouvir!
 Dialogue: 0,0:10:09.33,0:10:11.71,Main,,0,0,0,,Ai, ai, ai...
 Dialogue: 0,0:10:17.39,0:10:19.55,Main,,0,0,0,,Para onde foi o Chapéu de Palha?
@@ -344,7 +344,7 @@ Dialogue: 0,0:10:40.41,0:10:43.37,Main,,0,0,0,,Você é... irmã do Sanji!
 Dialogue: 0,0:10:43.37,0:10:44.36,Main,,0,0,0,,Isso está correto.
 Dialogue: 0,0:10:44.36,0:10:47.58,Main,,0,0,0,,O que você quer? Estou com pressa aqui!
 Dialogue: 0,0:10:47.58,0:10:52.50,Main,,0,0,0,,Você está procurando por Sanji, não é?\NVocê simplesmente sentiu falta dele.
-Dialogue: 0,0:10:52.50,0:10:55.88,Main,,0,0,0,,O que?\NRealmente?\N!\NPara onde ele foi?\N!
+Dialogue: 0,0:10:52.50,0:10:55.88,Main,,0,0,0,,O que?\NRealmente?!\NPara onde ele foi?!
 Dialogue: 0,0:10:55.88,0:10:59.22,Main,,0,0,0,,Pudim mentiu para nós!
 Dialogue: 0,0:10:59.22,0:11:03.98,Main,,0,0,0,,Pudding, com quem Sanji pensa que vai se casar... me disse que ela iria matá-lo!
 Dialogue: 0,0:11:05.06,0:11:08.77,Main,,0,0,0,,Você está bem? Você se machucou?
@@ -433,13 +433,13 @@ Dialogue: 0,0:18:10.95,0:18:14.98,Main,,0,0,0,,Eles provavelmente estão bêbado
 Dialogue: 0,0:18:14.98,0:18:19.80,Main,,0,0,0,,Bom... Mas Reiju estava me investigando.
 Dialogue: 0,0:18:19.80,0:18:24.16,Main,,0,0,0,,Ela é uma pessoa muito esperta.\NAinda bem que cuidei dela.
 Dialogue: 0,0:18:25.56,0:18:28.37,Main,,0,0,0,,O que? Você não a matou, certo?!
-Dialogue: 0,0:18:28.37,0:18:32.60,Main,,0,0,0,,Vamos, mamãe!\NVocê não confia em mim?\N!\NAcabei de atirar na perna dela!
+Dialogue: 0,0:18:28.37,0:18:32.60,Main,,0,0,0,,Vamos, mamãe!\NVocê não confia em mim?!\NAcabei de atirar na perna dela!
 Dialogue: 0,0:18:32.60,0:18:35.55,Main,,0,0,0,,Eu atirei nela uma vez e depois apaguei suas memórias.
 Dialogue: 0,0:18:35.55,0:18:39.09,Thoughts,,0,0,0,,Eu não posso acreditar nisso.
 Dialogue: 0,0:18:42.55,0:18:47.35,Thoughts,,0,0,0,,{\i1}Pudim-san? Você não é uma garota doce?
 Dialogue: 0,0:18:48.85,0:18:53.20,Main,,0,0,0,,Você precisa ter cuidado. Você é minha preciosa noiva.
 Dialogue: 0,0:18:53.20,0:18:56.51,Main,,0,0,0,,Seria um grande problema se ela tentasse se vingar.
-Dialogue: 0,0:18:56.51,0:19:01.03,Main,,0,0,0,,Obrigado pela sua preocupação, mamãe.\NMas.\N.\N.
+Dialogue: 0,0:18:56.51,0:19:01.03,Main,,0,0,0,,Obrigado pela sua preocupação, mamãe.\NMas...
 Dialogue: 0,0:19:01.03,0:19:04.49,Main,,0,0,0,,... graças a ela, pude testar esta arma.
 Dialogue: 0,0:19:05.22,0:19:11.62,Main,,0,0,0,,Com esta arma, mesmo os corpos modificados de Germa não terão chance.
 Dialogue: 0,0:19:14.11,0:19:16.34,Main,,0,0,0,,Isso é ótimo, muito bom.
@@ -471,7 +471,7 @@ Dialogue: 0,0:21:12.04,0:21:15.46,Main,,0,0,0,,Assim que perderem seu líder in�
 Dialogue: 0,0:21:16.37,0:21:22.20,Main,,0,0,0,,... toda a Germa pertencerá a mim!
 Dialogue: 0,0:21:24.34,0:21:26.80,Captions,,0,0,0,,{\fad(200,250)}Espelho-Mundo
 Dialogue: 0,0:21:26.80,0:21:28.84,Main,,0,0,0,,Você está bem, Chobro?
-Dialogue: 0,0:21:29.47,0:21:33.34,Main,,0,0,0,,Eu não posso acreditar!\NEstamos dentro do espelho?\N!
+Dialogue: 0,0:21:29.47,0:21:33.34,Main,,0,0,0,,Eu não posso acreditar!\NEstamos dentro do espelho?!
 Dialogue: 0,0:21:33.34,0:21:37.74,Main,,0,0,0,,Jinbei! Por que você está com esses ratos?!
 Dialogue: 0,0:21:37.74,0:21:39.11,Main,,0,0,0,,Brulée.
 Dialogue: 0,0:21:39.11,0:21:42.36,Main,,0,0,0,,Isto é obviamente traição.
@@ -487,8 +487,8 @@ Dialogue: 0,0:22:25.39,0:22:31.05,Main,,0,0,0,,Aqueles que giram essa coisa cert
 Dialogue: 0,0:22:31.05,0:22:33.20,Main,,0,0,0,,Então está fraudado?!
 Dialogue: 0,0:22:35.41,0:22:40.42,Main,,0,0,0,,Claro que é, seus idiotas!\NMamãe nunca deixaria ninguém sair vivo!
 Dialogue: 0,0:22:40.42,0:22:43.17,Main,,0,0,0,,Quer seja um pequeno intruso...
-Dialogue: 0,0:22:43.17,0:22:47.67,Main,,0,0,0,,.\N.\N.\Nou um pirata afiliado que já foi leal!
-Dialogue: 0,0:22:47.67,0:22:53.34,Main,,0,0,0,,Ela acolhe todos que vêm para esta terra.\N.\N.\Ne mata quem sai!
+Dialogue: 0,0:22:43.17,0:22:47.67,Main,,0,0,0,,...\Nou um pirata afiliado que já foi leal!
+Dialogue: 0,0:22:47.67,0:22:53.34,Main,,0,0,0,,Ela acolhe todos que vêm para esta terra...\Ne mata quem sai!
 Dialogue: 0,0:22:53.34,0:22:54.65,Main,,0,0,0,,Essa é da mamãe-
 Dialogue: 0,0:22:54.65,0:22:56.06,Main,,0,0,0,,Não temos tempo para isso!
 Dialogue: 0,0:22:59.76,0:23:03.92,Main,,0,0,0,,Vamos continuar andando!\NPrecisamos encontrar Brook, Luffy e Sanji!
@@ -510,10 +510,10 @@ Dialogue: 0,0:24:12.38,0:24:13.71,Main,,0,0,0,,Não toque nisso!
 Dialogue: 0,0:24:13.71,0:24:17.82,Main,,0,0,0,,E o Pedro estava no pátio do terceiro andar quando se explodiu, certo?
 Dialogue: 0,0:24:17.82,0:24:19.64,Main,,0,0,0,,{\i1}Na verdade, cock-a-doo.
 Dialogue: 0,0:24:20.04,0:24:21.65,Main,,0,0,0,,São dois cuidados.
-Dialogue: 0,0:24:21.65,0:24:26.68,Main,,0,0,0,,E dos quatro que entraram na Floresta da Sedução.\N.\N.\No coelho e o cachorro-guaxinim.\N.\N.
-Dialogue: 0,0:24:26.68,0:24:31.44,Main,,0,0,0,,.\N.\N.\Nforam capturados pela Big Sis Brûlée.\NEla nos informou disso hoje cedo.
-Dialogue: 0,0:24:32.32,0:24:37.16,Main,,0,0,0,,Isso significa que cuidamos de quatro dos seis.\NIsso deixa.\N.\N.
-Dialogue: 0,0:24:39.41,0:24:44.98,Main,,0,0,0,,.\N.\N.\Nos dois que derrotaram o Big Brother Cracker e escaparam da Floresta Sedutora.
+Dialogue: 0,0:24:21.65,0:24:26.68,Main,,0,0,0,,E dos quatro que entraram na Floresta da Sedução...\No coelho e o cachorro-guaxinim...
+Dialogue: 0,0:24:26.68,0:24:31.44,Main,,0,0,0,,...\Nforam capturados pela Big Sis Brûlée.\NEla nos informou disso hoje cedo.
+Dialogue: 0,0:24:32.32,0:24:37.16,Main,,0,0,0,,Isso significa que cuidamos de quatro dos seis.\NIsso deixa...
+Dialogue: 0,0:24:39.41,0:24:44.98,Main,,0,0,0,,...\Nos dois que derrotaram o Big Brother Cracker e escaparam da Floresta Sedutora.
 Dialogue: 0,0:24:44.98,0:24:50.34,Main,,0,0,0,,Eles foram definitivamente presos na Biblioteca Prisional subterrânea.
 Dialogue: 0,0:24:52.34,0:24:56.01,Main,,0,0,0,,Então, por que estamos recebendo relatos de que eles escaparam?
 Dialogue: 0,0:25:05.75,0:25:09.40,Main,,0,0,0,,Apenas um de nós estava na Biblioteca da Prisão.

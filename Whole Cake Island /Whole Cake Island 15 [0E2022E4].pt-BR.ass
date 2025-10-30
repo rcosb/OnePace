@@ -287,7 +287,7 @@ Dialogue: 0,0:03:43.28,0:03:45.57,Main,,0,0,0,,"Vamos nos casar!"
 Dialogue: 0,0:03:47.24,0:03:49.62,Main,,0,0,0,,"Vamos nos casar!"
 Dialogue: 0,0:03:49.62,0:03:52.63,Main,,0,0,0,,Pare com isso! Eu não consigo respirar!
 Dialogue: 0,0:03:53.87,0:03:54.79,Main,,0,0,0,,Ei.
-Dialogue: 0,0:03:54.79,0:03:59.37,Main,,0,0,0,,É uma proposta tão patética, não acham?\N!
+Dialogue: 0,0:03:54.79,0:03:59.37,Main,,0,0,0,,É uma proposta tão patética, não acham?!
 Dialogue: 0,0:04:06.17,0:04:08.56,Main,,0,0,0,,Ah, foi tão engraçado!
 Dialogue: 0,0:04:08.56,0:04:14.61,Main,,0,0,0,,Quem no mundo se casaria com um fracassado como ele?!
 Dialogue: 0,0:04:22.14,0:04:28.08,Main,,0,0,0,,Não poderia ter sido pelo menos um príncipe de verdade?
@@ -302,7 +302,7 @@ Dialogue: 0,0:07:24.78,0:07:29.80,Main,,0,0,0,,Isso é mais importante para voc�
 Dialogue: 0,0:07:29.80,0:07:31.42,Main,,0,0,0,,Sim.
 Dialogue: 0,0:07:33.59,0:07:37.79,Main,,0,0,0,,{\i1}Sanji-san é um homem gentil.
 Dialogue: 0,0:07:38.76,0:07:43.92,Main,,0,0,0,,Foi por isso que pensei que ele nunca mais voltaria.
-Dialogue: 0,0:07:43.92,0:07:47.81,Main,,0,0,0,,Não sei que tipo de armadilha você armou para ele.\N.\N.
+Dialogue: 0,0:07:43.92,0:07:47.81,Main,,0,0,0,,Não sei que tipo de armadilha você armou para ele...
 Dialogue: 0,0:07:49.69,0:07:53.22,Main,,0,0,0,,... mas ele é um homem extremamente gentil,
 Dialogue: 0,0:07:53.22,0:07:58.70,Main,,0,0,0,,então, uma vez que ele tenha decidido se sacrificar por alguém, ele não mudará de ideia!
 Dialogue: 0,0:07:58.70,0:08:04.34,Main,,0,0,0,,E o nosso capitão, ao mesmo tempo, é alguém que sempre confia nas suas próprias crenças quando age!
@@ -377,7 +377,7 @@ Dialogue: 0,0:13:19.15,0:13:22.73,Main,,0,0,0,,Você levou um tiro na perna, mas
 Dialogue: 0,0:13:22.73,0:13:24.58,Main,,0,0,0,,Você é inutilmente durão!
 Dialogue: 0,0:13:27.73,0:13:29.98,Main,,0,0,0,,Ela está certa!
 Dialogue: 0,0:13:31.49,0:13:33.97,Main,,0,0,0,,Agora vou colar uma tira de memória
-Dialogue: 0,0:13:33.97,0:13:37.62,Main,,0,0,0,,de um dos soldados que foi baleado por uma bala perdida aqui e.\N.\N.
+Dialogue: 0,0:13:33.97,0:13:37.62,Main,,0,0,0,,de um dos soldados que foi baleado por uma bala perdida aqui e...
 Dialogue: 0,0:13:43.71,0:13:45.50,Main,,0,0,0,,Tudo pronto!
 Dialogue: 0,0:13:47.06,0:13:50.51,Main,,0,0,0,,Suas memórias mais recentes envolvendo mim foram cortadas.
 Dialogue: 0,0:13:50.51,0:13:53.43,Main,,0,0,0,,Vamos ter um casamento alegre amanhã.
@@ -439,7 +439,7 @@ Dialogue: 0,0:18:10.81,0:18:11.94,Main,,0,0,0,,Sanji!
 Dialogue: 0,0:18:14.19,0:18:16.39,Main,,0,0,0,,machuquei minha perna...
 Dialogue: 0,0:18:17.15,0:18:20.19,Main,,0,0,0,,Você se lembra como isso aconteceu?
 Dialogue: 0,0:18:23.03,0:18:25.61,Main,,0,0,0,,Eu estava andando pelo castelo,
-Dialogue: 0,0:18:25.61,0:18:29.49,Main,,0,0,0,,e então me deparei com soldados que estavam perseguindo intrusos.\N.\N.
+Dialogue: 0,0:18:25.61,0:18:29.49,Main,,0,0,0,,e então me deparei com soldados que estavam perseguindo intrusos...
 Dialogue: 0,0:18:30.08,0:18:32.92,Main,,0,0,0,,... e fui atacado, suponho?
 Dialogue: 0,0:18:32.92,0:18:36.54,Main,,0,0,0,,Isso não faz sentido, não é?\NClaro que não.
 Dialogue: 0,0:18:36.54,0:18:38.83,Main,,0,0,0,,Suas memórias foram substituídas.
@@ -449,7 +449,7 @@ Dialogue: 0,0:18:47.01,0:18:50.27,Captions,,0,30,1,,{\fad(250,250)}Biblioteca Pr
 Dialogue: 0,0:18:50.27,0:18:53.72,Main,,0,0,0,,Os livros podem ser destruídos pelo fogo.
 Dialogue: 0,0:18:53.72,0:18:57.23,Main,,0,0,0,,Você vai queimar a gaiola?\NIsso é uma boa ideia?
 Dialogue: 0,0:18:57.23,0:19:02.02,Main,,0,0,0,,Sim, mas só se vocês dois conseguirem sair de lá antes de pegar fogo.
-Dialogue: 0,0:19:02.02,0:19:04.69,Main,,0,0,0,,- Tudo bem.\NFaça isso!\N– Tão rápido?\N!
+Dialogue: 0,0:19:02.02,0:19:04.69,Main,,0,0,0,,- Tudo bem.\NFaça isso!\N– Tão rápido?!
 Dialogue: 0,0:19:04.69,0:19:07.40,Main,,0,0,0,,Não, ainda não estou pronto!
 Dialogue: 0,0:19:09.20,0:19:12.03,Main,,0,0,0,,Nós realmente vamos queimar!
 Dialogue: 0,0:19:12.03,0:19:14.62,Main,,0,0,0,,Queime já!
@@ -457,7 +457,7 @@ Dialogue: 0,0:19:15.25,0:19:16.45,Main,,0,0,0,,Tudo bem!
 Dialogue: 0,0:19:20.75,0:19:21.88,Main,,0,0,0,,Ai!
 Dialogue: 0,0:19:21.88,0:19:24.17,Main,,0,0,0,,Se apresse! Luffy! Nami!
 Dialogue: 0,0:19:39.94,0:19:43.11,Main,,0,0,0,,Nós saímos!
-Dialogue: 0,0:19:45.49,0:19:50.61,Main,,0,0,0,,Sinto que já passei por algo assim antes.\N.\N.
+Dialogue: 0,0:19:45.49,0:19:50.61,Main,,0,0,0,,Sinto que já passei por algo assim antes...
 Dialogue: 0,0:19:50.61,0:19:53.83,Main,,0,0,0,,Sinto muito, vocês dois.
 Dialogue: 0,0:19:55.08,0:19:58.79,Main,,0,0,0,,Graças a você, não precisei rasgar meus braços!
 Dialogue: 0,0:19:58.79,0:20:02.67,Main,,0,0,0,,Pensando bem, nós nos conhecemos...
@@ -475,7 +475,7 @@ Dialogue: 0,0:20:51.13,0:20:52.45,Main,,0,0,0,,O que? Tudo bem?
 Dialogue: 0,0:20:52.45,0:20:56.36,Main,,0,0,0,,Na Ilha dos Tritões, você disse que tinha outras obrigações.
 Dialogue: 0,0:20:56.36,0:20:58.32,Main,,0,0,0,,Eu apenas cuidei deles.
 Dialogue: 0,0:20:58.32,0:21:01.47,Main,,0,0,0,,Alguém ouviu gritos vindos da Biblioteca da Prisão!
-Dialogue: 0,0:21:01.47,0:21:04.44,Main,,0,0,0,,– O que está acontecendo?\N!\N– Eles já notaram!
+Dialogue: 0,0:21:01.47,0:21:04.44,Main,,0,0,0,,– O que está acontecendo?!\N– Eles já notaram!
 Dialogue: 0,0:21:04.44,0:21:06.62,Main,,0,0,0,,Eles são realmente rápidos.
 Dialogue: 0,0:21:06.62,0:21:10.99,Main,,0,0,0,,Primeiro, temos que nos esconder num lugar onde não possam nos encontrar.
 Dialogue: 0,0:21:10.99,0:21:13.89,Main,,0,0,0,,- Sim.\N– Vamos então!
@@ -499,7 +499,7 @@ Dialogue: 0,0:22:19.98,0:22:22.21,Main,,0,0,0,,As coisas não podem piorar!
 Dialogue: 0,0:22:22.21,0:22:27.10,Main,,0,0,0,,Estávamos todos enganados!\NSanji também!\NEu tenho que deixá-lo saber!
 Dialogue: 0,0:22:27.10,0:22:29.82,Main,,0,0,0,,Cuide de Nami, Jinbei!
 Dialogue: 0,0:22:29.82,0:22:33.70,Main,,0,0,0,,Luffy, espere!\NExistem muitos inimigos difíceis no castelo!
-Dialogue: 0,0:22:33.70,0:22:38.74,Main,,0,0,0,,E você não está totalmente recuperado!\NVocê não se lembra do que aconteceu esta manhã?\N!
+Dialogue: 0,0:22:33.70,0:22:38.74,Main,,0,0,0,,E você não está totalmente recuperado!\NVocê não se lembra do que aconteceu esta manhã?!
 Dialogue: 0,0:22:38.74,0:22:41.73,Main,,0,0,0,,Eu não vou ser derrotado desta vez!
 Dialogue: 0,0:22:55.25,0:22:58.94,Captions,,0,0,0,,{\pos(1150,405)}Sala Médica
 Dialogue: 0,0:22:58.94,0:23:00.40,Main,,0,0,0,,Você acredita em mim?
@@ -524,7 +524,7 @@ Dialogue: 0,0:24:14.04,0:24:17.84,Main,,0,0,0,,Ah, você está preocupado comigo
 Dialogue: 0,0:24:21.43,0:24:24.88,Main,,0,0,0,,Este é o problema das memórias antigas.
 Dialogue: 0,0:24:24.88,0:24:28.52,Main,,0,0,0,,Você não precisa pensar que está em dívida comigo por ajudá-lo naquela vez.
 Dialogue: 0,0:24:29.98,0:24:33.52,Main,,0,0,0,,Deixe esta ilha com os Chapéus de Palha, Sanji.
-Dialogue: 0,0:24:33.52,0:24:37.98,Main,,0,0,0,,Huh?\N!\NEu não posso fazer isso!\NSe eu fizer isso, o que acontecerá com o Baratie?
+Dialogue: 0,0:24:33.52,0:24:37.98,Main,,0,0,0,,Huh?!\NEu não posso fazer isso!\NSe eu fizer isso, o que acontecerá com o Baratie?
 Dialogue: 0,0:24:37.98,0:24:41.44,Main,,0,0,0,,Você pode se preocupar com isso depois de escapar.
 Dialogue: 0,0:24:41.44,0:24:43.80,Main,,0,0,0,,Se você ficar aqui, todo mundo morrerá.
 Dialogue: 0,0:24:43.80,0:24:48.24,Main,,0,0,0,,Sanji, você não pode morrer.\NPelo bem de nossa mãe!
@@ -537,7 +537,7 @@ Dialogue: 0,0:25:11.27,0:25:16.48,Main,,0,0,0,,Sempre me perguntei por que nossa
 Dialogue: 0,0:25:16.48,0:25:19.86,Main,,0,0,0,,Mas fez sentido muito mais tarde.
 Dialogue: 0,0:25:20.82,0:25:24.42,Main,,0,0,0,,Quando nossa mãe estava grávida de vocês quatro...
 Dialogue: 0,0:25:24.42,0:25:30.26,Main,,0,0,0,,... ela era fortemente contra transformar vocês em máquinas sem emoções.
-Dialogue: 0,0:25:30.75,0:25:33.26,Flashbacks,,0,0,0,,- Você está falando sério?\N!\N– Claro que estou!
+Dialogue: 0,0:25:30.75,0:25:33.26,Flashbacks,,0,0,0,,- Você está falando sério?!\N– Claro que estou!
 Dialogue: 0,0:25:33.26,0:25:36.27,Flashbacks,,0,0,0,,Como você pode querer fazer uma coisa tão horrível?
 Dialogue: 0,0:25:36.27,0:25:39.13,Flashbacks,,0,0,0,,A sala de cirurgia está pronta.
 Dialogue: 0,0:25:39.13,0:25:42.19,Flashbacks,,0,0,0,,{\i1}Não faça isso! Eles também são meus filhos!
@@ -560,7 +560,7 @@ Dialogue: 0,0:27:05.38,0:27:07.13,Flashbacks,,0,0,0,,Eu não posso acreditar!
 Dialogue: 0,0:27:10.55,0:27:13.43,Flashbacks,,0,0,0,,– A cirurgia foi um sucesso.\N- Ótimo!
 Dialogue: 0,0:27:13.43,0:27:19.71,Flashbacks,,0,0,0,,Não se preocupe!\NSeus projetos genéticos não serão afetados por alguma droga.
 Dialogue: 0,0:27:28.75,0:27:30.71,Flashbacks,,0,0,0,,Vamos jogar!
-Dialogue: 0,0:27:30.71,0:27:34.93,Flashbacks,,0,0,0,,{\i1}Mas é estranho.\NSomente Sanji-sama é.\N.\N.
+Dialogue: 0,0:27:30.71,0:27:34.93,Flashbacks,,0,0,0,,{\i1}Mas é estranho.\NSomente Sanji-sama é...
 Dialogue: 0,0:27:34.93,0:27:40.10,Flashbacks,,0,0,0,,Isso não pode estar certo.\NVamos zelar pelo seu crescimento.
 Dialogue: 0,0:27:55.22,0:27:59.28,Flashbacks,,0,0,0,,Está com fome? Aguentar.
 Dialogue: 0,0:27:59.28,0:28:00.48,Flashbacks,,0,0,0,,Aqui.
@@ -617,7 +617,7 @@ Dialogue: 0,0:31:46.08,0:31:48.71,Main,,0,0,0,,{\an8}Sanji!
 Dialogue: 0,0:31:46.20,0:31:48.71,Captions,,0,0,0,,{\fad(500,0)}Chateau Whole Cake – Segundo Andar
 Dialogue: 0,0:31:49.08,0:31:53.09,Captions,,0,0,0,,{\pos(633,544)}Em frente à porta do repositório do tesouro
 Dialogue: 0,0:31:50.37,0:31:53.09,Main,,0,0,0,,{\an8}O que?! Outro problema?
-Dialogue: 0,0:31:53.09,0:31:56.67,Main,,0,0,0,,Sim, senhora.\NBoss Jinbe está no castelo e.\N.\N.
+Dialogue: 0,0:31:53.09,0:31:56.67,Main,,0,0,0,,Sim, senhora.\NBoss Jinbe está no castelo e...
 Dialogue: 0,0:31:56.67,0:31:58.52,Main,,0,0,0,,Ele não está se rebelando, está?
 Dialogue: 0,0:31:58.52,0:32:01.72,Main,,0,0,0,,Tudo bem, envie esta mensagem para todos os soldados.
 Dialogue: 0,0:32:01.72,0:32:03.22,Main,,0,0,0,,OK.
@@ -656,7 +656,7 @@ Dialogue: 0,0:33:59.34,0:34:03.89,Main,,0,0,0,,Duvido que ela tenha algum intere
 Dialogue: 0,0:34:05.10,0:34:10.34,Main,,0,0,0,,Pai e nossos irmãos são aqueles que estão ameaçando fazer refém aquele restaurante marítimo...
 Dialogue: 0,0:34:10.34,0:34:11.98,Main,,0,0,0,,... e eles estarão mortos amanhã, de qualquer maneira.
 Dialogue: 0,0:34:12.52,0:34:17.11,Main,,0,0,0,,É exatamente o que merecemos, já que não passamos de um bando de assassinos.
-Dialogue: 0,0:34:17.61,0:34:22.87,Main,,0,0,0,,{\i1}Meu rancor é deles, mas por que você tem que morrer também?\N!
+Dialogue: 0,0:34:17.61,0:34:22.87,Main,,0,0,0,,{\i1}Meu rancor é deles, mas por que você tem que morrer também?!
 Dialogue: 0,0:34:23.57,0:34:26.44,Main,,0,0,0,,Ainda tenho minhas emoções...
 Dialogue: 0,0:34:26.44,0:34:31.53,Main,,0,0,0,,mas ainda sou um ser modificado que não pode desobedecer às ordens do pai.
 Dialogue: 0,0:34:32.41,0:34:34.34,Main,,0,0,0,,Minhas mãos também estão manchadas de sangue.

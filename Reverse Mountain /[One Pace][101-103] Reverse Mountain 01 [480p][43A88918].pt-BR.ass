@@ -41,7 +41,7 @@ Dialogue: 0,0:00:09.11,0:00:11.66,OP2 Credits,,0,0,0,,{\pos(850,32.\N143)\fad(30
 Dialogue: 0,0:00:11.66,0:00:14.67,OP2 Credits,,0,0,0,,{\pos(961.\N429,32.\N143)\fad(300,300)}Cronometragem Sewil
 Dialogue: 0,0:00:14.67,0:00:17.46,OP2 Credits,,0,0,0,,{\pos(961.\N429,32.\N143)\fad(300,300)}Verificação de qualidade Galaxy 9000 Alasta
 Dialogue: 0,0:00:13.11,0:00:14.65,Narrator,,0,0,0,,{\i1}Testamento herdado...
-Dialogue: 0,0:00:14.65,0:00:17.55,Narrator,,0,0,0,,{\i1}A maré dos tempos.\N.\N.\NOs sonhos das pessoas.\N.\N.
+Dialogue: 0,0:00:14.65,0:00:17.55,Narrator,,0,0,0,,{\i1}A maré dos tempos...\NOs sonhos das pessoas...
 Dialogue: 0,0:00:17.55,0:00:20.39,Narrator,,0,0,0,,{\i1}Estas coisas não podem ser interrompidas.
 Dialogue: 0,0:00:20.39,0:00:23.49,Narrator,,0,0,0,,{\i1}Enquanto as pessoas procurarem a resposta da liberdade,
 Dialogue: 0,0:00:23.49,0:00:26.12,Narrator,,0,0,0,,{\i1}essas coisas nunca deixarão de existir!
@@ -62,14 +62,14 @@ Dialogue: 0,0:01:40.37,0:01:45.90,OP2 Lyrics,,0,0,0,,{\i1}Acredite no país das 
 Dialogue: 0,0:01:54.57,0:01:56.87,Main,,0,0,0,,A Marinha não está nos seguindo!
 Dialogue: 0,0:01:56.87,0:01:59.91,Main,,0,0,0,,O Capitão Usopp os assustou?
 Dialogue: 0,0:01:59.91,0:02:03.25,Main,,0,0,0,,Incrível!\NIncrível!\NExatamente como você esperaria do nosso navegador!
-Dialogue: 0,0:02:03.25,0:02:06.84,Main,,0,0,0,,{\i1}Muito bem, Nami-san.\NE pensar que você detectou tal vento de antemão.\N.\N.
+Dialogue: 0,0:02:03.25,0:02:06.84,Main,,0,0,0,,{\i1}Muito bem, Nami-san.\NE pensar que você detectou tal vento de antemão...
 Dialogue: 0,0:02:07.78,0:02:09.42,Main,,0,0,0,,O que há de errado, Zoro?
 Dialogue: 0,0:02:09.42,0:02:11.79,Main,,0,0,0,,Você está com uma expressão séria no rosto há algum tempo.
 Dialogue: 0,0:02:11.79,0:02:14.46,Main,,0,0,0,,Bem, espero que seja apenas minha imaginação.
 Dialogue: 0,0:02:14.46,0:02:15.46,Main,,0,0,0,,O que é?
 Dialogue: 0,0:02:15.46,0:02:20.12,Main,,0,0,0,,Sinto que este navio não se move há algum tempo.
 Dialogue: 0,0:02:24.13,0:02:26.14,Main,,0,0,0,,O que?
-Dialogue: 0,0:02:26.14,0:02:29.86,Main,,0,0,0,,Pensando bem, a vela não está pegando nenhum vento.\N.\N.
+Dialogue: 0,0:02:26.14,0:02:29.86,Main,,0,0,0,,Pensando bem, a vela não está pegando nenhum vento...
 Dialogue: 0,0:02:29.86,0:02:33.27,Title,,0,0,260,,{\fad(83,267)}Montanha reversa
 Dialogue: 0,0:02:31.87,0:02:33.77,Main,,0,0,0,,{\i1}Ah!
 Dialogue: 0,0:02:33.77,0:02:35.19,Main,,0,0,0,,O que há de errado, Nami?
@@ -125,7 +125,7 @@ Dialogue: 0,0:05:09.98,0:05:13.64,Main,,0,0,0,,{\i1}Nami-san! Tenho um relato de
 Dialogue: 0,0:05:14.04,0:05:16.59,Main,,0,0,0,,Vejo grandes nuvens de chuva à frente!
 Dialogue: 0,0:05:17.18,0:05:18.99,Main,,0,0,0,,Há uma tempestade embaixo deles!
 Dialogue: 0,0:05:18.99,0:05:21.78,Main,,0,0,0,,Parece que estamos de volta ao nosso curso original...
-Dialogue: 0,0:05:22.28,0:05:25.57,Main,,0,0,0,,Devemos ver a Linha Vermelha a qualquer momento.\N.\N.
+Dialogue: 0,0:05:22.28,0:05:25.57,Main,,0,0,0,,Devemos ver a Linha Vermelha a qualquer momento...
 Dialogue: 0,0:05:31.71,0:05:32.91,Main,,0,0,0,,Veja isso!
 Dialogue: 0,0:05:33.73,0:05:36.98,Main,,0,0,0,,Eu ouvi rumores sobre isso e também está desenhado neste mapa!
 Dialogue: 0,0:05:36.98,0:05:41.28,Main,,0,0,0,,Se for verdade, então a entrada da Grand Line é uma montanha!
@@ -157,14 +157,14 @@ Dialogue: 0,0:06:40.05,0:06:44.12,Main,,0,0,0,,Ver?\NA luz guia estava definitiv
 Dialogue: 0,0:06:44.12,0:06:46.79,Main,,0,0,0,,na Linha Vermelha... Montanha Reversa!
 Dialogue: 0,0:06:46.79,0:06:49.56,Main,,0,0,0,,Ei! Ajudinha aqui!
 Dialogue: 0,0:06:49.56,0:06:51.70,Main,,0,0,0,,Vê esses canais aqui?
-Dialogue: 0,0:06:51.70,0:06:57.07,Main,,0,0,0,,Se as principais correntes dos quatro oceanos fluírem todas em direção a esta montanha.\N.\N.
+Dialogue: 0,0:06:51.70,0:06:57.07,Main,,0,0,0,,Se as principais correntes dos quatro oceanos fluírem todas em direção a esta montanha...
 Dialogue: 0,0:06:58.50,0:07:02.61,Main,,0,0,0,,Então as quatro correntes subiriam por esses canais, colidiriam no topo,
 Dialogue: 0,0:07:02.61,0:07:04.70,Main,,0,0,0,,e depois flua para a Grand Line!
 Dialogue: 0,0:07:05.14,0:07:07.39,Main,,0,0,0,,Reverse Mountain é uma "ilha de inverno",
 Dialogue: 0,0:07:07.39,0:07:10.11,Main,,0,0,0,,Portanto, quaisquer correntes que colidam na Linha Vermelha
 Dialogue: 0,0:07:10.11,0:07:12.80,Main,,0,0,0,,cairá da superfície para as profundezas.
-Dialogue: 0,0:07:12.80,0:07:15.11,Main,,0,0,0,,Se errarmos e perdermos a entrada do canal.\N.\N.
-Dialogue: 0,0:07:16.06,0:07:18.62,Main,,0,0,0,,.\N.\N.\No Going Merry vai bater na rocha da Linha Vermelha.\N.\N.
+Dialogue: 0,0:07:12.80,0:07:15.11,Main,,0,0,0,,Se errarmos e perdermos a entrada do canal...
+Dialogue: 0,0:07:16.06,0:07:18.62,Main,,0,0,0,,...\No Going Merry vai bater na rocha da Linha Vermelha...
 Dialogue: 0,0:07:21.15,0:07:22.95,Main,,0,0,0,,...e fique destruído!
 Dialogue: 0,0:07:23.94,0:07:26.56,Main,,0,0,0,,{\i1}E então estaríamos no fundo do oceano.\NEntender?
 Dialogue: 0,0:07:26.99,0:07:30.06,Main,,0,0,0,,Então, basicamente, é uma montanha misteriosa!
@@ -256,13 +256,13 @@ Dialogue: 0,0:14:17.80,0:14:19.65,Main,,0,0,0,,Pode ser isso...
 Dialogue: 0,0:14:21.66,0:14:24.19,Main,,0,0,0,,Meu assento especial...!
 Dialogue: 0,0:14:34.28,0:14:36.95,Main,,0,0,0,,Vamos sair daqui antes que seja tarde demais!!
 Dialogue: 0,0:14:36.95,0:14:38.95,Main,,0,0,0,,O que diabos está acontecendo?!
-Dialogue: 0,0:14:38.95,0:14:41.28,Main,,0,0,0,,Ele não percebeu o ataque do canhão porque seu corpo era muito grande?\N!
+Dialogue: 0,0:14:38.95,0:14:41.28,Main,,0,0,0,,Ele não percebeu o ataque do canhão porque seu corpo era muito grande?!
 Dialogue: 0,0:14:41.28,0:14:42.95,Main,,0,0,0,,Ou ele é apenas lento?!
-Dialogue: 0,0:14:42.95,0:14:45.08,Main,,0,0,0,,Quem sabe?\N!\NDe qualquer forma, vamos sair daqui agora!
+Dialogue: 0,0:14:42.95,0:14:45.08,Main,,0,0,0,,Quem sabe?!\NDe qualquer forma, vamos sair daqui agora!
 Dialogue: 0,0:14:49.44,0:14:51.63,Main,,0,0,0,,Ahhhhh! Meus ouvidos doem!
 Dialogue: 0,0:14:51.63,0:14:53.30,Main,,0,0,0,,Remo! É só remar!!
 Dialogue: 0,0:14:53.30,0:14:54.74,Main,,0,0,0,,Temos que nos afastar dele!
-Dialogue: 0,0:15:01.60,0:15:07.34,Main,,0,0,0,,Você.\N.\N.\N!\NO que diabos você fez com meu assento especial?\N!
+Dialogue: 0,0:15:01.60,0:15:07.34,Main,,0,0,0,,Você...!\NO que diabos você fez com meu assento especial?!
 Dialogue: 0,0:15:08.61,0:15:11.91,Main,,0,0,0,,Idiota!!
 Dialogue: 0,0:15:18.66,0:15:21.17,Main,,0,0,0,,Como foi isso?! Vamos lá, seu bastardo!
 Dialogue: 0,0:15:21.57,0:15:23.63,Main,,0,0,0,,Cale a boca já, seu idiota!
@@ -274,7 +274,7 @@ Dialogue: 0,0:16:19.70,0:16:21.93,Main,,0,0,0,,Todos foram comidos...
 Dialogue: 0,0:16:23.77,0:16:26.44,Main,,0,0,0,,Ei você!\NCuspa-os!\NDevolva todos para mim!
 Dialogue: 0,0:16:26.44,0:16:29.20,Main,,0,0,0,,Cuspa-os!\NEstou dizendo para devolvê-los!
 Dialogue: 0,0:16:30.78,0:16:33.71,Main,,0,0,0,,Você...! Você...! Seu idiota!
-Dialogue: 0,0:16:33.71,0:16:35.78,Main,,0,0,0,,Você está mergulhando na água, não está?\N!\NPare com isso!
+Dialogue: 0,0:16:33.71,0:16:35.78,Main,,0,0,0,,Você está mergulhando na água, não está?!\NPare com isso!
 Dialogue: 0,0:16:35.78,0:16:39.12,Main,,0,0,0,,Ei! Estou dizendo para você parar! Ei!
 Dialogue: 0,0:16:39.12,0:16:41.45,Main,,0,0,0,,Por favor, aguarde! Devolva meus amigos!
 Dialogue: 0,0:16:41.45,0:16:44.39,Main,,0,0,0,,Ei! Eu disse para parar com isso!
@@ -285,7 +285,7 @@ Dialogue: 0,0:17:12.75,0:17:14.75,Main,,0,0,0,,O que você acha...?
 Dialogue: 0,0:17:14.75,0:17:16.75,Main,,0,0,0,,O que eu acho...?
 Dialogue: 0,0:17:16.75,0:17:18.42,Main,,0,0,0,,Como devo pensar...?
 Dialogue: 0,0:17:18.42,0:17:20.42,Main,,0,0,0,,H-h-h-h-como...
-Dialogue: 0,0:17:20.42,0:17:24.12,Main,,0,0,0,,Eu tinha certeza que fomos engolidos pela baleia.\N.\N.
+Dialogue: 0,0:17:20.42,0:17:24.12,Main,,0,0,0,,Eu tinha certeza que fomos engolidos pela baleia...
 Dialogue: 0,0:17:26.10,0:17:27.77,Main,,0,0,0,,Isso é um sonho?
 Dialogue: 0,0:17:27.77,0:17:31.07,Main,,0,0,0,,Sim, provavelmente é um sonho.
 Dialogue: 0,0:17:36.11,0:17:38.58,Main,,0,0,0,,Então, o que a ilha e a casa estão fazendo lá?
@@ -299,14 +299,14 @@ Dialogue: 0,0:18:18.82,0:18:21.75,Main,,0,0,0,,Luffy também foi a algum lugar.\
 Dialogue: 0,0:18:24.19,0:18:25.86,Main,,0,0,0,,O que diabos é isso?
 Dialogue: 0,0:18:25.86,0:18:29.59,Main,,0,0,0,,Por que existe uma porta e uma passagem em uma baleia?
 Dialogue: 0,0:18:32.86,0:18:33.52,Main,,0,0,0,,Um navio...
-Dialogue: 0,0:18:33.97,0:18:38.20,Main,,0,0,0,,Sh-sh-sh-vamos disparar o canhão naquela ilha?\N!
+Dialogue: 0,0:18:33.97,0:18:38.20,Main,,0,0,0,,Sh-sh-sh-vamos disparar o canhão naquela ilha?!
 Dialogue: 0,0:18:38.20,0:18:41.14,Main,,0,0,0,,Não, espere um segundo...
 Dialogue: 0,0:18:41.14,0:18:43.00,Main,,0,0,0,,Alguém está saindo...
-Dialogue: 0,0:18:59.64,0:19:02.24,Main,,0,0,0,,--Ah?\N!\NÉ uma flor!\N--Uma flor?
+Dialogue: 0,0:18:59.64,0:19:02.24,Main,,0,0,0,,--Ah?!\NÉ uma flor!\N--Uma flor?
 Dialogue: 0,0:19:06.70,0:19:08.65,Main,,0,0,0,,Ah, não importa. É uma pessoa.
 Dialogue: 0,0:19:08.65,0:19:10.25,Main,,0,0,0,,O que ele é?
-Dialogue: 0,0:19:10.25,0:19:13.59,Main,,0,0,0,,Aquele velho matou um Grande Rei Lula com um único golpe.\N.\N.
-Dialogue: 0,0:19:13.59,0:19:18.10,Main,,0,0,0,,Ele estava apenas pescando.\N.\N.\Nou fez isso para nos salvar.\N.\N.\N?
+Dialogue: 0,0:19:10.25,0:19:13.59,Main,,0,0,0,,Aquele velho matou um Grande Rei Lula com um único golpe...
+Dialogue: 0,0:19:13.59,0:19:18.10,Main,,0,0,0,,Ele estava apenas pescando...\Nou fez isso para nos salvar...?
 Dialogue: 0,0:19:46.07,0:19:48.27,Main,,0,0,0,,Diga alguma coisa, seu idiota!
 Dialogue: 0,0:19:51.27,0:19:54.05,Main,,0,0,0,,E-se você quiser lutar, nós lutaremos, seu desgraçado!
 Dialogue: 0,0:19:54.05,0:19:55.94,Main,,0,0,0,,Temos canhões!
@@ -320,10 +320,10 @@ Dialogue: 0,0:20:22.94,0:20:27.71,Main,,0,0,0,,Ei, velho.\NDiga-nos onde estamos
 Dialogue: 0,0:20:27.93,0:20:30.15,Main,,0,0,0,,Ao fazer uma pergunta a alguém,
 Dialogue: 0,0:20:30.15,0:20:33.81,Main,,0,0,0,,não é correto dar seu nome primeiro?
 Dialogue: 0,0:20:34.30,0:20:38.52,Main,,0,0,0,,Hum? Sim, bom ponto. Desculpe.
-Dialogue: 0,0:20:38.52,0:20:41.43,Main,,0,0,0,,--Meu nome é Roronoa.\N.\N.\N--Meu nome é Crocus.
+Dialogue: 0,0:20:38.52,0:20:41.43,Main,,0,0,0,,--Meu nome é Roronoa...\N--Meu nome é Crocus.
 Dialogue: 0,0:20:41.43,0:20:44.50,Main,,0,0,0,,Sou o faroleiro de Twin Capes.
 Dialogue: 0,0:20:44.50,0:20:46.83,Main,,0,0,0,,Tenho 71 anos e sou geminiano.
-Dialogue: 0,0:20:46.83,0:20:47.83,Main,,0,0,0,,--Posso cortá-lo?\N!\N--Meu tipo sanguíneo é AB.
+Dialogue: 0,0:20:46.83,0:20:47.83,Main,,0,0,0,,--Posso cortá-lo?!\N--Meu tipo sanguíneo é AB.
 Dialogue: 0,0:20:47.83,0:20:49.17,Main,,0,0,0,,--Agora, acalme-se.\N--Meu tipo sanguíneo é AB.
 Dialogue: 0,0:20:49.17,0:20:51.84,Main,,0,0,0,,Você está perguntando onde estamos?
 Dialogue: 0,0:20:51.84,0:20:58.94,Main,,0,0,0,,Como você ousa falar quando invadiu meu resort particular?
@@ -337,12 +337,12 @@ Dialogue: 0,0:21:25.14,0:21:27.81,Main,,0,0,0,,Vocês não apreciam uma piada de
 Dialogue: 0,0:21:27.81,0:21:28.81,Main,,0,0,0,,Isso foi uma piada?!
 Dialogue: 0,0:21:28.81,0:21:30.56,Main,,0,0,0,,A saída é ali.
 Dialogue: 0,0:21:30.56,0:21:31.74,Main,,0,0,0,,Podemos sair?!
-Dialogue: 0,0:21:32.87,0:21:36.21,Main,,0,0,0,,Espere um segundo!\NPor que existe uma saída na barriga da baleia?\N!
+Dialogue: 0,0:21:32.87,0:21:36.21,Main,,0,0,0,,Espere um segundo!\NPor que existe uma saída na barriga da baleia?!
 Dialogue: 0,0:21:36.78,0:21:38.78,Main,,0,0,0,,Por que a porta está no céu?!
-Dialogue: 0,0:21:38.78,0:21:46.46,Main,,0,0,0,,Espere.\N.\N.\NOlhe com atenção.\N.\N.\NEsse céu.\N.\N.\NAquelas gaivotas.\N.\N.
+Dialogue: 0,0:21:38.78,0:21:46.46,Main,,0,0,0,,Espere...\NOlhe com atenção...\NEsse céu...\NAquelas gaivotas...
 Dialogue: 0,0:21:46.46,0:21:49.92,Main,,0,0,0,,Estão todos pintados!\NÉ tudo uma pintura dentro do estômago da baleia!
 Dialogue: 0,0:21:49.92,0:21:51.78,Main,,0,0,0,,Chame isso de mente brincalhona de médico.
-Dialogue: 0,0:21:51.78,0:21:54.11,Main,,0,0,0,,Seu bastardo!\NO que diabos você está fazendo aqui?\N!
+Dialogue: 0,0:21:51.78,0:21:54.11,Main,,0,0,0,,Seu bastardo!\NO que diabos você está fazendo aqui?!
 Dialogue: 0,0:21:54.11,0:21:55.63,Main,,0,0,0,,Isso é o suficiente. Deixe-o em paz.
 Dialogue: 0,0:21:56.00,0:21:58.67,Main,,0,0,0,,Nami!\NHá uma saída, então vamos sair daqui já.
 Dialogue: 0,0:21:58.67,0:22:00.14,Main,,0,0,0,,Sim.
@@ -361,7 +361,7 @@ Dialogue: 0,0:22:39.56,0:22:41.79,Main,,0,0,0,,Ele também estava uivando para o
 Dialogue: 0,0:22:41.79,0:22:42.94,Main,,0,0,0,,O que isso significa?
 Dialogue: 0,0:22:44.23,0:22:45.44,Main,,0,0,0,,Ele está sofrendo!
 Dialogue: 0,0:22:52.74,0:22:56.08,Main,,0,0,0,,Eu vejo!\NEntão é isso que aquele velhote está tentando fazer!
-Dialogue: 0,0:22:56.08,0:23:00.07,Main,,0,0,0,,Provavelmente.\N.\N.\NEle provavelmente está tentando matar a baleia de dentro do corpo!
+Dialogue: 0,0:22:56.08,0:23:00.07,Main,,0,0,0,,Provavelmente...\NEle provavelmente está tentando matar a baleia de dentro do corpo!
 Dialogue: 0,0:23:00.07,0:23:00.97,Main,,0,0,0,,Agora...
 Dialogue: 0,0:23:00.97,0:23:03.25,Main,,0,0,0,,Que maneira cruel de matá-lo...!
 Dialogue: 0,0:23:03.25,0:23:05.52,Main,,0,0,0,,Agora que o mistério foi resolvido, é hora de se apressar e sair.
@@ -370,7 +370,7 @@ Dialogue: 0,0:23:08.52,0:23:11.19,Main,,0,0,0,,Não temos nada a dizer sobre sua
 Dialogue: 0,0:23:11.19,0:23:13.34,Main,,0,0,0,,nem temos a obrigação de salvar a baleia.
 Dialogue: 0,0:23:13.86,0:23:15.21,Main,,0,0,0,,Vamos sair daqui.
 Dialogue: 0,0:23:20.95,0:23:25.29,Main,,0,0,0,,Ahh!\NDroga!\NCom as ondas surgindo assim,
-Dialogue: 0,0:23:25.29,0:23:27.63,Main,,0,0,0,,Não sei se conseguiremos alcançar as portas.\N.\N.
+Dialogue: 0,0:23:25.29,0:23:27.63,Main,,0,0,0,,Não sei se conseguiremos alcançar as portas...
 Dialogue: 0,0:23:27.63,0:23:29.96,Main,,0,0,0,,Não temos outra escolha senão remar!\NPegue os minérios!
 Dialogue: 0,0:23:29.96,0:23:32.70,Main,,0,0,0,,Vamos embora rápido!\NEstou preocupado com Luffy.
 Dialogue: 0,0:23:32.70,0:23:36.79,Main,,0,0,0,,Ele está lá fora!\NEu o vi voar pela boca!
@@ -404,12 +404,12 @@ Dialogue: 0,0:25:36.61,0:25:40.95,Main,,0,0,0,,Isso não é bom, senhorita Wedne
 Dialogue: 0,0:25:42.62,0:25:43.29,Main,,0,0,0,,Luffy?
 Dialogue: 0,0:25:43.29,0:25:45.95,Main,,0,0,0,,Ei! Então estão todos bem?
 Dialogue: 0,0:25:46.96,0:25:49.89,Main,,0,0,0,,De qualquer forma, me ajude!
-Dialogue: 0,0:25:53.97,0:25:57.57,Main,,0,0,0,,Além de Luffy.\N.\N.\Nhá dois esquisitos.\N.\N.
+Dialogue: 0,0:25:53.97,0:25:57.57,Main,,0,0,0,,Além de Luffy...\Nhá dois esquisitos...
 Dialogue: 0,0:25:57.57,0:25:59.57,Main,,0,0,0,,Ei! Aquele velho desapareceu!
 Dialogue: 0,0:25:59.57,0:26:02.67,Main,,0,0,0,,Não se preocupe! Por enquanto, vamos salvar Luffy!
 Dialogue: 0,0:26:17.59,0:26:20.06,Main,,0,0,0,,Pare com isso, Laboon.
 Dialogue: 0,0:26:20.06,0:26:23.06,Main,,0,0,0,,Não se machuque mais.
-Dialogue: 0,0:26:23.06,0:26:27.75,Main,,0,0,0,,Só resta um pouco de sedativo.\Ntenho que fazer mais.\N.\N.
+Dialogue: 0,0:26:23.06,0:26:27.75,Main,,0,0,0,,Só resta um pouco de sedativo.\Ntenho que fazer mais...
 Dialogue: 0,0:26:30.60,0:26:33.94,Main,,0,0,0,,Esse muro divide os oceanos do mundo.
 Dialogue: 0,0:26:33.94,0:26:39.61,Main,,0,0,0,,Mesmo se você bater até morrer, ele não quebrará, Laboon.
 Dialogue: 0,0:26:43.95,0:26:47.15,Main,,0,0,0,,Já se acalmou.\NA baleia está quieta agora.
@@ -417,7 +417,7 @@ Dialogue: 0,0:26:47.15,0:26:51.62,Main,,0,0,0,,Parece que sim. Agora...
 Dialogue: 0,0:26:51.62,0:26:55.96,Main,,0,0,0,,Nós salvamos vocês por enquanto, mas quem são vocês?
 Dialogue: 0,0:26:55.96,0:26:58.96,Main,,0,0,0,,Sr. 9, eles são piratas.
 Dialogue: 0,0:26:58.96,0:27:01.63,Main,,0,0,0,,Eu-eu sei, senhorita Wednesday.
-Dialogue: 0,0:27:01.63,0:27:06.64,Main,,0,0,0,,M-mas se falarmos com eles, eles deveriam entender.\N.\N.\Ntalvez.\N.\N.
+Dialogue: 0,0:27:01.63,0:27:06.64,Main,,0,0,0,,M-mas se falarmos com eles, eles deveriam entender...\Ntalvez...
 Dialogue: 0,0:27:06.64,0:27:09.31,Main,,0,0,0,,Vocês, bandidos, ainda estão por aí?!
 Dialogue: 0,0:27:09.31,0:27:12.58,Main,,0,0,0,,--Huh?\N-Não me faça dizer isso de novo!
 Dialogue: 0,0:27:12.58,0:27:17.38,Main,,0,0,0,,Não vou deixar você encostar um dedo em Laboon enquanto eu estiver vivo!
@@ -430,8 +430,8 @@ Dialogue: 0,0:27:30.48,0:27:33.33,Main,,0,0,0,,Não vamos deixar você interferi
 Dialogue: 0,0:27:33.33,0:27:36.83,Main,,0,0,0,,Abriremos uma saída de ar no estômago dele!\NVamos, querido!
 Dialogue: 0,0:27:36.83,0:27:37.82,Main,,0,0,0,,Rogério!
 Dialogue: 0,0:27:43.57,0:27:45.67,Main,,0,0,0,,Ah! Bastardos!
-Dialogue: 0,0:27:49.98,0:27:52.18,Main,,0,0,0,,Aquele pop pulou direto nas balas.\N.\N.\N!
-Dialogue: 0,0:27:52.18,0:27:55.48,Main,,0,0,0,,Será que.\N.\N.\Nele protegeu a baleia?\N!
+Dialogue: 0,0:27:49.98,0:27:52.18,Main,,0,0,0,,Aquele pop pulou direto nas balas...!
+Dialogue: 0,0:27:52.18,0:27:55.48,Main,,0,0,0,,Será que...\Nele protegeu a baleia?!
 Dialogue: 0,0:27:58.29,0:27:59.62,Main,,0,0,0,,Pare com essa resistência inútil!
 Dialogue: 0,0:27:59.62,0:28:02.63,Main,,0,0,0,,Se você quer tanto proteger a baleia, vá em frente.
 Dialogue: 0,0:28:02.63,0:28:06.32,Main,,0,0,0,,Vamos transformá-lo em alimento para nossa cidade!
@@ -448,7 +448,7 @@ Dialogue: 0,0:28:43.10,0:28:46.27,Main,,0,0,0,,--Eles são bandidos de uma cidad
 Dialogue: 0,0:28:46.27,0:28:48.71,Main,,0,0,0,,--Eles estão atrás de carne de baleia.\N--O que você está tentando fazer?
 Dialogue: 0,0:28:48.71,0:28:49.04,Main,,0,0,0,,-Pertence a outra pessoa.\N--O que você está tentando fazer?
 Dialogue: 0,0:28:49.04,0:28:51.31,Main,,0,0,0,,-Pertence a outra pessoa.\N--Se eles capturarem Laboon,
-Dialogue: 0,0:28:51.31,0:28:55.01,Main,,0,0,0,,pode alimentar as pessoas da cidade por pelo menos 2-3 anos, então.\N.\N.
+Dialogue: 0,0:28:51.31,0:28:55.01,Main,,0,0,0,,pode alimentar as pessoas da cidade por pelo menos 2-3 anos, então...
 Dialogue: 0,0:28:55.38,0:28:56.38,Main,,0,0,0,,Labão?
 Dialogue: 0,0:28:56.38,0:28:59.05,Main,,0,0,0,,É o nome desta baleia.
 Dialogue: 0,0:28:59.05,0:29:03.89,Main,,0,0,0,,É a maior baleia do mundo, chamada de Ilha Baleia,
@@ -471,7 +471,7 @@ Dialogue: 0,0:30:18.38,0:30:24.05,Main,,0,0,0,,As baleias insulares geralmente v
 Dialogue: 0,0:30:24.05,0:30:29.39,Main,,0,0,0,,mas suspeito que Laboon sentiu que era membro daquele grupo pirata.
 Dialogue: 0,0:30:29.39,0:30:34.40,Main,,0,0,0,,Desde que o navio deles quebrou, eles permaneceram no cabo por vários meses.
 Dialogue: 0,0:30:34.40,0:30:37.95,Main,,0,0,0,,Então nos tornamos bons amigos.
-Dialogue: 0,0:30:37.95,0:30:41.27,Main,,0,0,0,,Por causa disso, no dia da partida deles.\N.\N.
+Dialogue: 0,0:30:37.95,0:30:41.27,Main,,0,0,0,,Por causa disso, no dia da partida deles...
 Dialogue: 0,0:30:41.27,0:30:43.60,Flashbacks,,0,0,0,,Tenho um favor a pedir, pois confio em você.
 Dialogue: 0,0:30:43.60,0:30:46.61,Flashbacks,,0,0,0,,Você poderia cuidar dele por 2-3 anos?
 Dialogue: 0,0:30:46.61,0:30:51.28,Flashbacks,,0,0,0,,Daremos a volta ao mundo e definitivamente voltaremos aqui.

@@ -89,7 +89,7 @@ Dialogue: 10,0:02:57.79,0:03:00.86,Main,,0,0,0,,Agora, onde devo sentar?
 Dialogue: 10,0:03:00.86,0:03:02.78,Main,,0,0,0,,Você acabou de começar essa briga?!
 Dialogue: 10,0:03:02.78,0:03:05.03,Main,,0,0,0,,Isso não é permitido! Você está desclassificado!
 Dialogue: 10,0:03:05.03,0:03:06.20,Main,,0,0,0,,O que?!
-Dialogue: 10,0:03:06.20,0:03:08.77,Main,,0,0,0,,Não precisamos de hooligans como você causando brigas antes de uma partida.\N.\N.
+Dialogue: 10,0:03:06.20,0:03:08.77,Main,,0,0,0,,Não precisamos de hooligans como você causando brigas antes de uma partida...
 Dialogue: 10,0:03:11.66,0:03:13.27,Main,,0,0,0,,Ei, ei!
 Dialogue: 0,0:03:13.42,0:03:16.76,Captions,,0,0,210,,{\fad(300,450)}Família Chinjao da Gangue do País das Flores
 Dialogue: 10,0:03:14.65,0:03:16.76,Main,,0,0,0,,{\fad(0,450)\an8}Espere aí, seu idiota!
@@ -309,7 +309,7 @@ Dialogue: 10,0:14:56.50,0:14:58.38,Main,,0,0,0,,{\i1}Cidadão! Cidadão! Cidadã
 Dialogue: 10,0:14:58.38,0:15:00.70,Main,,0,0,0,,{\an8\i1}Cidadão! Cidadão! Cidadão! Cidadão!
 Dialogue: 0,0:14:59.19,0:15:03.78,Captions,,0,0,210,,{\fad(450,0)}Scene 1 "Corrida Colosseum"
 Dialogue: 10,0:15:00.70,0:15:03.78,Main,,0,0,0,,{\an8}Os Piratas do Barba Negra, hein?
-Dialogue: 10,0:15:03.78,0:15:08.32,Main,,0,0,0,,Eu esperava que Luffy vencesse isso com bastante facilidade, mas.\N.\N.
+Dialogue: 10,0:15:03.78,0:15:08.32,Main,,0,0,0,,Eu esperava que Luffy vencesse isso com bastante facilidade, mas...
 Dialogue: 10,0:15:08.32,0:15:10.76,Main,,0,0,0,,parece que pode ser um pouco mais difícil de fazer.
 Dialogue: 10,0:15:10.76,0:15:13.39,Main,,0,0,0,,Espero que ninguém descubra quem ele é.
 Dialogue: 10,0:15:13.39,0:15:15.76,Main,,0,0,0,,Agora, tenho trabalho a fazer.
@@ -364,11 +364,11 @@ Dialogue: 10,0:17:25.12,0:17:27.26,Main,,0,0,0,,{\an8}Sim, vamos lá.
 Dialogue: 10,0:17:27.26,0:17:29.49,Main,,0,0,0,,{\an8}E hum...
 Dialogue: 10,0:17:29.49,0:17:33.26,Main,,0,0,0,,Precisaremos de tantos médicos quanto pudermos.
 Dialogue: 10,0:17:33.26,0:17:35.83,Main,,0,0,0,,Não podemos ter vítimas.
-Dialogue: 10,0:17:35.83,0:17:40.46,Main,,0,0,0,,Também quero saber quantos espectadores há no Coliseu.\N.\N.
+Dialogue: 10,0:17:35.83,0:17:40.46,Main,,0,0,0,,Também quero saber quantos espectadores há no Coliseu...
 Dialogue: 10,0:17:40.46,0:17:43.02,Main,,0,0,0,,e a população desta cidade.
 Dialogue: 10,0:17:43.02,0:17:46.46,Main,,0,0,0,,Ok... Em vez dos números dos inimigos?
 Dialogue: 10,0:17:46.46,0:17:48.13,Main,,0,0,0,,É necessário?
-Dialogue: 10,0:17:48.90,0:17:55.85,Main,,0,0,0,,O que devemos considerar primeiro não é o número de inimigos.\N.\N.
+Dialogue: 10,0:17:48.90,0:17:55.85,Main,,0,0,0,,O que devemos considerar primeiro não é o número de inimigos...
 Dialogue: 10,0:17:55.85,0:18:00.32,Main,,0,0,0,,...mas a quantidade de pessoas que temos que proteger, não acha?
 Dialogue: 10,0:18:05.02,0:18:05.86,Main,,0,0,0,,Sim, senhor!
 Dialogue: 10,0:18:05.86,0:18:07.82,Main,,0,0,0,,Este é Maynard.
@@ -445,7 +445,7 @@ Dialogue: 0,0:22:24.99,0:22:25.96,Main,,0,0,0,,Error 500 (Server Error)!!1500.Th
 Dialogue: 0,0:22:25.96,0:22:28.13,Main,,0,0,0,,Estou certo?
 Dialogue: 0,0:22:29.08,0:22:31.46,Main,,0,0,0,,Agora, venha em silêncio!
 Dialogue: 0,0:22:31.46,0:22:35.30,Main,,0,0,0,,Se você se preocupa com a vida daquele Kanjuro que você está procurando!
-Dialogue: 0,0:22:39.29,0:22:43.47,Captions,,0,0,280,,Error 500 (Server Error)!\N!\N1500.\NThat’s an error.\NThere was an error.\NPlease try again later.\NThat’s all we know.
+Dialogue: 0,0:22:39.29,0:22:43.47,Captions,,0,0,280,,Error 500 (Server Error)!!\N1500.\NThat’s an error.\NThere was an error.\NPlease try again later.\NThat’s all we know.
 Dialogue: 0,0:22:43.96,0:22:46.51,Main,,0,0,0,,Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 Dialogue: 0,0:22:59.22,0:23:02.78,Main,,0,0,0,,{\i0}Violeta-chan!
 Dialogue: 0,0:23:02.78,0:23:06.00,Thoughts,,0,0,0,,Queridos Nami-san e Robin-chan.

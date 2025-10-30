@@ -107,7 +107,7 @@ Dialogue: 0,0:03:23.43,0:03:26.99,Main,Caribou,0,0,0,,você estava tentando pedi
 Dialogue: 0,0:03:28.48,0:03:29.74,Main,Pirate,0,0,0,,O que está acontecendo?
 Dialogue: 0,0:03:30.03,0:03:33.69,Main,Marine,0,0,0,,Eu não... estava prestes a fazer isso, mas...
 Dialogue: 0,0:03:33.69,0:03:38.17,Main,Caribou,0,0,0,,Eu não quero que você faça isso... De jeito nenhum!
-Dialogue: 0,0:03:38.17,0:03:42.85,Main,Caribou,0,0,0,,Se você fizesse isso, toda esta praça ficaria manchada de vermelho.\N.\N.
+Dialogue: 0,0:03:38.17,0:03:42.85,Main,Caribou,0,0,0,,Se você fizesse isso, toda esta praça ficaria manchada de vermelho...
 Dialogue: 0,0:03:42.85,0:03:46.62,Main,Caribou,0,0,0,,com o sangue da Marinha, claro!
 Dialogue: 0,0:03:46.62,0:03:50.15,Main,Caribou,0,0,0,,Não é mesmo, Coribou?
 Dialogue: 0,0:03:50.15,0:03:52.64,Main,Coribou,0,0,0,,Sinto muito, mano! Sinto muito!
@@ -120,7 +120,7 @@ Dialogue: 0,0:04:16.75,0:04:20.30,Main,Caribou,0,0,0,,Chega de brincadeira.
 Dialogue: 0,0:04:20.30,0:04:22.11,Main,Pirate,0,0,0,,Ele fez isso!
 Dialogue: 0,0:04:22.11,0:04:23.14,Main,Pirate,0,0,0,,Ele faz jus à sua reputação.
 Dialogue: 0,0:04:25.38,0:04:30.72,Main,Caribou,0,0,0,,Ah, Deus! Por favor, tenha misericórdia!
-Dialogue: 0,0:04:30.72,0:04:36.69,Main,Caribou,0,0,0,,Este fuzileiro naval tolo que sacou a arma e tentou me matar.\N.\N.
+Dialogue: 0,0:04:30.72,0:04:36.69,Main,Caribou,0,0,0,,Este fuzileiro naval tolo que sacou a arma e tentou me matar...
 Dialogue: 0,0:04:36.69,0:04:39.90,Main,Caribou,0,0,0,,Por favor, tenha piedade dele!
 Dialogue: 0,0:04:39.90,0:04:43.32,Main,Coribou,0,0,0,,{He technically adds the suffix "-suke" in both this line and the previous "Sorry, Bro!"-lines... Like, he techincally says "Sorry, Brosuke!" and "Sorry, Godsuke!"... But I'm not entirely sure what to do with that or if it would be better to just ignore it entirely.}Sinto muito, Deus! Sinto muito!
 Dialogue: 0,0:04:44.31,0:04:46.59,Main,Caribou,0,0,0,,Enterre-o, Coribou!
@@ -140,7 +140,7 @@ Dialogue: 0,0:05:27.16,0:05:33.13,Main,Not Luffy,0,0,0,,Um dia, quando eu me tor
 Dialogue: 0,0:05:34.67,0:05:40.14,Main,Not Luffy,0,0,0,,Tudo o que peço em troca é que vocês me apoiem nas minhas aventuras!
 Dialogue: 0,0:05:40.14,0:05:42.47,Main,Not Luffy,0,0,0,,Torne-se meus braços e pernas e lute por mim até cair morto!
 Dialogue: 0,0:05:44.18,0:05:45.84,Main,Pirate,0,0,0,,É como se eu estivesse sonhando!
-Dialogue: 0,0:05:45.84,0:05:52.02,Main,Pirate,0,0,0,,As três grandes instalações do Governo Mundial.\N.\N.\NEnies Lobby, Impel Down e QG da Marinha.
+Dialogue: 0,0:05:45.84,0:05:52.02,Main,Pirate,0,0,0,,As três grandes instalações do Governo Mundial...\NEnies Lobby, Impel Down e QG da Marinha.
 Dialogue: 0,0:05:52.02,0:05:58.26,Main,Pirate,0,0,0,,Ele enfrentou todos eles, diferente de qualquer outro pirata na história, e agora posso fazer parte de sua tripulação!
 Dialogue: 0,0:05:58.26,0:06:02.80,Main,Pirate,0,0,0,,Ele é definitivamente um dos candidatos a ser o próximo Rei dos Piratas!
 Dialogue: 0,0:06:02.80,0:06:05.20,Main,Pirate,0,0,0,,Isto é o que eles querem dizer com apostar no cavalo vencedor!
@@ -215,7 +215,7 @@ Dialogue: 0,0:10:31.83,0:10:34.56,Main,Usopp,0,0,0,,Não é?!
 Dialogue: 0,0:10:34.56,0:10:37.08,Main,Usopp,0,0,0,,Esse corpo é incrível!
 Dialogue: 0,0:10:37.08,0:10:41.12,Main,Chopper,0,0,0,,Você é um robô! Você pode atirar vigas? Mísseis?!
 Dialogue: 0,0:10:41.12,0:10:43.03,Main,Chopper,0,0,0,,Você consegue se fundir com alguma coisa?!
-Dialogue: 0,0:10:43.03,0:10:46.75,Main,Franky,0,0,0,,De fato!\NCarregando os sonhos e inspirações dos homens.\N.\N.
+Dialogue: 0,0:10:43.03,0:10:46.75,Main,Franky,0,0,0,,De fato!\NCarregando os sonhos e inspirações dos homens...
 Dialogue: 0,0:10:46.75,0:10:49.77,Main,Franky,0,0,0,,Ele agora começa a se mover!
 Dialogue: 0,0:10:49.77,0:10:51.94,Main,Franky,0,0,0,,O nome dele é...
 Dialogue: 0,0:10:53.36,0:10:55.60,Main,Franky,0,0,0,,{\i1}Blindado Eu!
@@ -252,7 +252,7 @@ Dialogue: 0,0:12:25.34,0:12:27.45,Main,Nami,0,0,0,,Rayleigh-san! Xadrez!
 Dialogue: 0,0:12:27.72,0:12:34.65,Main,Rayleigh,0,0,0,,Lamento interromper o seu reencontro, mas há problemas na ilha.
 Dialogue: 0,0:12:35.62,0:12:36.87,Main,Nami,0,0,0,,A Marinha?!
 Dialogue: 0,0:12:36.87,0:12:38.06,Main,Shakki,0,0,0,,Sim.
-Dialogue: 0,0:12:38.06,0:12:41.17,Main,Shakki,0,0,0,,Eles pensaram que o falso Monkey-chan e seu grupo eram reais.\N.\N.
+Dialogue: 0,0:12:38.06,0:12:41.17,Main,Shakki,0,0,0,,Eles pensaram que o falso Monkey-chan e seu grupo eram reais...
 Dialogue: 0,0:12:41.17,0:12:43.12,Main,Shakki,0,0,0,,então eles mobilizaram um enorme exército.
 Dialogue: 0,0:12:43.12,0:12:46.57,Main,Shakki,0,0,0,,Interceptamos as transmissões militares, então não pode haver dúvidas.
 Dialogue: 0,0:12:47.14,0:12:52.56,Main,Shakki,0,0,0,,Eu também contei a situação a Brook-chan, através do Snail Phone na sala de concertos.
@@ -356,12 +356,12 @@ Dialogue: 0,0:18:21.50,0:18:24.86,Main,Pacifista,0,0,0,,O pirata Chapéu de Palh
 Dialogue: 0,0:18:24.86,0:18:27.12,Main,Not Luffy,0,0,0,,O Pacifista?! Sério?!
 Dialogue: 0,0:18:27.10,0:18:28.89,Main,Not Luffy,0,0,0,,Eu sou o alvo deles?!
 Dialogue: 0,0:18:30.16,0:18:32.84,Main,Doughty,0,0,0,,O Pacifista, né? Interessante!
-Dialogue: 0,0:18:38.64,0:18:44.16,Main,Pacifista,0,0,0,,{ def: maybe "has been pacified.\N" eh?\Neh?\N!\N}Lip Service Doughty, o homem com a recompensa de 88 milhões de barrigas, foi eliminado.
+Dialogue: 0,0:18:38.64,0:18:44.16,Main,Pacifista,0,0,0,,{ def: maybe "has been pacified.\N" eh?\Neh?!\N}Lip Service Doughty, o homem com a recompensa de 88 milhões de barrigas, foi eliminado.
 Dialogue: 0,0:18:44.16,0:18:46.07,Main,Pirates,0,0,0,,{\i1}Capitão Doughty!
 Dialogue: 0,0:18:48.84,0:18:52.30,Main,Marine,0,0,0,,Siga o Pacifista! Capture os piratas!
 Dialogue: 0,0:18:52.30,0:18:53.20,Main,Marines,0,0,0,,Sim!
 Dialogue: 0,0:18:53.20,0:18:54.70,Main,Pirate,0,0,0,,Eles o pegaram com um único golpe!
-Dialogue: 0,0:18:54.70,0:18:57.71,Main,Pirate,0,0,0,,Como pode um homem que vale mais de 80 milhões estar completamente indefeso?\N!
+Dialogue: 0,0:18:54.70,0:18:57.71,Main,Pirate,0,0,0,,Como pode um homem que vale mais de 80 milhões estar completamente indefeso?!
 Dialogue: 0,0:18:57.71,0:18:58.90,Main,Not Franky,0,0,0,,Isso não é bom!
 Dialogue: 0,0:18:58.90,0:19:00.73,Main,Not Franky,0,0,0,,Capitão, onde você está indo?
 Dialogue: 0,0:19:01.80,0:19:02.60,Main,,0,0,0,,E-Ei!
@@ -404,7 +404,7 @@ Dialogue: 0,0:21:12.15,0:21:16.61,Main,Sentoumaru,0,0,0,,E por alguma coincidên
 Dialogue: 0,0:21:17.38,0:21:22.03,Main,Sentoumaru,0,0,0,,O PX-5 focou-se nele no momento em que entrámos nesta área.
 Dialogue: 0,0:21:22.03,0:21:24.36,Main,Sentoumaru,0,0,0,,Mire nele agora, PX-5!
 Dialogue: 0,0:21:35.09,0:21:36.11,Main,Luffy,0,0,0,,Isso foi perto!
-Dialogue: 0,0:21:39.18,0:21:43.43,Main,Luffy,0,0,0,,O que você está fazendo?\N!\NTenho muitos almoços valiosos guardados nesta mochila, você sabe!
+Dialogue: 0,0:21:39.18,0:21:43.43,Main,Luffy,0,0,0,,O que você está fazendo?!\NTenho muitos almoços valiosos guardados nesta mochila, você sabe!
 Dialogue: 0,0:21:45.97,0:21:48.76,Main,Pirate,0,0,0,,E-Essa é a mesma cara...
 Dialogue: 0,0:21:53.15,0:21:55.97,Main,Pirate,0,0,0,,{\i1}como aquele nos cartazes de procurados!
 Dialogue: 0,0:21:57.00,0:22:00.20,Main,Not Sanji,0,0,0,,Esse cara era o verdadeiro Chapéu de Palha!
@@ -540,7 +540,7 @@ Dialogue: 0,0:29:57.74,0:29:58.97,Secondary,Nami,0,0,0,,Espere, Luffy!
 Dialogue: 0,0:29:59.37,0:30:01.41,Main,Nami,0,0,0,,Não entendo nem um pouco como você está se sentindo, mas guarde para depois!
 Dialogue: 0,0:30:01.41,0:30:04.76,Main,Nami,0,0,0,,Acabei de receber um relatório dizendo que os navios de guerra estão quase chegando!
 Dialogue: 0,0:30:06.52,0:30:08.63,Main,Usopp,0,0,0,,{ def: telescope?  isn't that a step backwards from his magnifying goggles? }Caramba! Quando eles chegaram aqui?!
-Dialogue: 0,0:30:11.78,0:30:14.49,Main,Usopp,0,0,0,,Ei, vamos revidar ou o quê?\N!\NNós vamos ser mortos!
+Dialogue: 0,0:30:11.78,0:30:14.49,Main,Usopp,0,0,0,,Ei, vamos revidar ou o quê?!\NNós vamos ser mortos!
 Dialogue: 0,0:30:14.49,0:30:17.45,Main,Marine,0,0,0,,Fogo! Afunde-os!
 Dialogue: 0,0:30:19.19,0:30:20.19,Main,Hancock,0,0,0,,{\fad(150,150)}Escravo...
 Dialogue: 0,0:30:20.99,0:30:22.29,Main,Hancock,0,0,0,,{\fad(150,150)}Seta!
@@ -585,7 +585,7 @@ Dialogue: 0,0:32:14.58,0:32:16.66,Main,Chopper,0,0,0,,Tem algo errado, Usopp?
 Dialogue: 0,0:32:16.66,0:32:21.05,Main,Usopp,0,0,0,,Pensando bem, vocês eliminaram todos os fuzileiros navais das ilhas?
 Dialogue: 0,0:32:21.05,0:32:25.67,Main,Chopper,0,0,0,,Não... Ouvimos muitos fuzileiros navais gritando enquanto voávamos para cá.
 Dialogue: 0,0:32:26.35,0:32:30.47,Main,Usopp,0,0,0,,Mas ninguém nos está atacando pela costa.
-Dialogue: 0,0:32:32.26,0:32:35.41,Main,Marine,0,0,0,,Solicitando backup!\NEste é o 3º pelotão!\NVocê está me ouvindo?\N!
+Dialogue: 0,0:32:32.26,0:32:35.41,Main,Marine,0,0,0,,Solicitando backup!\NEste é o 3º pelotão!\NVocê está me ouvindo?!
 Dialogue: 0,0:32:36.85,0:32:38.60,Main,Snail,0,0,0,,O que é?! O que está acontecendo?!
 Dialogue: 0,0:32:38.60,0:32:41.44,Main,Marine,0,0,0,,É improvável que consigamos chegar ao Grove 42!
 Dialogue: 0,0:32:41.44,0:32:42.36,Main,Marine,0,0,0,,Por que?!
@@ -648,7 +648,7 @@ Dialogue: 0,0:36:06.31,0:36:08.03,Main,Luffy,0,0,0,,Estamos prontos para zarpar,
 Dialogue: 0,0:36:08.03,0:36:10.33,Main,Nami,0,0,0,,Sim. Dê a ordem, capitão.
 Dialogue: 0,0:36:13.65,0:36:14.96,Main,Luffy,0,0,0,,Bem, então...
 Dialogue: 0,0:36:15.99,0:36:17.78,Main,Luffy,0,0,0,,Vocês!
-Dialogue: 0,0:36:18.42,0:36:21.64,Main,Luffy,0,0,0,,Há muitas coisas sobre as quais eu queria falar com você.\N.\N.
+Dialogue: 0,0:36:18.42,0:36:21.64,Main,Luffy,0,0,0,,Há muitas coisas sobre as quais eu queria falar com você...
 Dialogue: 0,0:36:22.12,0:36:27.85,Main,Luffy,0,0,0,,Mas, por enquanto, direi apenas obrigado por acompanhar meu egoísmo nos últimos dois anos!
 Dialogue: 0,0:36:27.85,0:36:30.64,Main,Sanji,0,0,0,,Você está falando como se nunca tivéssemos lidado com seus caprichos malucos antes.
 Dialogue: 0,0:36:30.64,0:36:33.81,Main,Usopp,0,0,0,,Acertei! Você é sempre assim.

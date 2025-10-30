@@ -1856,7 +1856,7 @@ Dialogue: 0,0:03:22.46,0:03:25.47,Main,,0,0,0,,Mas isso é muito louco.\NO que e
 Dialogue: 0,0:03:29.02,0:03:31.84,Main,,0,0,0,,Este certamente se parece comigo.
 Dialogue: 0,0:03:31.84,0:03:36.48,Main,,0,0,0,,Isso seria fácil se os verdadeiros estivessem todos entre eles.
 Dialogue: 0,0:03:37.66,0:03:39.61,Main,,0,0,0,,Pois bem, foram vocês que se multiplicaram!
-Dialogue: 0,0:03:39.61,0:03:42.64,Main,,0,0,0,,{\i1}Não podemos multiplicar!\NQuer dizer, nós fizemos, mas.\N.\N.
+Dialogue: 0,0:03:39.61,0:03:42.64,Main,,0,0,0,,{\i1}Não podemos multiplicar!\NQuer dizer, nós fizemos, mas...
 Dialogue: 0,0:03:47.48,0:03:48.49,Main,,0,0,0,,Ei, você!
 Dialogue: 0,0:03:48.49,0:03:50.12,Main,,0,0,0,,O que?!
 Dialogue: 0,0:03:50.44,0:03:52.41,Main,,0,0,0,,Você sabe o que aconteceu, não é?
@@ -1867,12 +1867,12 @@ Dialogue: 0,0:04:00.62,0:04:03.94,Main,,0,0,0,,Fui atacado por você, Luffy!
 Dialogue: 0,0:04:03.94,0:04:04.89,Main,,0,0,0,,Por mim?!
 Dialogue: 0,0:04:04.89,0:04:11.11,Main,,0,0,0,,Tecnicamente, não foi você. Mas foi uma farsa com a qual tentamos escapar!
 Dialogue: 0,0:04:11.11,0:04:12.19,Main,,0,0,0,,O que você quer dizer?
-Dialogue: 0,0:04:14.96,0:04:20.74,Main,,0,0,0,,Então, aquele “Luffy” de repente se transformou em uma mulher gigante e nos atacou.\N.\N.
+Dialogue: 0,0:04:14.96,0:04:20.74,Main,,0,0,0,,Então, aquele “Luffy” de repente se transformou em uma mulher gigante e nos atacou...
 Dialogue: 0,0:04:27.93,0:04:28.97,Main,,0,0,0,,Solte-me!
 Dialogue: 0,0:04:28.97,0:04:30.24,Main,,0,0,0,,Quem é você-teia?!
 Dialogue: 0,0:04:30.95,0:04:33.96,Main,,0,0,0,,Eu sou Brûlée!
 Dialogue: 0,0:04:33.96,0:04:35.57,Main,,0,0,0,,Brûlée?
-Dialogue: 0,0:04:35.57,0:04:41.30,Main,,0,0,0,,Um coelho fofo e uma menina linda.\N.\N.\NQue legal.\N.\N.
+Dialogue: 0,0:04:35.57,0:04:41.30,Main,,0,0,0,,Um coelho fofo e uma menina linda...\NQue legal...
 Dialogue: 0,0:04:41.30,0:04:44.32,Main,,0,0,0,,Quando vejo aqueles rostos lindos...
 Dialogue: 0,0:04:44.96,0:04:48.39,Main,,0,0,0,,isso me dá vontade de arranhá-los!
 Dialogue: 0,0:04:50.22,0:04:51.69,Main,,0,0,0,,Nami!
@@ -2111,7 +2111,7 @@ Dialogue: 0,0:09:55.22,0:09:56.08,Chopper,,0,0,0,fx,{\an5\move(734,680,749,758)\
 Dialogue: 0,0:09:55.22,0:09:56.08,Chopper,,0,0,0,fx,{\an5\move(734,680,701,643)\1c&H8783D9&\3c&H8783D9&\blur0\bord0.5\fad(0,300)\fscy80\fscx80\\frx63\fry-95\frz-143\t(\frx-158\fry-107\frz33)}m 9 23 b 8 22 7 21 6 20 b 4 18 3 16 2 12 b 2 9 3 5 4 3 b 5 2 6 1 7 1 b 8 3 8 4 9 5 b 10 4 10 3 11 1 b 13 2 14 3 14 3 b 15 5 16 8 16 12 b 15 16 14 18 12 20 b 11 21 10 22 9 9 b 8 22 7 21 5 19 b 4 18 2 16 1 11 b 1 8 2 5 4 3 b 5 2 6 1 7 1 b 8 3 8 4 9 5 b 10 4 10 3 11 1 b 13 2 14 3 14 3 b 16 5 17 8 17 11 b 16 16 14 18 13 19 b 11 21 10 22 9 23
 Dialogue: 0,0:09:55.22,0:09:56.08,Chopper,,0,0,0,fx,{\an5\move(734,680,711,706)\1c&H8783D9&\3c&H8783D9&\blur0\bord0.5\fad(0,300)\fscy80\fscx80\\frx-156\fry69\frz-124\t(\frx125\fry-28\frz149)}m 9 23 b 8 22 7 21 6 20 b 4 18 3 16 2 12 b 2 9 3 5 4 3 b 5 2 6 1 7 1 b 8 3 8 4 9 5 b 10 4 10 3 11 1 b 13 2 14 3 14 3 b 15 5 16 8 16 12 b 15 16 14 18 12 20 b 11 21 10 22 9 9 b 8 22 7 21 5 19 b 4 18 2 16 1 11 b 1 8 2 5 4 3 b 5 2 6 1 7 1 b 8 3 8 4 9 5 b 10 4 10 3 11 1 b 13 2 14 3 14 3 b 16 5 17 8 17 11 b 16 16 14 18 13 19 b 11 21 10 22 9 23
 Dialogue: 0,0:09:55.22,0:09:56.08,Chopper,,0,0,0,fx,{\an5\move(734,680,691,650)\1c&H8783D9&\3c&H8783D9&\blur0\bord0.5\fad(0,300)\fscy80\fscx80\\frx-144\fry-108\frz129\t(\frx-38\fry3\frz43)}m 9 23 b 8 22 7 21 6 20 b 4 18 3 16 2 12 b 2 9 3 5 4 3 b 5 2 6 1 7 1 b 8 3 8 4 9 5 b 10 4 10 3 11 1 b 13 2 14 3 14 3 b 15 5 16 8 16 12 b 15 16 14 18 12 20 b 11 21 10 22 9 9 b 8 22 7 21 5 19 b 4 18 2 16 1 11 b 1 8 2 5 4 3 b 5 2 6 1 7 1 b 8 3 8 4 9 5 b 10 4 10 3 11 1 b 13 2 14 3 14 3 b 16 5 17 8 17 11 b 16 16 14 18 13 19 b 11 21 10 22 9 23
-Dialogue: 0,0:10:04.16,0:10:10.64,Main,,0,0,0,,Veja isso!\NVocê já era interessante, mas também consegue fazer isso?\N!
+Dialogue: 0,0:10:04.16,0:10:10.64,Main,,0,0,0,,Veja isso!\NVocê já era interessante, mas também consegue fazer isso?!
 Dialogue: 0,0:10:10.88,0:10:14.22,Main,,0,0,0,,Mamãe ficará feliz!
 Dialogue: 0,0:10:14.22,0:10:20.14,Main,,0,0,0,,Ela não coleciona apenas “todas as raças”. Ela coleciona os "malucos" também.
 Dialogue: 0,0:10:22.51,0:10:25.42,Main,,0,0,0,,Agora, pegue-os!
@@ -2122,15 +2122,15 @@ Dialogue: 0,0:10:45.87,0:10:48.59,Main,,0,0,0,,Aí eu continuei correndo...
 Dialogue: 0,0:10:48.59,0:10:51.88,Main,,0,0,0,,E procurei por você até escurecer...
 Dialogue: 0,0:10:51.88,0:10:55.69,Main,,0,0,0,,Eu vejo! Estou feliz que você me encontrou!
 Dialogue: 0,0:10:55.69,0:10:56.92,Main,,0,0,0,,Tudo bem!
-Dialogue: 0,0:10:57.92,0:11:01.22,Main,,0,0,0,,Vamos salvar Chopper e Carrot agora mesmo!\NOnde eles estão?\N!
+Dialogue: 0,0:10:57.92,0:11:01.22,Main,,0,0,0,,Vamos salvar Chopper e Carrot agora mesmo!\NOnde eles estão?!
 Dialogue: 0,0:11:01.22,0:11:02.73,Main,,0,0,0,,Bem aqui.
 Dialogue: 0,0:11:02.73,0:11:06.21,Main,,0,0,0,,Tudo isso aconteceu aqui mesmo.
 Dialogue: 0,0:11:06.21,0:11:11.57,Main,,0,0,0,,Mas agora, todos eles se foram.\NÉ por isso que estou perguntando a esse cara!
-Dialogue: 0,0:11:11.57,0:11:15.83,Main,,0,0,0,,Você estava assistindo o tempo todo!\NOnde está Chopper?\NE a Cenoura?\N!
+Dialogue: 0,0:11:11.57,0:11:15.83,Main,,0,0,0,,Você estava assistindo o tempo todo!\NOnde está Chopper?\NE a Cenoura?!
 Dialogue: 0,0:11:15.83,0:11:20.65,Main,,0,0,0,,Aquela senhora Brûlée e os monstros da floresta não mexeram com você de jeito nenhum!
 Dialogue: 0,0:11:20.91,0:11:23.11,Main,,0,0,0,,Isso significa que você é um deles!
-Dialogue: 0,0:11:23.93,0:11:28.16,Main,,0,0,0,,Um deles?\NBem, não somos inimigos.\N.\N.
-Dialogue: 0,0:11:28.16,0:11:33.79,Main,,0,0,0,,Oh!\NSe você quiser saber, traga-me um pouco de suco de maçã à minha esquerda.\N.\N.
+Dialogue: 0,0:11:23.93,0:11:28.16,Main,,0,0,0,,Um deles?\NBem, não somos inimigos...
+Dialogue: 0,0:11:28.16,0:11:33.79,Main,,0,0,0,,Oh!\NSe você quiser saber, traga-me um pouco de suco de maçã à minha esquerda...
 Dialogue: 0,0:11:33.79,0:11:35.71,Main,,0,0,0,,Não temos tempo para isso!
 Dialogue: 0,0:11:35.71,0:11:40.25,Main,,0,0,0,,Se você nos contar algo útil, claro, nós levaremos até você!
 Dialogue: 0,0:11:40.25,0:11:41.27,Main,,0,0,0,,Realmente?!
@@ -2147,17 +2147,17 @@ Dialogue: 0,0:12:18.03,0:12:21.62,Main,,0,0,0,,...até que eles concluam!
 Dialogue: 0,0:12:22.89,0:12:27.18,Main,,0,0,0,,Realmente? Então, por que eles pararam de me atacar?
 Dialogue: 0,0:12:29.14,0:12:32.61,Main,,0,0,0,,Quando eu venci um monte deles, eles me deixaram em paz também!
 Dialogue: 0,0:12:32.61,0:12:36.07,Main,,0,0,0,,Ei, como eles estão vivos, afinal?
-Dialogue: 0,0:12:36.07,0:12:40.22,Main,,0,0,0,,A cada seis meses, todos os residentes de Totto Land.\N.\N.
+Dialogue: 0,0:12:36.07,0:12:40.22,Main,,0,0,0,,A cada seis meses, todos os residentes de Totto Land...
 Dialogue: 0,0:12:40.22,0:12:44.07,Main,,0,0,0,,...deve pagar o valor de um mês da sua "alma"...
 Dialogue: 0,0:12:44.07,0:12:46.30,Main,,0,0,0,,para o reino, em troca de sua segurança.
 Dialogue: 0,0:12:46.30,0:12:47.25,Main,,0,0,0,,"Alma"?
 Dialogue: 0,0:12:47.25,0:12:50.74,Main,,0,0,0,,Sim, a vida útil deles, basicamente.
-Dialogue: 0,0:12:50.74,0:12:54.20,Main,,0,0,0,,Então as pessoas perdem dois meses de sua vida em um ano.\N.\N.
+Dialogue: 0,0:12:50.74,0:12:54.20,Main,,0,0,0,,Então as pessoas perdem dois meses de sua vida em um ano...
 Dialogue: 0,0:12:54.20,0:12:58.65,Main,,0,0,0,,...e um ano de vida para cada seis.
 Dialogue: 0,0:12:58.65,0:12:59.79,Main,,0,0,0,,Como isso é possível?
 Dialogue: 0,0:12:59.79,0:13:05.47,Main,,0,0,0,,Linlin, quero dizer, Big Mom comeu a fruta da alma.
 Dialogue: 0,0:13:08.08,0:13:11.58,Main,,0,0,0,,Ela pode manipular a alma das pessoas.
-Dialogue: 0,0:13:11.58,0:13:17.15,Main,,0,0,0,,Com esse poder, ela tira a vida de seus cidadãos.\N.\N.
+Dialogue: 0,0:13:11.58,0:13:17.15,Main,,0,0,0,,Com esse poder, ela tira a vida de seus cidadãos...
 Dialogue: 0,0:13:17.15,0:13:24.49,Main,,0,0,0,,Nesse momento, os cidadãos têm que optar por ficar em Totto Land ou partir.
 Dialogue: 0,0:13:25.21,0:13:30.36,Main,,0,0,0,,E espalhando as almas recolhidas por todo o país,
 Dialogue: 0,0:13:30.36,0:13:34.75,Main,,0,0,0,,todos os tipos de coisas ganham vida própria.
@@ -2173,17 +2173,17 @@ Dialogue: 0,0:14:10.19,0:14:11.84,Main,,0,0,0,,Bem, e esses caras?
 Dialogue: 0,0:14:11.84,0:14:14.65,Main,,0,0,0,,Eles são outra coisa.
 Dialogue: 0,0:14:14.65,0:14:20.83,Main,,0,0,0,,Brûlée usou sua habilidade para transformar animais normais em pessoas.
 Dialogue: 0,0:14:21.71,0:14:26.99,Main,,0,0,0,,Ah, a propósito, as almas não podem ser colocadas em outras pessoas ou em cadáveres.
-Dialogue: 0,0:14:26.99,0:14:30.84,Main,,0,0,0,,Por que você não me contou isso antes?\N!\NVocê esteve me observando o tempo todo.\N.\N.
+Dialogue: 0,0:14:26.99,0:14:30.84,Main,,0,0,0,,Por que você não me contou isso antes?!\NVocê esteve me observando o tempo todo...
 Dialogue: 0,0:14:30.84,0:14:34.06,Main,,0,0,0,,Porque eu não queria me envolver!
 Dialogue: 0,0:14:34.06,0:14:37.23,Main,,0,0,0,,Se você não queria se envolver, então por que está enterrado aqui?!
 Dialogue: 0,0:14:37.23,0:14:39.85,Main,,0,0,0,,Por que?! Quem é você?!
 Dialogue: 0,0:14:41.31,0:14:43.77,Main,,0,0,0,,Diga-me! Vou pegar o suco para você!
 Dialogue: 0,0:14:43.77,0:14:49.74,Main,,0,0,0,,O-ok!\NEu vou te contar!\NApenas saia de cima de mim!\NParar!
-Dialogue: 0,0:14:54.20,0:15:02.84,Main,,0,0,0,,{\i1}Há muito, muito tempo atrás, eu era da Big Mom.\N.\N.\Nquero dizer, da pirata Charlotte Linlin.\N.\N.
+Dialogue: 0,0:14:54.20,0:15:02.84,Main,,0,0,0,,{\i1}Há muito, muito tempo atrás, eu era da Big Mom...\Nquero dizer, da pirata Charlotte Linlin...
 Dialogue: 0,0:15:04.08,0:15:06.00,Main,,0,0,0,,Linlin...
 Dialogue: 0,0:15:10.76,0:15:14.14,Main,,0,0,0,,Marido de Linlin!
 Dialogue: 0,0:15:15.01,0:15:17.04,Main,,0,0,0,,O que?!
-Dialogue: 0,0:15:27.44,0:15:30.86,Main,,0,0,0,,Por que um dos Três Doces Comandantes está aqui?\N!
+Dialogue: 0,0:15:27.44,0:15:30.86,Main,,0,0,0,,Por que um dos Três Doces Comandantes está aqui?!
 Dialogue: 0,0:15:34.24,0:15:38.00,Captions,,0,0,0,,{\fad(300,0)\pos(640,430)}Um dos Três Doces Comandantes dos Piratas da Big Mom A Ministra dos Biscoitos Charlotte Cracker (10º Filho)
 Dialogue: 0,0:15:36.49,0:15:38.00,Main,,0,0,1,,Chapéu de Palha!
 Dialogue: 0,0:15:40.83,0:15:43.88,Main,,0,0,0,,Eu vou...
@@ -2220,7 +2220,7 @@ Dialogue: 0,0:18:39.69,0:18:42.20,Flashbacks,,0,0,0,,Uma das minhas queridas irm
 Dialogue: 0,0:18:42.20,0:18:46.63,Flashbacks,,0,0,0,,...fugiu para o mar em busca do amor.
 Dialogue: 0,0:18:46.63,0:18:48.38,Flashbacks,,0,0,0,,Para procurar um par para ela.
 Dialogue: 0,0:18:50.28,0:18:52.65,Main,,0,0,0,,Lola... fugiu de casa?
-Dialogue: 0,0:18:52.65,0:18:59.33,Main,,0,0,0,,Cracker-kun, me solte!\NEu só quero ver Lola e Chiffon.\N.\N.
+Dialogue: 0,0:18:52.65,0:18:59.33,Main,,0,0,0,,Cracker-kun, me solte!\NEu só quero ver Lola e Chiffon...
 Dialogue: 0,0:18:59.33,0:19:03.26,Main,,0,0,0,,Eu só quero ver minhas filhas!
 Dialogue: 0,0:19:03.26,0:19:07.91,Main,,0,0,0,,Lola... Aquela Lola... Poderia ser?
 Dialogue: 0,0:19:08.54,0:19:11.87,Flashbacks,,0,0,0,,Lola, vocês foram para o Novo Mundo?!
@@ -2235,7 +2235,7 @@ Dialogue: 0,0:19:38.69,0:19:41.03,Main,,0,0,0,,Tudo está começando a fazer sen
 Dialogue: 0,0:19:42.19,0:19:46.70,Main,,0,0,0,,Nesse caso, a mãe de Lola poderia ser...
 Dialogue: 0,0:19:48.92,0:19:50.56,Main,,0,0,0,,Grande mãe?!
 Dialogue: 0,0:19:54.56,0:19:57.05,Main,,0,0,0,,E esse homem é...
-Dialogue: 0,0:19:57.05,0:19:59.72,Main,,0,0,0,,--.\N.\N.\NPai da Lola?\N!\N--O que?
+Dialogue: 0,0:19:57.05,0:19:59.72,Main,,0,0,0,,--...\NPai da Lola?!\N--O que?
 Dialogue: 0,0:20:10.23,0:20:14.10,Main,,0,0,0,,Guindaste!
 Dialogue: 0,0:20:19.72,0:20:22.45,Main,,0,0,0,,Guindaste!
 Dialogue: 0,0:20:22.45,0:20:25.29,Main,,0,0,0,,Eles estão de volta!\NÉ o coelho e a garça!
@@ -2264,8 +2264,8 @@ Dialogue: 0,0:22:53.97,0:22:57.34,Main,,0,0,600,,Se ela me mandasse fazer isso, 
 Dialogue: 0,0:22:56.31,0:22:59.06,Captions,,0,0,0,,{\fad(500,0)\pos(640,485)}Mestre da Floresta Sedutora, Rei Baum
 Dialogue: 0,0:22:57.34,0:22:59.14,Main,,0,0,650,,Isso mesmo, ju!
 Dialogue: 0,0:22:59.14,0:23:01.23,Main,,0,0,0,,Nós, membros da Equipe Seduzindo Woods...
-Dialogue: 0,0:23:01.56,0:23:06.44,Main,,0,0,0,,.\N.\N.\Nnunca permitimos que um único alvo nosso saísse vivo-ju!
-Dialogue: 0,0:23:06.44,0:23:11.03,Main,,0,0,0,,Oh!\NNão são apenas Cracker-sama e Brûlée-sama.\N.\N.\NO Rei Baum-sama também está aqui!
+Dialogue: 0,0:23:01.56,0:23:06.44,Main,,0,0,0,,...\Nnunca permitimos que um único alvo nosso saísse vivo-ju!
+Dialogue: 0,0:23:06.44,0:23:11.03,Main,,0,0,0,,Oh!\NNão são apenas Cracker-sama e Brûlée-sama...\NO Rei Baum-sama também está aqui!
 Dialogue: 0,0:23:11.03,0:23:14.24,Main,,0,0,0,,Não acredito que os três estão aqui ao mesmo tempo!
 Dialogue: 0,0:23:15.21,0:23:18.71,Main,,0,0,0,,Isso é legal e tudo, mas não podemos perder tempo.
 Dialogue: 0,0:23:21.28,0:23:22.87,Main,,0,0,0,,Amanhã, no meio do dia...
@@ -2281,7 +2281,7 @@ Dialogue: 0,0:24:15.80,0:24:17.23,Main,,0,0,0,,Ah, Luffy!
 Dialogue: 0,0:24:17.23,0:24:20.02,Main,,0,0,0,,Luffy, Nami! Ajuda!
 Dialogue: 0,0:24:20.02,0:24:20.93,Main,,0,0,0,,O que?!
 Dialogue: 0,0:24:21.43,0:24:22.56,Main,,0,0,0,,Chopper também foi pego?!
-Dialogue: 0,0:24:23.26,0:24:26.40,Main,,0,0,0,,O que aconteceu com vocês?\N!\NO que você está fazendo aí?\N!
+Dialogue: 0,0:24:23.26,0:24:26.40,Main,,0,0,0,,O que aconteceu com vocês?!\NO que você está fazendo aí?!
 Dialogue: 0,0:24:26.40,0:24:32.03,Main,,0,0,0,,Ela nos prendeu no espelho!\NEla tem uma habilidade de espelho!\NTome cuidado!
 Dialogue: 0,0:24:35.14,0:24:38.12,Main,,0,0,0,,Como é isso, irmão Cracker?!
 Dialogue: 0,0:24:38.12,0:24:41.91,Main,,0,0,0,,Eu já peguei esses idiotas...
@@ -2323,8 +2323,8 @@ Dialogue: 0,0:28:06.08,0:28:07.78,Main,,0,0,0,,Eu encontrei!
 Dialogue: 0,0:28:15.95,0:28:17.45,Main,,0,0,0,,O que é isso?
 Dialogue: 0,0:28:17.45,0:28:21.63,Main,,0,0,0,,É o Vivre Card da mãe da minha amiga Lola.
 Dialogue: 0,0:28:22.05,0:28:24.80,Main,,0,0,0,,Mas não sei se é da Big Mom ou não...
-Dialogue: 0,0:28:28.10,0:28:31.87,Main,,0,0,0,,O que você está fazendo?\N!\NO que há de errado, pessoal?\N!
-Dialogue: 0,0:28:33.45,0:28:36.98,Main,,0,0,0,,O que há de errado, Rei Baum?\N!\NAté você está parando?\N!
+Dialogue: 0,0:28:28.10,0:28:31.87,Main,,0,0,0,,O que você está fazendo?!\NO que há de errado, pessoal?!
+Dialogue: 0,0:28:33.45,0:28:36.98,Main,,0,0,0,,O que há de errado, Rei Baum?!\NAté você está parando?!
 Dialogue: 0,0:28:36.98,0:28:40.11,Main,,0,0,0,,Não podemos fazer isso, Brûlée!
 Dialogue: 0,0:28:40.11,0:28:43.95,Main,,0,0,0,,Nós, manos, não podemos lutar contra ela-ju!
 Dialogue: 0,0:28:44.54,0:28:45.62,Main,,0,0,0,,Por que não?!

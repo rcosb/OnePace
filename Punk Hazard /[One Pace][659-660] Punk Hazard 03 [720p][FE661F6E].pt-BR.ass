@@ -47,7 +47,7 @@ Dialogue: 0,0:02:32.68,0:02:36.58,captions_soft,Caption,0,0,0,,{\fad(500,0)\pos(
 Dialogue: 0,0:02:36.58,0:02:37.29,Main,Luffy,0,0,0,,Sim.
 Dialogue: 0,0:02:37.29,0:02:41.09,Main,Usopp,0,0,0,,{\i1}E como você planeja atravessar esse lago?!
 Dialogue: 0,0:02:41.09,0:02:43.84,Main,Usopp,0,0,0,,Partes dele estão pegando fogo. Outros estão congelados!
-Dialogue: 0,0:02:43.84,0:02:47.57,Main,Zoro,0,0,0,,Então a temperatura da água pode estar boa.\NE estou bastante suado.\N.\N.
+Dialogue: 0,0:02:43.84,0:02:47.57,Main,Zoro,0,0,0,,Então a temperatura da água pode estar boa.\NE estou bastante suado...
 Dialogue: 0,0:02:47.57,0:02:48.34,Main,Zoro,0,0,0,,Vamos nadar?
 Dialogue: 0,0:02:48.34,0:02:49.22,Main,Usopp,0,0,0,,Não seja absurdo!
 Dialogue: 0,0:02:49.22,0:02:52.16,Main,Luffy,0,0,0,,Eu e Robin não sabemos nadar, você sabe.
@@ -110,7 +110,7 @@ Dialogue: 0,0:05:54.79,0:05:55.87,Main,Marine,0,0,0,,Vamos embora!
 Dialogue: 0,0:05:55.87,0:05:57.12,Main,Tashigi,0,0,0,,Fogo, por favor.
 Dialogue: 0,0:06:12.30,0:06:14.01,Main,Marine,0,0,0,,Um rio!
 Dialogue: 0,0:06:14.01,0:06:16.04,Main,Marine,0,0,0,,Ei, isso foi incrível, Smokey!
-Dialogue: 0,0:06:16.04,0:06:20.53,Main,Marine,0,0,0,,Incrível!\NComo você sabia que havia um rio atrás do gelo, Smokey?\N!
+Dialogue: 0,0:06:16.04,0:06:20.53,Main,Marine,0,0,0,,Incrível!\NComo você sabia que havia um rio atrás do gelo, Smokey?!
 Dialogue: 0,0:06:20.53,0:06:22.40,Main,Marine,0,0,0,,Você é realmente ótimo, Smokey!
 Dialogue: 0,0:06:22.40,0:06:24.99,Main,Marine,0,0,0,,Não notei nada, Smokey!
 Dialogue: 0,0:06:30.76,0:06:33.56,Main,Smoker,0,0,0,,Era óbvio para qualquer um que observasse as correntes de água!
@@ -119,11 +119,11 @@ Dialogue: 0,0:06:35.70,0:06:38.67,Main,Smoker,0,0,0,,Além disso, não seja tão
 Dialogue: 0,0:06:39.12,0:06:40.54,Main,Tashigi,0,0,0,,Mas isso cria uma questão.
 Dialogue: 0,0:06:41.08,0:06:42.08,Main,Smoker,0,0,0,,Isso acontece.
 Dialogue: 0,0:06:44.09,0:06:48.08,Main,Smoker,0,0,0,,A questão não é que há um rio aqui...
-Dialogue: 0,0:06:48.08,0:06:51.88,Main,Smoker,0,0,0,,{ Btwb: "floes" is not a very common word, for me at least.\NAlso, they looked more like ice bergs or masses of ice instead of detached sheets, which is what floes are, according to what I looked up.\N}Deveríamos estar perguntando se o gelo estava bloqueando esta corrente natural.\N.\N.
+Dialogue: 0,0:06:48.08,0:06:51.88,Main,Smoker,0,0,0,,{ Btwb: "floes" is not a very common word, for me at least.\NAlso, they looked more like ice bergs or masses of ice instead of detached sheets, which is what floes are, according to what I looked up.\N}Deveríamos estar perguntando se o gelo estava bloqueando esta corrente natural...
 Dialogue: 0,0:06:51.88,0:06:54.88,Main,Smoker,0,0,0,,ou foi colocado intencionalmente?
 Dialogue: 0,0:06:55.27,0:06:56.89,Main,Marine,0,0,0,,Você quer dizer...
 Dialogue: 0,0:06:56.89,0:07:00.20,Main,Marine,0,0,0,,alguém pode ter escondido de propósito?
-Dialogue: 0,0:07:00.20,0:07:04.41,Main,Marine,0,0,0,,Você está dizendo que alguém pode viver nesta ilha, nesta nuvem de gás?\N!
+Dialogue: 0,0:07:00.20,0:07:04.41,Main,Marine,0,0,0,,Você está dizendo que alguém pode viver nesta ilha, nesta nuvem de gás?!
 Dialogue: 0,0:07:04.41,0:07:07.60,Main,Marine,0,0,0,,Sem chance! Eles teriam que usar máscaras o tempo todo!
 Dialogue: 0,0:07:07.60,0:07:11.30,Main,Tashigi,0,0,0,,A voz que ouvimos na transmissão dizia definitivamente o nome desta ilha.
 Dialogue: 0,0:07:11.30,0:07:13.84,Main,Marine,0,0,0,,Devemos ter ouvido errado, Tashigi-chan!
@@ -198,7 +198,7 @@ Dialogue: 0,0:12:01.62,0:12:05.49,Main,Brook,0,0,0,,Ah, se quiser, podemos fazer
 Dialogue: 0,0:12:05.49,0:12:07.92,Main,Brook,0,0,0,,{\fscx250}Se trabalharmos juntos, poderemos até conseguir fazer uma escultura de neve.
 Dialogue: 0,0:12:10.56,0:12:13.05,Main,Brook,0,0,0,,Eu estava brincando!
 Dialogue: 0,0:12:13.05,0:12:15.89,Main,Brook,0,0,0,,O que está acontecendo aqui?!
-Dialogue: 0,0:12:15.89,0:12:20.73,Main,Brook,0,0,0,,Aquele homem não tem olhos, então como ele consegue atacar com tanta precisão?\N!
+Dialogue: 0,0:12:15.89,0:12:20.73,Main,Brook,0,0,0,,Aquele homem não tem olhos, então como ele consegue atacar com tanta precisão?!
 Dialogue: 0,0:12:23.91,0:12:28.11,Main,Brook,0,0,0,,Porém, pensando bem, eu também não tenho olhos!
 Dialogue: 0,0:12:36.75,0:12:39.59,Main,Brook,0,0,0,,Apavorante! Forte! Apavorante!
 Dialogue: 0,0:12:49.23,0:12:51.66,Main,Brook,0,0,0,,O que deu em você?!
@@ -242,7 +242,7 @@ Dialogue: 0,0:15:23.12,0:15:25.32,Main,Marine,0,0,0,,Quem está morando aqui?
 Dialogue: 0,0:15:25.83,0:15:27.65,Main,Marine,0,0,0,,Ei! Sair!
 Dialogue: 0,0:15:27.65,0:15:31.56,Main,Marine,0,0,0,,O que está errado?! Você está com medo de nós?!
 Dialogue: 0,0:15:31.56,0:15:35.08,Main,Marine,0,0,0,,Não há necessidade de ser educado e tocar a campainha!
-Dialogue: 0,0:15:35.08,0:15:38.92,Main,Marine,0,0,0,,Podemos abrir a porta rapidamente se explodirmos com os canhões do navio, Smokey.\N.\N.
+Dialogue: 0,0:15:35.08,0:15:38.92,Main,Marine,0,0,0,,Podemos abrir a porta rapidamente se explodirmos com os canhões do navio, Smokey...
 Dialogue: 0,0:15:39.46,0:15:40.87,Main,Marine,0,0,0,,Ah, Smoker-san.
 Dialogue: 0,0:15:40.87,0:15:42.60,Main,Marine,0,0,0,,Ei, responda!
 Dialogue: 0,0:15:42.60,0:15:44.22,Main,Marine,0,0,0,,Abrir a porta!
@@ -284,7 +284,7 @@ Dialogue: 0,0:18:19.46,0:18:20.82,Main,Biyo,0,0,0,,Sim.
 Dialogue: 0,0:18:21.99,0:18:29.84,Main,Biyo,0,0,0,,Mamãe e papai pediram para algumas pessoas me curarem e então essas pessoas me levaram para cá.
 Dialogue: 0,0:18:29.84,0:18:33.41,Main,Nami,0,0,0,,Então, seus pais disseram para você vir aqui?
 Dialogue: 0,0:18:33.41,0:18:34.63,Main,Biyo,0,0,0,,Não.
-Dialogue: 0,0:18:34.63,0:18:38.24,Main,Biyo,0,0,0,,Foram essas pessoas, me contaram tudo isso lá fora da minha casa.\N.\N.
+Dialogue: 0,0:18:34.63,0:18:38.24,Main,Biyo,0,0,0,,Foram essas pessoas, me contaram tudo isso lá fora da minha casa...
 Dialogue: 0,0:18:38.24,0:18:40.06,Main,Biyo,0,0,0,,e então fui levado para cá.
 Dialogue: 0,0:18:40.06,0:18:44.69,Main,Biyo,0,0,0,,Disseram que eu poderia ter infectado a mamãe e o papai.
 Dialogue: 0,0:18:44.69,0:18:46.49,Main,Biyo,0,0,0,,Eu nem consegui me despedir.
@@ -375,7 +375,7 @@ Dialogue: 0,0:22:37.12,0:22:38.98,Main,Kinemon,0,0,0,,H-No entanto...
 Dialogue: 0,0:22:38.98,0:22:43.34,Main,Kinemon,0,0,0,,se você procurasse meu corpo...
 Dialogue: 0,0:22:44.01,0:22:46.34,Main,Kinemon,0,0,0,,Eu não reclamaria.
 Dialogue: 0,0:22:46.34,0:22:47.83,Main,Sanji,0,0,0,,Maldito seja esse cara!
-Dialogue: 0,0:22:47.83,0:22:50.01,Main,Sanji,0,0,0,,Por que uma cabeça desapegada está agindo como se fosse melhor que eu?\N!
+Dialogue: 0,0:22:47.83,0:22:50.01,Main,Sanji,0,0,0,,Por que uma cabeça desapegada está agindo como se fosse melhor que eu?!
 Dialogue: 0,0:22:50.01,0:22:51.87,Main,Kinemon,0,0,0,,Você pretende usar violência?!
 Dialogue: 0,0:22:51.87,0:22:53.67,Main,Kinemon,0,0,0,,E-eu não me arrependo!
 Dialogue: 0,0:22:53.67,0:22:56.43,Main,Kinemon,0,0,0,,Não vou implorar aos vilões pela minha vida!
@@ -386,7 +386,7 @@ Dialogue: 0,0:23:07.25,0:23:08.19,Main,Sanji,0,0,0,,Mas...
 Dialogue: 0,0:23:11.19,0:23:14.04,Main,Sanji,0,0,0,,Esse cara está realmente me dando nos nervos!
 Dialogue: 0,0:23:14.04,0:23:17.27,Main,Sanji,0,0,0,,Fui um tolo em admirar sua determinação, mesmo que fosse apenas por um segundo!
 Dialogue: 0,0:23:17.27,0:23:18.62,Main,Sanji,0,0,0,,Não quero mais ajudá-lo!
-Dialogue: 0,0:23:18.62,0:23:24.24,Main,Kinemon,0,0,0,,Infelizmente, eu ficaria indefeso se você me deixasse aqui, mas se quiser me levar com você.\N.\N.
+Dialogue: 0,0:23:18.62,0:23:24.24,Main,Kinemon,0,0,0,,Infelizmente, eu ficaria indefeso se você me deixasse aqui, mas se quiser me levar com você...
 Dialogue: 0,0:23:24.24,0:23:26.24,Main,Kinemon,0,0,0,,Eu não reclamaria.
 Dialogue: 0,0:23:30.61,0:23:34.15,Main,Sanji,0,0,0,,Droga... eu vou te pegar por isso assim que você recuperar seu corpo!
 Dialogue: 0,0:23:35.71,0:23:38.52,Main,Kinemon,0,0,0,,Você não mostra piedade, mesmo para uma cabeça imparcial.
@@ -453,7 +453,7 @@ Dialogue: 0,0:27:02.42,0:27:05.12,Main,Franky,0,0,0,,Mas evitarei esmagar flores
 Dialogue: 0,0:27:05.12,0:27:08.93,Main,Franky,0,0,0,,O um pouco bondoso, Franky Tank!
 Dialogue: 0,0:27:08.93,0:27:12.70,Main,Crowd,0,0,0,,{\i1}Super!
 Dialogue: 0,0:27:15.64,0:27:19.15,Thoughts,Marine,0,0,0,,Não sei dizer o que é mais estranho!
-Dialogue: 0,0:27:19.15,0:27:24.63,Thoughts,Marine,0,0,0,,Um cachorro-guaxinim gigante, um biquíni de inverno, crianças gigantes, um robô ou uma cabeça destacada.\N.\N.
+Dialogue: 0,0:27:19.15,0:27:24.63,Thoughts,Marine,0,0,0,,Um cachorro-guaxinim gigante, um biquíni de inverno, crianças gigantes, um robô ou uma cabeça destacada...
 Dialogue: 0,0:27:24.63,0:27:26.36,Thoughts,Marine,0,0,0,,Estou sonhando?
 Dialogue: 0,0:27:27.62,0:27:29.23,Main,Nami,0,0,0,,Eu já vi você antes!
 Dialogue: 0,0:27:29.23,0:27:31.62,Main,Chopper,0,0,0,,Sim! É o cara do Sabaody!

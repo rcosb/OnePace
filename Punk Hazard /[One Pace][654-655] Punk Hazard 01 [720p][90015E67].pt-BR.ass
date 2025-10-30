@@ -56,8 +56,8 @@ Dialogue: 0,0:03:21.63,0:03:23.55,Main,Sanji,0,0,0,,Por favor, Nami-san!
 Dialogue: 0,0:03:23.55,0:03:24.89,Main,Sanji,0,0,0,,Vire para cá!
 Dialogue: 0,0:03:26.43,0:03:29.10,Main,Nami,0,0,0,,Chopper, não chegue muito perto daquela nuvem.
 Dialogue: 0,0:03:35.52,0:03:38.65,Main,Chopper,0,0,0,,Apavorante! Afinal, não quero comer aquela nuvem!
-Dialogue: 0,0:03:41.53,0:03:46.74,Main,Nami,0,0,0,,Isso é tão relaxante.\N.\N.\NComo senti falta do banho da Sunny nos últimos dois anos!
-Dialogue: 0,0:03:50.33,0:03:53.92,Main,Nami,0,0,0,,Tomar banho e olhar o mar profundo, que parece o céu noturno.\N.\N.
+Dialogue: 0,0:03:41.53,0:03:46.74,Main,Nami,0,0,0,,Isso é tão relaxante...\NComo senti falta do banho da Sunny nos últimos dois anos!
+Dialogue: 0,0:03:50.33,0:03:53.92,Main,Nami,0,0,0,,Tomar banho e olhar o mar profundo, que parece o céu noturno...
 Dialogue: 0,0:03:53.92,0:03:56.09,Main,Nami,0,0,0,,Esta é a vida!
 Dialogue: 0,0:03:56.09,0:03:58.51,Main,Chopper,0,0,0,,Eles ficarão bem no convés sem você?
 Dialogue: 0,0:03:58.51,0:04:03.13,Main,Nami,0,0,0,,Vou sair do banho antes de entrarmos nas correntes ascendentes, então vai ficar tudo bem.
@@ -66,7 +66,7 @@ Dialogue: 0,0:04:06.92,0:04:08.93,Main,Luffy,0,0,0,,Depressa, Usopp!
 Dialogue: 0,0:04:08.93,0:04:11.18,Main,Usopp,0,0,0,,Agora, espere só um minuto!
 Dialogue: 0,0:04:11.18,0:04:14.47,Main,Usopp,0,0,0,,Enfrentamos peixes gigantes!\NUma corda fraca não seria capaz de segurá-los!
 Dialogue: 0,0:04:16.06,0:04:18.12,Main,Robin,0,0,0,,Nossa, você parece estar se divertindo.
-Dialogue: 0,0:04:19.61,0:04:23.53,Main,Luffy,0,0,0,,Não pensei nisso durante a descida porque estava muito animado com a Ilha dos Tritões.\N.\N.
+Dialogue: 0,0:04:19.61,0:04:23.53,Main,Luffy,0,0,0,,Não pensei nisso durante a descida porque estava muito animado com a Ilha dos Tritões...
 Dialogue: 0,0:04:23.53,0:04:26.32,Main,Luffy,0,0,0,,mas se pegarmos um peixe do fundo do mar e puxá-lo para a superfície...
 Dialogue: 0,0:04:26.37,0:04:28.63,Main,Luffy,0,0,0,,Sanji pode preparar isso para nós, certo?
 Dialogue: 0,0:04:28.99,0:04:31.45,Main,Franky,0,0,0,,Espero que corra bem com cola!
@@ -129,7 +129,7 @@ Dialogue: 0,0:07:23.46,0:07:24.67,Main,Usopp,0,0,0,,O que?!
 Dialogue: 0,0:07:25.89,0:07:28.01,Main,Luffy,0,0,0,,Um redemoinho subaquático?!
 Dialogue: 0,0:07:30.26,0:07:32.92,Main,Nami,0,0,0,,Nossa, esses caras são apenas...
 Dialogue: 0,0:07:32.92,0:07:36.01,Main,Nami,0,0,0,,O que?! Isso é ruim! Esse é o Whitestrom?!
-Dialogue: 0,0:07:36.89,0:07:39.60,Main,Robin,0,0,0,,Pelo que ouvi, qualquer nave que fique presa neste vórtice.\N.\N.
+Dialogue: 0,0:07:36.89,0:07:39.60,Main,Robin,0,0,0,,Pelo que ouvi, qualquer nave que fique presa neste vórtice...
 Dialogue: 0,0:07:39.60,0:07:43.52,Main,Robin,0,0,0,,reaparece dias depois em um mar incrivelmente distante, sem nenhum vestígio da tripulação!
 Dialogue: 0,0:07:44.90,0:07:47.82,Main,Usopp,0,0,0,,Isso deve significar que todo mundo morre!
 Dialogue: 0,0:07:47.82,0:07:50.07,Main,Usopp,0,0,0,,Afinal, isso é muito ruim! Vamos sair daqui!
@@ -149,7 +149,7 @@ Dialogue: 0,0:08:22.73,0:08:23.44,Main,Usopp; Sanji & Zoro,0,0,0,,{\i1}Sim!
 Dialogue: 0,0:08:23.44,0:08:25.65,Main,Nami,0,0,0,,{\i1}Não! Solte-o!
 Dialogue: 0,0:08:25.65,0:08:28.77,Main,Them,0,0,0,,{\i1}O que?! Mas e o nosso peixe cozido de profundidade?!
 Dialogue: 0,0:08:28.77,0:08:31.94,Main,Nami,0,0,0,,{\i1}O que é mais importante, o peixe ou a nossa vida?!
-Dialogue: 0,0:08:31.94,0:08:37.07,Main,Nami,0,0,0,,{\i1}Eu só deixei você sozinho por dez minutos!\NComo você pôde nos colocar em tantos problemas?\N!
+Dialogue: 0,0:08:31.94,0:08:37.07,Main,Nami,0,0,0,,{\i1}Eu só deixei você sozinho por dez minutos!\NComo você pôde nos colocar em tantos problemas?!
 Dialogue: 0,0:08:37.07,0:08:39.24,Main,Nami,0,0,0,,Franky! Use o Golpe de Explosão!
 Dialogue: 0,0:08:39.24,0:08:41.75,Main,Franky,0,0,0,,Não, é tarde demais!
 Dialogue: 0,0:08:42.41,0:08:42.91,Main,Franky,0,0,0,,{ def: i'm not sure what Franky means here }Certo?
@@ -209,7 +209,7 @@ Dialogue: 0,0:12:13.96,0:12:15.04,Main,Straw Hats,0,0,0,,{\i1}Sim!
 Dialogue: 0,0:12:17.38,0:12:20.59,Main,Brook,0,0,0,,Claro... Esta deve ser a terra natal de Laboon.
 Dialogue: 0,0:12:20.59,0:12:23.68,Main,Brook,0,0,0,,Algum parente dele está aqui?!
 Dialogue: 0,0:12:23.68,0:12:24.89,Main,Robin,0,0,0,,Isso é perigoso, Brook!
-Dialogue: 0,0:12:24.89,0:12:29.31,Main,Brook,0,0,0,,Se alguém aqui estiver procurando por uma pequena baleia que se separou do grupo há cinquenta anos.\N.\N.
+Dialogue: 0,0:12:24.89,0:12:29.31,Main,Brook,0,0,0,,Se alguém aqui estiver procurando por uma pequena baleia que se separou do grupo há cinquenta anos...
 Dialogue: 0,0:12:29.31,0:12:35.39,Main,Brook,0,0,0,,então não se preocupe!\NEle está bem, num mar do outro lado do mundo!
 Dialogue: 0,0:12:35.39,0:12:41.07,Main,Brook,0,0,0,,Segundo Luffy-san, ele cresceu grande e forte!
 Dialogue: 0,0:12:41.07,0:12:43.32,Main,Brook,0,0,0,,Por favor, não se preocupe!
@@ -339,7 +339,7 @@ Dialogue: 0,0:19:57.17,0:19:58.84,Main,Voice,0,0,0,,Estou ligado...
 Dialogue: 0,0:19:58.84,0:20:00.42,Main,Voice,0,0,0,,{ 8:27, 10:40 }Perigo Punk!
 Dialogue: 0,0:20:03.80,0:20:05.25,Main,Tashigi,0,0,0,,Smoker-san, não foi isso...
 Dialogue: 0,0:20:05.25,0:20:10.06,Main,Smoker,0,0,0,,Caramba! Que caminho eles seguiram?!
-Dialogue: 0,0:20:11.14,0:20:14.52,Main,Smoker,0,0,0,,Primeiro houve o incidente na Ilha dos Tritões, depois o tumulto depois disso.\N.\N.
+Dialogue: 0,0:20:11.14,0:20:14.52,Main,Smoker,0,0,0,,Primeiro houve o incidente na Ilha dos Tritões, depois o tumulto depois disso...
 Dialogue: 0,0:20:15.11,0:20:19.02,Main,Smoker,0,0,0,,e se eu projetar a rota deles a partir desse ponto...
 Dialogue: 0,0:20:19.61,0:20:23.36,Main,Smoker,0,0,0,,Punk Hazard, hein? Faz sentido.
 Dialogue: 0,0:20:23.36,0:20:25.65,Main,Pirate,0,0,0,,P-Por favor, pare! Eu farei qualquer coisa!
@@ -406,7 +406,7 @@ Dialogue: 0,0:23:36.06,0:23:38.89,Main,Usopp,0,0,0,,Você também?! Por que voc�
 Dialogue: 0,0:23:38.89,0:23:40.31,Main,Zoro,0,0,0,,Você não vai comer?
 Dialogue: 0,0:23:40.31,0:23:41.93,Main,Usopp,0,0,0,,Eu não conseguia engolir nada agora!
 Dialogue: 0,0:23:41.93,0:23:47.64,Main,Usopp,0,0,0,,Ah, estou tendo uma recaída inesperada da minha doença de dois anos atrás!
-Dialogue: 0,0:23:47.64,0:23:52.32,Main,Usopp,0,0,0,,Ei, pessoal.\N.\N.\NSinceramente, estou com a doença "Não consigo entrar naquela ilha"!
+Dialogue: 0,0:23:47.64,0:23:52.32,Main,Usopp,0,0,0,,Ei, pessoal...\NSinceramente, estou com a doença "Não consigo entrar naquela ilha"!
 Dialogue: 0,0:23:52.32,0:23:54.82,Main,Zoro & Robin & Luffy,0,0,0,,Eu sei.
 Dialogue: 0,0:23:58.04,0:24:01.96,Main,Robin,0,0,0,,Não há dúvida sobre isso. Este é o lugar certo.
 Dialogue: 0,0:24:01.96,0:24:04.63,Main,Usopp,0,0,0,,Então este é Punk Hazard?
@@ -461,7 +461,7 @@ Dialogue: 0,0:27:11.44,0:27:13.11,Main,Luffy,0,0,0,,Não.
 Dialogue: 0,0:27:13.48,0:27:15.40,Main,Luffy,0,0,0,,Isso é muito maior que um gigante!
 Dialogue: 0,0:27:21.91,0:27:23.28,Main,Robin,0,0,0,,É isso...
 Dialogue: 0,0:27:32.79,0:27:36.71,Main,Luffy,0,0,0,,O-O que?! D-Essas coisas realmente existem?!
-Dialogue: 0,0:27:37.41,0:27:43.43,Main,Zoro,0,0,0,,Não, eles são criaturas fictícias!\NComo eles poderiam existir de verdade?\N!
+Dialogue: 0,0:27:37.41,0:27:43.43,Main,Zoro,0,0,0,,Não, eles são criaturas fictícias!\NComo eles poderiam existir de verdade?!
 Dialogue: 0,0:27:43.43,0:27:45.51,Main,Robin,0,0,0,,Mas basta olhar para isso!
 Dialogue: 0,0:27:46.66,0:27:48.43,Main,Robin,0,0,0,,Como mais você poderia chamar isso?
 Dialogue: 0,0:28:13.96,0:28:15.16,Main,Group,0,0,0,,{\i1}Um dragão?!

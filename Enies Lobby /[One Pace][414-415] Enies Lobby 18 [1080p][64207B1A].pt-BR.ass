@@ -130,7 +130,7 @@ Dialogue: 0,0:06:12.22,0:06:13.92,Main-207+,,0,0,0,,Ei! Vamos embarcar!
 Dialogue: 0,0:06:13.92,0:06:16.64,Main-207+,,0,0,0,,Isso não é possível! O trem marítimo está cheio!
 Dialogue: 0,0:06:16.64,0:06:19.48,Main-207+,,0,0,0,,{the}Pegue alguns navios de uma ilha remota!
 Dialogue: 0,0:06:19.48,0:06:22.19,Main-207+,,0,0,0,,Seu bastardo! Achei que você estava estranhamente calmo!
-Dialogue: 0,0:06:22.19,0:06:25.01,Main-207+,,0,0,0,,Então você fingiu estar amarrado com sua própria corda?\N!
+Dialogue: 0,0:06:22.19,0:06:25.01,Main-207+,,0,0,0,,Então você fingiu estar amarrado com sua própria corda?!
 Dialogue: 0,0:06:25.01,0:06:27.49,Main-207+,,0,0,0,,Sim. Eu estava esperando por uma chance.
 Dialogue: 0,0:06:27.49,0:06:30.65,Main-207+,,0,0,0,,E quanto ao irmão mais velho Franky?\NE os Chapéus de Palha?
 Dialogue: 0,0:06:30.65,0:06:34.33,Main-207+,,0,0,0,,Essas pessoas são imparáveis!\NEles não precisam que nos preocupemos com eles!
@@ -162,7 +162,7 @@ Dialogue: 0,0:08:35.91,0:08:40.87,Main-207+,,0,0,0,,Que caçador você é. Você
 Dialogue: 0,0:08:46.54,0:08:48.54,Main-207+,,0,0,0,,Ah, isso mesmo. Entendo!
 Dialogue: 0,0:08:48.54,0:08:50.00,Main-207+,,0,0,0,,O que é?
 Dialogue: 0,0:08:50.00,0:08:54.56,Main-207+,,0,0,0,,{they\Nhave me}Podemos salvá-la!\NEnquanto eu estiver aqui, poderemos salvar Robin!\NDroga!
-Dialogue: 0,0:08:54.56,0:08:57.25,Main-207+,,0,0,0,,"Droga"?\N!\NVocê não precisa ficar chateado nem nada!
+Dialogue: 0,0:08:54.56,0:08:57.25,Main-207+,,0,0,0,,"Droga"?!\NVocê não precisa ficar chateado nem nada!
 Dialogue: 0,0:08:57.25,0:08:58.44,Main-207+,,0,0,0,,{\i1}Vamos nos apressar, Nami-kun!
 Dialogue: 0,0:08:58.44,0:09:00.01,Main-207+,,0,0,0,,Ei, espere!
 Dialogue: 0,0:09:00.01,0:09:02.39,Main-207+,,0,0,0,,Eu entendi! Eu entendi!
@@ -175,7 +175,7 @@ Dialogue: 0,0:09:54.87,0:09:57.30,Note-720p,,0,0,0,,{Rate}Carne moída de tercei
 Dialogue: 0,0:09:57.30,0:09:58.86,Main-207+,,0,0,0,,{\fad(150,150)}Corpo de Ferro!
 Dialogue: 0,0:10:11.89,0:10:14.54,Main-207+,,0,0,0,,{fool}Isso não funciona comigo, seu idiota!
 Dialogue: 0,0:10:14.54,0:10:16.97,Thoughts-207+,,0,0,0,,O que há com seus chutes?
-Dialogue: 0,0:10:18.36,0:10:21.88,Main-207+,,0,0,0,,Aquela técnica que vocês usam para deixar seu corpo como ferro.\N.\N.
+Dialogue: 0,0:10:18.36,0:10:21.88,Main-207+,,0,0,0,,Aquela técnica que vocês usam para deixar seu corpo como ferro...
 Dialogue: 0,0:10:22.91,0:10:24.89,Main-207+,,0,0,0,,é realmente um pé no saco.
 Dialogue: 0,0:10:24.89,0:10:26.89,Main-207+,,0,0,0,,{\fad(150,150)}Chute Tempestuoso: Lobo Solitário!
 Dialogue: 0,0:10:33.07,0:10:34.56,Main-207+,,0,0,0,,{\fad(150,150)}Costa Baixa!
@@ -206,7 +206,7 @@ Dialogue: 0,0:11:53.99,0:11:55.48,Main-207+,,0,0,0,,Hum?
 Dialogue: 0,0:11:57.94,0:12:02.25,Main-207+,,0,0,0,,Você a salvaria... Salvaria Robin?
 Dialogue: 0,0:12:02.25,0:12:05.06,Main-207+,,0,0,0,,O que?! O que você está dizendo?
 Dialogue: 0,0:12:05.06,0:12:09.83,Main-207+,,0,0,0,,Fiquei quieto sobre isso, mas... Robin é...
-Dialogue: 0,0:12:09.83,0:12:15.13,Main-207+,,0,0,0,,{\Nwas separated}na verdade, minha irmã mais nova.\N.\N.\Nde quem perdi o contato há muito tempo.
+Dialogue: 0,0:12:09.83,0:12:15.13,Main-207+,,0,0,0,,{\Nwas separated}na verdade, minha irmã mais nova...\Nde quem perdi o contato há muito tempo.
 Dialogue: 0,0:12:15.13,0:12:16.96,Main-207+,,0,0,0,,O que?!
 Dialogue: 0,0:12:16.96,0:12:18.63,Main-207+,,0,0,0,,Isso é verdade?!
 Dialogue: 0,0:12:18.63,0:12:20.60,Main-207+,,0,0,0,,Eu não sabia.
@@ -272,7 +272,7 @@ Dialogue: 0,0:16:36.44,0:16:39.45,Main-207+,,0,0,0,,Se isso não bastasse, entã
 Dialogue: 0,0:16:39.45,0:16:42.52,Main-207+,,0,0,0,,{Devil}Corpo de Ferro Kenpo: Lobo Celestial Infernal!
 Dialogue: 0,0:16:57.93,0:17:02.02,Main-207+,,0,0,0,,Vá em frente e ria enquanto pode.
 Dialogue: 0,0:17:09.45,0:17:10.55,Main-207+,,0,0,0,,Hum?
-Dialogue: 0,0:17:13.67,0:17:17.47,Main-207+,,0,0,0,,Não sei o que há de tão divertido em girar assim, mas.\N.\N.
+Dialogue: 0,0:17:13.67,0:17:17.47,Main-207+,,0,0,0,,Não sei o que há de tão divertido em girar assim, mas...
 Dialogue: 0,0:17:21.93,0:17:25.56,Main-207+,,0,0,0,,Hum?\NO que há com ele?\NUm de seus pés agora está vermelho!
 Dialogue: 0,0:17:26.46,0:17:28.47,Main-207+,,0,0,0,,Pé do diabo...
 Dialogue: 0,0:17:28.47,0:17:30.52,Main-207+,,0,0,0,,{\fad(150,150)}Perna do Diabo!
@@ -300,7 +300,7 @@ Dialogue: 0,0:18:57.89,0:19:01.03,Main-207+,,0,0,0,,Uma das minhas mãos foi rep
 Dialogue: 0,0:19:01.46,0:19:03.67,Main-207+,,0,0,0,,Se você fosse rápido o suficiente para dar outro chute,
 Dialogue: 0,0:19:03.67,0:19:05.99,Main-207+,,0,0,0,,você poderia ter parado completamente a pistola de dedo.
 Dialogue: 0,0:19:06.91,0:19:08.60,Main-207+,,0,0,0,,Bem, eu não pude evitar...
-Dialogue: 0,0:19:08.60,0:19:13.00,Main-207+,,0,0,0,,porque o outro chute é.\N.\N.\Npara acabar com você!
+Dialogue: 0,0:19:08.60,0:19:13.00,Main-207+,,0,0,0,,porque o outro chute é...\Npara acabar com você!
 Dialogue: 0,0:19:15.44,0:19:17.20,Main-207+,,0,0,0,,{\fad(150,150)}Perna do Diabo!
 Dialogue: 0,0:19:17.20,0:19:19.05,Main-207+,,0,0,0,,O que? E-espere!
 Dialogue: 0,0:19:19.45,0:19:21.01,Main-207+,,0,0,0,,{\fad(150,150)}Flambagem...

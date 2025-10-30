@@ -44,7 +44,7 @@ Dialogue: 5,0:02:18.40,0:02:20.37,Main-480p,,0,0,0,,Não é hora de brincar!
 Dialogue: 5,0:02:21.20,0:02:22.83,Main-480p,,0,0,0,,Eu não estou jogando.
 Dialogue: 5,0:02:23.60,0:02:27.80,Main-480p,,0,0,0,,{s;}De qualquer forma, faça algo com sua perna!\NDói só de olhar!
 Dialogue: 5,0:02:27.80,0:02:30.04,Main-480p,,0,0,0,,Então pare de olhar para isso.
-Dialogue: 5,0:02:30.76,0:02:34.18,Main-480p,,0,0,0,,{You're the idiot who suggested cutting our legs off in this situation}Só um idiota acreditaria em cortar as próprias pernas.\N.\N.
+Dialogue: 5,0:02:30.76,0:02:34.18,Main-480p,,0,0,0,,{You're the idiot who suggested cutting our legs off in this situation}Só um idiota acreditaria em cortar as próprias pernas...
 Dialogue: 5,0:02:34.18,0:02:36.73,Main-480p,,0,0,0,,{so we could escape!}é o melhor plano de fuga!
 Dialogue: 5,0:02:36.73,0:02:37.92,Main-480p,,0,0,0,,{That ain't true!}Não é isso!
 Dialogue: 5,0:02:37.92,0:02:40.69,Main-480p,,0,0,0,,Eu ia cortá-los para que pudéssemos lutar.
@@ -52,7 +52,7 @@ Dialogue: 5,0:02:40.69,0:02:43.60,Main-480p,,0,0,0,,Isso é ainda mais estúpido
 Dialogue: 5,0:02:43.60,0:02:45.60,Main-480p,,0,0,0,,{shut up}Apenas dê um descanso!
 Dialogue: 5,0:02:45.60,0:02:50.20,Main-480p,,0,0,0,,{common sense!\N}Honestamente!\NVocê não tem bom senso então!
 Dialogue: 5,0:02:50.20,0:02:54.81,Thoughts-480p,,0,0,0,,{We still haven't even escaped\Nfrom this situation,}Embora ainda precisemos encontrar uma maneira de escapar desta situação,
-Dialogue: 5,0:02:54.81,0:02:58.75,Thoughts-480p,,0,0,0,,{yet neither of them seems to\Nsense the danger at all.\N.\N.\N}nenhum deles parece muito preocupado com o perigo bem diante deles.
+Dialogue: 5,0:02:54.81,0:02:58.75,Thoughts-480p,,0,0,0,,{yet neither of them seems to\Nsense the danger at all...\N}nenhum deles parece muito preocupado com o perigo bem diante deles.
 Dialogue: 5,0:03:03.29,0:03:06.87,Main-480p,,0,0,0,,{Hey, runt.\NIs that all\Nthe struggling you got?\N}Ei, garoto.\NEntão você vai apenas sentar agora?
 Dialogue: 5,0:03:06.87,0:03:10.87,Main-480p,,0,0,0,,{Yeah.\NLooks like it's\Nsomeone else's turn now.\N}Claro que sim.\NEstou confiando em outra pessoa para terminar essa luta.
 Dialogue: 5,0:03:12.28,0:03:13.54,Main-480p,,0,0,0,,{I see...}Fascinante.
@@ -76,7 +76,7 @@ Dialogue: 5,0:04:01.79,0:04:03.24,Main-480p,,0,0,0,,Basta olhar!
 Dialogue: 5,0:04:03.24,0:04:08.38,Main-480p,,0,0,0,,{He showed up here alive and well\Nbecause your attacks don't work.\N}Seus ataques nem sequer o intimidaram, e agora ele está aqui, vivo e bem.
 Dialogue: 5,0:04:08.38,0:04:13.74,Main-480p,,0,0,0,,{At the very least, he's at a level\Nthat's too much for you to handle.\N}Evidentemente, ele é um pouco mais do que vocês dois poderiam imaginar.
 Dialogue: 5,0:04:16.12,0:04:19.85,Main-480p,,0,0,0,,{You two can take care of the others!}Vou deixar o resto da turba para você!
-Dialogue: 5,0:04:20.26,0:04:26.57,Main-480p,,0,0,0,,{I think I'll add Straw Hat Luffy\Nto my wax figure collection.\N.\N.\N}Quanto ao Luffy do Chapéu de Palha, vou adicioná-lo à minha coleção de figuras de cera.
+Dialogue: 5,0:04:20.26,0:04:26.57,Main-480p,,0,0,0,,{I think I'll add Straw Hat Luffy\Nto my wax figure collection...\N}Quanto ao Luffy do Chapéu de Palha, vou adicioná-lo à minha coleção de figuras de cera.
 Dialogue: 5,0:04:30.43,0:04:33.71,Main-480p,,0,0,0,,{You guys are too damn annoying!}Este windbag está cheio de ar quente!
 Dialogue: 5,0:04:34.42,0:04:38.80,Main-480p,,0,0,0,,{You've gone a bit too far!\N\NGive yourselves up!\N}Você ultrapassou os limites!\NHora de comer sujeira!
 Dialogue: 5,0:04:40.01,0:04:41.34,Main-480p,,0,0,0,,{Small fry.}Pequeno temporizador.
@@ -86,7 +86,7 @@ Dialogue: 5,0:04:55.01,0:04:56.35,Main-480p,,0,0,0,,Você disse alguma coisa?
 Dialogue: 5,0:04:56.35,0:04:58.13,Main-480p,,0,0,0,,{\i1}Agora você é meu!
 Dialogue: 5,0:04:58.13,0:05:00.90,Main-480p,,0,0,0,,{\fad(150,150)}Fechadura de vela!
 Dialogue: 5,0:05:04.32,0:05:06.33,Main-480p,,0,0,0,,{\i1}O que é aquilo ?!
-Dialogue: 5,0:05:08.20,0:05:11.41,Main-480p,,0,0,0,,{\i1}– Luffy-san!\N- Droga.\NEle já foi pego?\N!
+Dialogue: 5,0:05:08.20,0:05:11.41,Main-480p,,0,0,0,,{\i1}– Luffy-san!\N- Droga.\NEle já foi pego?!
 Dialogue: 5,0:05:11.41,0:05:12.54,Main-480p,,0,0,0,,{Idiot}Cérebro de pássaro!
 Dialogue: 5,0:05:13.80,0:05:16.88,Main-480p,,0,0,0,,{Gaijin, does the translation call for "hammer" or "mallet"?; They're the same word in Japanese. Luffy's using a more colloquial version of the word, but it still refers to both. A mallet sounds heavier/bigger, so I'll keep it like this.}O que é isso? É pesado, como um martelo!
 Dialogue: 5,0:05:16.88,0:05:18.97,Main-480p,,0,0,0,,{How simple.}Pedaço de bolo!
@@ -111,16 +111,16 @@ Dialogue: 5,0:06:51.39,0:06:54.45,Main-480p,,0,0,0,,{Isn't it obvious?!}Não pod
 Dialogue: 5,0:06:55.29,0:06:56.56,Main-480p,,0,0,0,,{Oh}O que? Realmente?
 Dialogue: 5,0:06:56.56,0:06:59.93,Main-480p,,0,0,0,,Mas vocês me disseram para quebrar o pilar!
 Dialogue: 5,0:06:59.93,0:07:01.10,Main-480p,,0,0,0,,{Were you lying?}Isso foi errado?
-Dialogue: 5,0:07:01.10,0:07:05.59,Main-480p,,0,0,0,,{Is it really a good idea to put our\Nlives in his hands, Mr.\NBushido?\N!\N}Sr.\NBushido, por que exatamente estamos colocando nossas vidas nas mãos dele?\N!
+Dialogue: 5,0:07:01.10,0:07:05.59,Main-480p,,0,0,0,,{Is it really a good idea to put our\Nlives in his hands, Mr.\NBushido?!\N}Sr.\NBushido, por que exatamente estamos colocando nossas vidas nas mãos dele?!
 Dialogue: 5,0:07:05.59,0:07:08.67,Main-480p,,0,0,0,,{Don't look at me.\N}Por que?\NEssa é a única escolha que nos resta.
 Dialogue: 5,0:07:08.67,0:07:11.55,Main-480p,,0,0,0,,Além disso, parece que meus braços estão presos agora.
 Dialogue: 5,0:07:11.55,0:07:13.87,Main-480p,,0,0,0,,{Please be serious about this!}Por favor, leve isso a sério!
-Dialogue: 5,0:07:17.29,0:07:22.69,Main-480p,,0,0,0,,{.\N.\N.\N}Aguentar.\NParece que meu corpo está se solidificando cada vez mais agora.
+Dialogue: 5,0:07:17.29,0:07:22.69,Main-480p,,0,0,0,,{...\N}Aguentar.\NParece que meu corpo está se solidificando cada vez mais agora.
 Dialogue: 5,0:07:23.49,0:07:27.92,Main-480p,,0,0,0,,{I can't move at all now...}Eu não posso... me mover... mais.
 Dialogue: 5,0:07:33.89,0:07:35.66,Main-480p,,0,0,0,,{Fools!\NWith the candles closer,\Nyour hardening has sped up!\N}Seus tolos!
 Dialogue: 5,0:07:35.66,0:07:39.67,Main-480p,,0,0,0,,{Fools!\NWith the candles closer,\Nyour hardening has sped up!\N}Com as velas mais perto de você, você endurecerá muito mais rápido!
 Dialogue: 5,0:07:39.67,0:07:44.24,Main-480p,,0,0,0,,{Now you can become\Nwax figures even quicker!\N}Agora você se tornará minhas velas de cera humanas rapidamente!
-Dialogue: 5,0:07:46.61,0:07:50.32,Main-480p,,0,0,0,,{That guy thinks he can act\Nall smug and arrogant!\N}Quem esse bastardo arrogante pensa que é?\N!
+Dialogue: 5,0:07:46.61,0:07:50.32,Main-480p,,0,0,0,,{That guy thinks he can act\Nall smug and arrogant!\N}Quem esse bastardo arrogante pensa que é?!
 Dialogue: 5,0:07:50.95,0:07:53.69,Main-480p,,0,0,0,,Ei!\NVocês vão ser figuras de cera?
 Dialogue: 5,0:07:53.69,0:07:55.82,Main-480p,,0,0,0,,É isso que estamos tentando te dizer!
 Dialogue: 5,0:07:55.82,0:07:58.92,Main-480p,,0,0,0,,{\i1}Apenas destrua esse conjunto, Luffy-san!
@@ -133,7 +133,7 @@ Dialogue: 5,0:08:34.91,0:08:37.87,Main-480p,,0,0,0,,{He ate the Fire Star!}Minha
 Dialogue: 5,0:08:42.11,0:08:46.59,Main-480p,,0,0,0,,{\i1}Isso é ruim. Realmente é rápido.
 Dialogue: 5,0:08:46.59,0:08:49.55,Main-480p,,0,0,0,,{idiot}– Ainda bem que posei antes.\N– Seu idiota!
 Dialogue: 5,0:08:49.55,0:08:52.51,Main-480p,,0,0,0,,{\i1}Luffy-san! Por favor, apresse-se!
-Dialogue: 5,0:08:53.55,0:08:56.51,Main-480p,,0,0,0,,{Alright}Tudo bem!\NEssa abóbora é o problema, certo?\N!
+Dialogue: 5,0:08:53.55,0:08:56.51,Main-480p,,0,0,0,,{Alright}Tudo bem!\NEssa abóbora é o problema, certo?!
 Dialogue: 5,0:08:56.51,0:08:57.65,Main-480p,,0,0,0,,Espere!
 Dialogue: 5,0:08:57.65,0:08:58.81,Main-480p,,0,0,0,,{\fad(150,150)}Borracha Borracha...
 Dialogue: 5,0:08:58.81,0:09:00.39,Main-480p,,0,0,0,,Não adianta!
@@ -149,7 +149,7 @@ Dialogue: 5,0:09:27.21,0:09:28.33,Main-480p,,0,0,0,,{Oh no!}Droga!
 Dialogue: 5,0:09:28.33,0:09:29.59,Main-480p,,0,0,0,,{\fad(150,150)}Parede de velas!
 Dialogue: 5,0:09:29.59,0:09:31.32,Main-480p,,0,0,0,,{\fad(150,150)}Malho!
 Dialogue: 5,0:09:49.02,0:09:50.00,Main-480p,,0,0,0,,Viva! Viva!
-Dialogue: 5,0:09:50.00,0:09:52.46,Main-480p,,0,0,0,,{.\N.\N.\N}– Sr.\N3!\N– Impossível!
+Dialogue: 5,0:09:50.00,0:09:52.46,Main-480p,,0,0,0,,{...\N}– Sr.\N3!\N– Impossível!
 Dialogue: 5,0:09:55.59,0:10:00.24,Main-480p,,0,0,0,,{!\N}Luffy, corra e quebre esse conjunto enquanto ainda dá tempo!
 Dialogue: 5,0:10:01.53,0:10:02.41,Main-480p,,0,0,0,,{No}Não quero.
 Dialogue: 5,0:10:02.41,0:10:04.50,Main-480p,,0,0,0,,Pare de brincar e corra!
@@ -171,7 +171,7 @@ Dialogue: 5,0:11:09.60,0:11:11.82,Main-480p,,0,0,0,,{We're the ones who're\Nabou
 Dialogue: 5,0:11:11.82,0:11:14.09,Main-480p,,0,0,0,,Entender?! Estamos prestes a morrer!
 Dialogue: 5,0:11:14.09,0:11:18.57,Main-480p,,0,0,0,,{can't get motivated.\N}Sim.\NMas por alguma razão, eu simplesmente não me importo mais.
 Dialogue: 5,0:11:18.57,0:11:21.57,Main-480p,,0,0,0,,{This isn't a motivation problem!}Não é sobre se você se importa!
-Dialogue: 5,0:11:22.56,0:11:27.04,Main-480p,,0,0,0,,{What's happened to him?\N!\N}D-Droga!\NO que diabos há com ele?\N!
+Dialogue: 5,0:11:22.56,0:11:27.04,Main-480p,,0,0,0,,{What's happened to him?!\N}D-Droga!\NO que diabos há com ele?!
 Dialogue: 5,0:11:27.04,0:11:31.40,Main-480p,,0,0,0,,{Our friends're gonna die\Nif he doesn't hurry!\N}Se ele não se mexer, nossos amigos vão morrer!
 Dialogue: 5,0:11:32.97,0:11:34.50,Main-480p,,0,0,0,,{back }Vou trazê-lo de volta à razão!
 Dialogue: 5,0:11:34.50,0:11:36.16,Main-480p,,0,0,0,,Vamos, Karoo!
@@ -180,11 +180,11 @@ Dialogue: 5,0:11:44.01,0:11:47.85,Main-480p,,0,0,0,,Desista.\NEle já caiu em um
 Dialogue: 5,0:11:49.30,0:11:52.31,Main-480p,,0,0,0,,Isso mesmo.\NVeja onde ele está?
 Dialogue: 5,0:11:52.31,0:11:54.02,Main-480p,,0,0,0,,Onde ele está?
 Dialogue: 5,0:11:54.77,0:11:56.88,Main-480p,,0,0,0,,{...}Vamos ver aqui.
-Dialogue: 5,0:11:58.76,0:12:02.66,Main-480p,,0,0,0,,{pattern.\N.\N.\N}O que é isso?\NHá um estranho símbolo preto.
+Dialogue: 5,0:11:58.76,0:12:02.66,Main-480p,,0,0,0,,{pattern...\N}O que é isso?\NHá um estranho símbolo preto.
 Dialogue: 5,0:12:03.50,0:12:05.58,Main-480p,,0,0,0,,O que há de tão importante nisso?!
 Dialogue: 5,0:12:06.30,0:12:09.89,Main-480p,,0,0,0,,Você tem razão.\NNão é nada.\NÉ só tinta.
 Dialogue: 5,0:12:12.11,0:12:13.29,Main-480p,,0,0,0,,Pintar?
-Dialogue: 5,0:12:14.21,0:12:22.30,Main-480p,,0,0,0,,{In other words,\Nboth you and them are goners!\N}Resumindo, simboliza o fim para você.\N.\N.\Ne para seus amigos!
+Dialogue: 5,0:12:14.21,0:12:22.30,Main-480p,,0,0,0,,{In other words,\Nboth you and them are goners!\N}Resumindo, simboliza o fim para você...\Ne para seus amigos!
 Dialogue: 5,0:12:35.39,0:12:37.92,Main-480p,,0,0,0,,Karoo! Vamos correr por enquanto!
 Dialogue: 5,0:12:39.39,0:12:40.99,Main-480p,,0,0,0,,{He's planning to escape on the bird!}Eles estão voando no galinheiro!
 Dialogue: 5,0:12:40.99,0:12:42.40,Main-480p,,0,0,0,,Vamos pegá-los.
@@ -198,14 +198,14 @@ Dialogue: 5,0:13:25.03,0:13:28.24,Main-480p,,0,0,0,,{\fad(150,150)}Armadilha de 
 Dialogue: 5,0:13:29.29,0:13:31.16,Main-480p,,0,0,0,,Toque na tinta preta,
 Dialogue: 5,0:13:31.16,0:13:33.60,Main-480p,,0,0,0,,e você vai querer trair seus amigos,
 Dialogue: 5,0:13:33.60,0:13:35.71,Main-480p,,0,0,0,,não importa o que eles digam.
-Dialogue: 5,0:13:35.71,0:13:39.50,Main-480p,,0,0,0,,{What happened?\N!\NExplain!\N}O que ela quer dizer?\N!\NConte-nos o que aconteceu!
+Dialogue: 5,0:13:35.71,0:13:39.50,Main-480p,,0,0,0,,{What happened?!\NExplain!\N}O que ela quer dizer?!\NConte-nos o que aconteceu!
 Dialogue: 5,0:13:39.50,0:13:43.92,Main-480p,,0,0,0,,{She's a "realist painter" who can\Neven create real colors of emotion!\N}Essa garota é uma pintora realista que consegue recriar as cores da emoção.
 Dialogue: 5,0:13:43.92,0:13:44.92,Main-480p,,0,0,0,,{Eh?!}Diga de novo?
-Dialogue: 5,0:13:46.00,0:13:49.84,Main-480p,,0,0,0,,{manipulate people's minds}Seu refinado senso de cor pode ser usado para manipular.\N.\N.
+Dialogue: 5,0:13:46.00,0:13:49.84,Main-480p,,0,0,0,,{manipulate people's minds}Seu refinado senso de cor pode ser usado para manipular...
 Dialogue: 5,0:13:49.84,0:13:52.14,Main-480p,,0,0,0,,{through the use of her paints.}aqueles que interagem com suas tintas.
 Dialogue: 5,0:13:52.81,0:13:55.10,Main-480p,,0,0,0,,Manipular?! Isso não é bom!
 Dialogue: 5,0:13:56.15,0:14:01.32,Main-480p,,0,0,0,,Esse idiota simplório já é fácil de manipular!
-Dialogue: 5,0:14:01.95,0:14:05.28,Main-480p,,0,0,0,,{Then doesn't he just need\Nto get away from that paint?\N}Então.\N.\N.\Nele não pode simplesmente sair da pintura?
+Dialogue: 5,0:14:01.95,0:14:05.28,Main-480p,,0,0,0,,{Then doesn't he just need\Nto get away from that paint?\N}Então...\Nele não pode simplesmente sair da pintura?
 Dialogue: 5,0:14:05.28,0:14:07.69,Main-480p,,0,0,0,,Luffy! Afaste-se daí!
 Dialogue: 5,0:14:07.69,0:14:08.69,Main-480p,,0,0,0,,Não, não!
 Dialogue: 5,0:14:08.69,0:14:13.70,Main-480p,,0,0,0,,{\i1}Luffy-san!\NFaça o que fizer, não saia desse círculo preto!
@@ -214,7 +214,7 @@ Dialogue: 5,0:14:17.28,0:14:18.51,Main-480p,,0,0,0,,Vivi! Por que?!
 Dialogue: 5,0:14:18.51,0:14:22.16,Main-480p,,0,0,0,,Não queremos que você nos salve de jeito nenhum!
 Dialogue: 5,0:14:25.90,0:14:27.13,Main-480p,,0,0,0,,{No.}Oh sim?
 Dialogue: 5,0:14:28.28,0:14:29.88,Main-480p,,0,0,0,,{I get it.}Eu vejo agora.
-Dialogue: 5,0:14:29.88,0:14:33.85,Main-480p,,0,0,0,,{You made him do the exact\Nopposite of what you said.\N.\N.\N}Ele está sendo obrigado a fazer exatamente o oposto do que lhe foi dito.
+Dialogue: 5,0:14:29.88,0:14:33.85,Main-480p,,0,0,0,,{You made him do the exact\Nopposite of what you said...\N}Ele está sendo obrigado a fazer exatamente o oposto do que lhe foi dito.
 Dialogue: 5,0:14:33.85,0:14:35.56,Main-480p,,0,0,0,,Huh?
 Dialogue: 5,0:14:36.82,0:14:40.31,Main-480p,,0,0,0,,{I-I was kind of weird just now!}I-Isso foi um pouco estranho agora.
 Dialogue: 5,0:14:40.31,0:14:42.29,Main-480p,,0,0,0,,{\i1}Luffy-san! Pressa!
@@ -280,7 +280,7 @@ Dialogue: 5,0:18:44.52,0:18:50.28,Thoughts-480p,,0,0,0,,{that way}Luffy está ag
 Dialogue: 5,0:18:50.28,0:18:52.28,Thoughts-480p,,0,0,0,,Eles estão relacionados de alguma forma!
 Dialogue: 5,0:18:52.28,0:18:56.62,Thoughts-480p,,0,0,0,,{There was also some on his back\Nwhen I crashed into him earlier!\N}Sem mencionar que ele estava com algumas nas costas quando colidi com ele mais cedo.
 Dialogue: 5,0:18:56.62,0:18:58.11,Thoughts-480p,,0,0,0,,{No doubt about it!}Tenho certeza disso!
-Dialogue: 5,0:18:58.11,0:19:00.36,Thoughts-480p,,0,0,0,,{If I can just do something\Nabout the paint.\N.\N.\N!\N}Tenho que cuidar dessa pintura!
+Dialogue: 5,0:18:58.11,0:19:00.36,Thoughts-480p,,0,0,0,,{If I can just do something\Nabout the paint...!\N}Tenho que cuidar dessa pintura!
 Dialogue: 5,0:19:00.36,0:19:01.57,Main-480p,,0,0,0,,Pressa!
 Dialogue: 5,0:19:16.70,0:19:19.92,Main-480p,,0,0,0,,{. S}Ahh, que chá adorável.
 Dialogue: 5,0:19:21.84,0:19:23.79,Main-480p,,0,0,0,,{Such nice...}Tão legal.
@@ -290,16 +290,16 @@ Dialogue: 5,0:19:37.22,0:19:41.07,Main-480p,,0,0,0,,{idiot}O que você está faz
 Dialogue: 5,0:19:46.66,0:19:49.12,Main-480p,,0,0,0,,{It's over for all of you.}Está tudo acabado para você.
 Dialogue: 5,0:19:49.12,0:19:51.42,Main-480p,,0,0,0,,{This is my ultimate ability!}Essa habilidade é incomparável.
 Dialogue: 5,0:19:52.32,0:19:54.17,Main-480p,,0,0,0,,{\fad(150,150)}Estrela de Fogo Letal!
-Dialogue: 5,0:20:05.14,0:20:08.97,Main-480p,,0,0,0,,{What an idiot!\NHe missed his\Ntarget and hit his own friend!\N}Quão burro você consegue ser?\N!\NQuem atira em seus próprios aliados?\N!
+Dialogue: 5,0:20:05.14,0:20:08.97,Main-480p,,0,0,0,,{What an idiot!\NHe missed his\Ntarget and hit his own friend!\N}Quão burro você consegue ser?!\NQuem atira em seus próprios aliados?!
 Dialogue: 5,0:20:10.43,0:20:13.19,Main-480p,,0,0,0,,{Where'd his bullets go?!}Ele não ia atirar?!
 Dialogue: 5,0:20:16.90,0:20:18.90,Main-480p,,0,0,0,,{\fad(150,150)}Bomba Respiratória Brisa!
 Dialogue: 5,0:20:23.78,0:20:26.65,Main-480p,,0,0,0,,{I forgot to mention it,\Nbut my breath explodes.\N}Ah, sim, minha respiração também é explosiva.
-Dialogue: 5,0:20:28.24,0:20:33.46,Main-480p,,0,0,0,,{He had no bullets?\N!\N}Droga!\NIsso é uma loucura!\NNão havia nem balas?\N!
+Dialogue: 5,0:20:28.24,0:20:33.46,Main-480p,,0,0,0,,{He had no bullets?!\N}Droga!\NIsso é uma loucura!\NNão havia nem balas?!
 Dialogue: 5,0:20:33.46,0:20:36.03,Main-480p,,0,0,0,,{alright}Karoo! Você está bem?!
 Dialogue: 5,0:20:37.53,0:20:39.80,Main-480p,,0,0,0,,{Hey! You come to your senses?!}Ei! Você já acordou?!
 Dialogue: 5,0:20:39.80,0:20:41.13,Main-480p,,0,0,0,,{...}S-Sim.
 Dialogue: 5,0:20:41.13,0:20:43.59,Main-480p,,0,0,0,,Estou acordado! Obrigado!
-Dialogue: 5,0:20:44.64,0:20:47.49,Main-480p,,0,0,0,,{That attack was meant to burn\Nhis clothes and the Trap on it}Ele atacou seu amigo de propósito para queimar seu colete.\N.\N.
+Dialogue: 5,0:20:44.64,0:20:47.49,Main-480p,,0,0,0,,{That attack was meant to burn\Nhis clothes and the Trap on it}Ele atacou seu amigo de propósito para queimar seu colete...
 Dialogue: 5,0:20:47.49,0:20:49.06,Main-480p,,0,0,0,,{to undo the mental manipulation!}e destrua a armadilha!
 Dialogue: 5,0:20:50.28,0:20:53.02,Main-480p,,0,0,0,,Já estou farto dessa tinta!
 Dialogue: 5,0:20:55.52,0:20:58.48,Main-480p,,0,0,0,,{I refuse to let anyone else die!}Não vou deixar você matar mais ninguém!
@@ -376,7 +376,7 @@ Dialogue: 5,0:25:59.03,0:26:02.95,Main-480p,,0,0,0,,{Just run around all the can
 Dialogue: 5,0:26:05.21,0:26:07.42,Main-480p,,0,0,0,,{Everything you try is pointless!}É inútil! Desistir!
 Dialogue: 5,0:26:08.13,0:26:09.32,Main-480p,,0,0,0,,{Pardon me.}'Com licença.
 Dialogue: 5,0:26:10.30,0:26:12.59,Main-480p,,0,0,0,,{\fad(150,150)}Pedra Crescente!
-Dialogue: 5,0:26:14.19,0:26:17.38,Main-480p,,0,0,0,,{How many kilograms\Ncan you endure, I wonder.\N.\N.\N}Vamos ver quantos quilos são necessários até você quebrar!
+Dialogue: 5,0:26:14.19,0:26:17.38,Main-480p,,0,0,0,,{How many kilograms\Ncan you endure, I wonder...\N}Vamos ver quantos quilos são necessários até você quebrar!
 Dialogue: 5,0:26:20.05,0:26:21.33,Main-480p,,0,0,0,,{...}10 quilos!
 Dialogue: 5,0:26:22.93,0:26:24.81,Main-480p,,0,0,0,,{...}100 quilos!
 Dialogue: 5,0:26:26.98,0:26:28.86,Main-480p,,0,0,0,,{...}200 quilos!
@@ -394,10 +394,10 @@ Dialogue: 5,0:27:07.02,0:27:08.98,Main-480p,,0,0,0,,A corda do pássaro?!
 Dialogue: 5,0:27:08.98,0:27:11.49,Main-480p,,0,0,0,,É uma corda especial...
 Dialogue: 5,0:27:11.49,0:27:14.02,Main-480p,,0,0,0,,embebido em óleo!
 Dialogue: 5,0:27:14.02,0:27:16.86,Main-480p,,0,0,0,,- OK!\NTodos!\NAcordar!\N- Ei!\NEspere!\NParar!
-Dialogue: 5,0:27:16.86,0:27:19.61,Main-480p,,0,0,0,,{It'll be a little hot, but endure it.\N.\N.\N}As coisas vão esquentar, mas tenha paciência.
+Dialogue: 5,0:27:16.86,0:27:19.61,Main-480p,,0,0,0,,{It'll be a little hot, but endure it...\N}As coisas vão esquentar, mas tenha paciência.
 Dialogue: 5,0:27:20.28,0:27:22.12,Main-480p,,0,0,0,,Parar!
 Dialogue: 5,0:27:35.25,0:27:40.32,Main-480p,,0,0,0,,Uau! Quente! Quente!
-Dialogue: 5,0:27:40.32,0:27:43.76,Main-480p,,0,0,0,,{What a big fire!\N}Esse fogo é enorme!\NEles vão ficar bem?\N!
+Dialogue: 5,0:27:40.32,0:27:43.76,Main-480p,,0,0,0,,{What a big fire!\N}Esse fogo é enorme!\NEles vão ficar bem?!
 Dialogue: 5,0:27:44.56,0:27:48.06,Main-480p,,0,0,0,,{Curse you... Curse you}Você conseguiu agora, Chapéu de Palha!
 Dialogue: 5,0:27:48.06,0:27:52.73,Main-480p,,0,0,0,,{destroy}Como você ousa destruir meu conjunto de velas!
 Dialogue: 5,0:27:52.73,0:27:54.19,Main-480p,,0,0,0,,{pay for this}Você vai se arrepender do dia!
@@ -405,7 +405,7 @@ Dialogue: 5,0:27:58.30,0:28:00.11,Main-480p,,0,0,0,,{I won't let you get away, y
 Dialogue: 5,0:28:03.11,0:28:06.64,Main-480p,,0,0,0,,{Damn it! How dare you mock us!}Droga! Leve-nos a sério!
 Dialogue: 5,0:28:08.88,0:28:11.74,Main-480p,,0,0,0,,{Now you've done it!}Agora vocês conseguiram!
 Dialogue: 5,0:28:12.62,0:28:15.09,Main-480p,,0,0,0,,A hora da brincadeira acabou!
-Dialogue: 5,0:28:15.09,0:28:17.37,Main-480p,,0,0,0,,{I'm going to shatter that\Nneck of yours into pieces!\N}Eu vou quebrar seu pescoço.\N.\N.
+Dialogue: 5,0:28:15.09,0:28:17.37,Main-480p,,0,0,0,,{I'm going to shatter that\Nneck of yours into pieces!\N}Eu vou quebrar seu pescoço...
 Dialogue: 5,0:28:17.37,0:28:20.09,Main-480p,,0,0,0,,{I'm going to shatter that\Nneck of yours into pieces!\N}em pequenos fragmentos!
 Dialogue: 5,0:28:20.09,0:28:23.76,Main-480p,,0,0,0,,{\fad(150,150)}Guilhotina letal de 10.000 quilos!
 Dialogue: 5,0:28:33.44,0:28:36.40,Main-480p,,0,0,0,,{That was hot!\NCouldn't you\Nhave done it a different way?\N}Usar tanto calor era realmente necessário?
@@ -448,7 +448,7 @@ Dialogue: 5,0:31:44.21,0:31:52.97,Main-480p,,0,0,0,,{A brute force buffoon like 
 Dialogue: 5,0:31:52.97,0:31:55.64,Main-480p,,0,0,0,,Eu sou o Sr. 3.
 Dialogue: 5,0:31:55.64,0:31:59.43,Main-480p,,0,0,0,,{I carry out all assignments given to me flawlessly.\N}Executo perfeitamente qualquer missão para a qual sou designado.
 Dialogue: 5,0:31:59.43,0:32:02.90,Main-480p,,0,0,0,,{forward}Agora, então! Entre!
-Dialogue: 5,0:32:09.44,0:32:16.13,Main-480p,,0,0,0,,{The moment your back is\Nturned to me, I'll stab you.\N.\N.\N}Mas no momento em que você virar as costas para mim, você receberá uma adaga.\N.\N.
+Dialogue: 5,0:32:09.44,0:32:16.13,Main-480p,,0,0,0,,{The moment your back is\Nturned to me, I'll stab you...\N}Mas no momento em que você virar as costas para mim, você receberá uma adaga...
 Dialogue: 5,0:32:19.88,0:32:23.86,Main-480p,,0,0,0,,{\i1}direto através do coração.
 Dialogue: 5,0:32:41.40,0:32:43.34,Main-480p,,0,0,0,,{\fad(150,0)}Borracha Borracha...
 Dialogue: 5,0:32:43.34,0:32:45.02,Main-480p,,0,0,0,,{\fad(0,150)}Carimbo!

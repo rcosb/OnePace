@@ -88,8 +88,8 @@ Dialogue: 0,0:00:00.00,0:00:06.90,Main-207+,chapter,0,0,0,,{Part A}
 Dialogue: 0,0:03:54.42,0:03:56.38,Main-207+,chapter,0,0,0,,{Opening}
 Dialogue: 0,0:05:44.53,0:05:44.57,Main-207+,chapter,0,0,0,,{Part B}
 Dialogue: 5,0:00:06.90,0:00:10.51,Main-207+,,0,0,0,,O que há com você?! Pare com essa bobagem!
-Dialogue: 5,0:00:11.69,0:00:14.60,Main-207+,,0,0,0,,{Why do you have to fight \Na duel with your friend?\N!\N}Por que você precisa lutar?\NVocês dois são amigos!
-Dialogue: 5,0:00:14.60,0:00:18.16,Main-207+,,0,0,0,,{If you give it a little time, \Nyou two will cool down, right?\N!\N}Dê um tempo e vocês dois vão se acalmar, certo?
+Dialogue: 5,0:00:11.69,0:00:14.60,Main-207+,,0,0,0,,{Why do you have to fight \Na duel with your friend?!\N}Por que você precisa lutar?\NVocês dois são amigos!
+Dialogue: 5,0:00:14.60,0:00:18.16,Main-207+,,0,0,0,,{If you give it a little time, \Nyou two will cool down, right?!\N}Dê um tempo e vocês dois vão se acalmar, certo?
 Dialogue: 5,0:00:18.57,0:00:22.12,Main-207+,,0,0,0,,{Usopp too.\NHe just got flared up \Nbecause things were moving quickly.\N}E Usopp!\NEle ficou entusiasmado com o quão inesperado tudo isso foi.
 Dialogue: 5,0:00:23.01,0:00:25.38,Main-207+,,0,0,0,,{Now that we've come this far, \Nwe can't go back.\N}É tarde demais para desistir agora.
 Dialogue: 5,0:00:26.30,0:00:27.57,Main-207+,,0,0,0,,Isso não é verdade!
@@ -101,9 +101,9 @@ Dialogue: 5,0:00:44.25,0:00:47.79,Main-207+,,0,0,0,,{would change his opinion,}A
 Dialogue: 5,0:00:47.79,0:00:49.94,Main-207+,,0,0,0,,{this wouldn't have happened.}não teria ido tão longe.
 Dialogue: 5,0:00:51.09,0:00:52.94,Main-207+,,0,0,0,,Se você entender, me deixe em paz.
 Dialogue: 5,0:00:54.44,0:00:55.60,Main-207+,,0,0,0,,Luffy...
-Dialogue: 5,0:00:55.60,0:01:00.66,Main-207+,,0,0,0,,{I'm saying, the Franky Family \Ncame here this afternoon, right?\N!\N}É só isso!\NA Família Franky passou por aqui hoje à tarde, certo?\N!
+Dialogue: 5,0:00:55.60,0:01:00.66,Main-207+,,0,0,0,,{I'm saying, the Franky Family \Ncame here this afternoon, right?!\N}É só isso!\NA Família Franky passou por aqui hoje à tarde, certo?!
 Dialogue: 5,0:01:00.66,0:01:03.24,Main-207+,,0,0,0,,{So what?}Huh? O que você quer dizer?!
-Dialogue: 5,0:01:03.24,0:01:07.33,Main-207+,,0,0,0,,{Why didn't you beat them all up \Nbeyond recovery then?\N!\N}Por que você não aproveitou a oportunidade para transformá-los em polpa então?\N!
+Dialogue: 5,0:01:03.24,0:01:07.33,Main-207+,,0,0,0,,{Why didn't you beat them all up \Nbeyond recovery then?!\N}Por que você não aproveitou a oportunidade para transformá-los em polpa então?!
 Dialogue: 5,0:01:07.33,0:01:11.90,Main-207+,,0,0,0,,{If you had, Usopp wouldn't \Nhave been attacked and felt guilty!\N}Se você tivesse feito isso, eles não teriam atacado o Usopp, e então ele não teria se sentido responsável!
 Dialogue: 5,0:01:11.90,0:01:16.84,Main-207+,,0,0,0,,{Then, instead of going shopping, \Nyou should've stayed and fought them!\N}Ok, então em vez de ir às compras, você deveria ter ficado e chutado os dentes!
 Dialogue: 5,0:01:16.84,0:01:19.25,Main-207+,,0,0,0,,{I went to get necessary \Nfood as your cook!\N}É trabalho do cozinheiro adquirir os itens essenciais!
@@ -117,7 +117,7 @@ Dialogue: 5,0:01:47.74,0:01:51.07,Main-207+,,0,0,0,,Ele conseguiu um lugar para 
 Dialogue: 5,0:01:51.95,0:01:53.76,Main-207+,,0,0,0,,Ele disse...
 Dialogue: 5,0:01:54.33,0:01:59.76,Main-207+,,0,0,0,,{friends}Ele disse: “Você e eu não somos mais membros da tripulação, então volte para o navio!\N”
 Dialogue: 5,0:02:04.21,0:02:07.64,Main-207+,,0,0,0,,{All that fun time up until \Nthis morning seems like a dream.\N}É como se todos os grandes momentos que tivemos antes de hoje fossem uma ilusão.
-Dialogue: 5,0:02:11.10,0:02:15.07,Main-207+,,0,0,0,,{If something is happening \Nto Robin on top of this.\N.\N.\N}Para completar, algo pode ter acontecido com Robin.
+Dialogue: 5,0:02:11.10,0:02:15.07,Main-207+,,0,0,0,,{If something is happening \Nto Robin on top of this...\N}Para completar, algo pode ter acontecido com Robin.
 Dialogue: 5,0:02:15.55,0:02:18.03,Main-207+,,0,0,0,,{the gang is falling apart.}Eu me sinto como... nossa equipe...
 Dialogue: 5,0:02:18.03,0:02:20.69,Main-207+,,0,0,0,,está desmoronando.
 Dialogue: 5,0:02:27.11,0:02:29.30,Main-207+,,0,0,0,,São 10 horas, a hora prometida.
@@ -136,7 +136,7 @@ Dialogue: 5,0:03:38.36,0:03:40.45,Main-207+,,0,0,0,,Se você não aguenta assist
 Dialogue: 5,0:03:41.21,0:03:44.90,Main-207+,,0,0,0,,{didn't know your skills.\N}Não me misture com seus inimigos do passado que não estavam familiarizados com suas habilidades.
 Dialogue: 5,0:03:44.90,0:03:48.85,Main-207+,,0,0,0,,{.\NWe've}Luffy, nos conhecemos há muito tempo.
 Dialogue: 5,0:03:49.40,0:03:52.42,Main-207+,,0,0,0,,{about }Conheço muito bem seus poderes.
-Dialogue: 5,0:05:45.13,0:05:47.49,Main-207+,,0,0,0,,{Don't be surprised when \Nyou hear this, Luffy.\N}O que eu digo pode te surpreender, Luffy.\N.\N.
+Dialogue: 5,0:05:45.13,0:05:47.49,Main-207+,,0,0,0,,{Don't be surprised when \Nyou hear this, Luffy.\N}O que eu digo pode te surpreender, Luffy...
 Dialogue: 5,0:05:47.49,0:05:50.37,Main-207+,,0,0,0,,{men under me!}Eu tenho 8.000 capangas!
 Dialogue: 5,0:05:51.09,0:05:54.79,Main-207+,,0,0,0,,{If you don't wanna die}Se você valoriza sua vida, entregue-se agora!
 Dialogue: 5,0:05:55.12,0:05:57.91,Main-207+,,0,0,0,,O que?! 8.000?! Tantos?!
@@ -151,14 +151,14 @@ Dialogue: 5,0:06:18.06,0:06:21.52,Main-207+,,0,0,0,,{\fad(150,150)}Pistola de ch
 Dialogue: 5,0:06:26.90,0:06:28.24,Main-207+,,0,0,0,,Usopp!
 Dialogue: 5,0:06:29.69,0:06:32.20,Main-207+,,0,0,0,,{His body is already...}Ver?! Ele está em péssimo estado!
 Dialogue: 5,0:06:33.85,0:06:36.66,Main-207+,,0,0,0,,{\fad(150,150)}Letal... Estrela do Ketchup!
-Dialogue: 5,0:06:37.20,0:06:41.75,Main-207+,,0,0,0,,{What?\NAre you sympathizing \Nwith your enemy?\NWhat confidence.\N.\N.\N!\N}O que é isso?\NSentindo pena do seu inimigo?\NQue arrogante!
+Dialogue: 5,0:06:37.20,0:06:41.75,Main-207+,,0,0,0,,{What?\NAre you sympathizing \Nwith your enemy?\NWhat confidence...!\N}O que é isso?\NSentindo pena do seu inimigo?\NQue arrogante!
 Dialogue: 5,0:06:41.75,0:06:43.09,Main-207+,,0,0,0,,Discagem instantânea!
 Dialogue: 5,0:06:48.65,0:06:50.72,Main-207+,,0,0,0,,{\fad(150,150)}Estrela de ovo letal!
 Dialogue: 5,0:06:52.89,0:06:55.14,Main-207+,,0,0,0,,{\fad(150,150)}Estrela! Estrela! Estrela!
 Dialogue: 5,0:06:57.98,0:06:59.69,Main-207+,,0,0,0,,Isso fede! Eles estão podres!
 Dialogue: 5,0:07:00.05,0:07:03.10,Main-207+,,0,0,0,,{Dammit!\NYou jerk!\NBe serious!\N}Droga, seu idiota!\NLute comigo de verdade!
-Dialogue: 5,0:07:03.10,0:07:06.03,Main-207+,,0,0,0,,{Is this silly?\NI'm very serious, Luffy!\N}Acha que estou brincando?\N!\NEstou falando sério, Luffy!
-Dialogue: 5,0:07:06.03,0:07:09.24,Main-207+,,0,0,0,,{This is my way of fighting!\N}- O que?\N– É assim.\N.\N.\Né assim que eu luto!
+Dialogue: 5,0:07:03.10,0:07:06.03,Main-207+,,0,0,0,,{Is this silly?\NI'm very serious, Luffy!\N}Acha que estou brincando?!\NEstou falando sério, Luffy!
+Dialogue: 5,0:07:06.03,0:07:09.24,Main-207+,,0,0,0,,{This is my way of fighting!\N}- O que?\N– É assim...\Né assim que eu luto!
 Dialogue: 5,0:07:09.69,0:07:12.24,Main-207+,,0,0,0,,{Hey, if you open your mouth that big, \Nyou'll have a burn!\N}Tome cuidado para que sua boca aberta não queime!
 Dialogue: 5,0:07:16.33,0:07:18.75,Main-207+,,0,0,0,,{\fad(150,150)}Estrela letal de Tabasco!
 Dialogue: 5,0:07:18.75,0:07:21.71,Main-207+,,0,0,0,,{It's hooot!!}Isso queima!
@@ -169,7 +169,7 @@ Dialogue: 5,0:07:32.22,0:07:33.76,Main-207+,,0,0,0,,{Usopp is in control of the 
 Dialogue: 0,0:07:34.76,0:07:40.02,Title,,0,0,0,,{\fs73\bord1.9\c&H000000&\1a&HFF&\blur0.6\fad(600,0)\t(555,600,\1a&H00&)}Luffy x Usopp
 Dialogue: 1,0:07:34.76,0:07:40.02,Title,,0,0,0,,{\fs73\bord0\4a&HFF&\blur0.6\fad(600,0)}Luffy x Usopp
 Dialogue: 5,0:07:34.64,0:07:36.60,Main-207+,,0,0,0,,Ouça, Luffy!
-Dialogue: 5,0:07:36.60,0:07:40.02,Main-207+,,0,0,0,,{I'll defeat you without fail \Nand take the Merry.\N.\N.\N}Fique tranquilo, vou vencer você e levar o Merry,
+Dialogue: 5,0:07:36.60,0:07:40.02,Main-207+,,0,0,0,,{I'll defeat you without fail \Nand take the Merry...\N}Fique tranquilo, vou vencer você e levar o Merry,
 Dialogue: 5,0:07:40.02,0:07:42.02,Main-207+,,0,0,0,,não importa o que aconteça!
 Dialogue: 5,0:07:43.27,0:07:45.02,Main-207+,,0,0,0,,{\fad(150,150)}Estrela de pimenta letal!
 Dialogue: 5,0:07:47.19,0:07:48.99,Main-207+,,0,0,0,,Ai!
@@ -195,13 +195,13 @@ Dialogue: 5,0:10:20.88,0:10:23.34,Flashbacks-720p,,0,0,0,,Ei, você! Não me ins
 Dialogue: 5,0:10:23.34,0:10:24.56,Flashbacks-720p,,0,0,0,,Por quê?
 Dialogue: 5,0:10:24.56,0:10:27.27,Flashbacks-720p,,0,0,0,,Você é um de nós agora, não é?
 Dialogue: 5,0:10:31.11,0:10:33.74,Flashbacks-720p,,0,0,0,,Eu vejo uma ilha!
-Dialogue: 5,0:10:33.74,0:10:37.07,Flashbacks-720p,,0,0,0,,Uau!\NIncrível!\NQue tipo de ilha é essa?\N!
+Dialogue: 5,0:10:33.74,0:10:37.07,Flashbacks-720p,,0,0,0,,Uau!\NIncrível!\NQue tipo de ilha é essa?!
 Dialogue: 5,0:10:37.07,0:10:39.41,Flashbacks-720p,,0,0,0,,Tudo bem! Ir!
 Dialogue: 5,0:10:39.41,0:10:42.50,Flashbacks-720p,,0,0,0,,Alegre! A toda velocidade!
 Dialogue: 5,0:10:42.50,0:10:44.95,Flashbacks-720p,,0,0,0,,A toda velocidade!
 Dialogue: 5,0:11:15.27,0:11:17.03,Main-207+,,0,0,0,,{I can't stand this.}Isso é demais.
 Dialogue: 5,0:11:17.03,0:11:20.13,Main-207+,,0,0,0,,Luffy! Usopp!
-Dialogue: 5,0:11:37.10,0:11:41.76,Main-207+,,0,0,0,,{I know.\N.\N.\Nthat an attack like that \Nwouldn't take you out.\N}Achei que.\N.\N.\Num ataque como esse não iria acabar com você.
+Dialogue: 5,0:11:37.10,0:11:41.76,Main-207+,,0,0,0,,{I know...\Nthat an attack like that \Nwouldn't take you out.\N}Achei que...\Num ataque como esse não iria acabar com você.
 Dialogue: 5,0:11:41.76,0:11:43.59,Main-207+,,0,0,0,,{I know, Luffy...}Eu te conheço, Luffy.
 Dialogue: 5,0:11:44.30,0:11:47.70,Main-207+,,0,0,0,,{that you fight every battle \Nwith all your strength.\N}Você ultrapassa seus limites em todas as batalhas.
 Dialogue: 5,0:11:49.42,0:11:52.07,Main-207+,,0,0,0,,{I know every detail of your skills!}Posso ler você como um livro!
@@ -229,7 +229,7 @@ Dialogue: 5,0:14:25.55,0:14:27.73,Main-207+,,0,0,0,,{\fad(150,150)}Bala!
 Dialogue: 5,0:14:37.70,0:14:39.77,Main-207+,,0,0,0,,Usopp!
 Dialogue: 5,0:15:07.60,0:15:09.13,Main-207+,,0,0,0,,{Game over}A luta acabou.
 Dialogue: 5,0:15:23.61,0:15:25.18,Main-207+,,0,0,0,,{fool}Seu idiota!
-Dialogue: 5,0:15:27.40,0:15:32.21,Main-207+,,0,0,0,,{There's no way that you \Ncould defeat me, is there?\N!\N}Não há nenhuma maneira possível de você ter me derrotado!
+Dialogue: 5,0:15:27.40,0:15:32.21,Main-207+,,0,0,0,,{There's no way that you \Ncould defeat me, is there?!\N}Não há nenhuma maneira possível de você ter me derrotado!
 Dialogue: 5,0:15:58.86,0:16:01.21,Main-207+,,0,0,0,,{I can't stand this...}Não... não mais...
 Dialogue: 5,0:16:10.81,0:16:13.78,Main-207+,,0,0,0,,Faça o que quiser com o Merry.
 Dialogue: 5,0:16:17.30,0:16:22.93,Main-207+,,0,0,0,,{We'll get a new ship and \Nmove on to the seas ahead!\N}Quanto a nós, arranjaremos um novo navio e seguiremos em frente!
@@ -245,10 +245,10 @@ Dialogue: 5,0:16:57.42,0:17:02.47,Flashbacks-720p,,0,0,0,,{goin'}Vamos começar 
 Dialogue: 5,0:17:12.41,0:17:14.30,Main-207+,,0,0,0,,{Well then, bye}Adeus, Usopp.
 Dialogue: 5,0:17:15.16,0:17:18.04,Main-207+,,0,0,0,,Tem sido divertido.
 Dialogue: 5,0:17:22.85,0:17:24.77,Main-207+,,0,0,0,,Ei, não vá, Chopper!
-Dialogue: 5,0:17:26.06,0:17:29.69,Main-207+,,0,0,0,,{Why not?\N!\NHe was already \Nwounded so badly to start with,}Por que eu não deveria?\N!\NSeus ferimentos já eram bastante graves,
+Dialogue: 5,0:17:26.06,0:17:29.69,Main-207+,,0,0,0,,{Why not?!\NHe was already \Nwounded so badly to start with,}Por que eu não deveria?!\NSeus ferimentos já eram bastante graves,
 Dialogue: 5,0:17:29.69,0:17:31.48,Main-207+,,0,0,0,,{and now he got beat up worse!}e agora ele está em situação ainda pior!
 Dialogue: 5,0:17:32.66,0:17:34.41,Main-207+,,0,0,0,,{isn't}Isto não foi uma briga ou um jogo.
-Dialogue: 5,0:17:34.41,0:17:39.03,Main-207+,,0,0,0,,{So what}Qual é o seu ponto?\N!\NEu sou médico!\NDeixe-me pelo menos tratá-lo!
+Dialogue: 5,0:17:34.41,0:17:39.03,Main-207+,,0,0,0,,{So what}Qual é o seu ponto?!\NEu sou médico!\NDeixe-me pelo menos tratá-lo!
 Dialogue: 5,0:17:43.66,0:17:47.39,Main-207+,,0,0,0,,{On top of that, he gets pitied.\N}Ele perdeu o duelo.\NA última coisa que ele quer é a nossa pena.
 Dialogue: 5,0:17:47.39,0:17:49.67,Main-207+,,0,0,0,,{Imagine just how miserable \Nthat must make him feel!\N}Pense em como isso o faria se sentir!
 Dialogue: 5,0:17:52.24,0:17:57.39,Main-207+,,0,0,0,,{Imagine how much suffering careless \Nkindness can cause the loser!\N}Mostrar bondade descuidadamente ao perdedor apenas acrescenta insulto à injúria.
@@ -258,7 +258,7 @@ Dialogue: 5,0:18:18.30,0:18:20.45,Main-207+,,0,0,0,,{That's what it means \Nto b
 Dialogue: 5,0:18:21.40,0:18:23.41,Main-207+,,0,0,0,,{lose}Não duvide de si mesmo.
 Dialogue: 5,0:18:26.01,0:18:31.16,Main-207+,,0,0,0,,{waver}Se você hesitar, em quem podemos confiar?
 Dialogue: 5,0:18:43.19,0:18:45.02,Main-207+,,0,0,0,,{Let's vacate the ship.}Vamos entregar o navio.
-Dialogue: 5,0:18:55.57,0:19:01.61,Main-207+,,0,0,0,,{We can't come backnever come back.\N.\N.\N\Nto this ship, so.\N.\N.\N.\N.\N.\NNot ever.\N}Nós.\N.\N.\Nnão podemos voltar.\NNunca.
+Dialogue: 5,0:18:55.57,0:19:01.61,Main-207+,,0,0,0,,{We can't come backnever come back...\N\Nto this ship, so......\NNot ever.\N}Nós...\Nnão podemos voltar.\NNunca.
 Dialogue: 0,0:04:20.68,0:04:26.26,Credits,,0,0,0,,{\pos(481,423)\blur0.\N4\fscx105\fscy110\c&H000000&}Edição de vídeo
 Dialogue: 1,0:04:20.68,0:04:26.26,Credits,,0,0,0,,{\pos(481,423)\blur0.\N4\fscx105\fscy110\bord0\4a&HFF&}Edição de vídeo
 Dialogue: 0,0:04:26.97,0:04:31.44,Credits,,0,0,0,,{\pos(525,448)\blur0.\N4\fscx105\fscy110\c&H000000&}Gráficos

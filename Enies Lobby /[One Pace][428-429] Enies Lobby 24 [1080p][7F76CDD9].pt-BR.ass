@@ -52,11 +52,11 @@ PlayResY: 720
 
 Dialogue: 0,0:01:52.34,0:01:52.86,Main,,0,0,0,,Isso...
 Dialogue: 0,0:01:52.84,0:01:55.09,Main,,0,0,0,,I-Isso não pode estar acontecendo!
-Dialogue: 0,0:01:55.51,0:02:00.14,Main,,0,0,0,,{Mr.\NRob Lucci, the leader of\Nthe current CP9, is considered}O líder da CP9, Sr.\NRob Lucci, é considerado o agente mais poderoso.\N.\N.
+Dialogue: 0,0:01:55.51,0:02:00.14,Main,,0,0,0,,{Mr.\NRob Lucci, the leader of\Nthe current CP9, is considered}O líder da CP9, Sr.\NRob Lucci, é considerado o agente mais poderoso...
 Dialogue: 0,0:02:00.14,0:02:04.10,Main,,0,0,0,,{to be the strongest in the history of Cipher Pol.}na história da Cipher Pol.
 Dialogue: 0,0:02:04.22,0:02:10.06,Title,,0,0,240,,{\c&H000000&\1a&HFF&\blur0.6\fad(600,0)\t(555,600,\1a&H00&)}Derrota total
 Dialogue: 1,0:02:04.22,0:02:10.06,Title,,0,0,240,,{\bord0\4a&HFF&\blur0.6\fad(600,0)}Derrota total
-Dialogue: 0,0:02:04.75,0:02:07.41,Main,,0,0,0,,{To think that even he has\Nbeen defeated by a pirate.\N.\N.\N!\N}Sua derrota nas mãos de um mero pirata é inacreditável!
+Dialogue: 0,0:02:04.75,0:02:07.41,Main,,0,0,0,,{To think that even he has\Nbeen defeated by a pirate...!\N}Sua derrota nas mãos de um mero pirata é inacreditável!
 Dialogue: 0,0:02:24.49,0:02:28.46,Main,,0,0,0,,Luffy venceu!
 Dialogue: 0,0:02:43.03,0:02:45.10,Main,,0,0,0,,{He had me worried there.}Ele me deixou em alfinetes e agulhas lá.
 Dialogue: 0,0:02:45.10,0:02:47.52,Main,,0,0,0,,Então você finalmente conseguiu, Chapéu de Palha!
@@ -74,7 +74,7 @@ Dialogue: 0,0:03:39.37,0:03:44.47,Main,,0,0,0,,{Stop it!\NIf we had just taken o
 Dialogue: 0,0:03:44.47,0:03:45.91,Main,,0,0,0,,{...}Vocês!
 Dialogue: 0,0:03:46.51,0:03:47.70,Main,,0,0,0,,{...}Esses caras!
 Dialogue: 0,0:03:51.71,0:03:55.27,Main,,0,0,0,,{Are they possibly the pirates\Nwe took out at the main gate?\N}Qual é a probabilidade de serem os mesmos piratas que eliminamos no portão principal?
-Dialogue: 0,0:03:55.27,0:03:59.20,Main,,0,0,0,,{Well, they can't be.\N.\N.\N\NI'm sure they all fell off the cliff!\N}Bem, não vejo como.\NTenho certeza que todos caíram do penhasco!
+Dialogue: 0,0:03:55.27,0:03:59.20,Main,,0,0,0,,{Well, they can't be...\N\NI'm sure they all fell off the cliff!\N}Bem, não vejo como.\NTenho certeza que todos caíram do penhasco!
 Dialogue: 0,0:03:59.20,0:04:01.85,Main,,0,0,0,,Não há como eles terem sobrevivido.
 Dialogue: 0,0:04:08.35,0:04:11.73,Flashbacks,,0,0,0,,{It's a cannon attack!}Droga! É tiro de canhão!
 Dialogue: 0,0:04:11.73,0:04:13.64,Flashbacks,,0,0,0,,{}Grande irmão!
@@ -83,7 +83,7 @@ Dialogue: 0,0:04:54.07,0:04:55.77,Main,,0,0,0,,Não se mova!
 Dialogue: 0,0:04:55.77,0:04:56.62,Main,,0,0,0,,Nós vamos cair!
 Dialogue: 0,0:04:56.62,0:04:57.68,Main,,0,0,0,,As cordas vão rasgar!
 Dialogue: 0,0:04:57.69,0:05:00.61,Main,,0,0,0,,{tear}Seus idiotas! As cordas de Galley-La nunca quebram!
-Dialogue: 0,0:05:01.75,0:05:04.04,Main,,0,0,0,,{Seriously, after I told you\Nto keep your mouth shut.\N.\N.\N}Nossa, eu já disse para você manter a boca fechada.
+Dialogue: 0,0:05:01.75,0:05:04.04,Main,,0,0,0,,{Seriously, after I told you\Nto keep your mouth shut...\N}Nossa, eu já disse para você manter a boca fechada.
 Dialogue: 0,0:05:04.79,0:05:07.27,Main,,0,0,0,,Estamos todos bem!
 Dialogue: 0,0:05:07.27,0:05:10.97,Main,,0,0,0,,{The giants took all the cannon fire for us!}Os gigantes nos bloquearam do fogo dos canhões!
 Dialogue: 0,0:05:11.74,0:05:14.77,Main,,0,0,0,,{Whoa! They sure are tough.}Uau! Eles são inegavelmente tenazes.
@@ -92,7 +92,7 @@ Dialogue: 0,0:05:18.69,0:05:21.35,Main,,0,0,0,,{\i1}Sodoma e Gomorra também vã
 Dialogue: 0,0:05:21.35,0:05:22.67,Main,,0,0,0,,Estou tão feliz em ouvir isso!
 Dialogue: 0,0:05:22.67,0:05:26.93,Main,,0,0,0,,{Now, if we take our sweet time here,\Nthe battleships will come again!\N}Mas se ficarmos por aqui, os navios de guerra certamente voltarão.
 Dialogue: 0,0:05:26.93,0:05:28.32,Main,,0,0,0,,{Let's hurry up and get out of here!}Vamos dar o fora daqui!
-Dialogue: 0,0:05:28.33,0:05:33.43,Main,,0,0,0,,{Anyway.\N.\N.\Nwe have a means to escape,\Nso don't worry about us!\N}Ah, e temos um meio de escapar, então não se preocupe conosco!
+Dialogue: 0,0:05:28.33,0:05:33.43,Main,,0,0,0,,{Anyway...\Nwe have a means to escape,\Nso don't worry about us!\N}Ah, e temos um meio de escapar, então não se preocupe conosco!
 Dialogue: 0,0:05:33.43,0:05:34.91,Main,,0,0,0,,{We'll see you after we\Nmake it out of here alive!\N}Vamos nos encontrar depois de sairmos vivos!
 Dialogue: 0,0:05:34.92,0:05:36.03,Main,,0,0,0,,Isso mesmo!
 Dialogue: 0,0:05:36.03,0:05:37.19,Main,,0,0,0,,Vamos nos apressar!
@@ -105,13 +105,13 @@ Dialogue: 0,0:05:50.18,0:05:51.54,Main,,0,0,0,,Nós vamos cair!
 Dialogue: 0,0:05:52.29,0:05:54.16,Main,,0,0,0,,Não agite!
 Dialogue: 0,0:05:54.50,0:05:57.32,Main,,0,0,0,,{You guys...! Dummies...!}Seus estúpidos... idiotas!
 Dialogue: 0,0:05:57.32,0:06:01.34,Main,,0,0,0,,{I wasn't worried about you guys! You dummies!}Vocês acham que eu estava preocupado? Seus idiotas!
-Dialogue: 0,0:06:01.98,0:06:07.31,Main,,0,0,0,,{Those idiots are alive!\N\NI'm glad.\N.\N.\N!\NI'm glad!\NI'm so happy!\N}Esses idiotas estão vivos!\NEu.\N.\N.\Neu não poderia estar mais feliz!\NQue alívio!
+Dialogue: 0,0:06:01.98,0:06:07.31,Main,,0,0,0,,{Those idiots are alive!\N\NI'm glad...!\NI'm glad!\NI'm so happy!\N}Esses idiotas estão vivos!\NEu...\Neu não poderia estar mais feliz!\NQue alívio!
 Dialogue: 0,0:06:10.37,0:06:12.99,Main,,0,0,0,,{Yeah. It's really a relief.}Sim. Não há como negar que é um alívio,
 Dialogue: 0,0:06:13.85,0:06:16.63,Main,,0,0,0,,{But there's no point if you die here, is there?}mas seria um desperdício se você morresse aqui, certo?
 Dialogue: 0,0:06:18.15,0:06:20.81,Main,,0,0,0,,Sim. Você tem razão.
 Dialogue: 0,0:06:21.63,0:06:24.03,Main,,0,0,0,,Deveríamos ir para o portão principal imediatamente?!
 Dialogue: 0,0:06:24.38,0:06:27.63,Main,,0,0,0,,{Do it later. Right now, we have to focus our efforts here.}Mais tarde. Por enquanto, devemos concentrar nossos esforços aqui.
-Dialogue: 0,0:06:27.63,0:06:31.03,Main,,0,0,0,,{duty}O que vocês estão fazendo?\N!\NFaça já seus pedidos!
+Dialogue: 0,0:06:27.63,0:06:31.03,Main,,0,0,0,,{duty}O que vocês estão fazendo?!\NFaça já seus pedidos!
 Dialogue: 0,0:06:31.47,0:06:32.49,Main,,0,0,0,,Sim, senhor!
 Dialogue: 0,0:06:37.12,0:06:40.79,Main,,0,0,0,,{d like}Ei! Traga quantos caras você tiver!
 Dialogue: 0,0:06:41.79,0:06:44.46,Main,,0,0,0,,{\fad(150,150)}Tempo do Trovão!
@@ -126,7 +126,7 @@ Dialogue: 0,0:07:15.37,0:07:19.65,Main,,0,0,0,,{Pirate Straw Hat Luffy also\Napp
 Dialogue: 0,0:07:19.65,0:07:22.96,Main,,0,0,0,,{\i1}Ele não está se movendo!
 Dialogue: 0,0:07:24.69,0:07:25.59,Main,,0,0,0,,O que?!
 Dialogue: 0,0:07:32.89,0:07:34.85,Main,,0,0,0,,Oi, Luffy!
-Dialogue: 0,0:07:34.85,0:07:38.80,Main,,0,0,0,,{What're you doing?\N!\NHurry up\Nand get your butt over here!\N}O que você está fazendo?\N!\NApresse-se e traga sua bunda aqui!
+Dialogue: 0,0:07:34.85,0:07:38.80,Main,,0,0,0,,{What're you doing?!\NHurry up\Nand get your butt over here!\N}O que você está fazendo?!\NApresse-se e traga sua bunda aqui!
 Dialogue: 0,0:07:38.83,0:07:40.69,Main,,0,0,0,,{We have to run or we won't survive!}Estaremos praticamente mortos se ficarmos aqui!
 Dialogue: 0,0:07:47.57,0:07:50.40,Main,,0,0,0,,{What's the matter! We're almost there!}O que deu em você?! Estamos tão perto!
 Dialogue: 0,0:07:50.85,0:07:52.91,Main,,0,0,0,,{to}Use sua borracha de borracha e atire aqui!
@@ -160,8 +160,8 @@ Dialogue: 0,0:10:26.19,0:10:29.15,Main,,0,0,0,,{\i1}Sanji-kun! Onde você esteve
 Dialogue: 0,0:10:31.43,0:10:34.31,Main,,0,0,0,,{Well, s}Desculpe por isso.\NEu tive que cuidar de alguma coisa.
 Dialogue: 0,0:10:36.17,0:10:39.77,Main,,0,0,0,,{But at any rate, this is terrible.\N\NWe're in serious trouble!\N}De qualquer forma, estamos com sérios problemas aqui.
 Dialogue: 0,0:10:39.77,0:10:41.66,Main,,0,0,0,,{we have}Desde que voltei Robin-chan,
-Dialogue: 0,0:10:41.66,0:10:44.87,Main,,0,0,0,,{I thought they weren't gonna\Nattack this area.\NBut the ship was.\N.\N.\N}Achei que esta área estaria a salvo de ataques.\NMas o navio–
-Dialogue: 0,0:10:46.97,0:10:49.83,Main,,0,0,0,,{That's it, you bastards!\N\NRelease the old lady now and.\N.\N.\N}Isso é o mais longe que você vai!\NSolte a velha senhora agora e–
+Dialogue: 0,0:10:41.66,0:10:44.87,Main,,0,0,0,,{I thought they weren't gonna\Nattack this area.\NBut the ship was...\N}Achei que esta área estaria a salvo de ataques.\NMas o navio–
+Dialogue: 0,0:10:46.97,0:10:49.83,Main,,0,0,0,,{That's it, you bastards!\N\NRelease the old lady now and...\N}Isso é o mais longe que você vai!\NSolte a velha senhora agora e–
 Dialogue: 0,0:10:50.01,0:10:51.88,Main,,0,0,0,,{This is no time for that!}Não perca nosso tempo!
 Dialogue: 0,0:10:52.63,0:10:54.88,Main,,0,0,0,,{\fad(150,150)}Chute de sereia!
 Dialogue: 0,0:11:00.39,0:11:01.30,Main,,0,0,0,,Fogo.
@@ -174,7 +174,7 @@ Dialogue: 0,0:12:02.67,0:12:06.27,Main,,0,0,0,,{Dammit!\NThey've finally\Ntaken 
 Dialogue: 0,0:12:06.27,0:12:07.81,Main,,0,0,0,,{cornered}Estamos presos nesta coluna!
 Dialogue: 0,0:12:07.81,0:12:10.11,Main,,0,0,0,,Estamos sem opções!
 Dialogue: 0,0:12:10.11,0:12:12.67,Main,,0,0,0,,{We have no choice but to\Nfight them all from here!\N}Não há escolha a não ser lutar contra todos eles aqui e agora!
-Dialogue: 0,0:12:12.67,0:12:16.58,Main,,0,0,0,,{Don't be stupid!\NThere's gonna be\Nwave after wave of stronger guys!\N}Você está maluco?\N!\NCada nova onda de inimigos será mais forte que a anterior!
+Dialogue: 0,0:12:12.67,0:12:16.58,Main,,0,0,0,,{Don't be stupid!\NThere's gonna be\Nwave after wave of stronger guys!\N}Você está maluco?!\NCada nova onda de inimigos será mais forte que a anterior!
 Dialogue: 0,0:12:16.58,0:12:20.59,Main,,0,0,0,,{\i1}Prepare todos os canhões para disparar na primeira coluna!
 Dialogue: 0,0:12:34.06,0:12:37.56,Main,,0,0,0,,Elimine Luffy do Chapéu de Palha imediatamente!
 Dialogue: 0,0:12:44.61,0:12:47.24,Main,,0,0,0,,Luffy!
@@ -201,9 +201,9 @@ Dialogue: 0,0:13:41.27,0:13:43.09,Main,,0,0,0,,{\i1}Chapéu de Palha!
 Dialogue: 0,0:13:47.75,0:13:50.18,Main,,0,0,0,,{Oh, crap... I'm seriously in trouble...!}Ah, merda. Estou com sérios problemas!
 Dialogue: 0,0:13:53.91,0:13:55.10,Thoughts,,0,0,0,,{...!}De novo?
 Dialogue: 0,0:13:55.65,0:13:56.52,Main,,0,0,0,,{\i1}Que é aquele?!
-Dialogue: 0,0:13:58.25,0:14:02.27,Main,,0,0,0,,{Do you wanna}Ei!\NVocê está tentando ser morto?\N!\NNão é hora de se distrair!
+Dialogue: 0,0:13:58.25,0:14:02.27,Main,,0,0,0,,{Do you wanna}Ei!\NVocê está tentando ser morto?!\NNão é hora de se distrair!
 Dialogue: 0,0:14:02.98,0:14:05.63,Main,,0,0,0,,De quem é essa voz?
-Dialogue: 0,0:14:06.53,0:14:10.24,Main,,0,0,0,,{Th-That's right!\NThis is the\Nsame voice from that time.\N.\N.\N}Is-Isso mesmo!\NÉ a mesma voz de antes.
+Dialogue: 0,0:14:06.53,0:14:10.24,Main,,0,0,0,,{Th-That's right!\NThis is the\Nsame voice from that time...\N}Is-Isso mesmo!\NÉ a mesma voz de antes.
 Dialogue: 0,0:14:18.59,0:14:20.23,Main,,0,0,0,,{What's going on?!}O que isto significa?!
 Dialogue: 0,0:14:20.23,0:14:21.38,Main,,0,0,0,,{\i1}Chapéu de Palha!
 Dialogue: 0,0:14:21.37,0:14:22.80,Main,,0,0,0,,{\i1}Chapéu de Palha!
@@ -309,7 +309,7 @@ Dialogue: 0,0:21:57.32,0:21:58.31,Main,,0,0,0,,Desistir ainda?
 Dialogue: 0,0:21:58.31,0:22:00.05,Main,,0,0,0,,Não! Não!
 Dialogue: 0,0:22:00.97,0:22:04.66,Main,,0,0,0,,{Now, guys!\NWe're gonna\Nhurry up and get outta here!\N}Vamos, pessoal!\NVamos nos apressar e sair daqui!
 Dialogue: 0,0:22:04.66,0:22:06.34,Main,,0,0,0,,Sim!
-Dialogue: 0,0:22:06.34,0:22:10.44,Main,,0,0,0,,{Hey, hey.\N.\N.\NGive me a break!\N\NAre you guys letting them get away?\N!\N}Ei, ei!\NIsto é inaceitável!\NVocês estão apenas deixando eles escaparem?\N!
+Dialogue: 0,0:22:06.34,0:22:10.44,Main,,0,0,0,,{Hey, hey...\NGive me a break!\N\NAre you guys letting them get away?!\N}Ei, ei!\NIsto é inaceitável!\NVocês estão apenas deixando eles escaparem?!
 Dialogue: 0,0:22:10.44,0:22:13.72,Main,,0,0,0,,{If they're getting away anyway,\Nmight as well just blow up Nico Robin!\N}Se eles vão escapar, é melhor explodir Nico Robin, afinal!
 Dialogue: 0,0:22:14.20,0:22:16.60,Main,,0,0,0,,Mas temos que capturá-la viva!
 Dialogue: 0,0:22:17.07,0:22:20.73,Main,,0,0,0,,{Admiral Aokiji asked me to tell you that.}Isto vem direto do Almirante Aokiji.
@@ -346,7 +346,7 @@ Dialogue: 0,0:23:59.40,0:24:00.87,Main,,0,0,0,,{Don't get swallowed by the curre
 Dialogue: 0,0:24:00.87,0:24:03.50,Main,,0,0,0,,O que diabos está acontecendo?
 Dialogue: 0,0:24:07.69,0:24:09.60,Main,,0,0,0,,{Put out the fire! Hurry up!}Apague esse fogo! Em dobro!
 Dialogue: 0,0:24:09.60,0:24:11.72,Main,,0,0,0,,{This is it! Everyone, get out of here!}Isso é demais! Todos, saiam daqui!
-Dialogue: 0,0:24:12.18,0:24:16.05,Main,,0,0,0,,{Idiots!\NWhy did you close the gates?\N\NWhat're you morons doing?\N!\N}Idiotas!\NPor que você fechou os portões?\NO que vocês, idiotas, acharam que iria acontecer?\N!
+Dialogue: 0,0:24:12.18,0:24:16.05,Main,,0,0,0,,{Idiots!\NWhy did you close the gates?\N\NWhat're you morons doing?!\N}Idiotas!\NPor que você fechou os portões?\NO que vocês, idiotas, acharam que iria acontecer?!
 Dialogue: 0,0:24:16.69,0:24:20.33,Main,,0,0,0,,{The lever to open and close the gates is inside\Nthe third column of the Bridge of Hesitation,}A alavanca dos portões está na terceira coluna da Ponte da Hesitação,
 Dialogue: 0,0:24:20.33,0:24:21.65,Main,,0,0,0,,{so we couldn't have done anything!}então não poderíamos ter tocado nele!
 Dialogue: 0,0:24:21.65,0:24:23.98,Main,,0,0,0,,{more}Uau! Isso é melhor do que eu esperava!
@@ -366,7 +366,7 @@ Dialogue: 0,0:25:00.99,0:25:03.10,Secondary,,0,0,0,,{\i1}Nami-san! Você é tão
 Dialogue: 0,0:25:03.58,0:25:05.79,Main,,0,0,0,,{Just hang on until I can}Apenas segure-os até eu descobrir a trajetória dos redemoinhos!
 Dialogue: 0,0:25:05.79,0:25:06.94,Main,,0,0,0,,Deixe isso conosco!
 Dialogue: 0,0:25:15.33,0:25:19.31,Main,,0,0,0,,{\fad(150,150)}Estilo de uma espada: Fênix de 36 libras!
-Dialogue: 0,0:25:22.23,0:25:29.04,Main,,0,0,0,,{that}Droga!\NPor que?\N!\NPor que você não pode derrubar um pequeno navio com sete navios de guerra?\N!
+Dialogue: 0,0:25:22.23,0:25:29.04,Main,,0,0,0,,{that}Droga!\NPor que?!\NPor que você não pode derrubar um pequeno navio com sete navios de guerra?!
 Dialogue: 0,0:25:29.04,0:25:30.30,Main,,0,0,0,,Seus idiotas inúteis!
 Dialogue: 0,0:25:31.11,0:25:32.55,Main,,0,0,0,,Ei, eles estão vindo em sua direção, Usopp!
 Dialogue: 0,0:25:32.57,0:25:34.09,Main,,0,0,0,,OK! Deixe-os comigo!
@@ -403,8 +403,8 @@ Dialogue: 0,0:27:21.41,0:27:24.80,Main,,0,0,0,,{,}Eu também serei útil!
 Dialogue: 0,0:27:24.80,0:27:27.25,Main,,0,0,0,,{\i1}Vá em frente, rena-chan!
 Dialogue: 0,0:27:27.25,0:27:32.57,Main,,0,0,0,,{Speed forth with all your might!}Ir! A toda velocidade!
 Dialogue: 0,0:27:34.31,0:27:38.30,Main,,0,0,0,,Droga! Droga! Esses bastardos!
-Dialogue: 0,0:27:38.66,0:27:41.89,Main,,0,0,0,,Com toda a força militar de Enies Lobby à nossa disposição.\N.\N.
-Dialogue: 0,0:27:42.30,0:27:46.76,Main,,0,0,0,,{}Com o poder do chamado buster, tão forte quanto o exército de um país inteiro.\N.\N.
+Dialogue: 0,0:27:38.66,0:27:41.89,Main,,0,0,0,,Com toda a força militar de Enies Lobby à nossa disposição...
+Dialogue: 0,0:27:42.30,0:27:46.76,Main,,0,0,0,,{}Com o poder do chamado buster, tão forte quanto o exército de um país inteiro...
 Dialogue: 0,0:27:46.76,0:27:50.73,Main,,0,0,0,,Por que... Por que diabos não podemos...
 Dialogue: 0,0:27:50.73,0:27:55.69,Main,,0,0,0,,{...}Por que? Por que não podemos levar uma mulher solteira...
 Dialogue: 0,0:27:57.23,0:28:01.07,Main,,0,0,0,,{...}de um pequeno bando de piratas?!
@@ -446,7 +446,7 @@ Dialogue: 0,0:31:30.03,0:31:34.35,Main,,0,0,0,,{\i1}Portanto, precisamos de refo
 Dialogue: 0,0:31:34.35,0:31:35.33,Main,,0,0,0,,Não se preocupe.
 Dialogue: 0,0:31:35.33,0:31:36.47,Main,,0,0,0,,{\i1}Mas-
 Dialogue: 0,0:31:36.47,0:31:39.60,Main,,0,0,0,,{We used a buster call, an attack as\Nstrong as an entire country's military.\N}Usamos uma chamada destruidora, um ataque tão forte quanto nações inteiras.
-Dialogue: 0,0:31:39.60,0:31:43.80,Main,,0,0,0,,{When we see the blunder this fleet\Nmade and the current situation}Quando você olha para o erro que esta frota cometeu e o estado atual.\N.\N.
+Dialogue: 0,0:31:39.60,0:31:43.80,Main,,0,0,0,,{When we see the blunder this fleet\Nmade and the current situation}Quando você olha para o erro que esta frota cometeu e o estado atual...
 Dialogue: 0,0:31:43.80,0:31:47.30,Main,,0,0,0,,{of Enies Lobby, the symbol\Nof law, it's quite obvious.\N}de Enies Lobby, o próprio símbolo da lei, é bastante aparente.
 Dialogue: 0,0:31:48.49,0:31:52.26,Main,,0,0,0,,{On this matter, we've been\Ncompletely defeated.\N}Esta batalha termina com a nossa derrota total.
 Dialogue: 0,0:31:53.53,0:31:56.15,Main,,0,0,0,,{Is the top of this sheep head here okay?}O topo da cabeça deste carneiro está bem aqui?
@@ -460,8 +460,8 @@ Dialogue: 0,0:32:16.45,0:32:20.83,Main,,0,0,0,,Mas quando penso nisso, você sem
 Dialogue: 0,0:32:21.24,0:32:23.79,Main,,0,0,0,,Estou tão feliz que você é nosso amigo.
 Dialogue: 0,0:32:24.40,0:32:26.89,Main,,0,0,0,,Obrigado, Feliz!
 Dialogue: 0,0:32:26.89,0:32:28.79,Main,,0,0,0,,{...}De qualquer forma,
-Dialogue: 0,0:32:29.33,0:32:32.26,Main,,0,0,0,,{.\N.\N.\Nyou guys sure did pull one\Noutrageous stunt back there.\N}vocês com certeza fizeram uma façanha ultrajante lá atrás.
-Dialogue: 0,0:32:32.26,0:32:37.19,Main,,0,0,0,,{To start with, to think that you shot\Nthrough the World Government's flag.\N.\N.\N}Para começar, quem imaginaria que você atiraria na bandeira do Governo Mundial!
+Dialogue: 0,0:32:29.33,0:32:32.26,Main,,0,0,0,,{...\Nyou guys sure did pull one\Noutrageous stunt back there.\N}vocês com certeza fizeram uma façanha ultrajante lá atrás.
+Dialogue: 0,0:32:32.26,0:32:37.19,Main,,0,0,0,,{To start with, to think that you shot\Nthrough the World Government's flag...\N}Para começar, quem imaginaria que você atiraria na bandeira do Governo Mundial!
 Dialogue: 0,0:32:37.19,0:32:40.61,Main,,0,0,0,,{...}Bem, não é grande coisa.
 Dialogue: 0,0:32:41.51,0:32:46.65,Main,,0,0,0,,{away }Tudo o que fizemos foi recuperar um amigo que nos foi tirado.
 Dialogue: 0,0:32:47.59,0:32:50.61,Main,,0,0,0,,Obrigado por nos ajudar a salvar Robin.

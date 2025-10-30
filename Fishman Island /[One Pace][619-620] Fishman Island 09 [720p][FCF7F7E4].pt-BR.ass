@@ -66,7 +66,7 @@ Dialogue: 0,0:00:22.82,0:00:25.40,Narrator,Narrator,0,0,0,,O mundo entrou na Gra
 Dialogue: 0,0:02:29.85,0:02:39.25,title,Narrator,0,0,0,,{\fad(2000,2000)}Na Floresta do Mar!\NArlong e Hody
 Dialogue: 0,0:02:49.90,0:02:51.90,Main,Zoro,0,0,0,,Zoro?
 Dialogue: 0,0:02:54.88,0:03:00.14,Main,Underlings,0,0,0,,Chefe! Chefe! Chefe!
-Dialogue: 0,0:03:00.14,0:03:04.39,Main,Underlings,0,0,0,,Como pode um humano se mover mais rápido que um homem-peixe na água?\N!
+Dialogue: 0,0:03:00.14,0:03:04.39,Main,Underlings,0,0,0,,Como pode um humano se mover mais rápido que um homem-peixe na água?!
 Dialogue: 0,0:03:04.96,0:03:07.93,Main,Underlings,0,0,0,,Quem é esse cara?
 Dialogue: 0,0:03:08.39,0:03:09.99,Main,Underling,0,0,0,,Não deixe aquele espadachim escapar!
 Dialogue: 0,0:03:11.28,0:03:14.03,Main,Underling,0,0,0,,Todos tomem seus esteróides energéticos.
@@ -119,7 +119,7 @@ Dialogue: 0,0:07:00.80,0:07:03.82,Main,Usopp,0,0,0,,O que está acontecendo?
 Dialogue: 0,0:07:17.01,0:07:18.51,Main,Soldiers,0,0,0,,Sua Majestade!
 Dialogue: 0,0:07:21.35,0:07:26.00,Main,Soldiers,0,0,0,,Isso é terrível! Hordy pegou Sua Majestade!
 Dialogue: 0,0:07:26.00,0:07:30.19,Main,Soldiers,0,0,0,,Hordy não deveria estar incapacitado?
-Dialogue: 0,0:07:30.19,0:07:34.54,Main,Soldiers,0,0,0,,Ministro da Direita!\NVamos voltar!\NNesse ritmo, Sua Majestade será.\N.\N.
+Dialogue: 0,0:07:30.19,0:07:34.54,Main,Soldiers,0,0,0,,Ministro da Direita!\NVamos voltar!\NNesse ritmo, Sua Majestade será...
 Dialogue: 0,0:07:35.28,0:07:37.66,Main,Neptune,0,0,0,,Você não deve -jamon!
 Dialogue: 0,0:07:38.79,0:07:44.17,Main,Neptune,0,0,0,,Você deve continuar sem mim e trazer de volta Fukaboshi e seus irmãos!
 Dialogue: 0,0:07:50.01,0:07:52.79,Main,what's his bucket,0,0,0,,Não fique aí parado! Obedeça às ordens do Rei!
@@ -183,7 +183,7 @@ Dialogue: 0,0:11:40.70,0:11:43.01,Main,Sanji,0,0,0,,Ah, princesa sereia!
 Dialogue: 0,0:11:44.39,0:11:49.27,Main,Sanji,0,0,0,,Diante de você, sou como um artista sem talento.
 Dialogue: 0,0:11:50.73,0:11:56.25,Main,Sanji,0,0,0,,Para você ver, não existe pincel que possa capturar adequadamente o seu brilho!
 Dialogue: 0,0:11:56.25,0:11:57.11,Main,Shirahoshi,0,0,0,,B-Bem...
-Dialogue: 0,0:11:57.11,0:12:02.65,Main,Chopper,0,0,0,,Essa é.\N.\N.\Na reação normal dele na presença de mulheres!\NEle está melhor!
+Dialogue: 0,0:11:57.11,0:12:02.65,Main,Chopper,0,0,0,,Essa é...\Na reação normal dele na presença de mulheres!\NEle está melhor!
 Dialogue: 0,0:12:04.04,0:12:06.95,Main,Sanji,0,0,0,,Minha tela nunca poderia refletir a beleza que você possui.
 Dialogue: 0,0:12:06.95,0:12:11.50,Main,Chopper,0,0,0,,Viva!\NViva!\NSanji voltou ao seu estado normal e estranho!
 Dialogue: 0,0:12:12.29,0:12:14.71,Main,Den,0,0,0,,Com certeza está barulhento ali... Eu me pergunto o que está acontecendo?
@@ -312,7 +312,7 @@ Dialogue: 0,0:20:17.07,0:20:18.44,Main,Dosun,0,0,0,,que se recusa a pisar no fum
 Dialogue: 0,0:20:22.17,0:20:23.37,Main,Dosun,0,0,0,,É você!
 Dialogue: 0,0:20:23.40,0:20:25.57,Main,Dosun,0,0,0,,Não fique no meu caminho, Fukaboshi!
 Dialogue: 0,0:20:30.41,0:20:33.73,Main,Fukaboshi,0,0,0,,O que você pensa que está fazendo?
-Dialogue: 0,0:20:34.32,0:20:39.92,Main,Fukaboshi,0,0,0,,Forçar os cidadãos deste país a pisar na foto da minha falecida mãe?\N!
+Dialogue: 0,0:20:34.32,0:20:39.92,Main,Fukaboshi,0,0,0,,Forçar os cidadãos deste país a pisar na foto da minha falecida mãe?!
 Dialogue: 0,0:20:43.47,0:20:45.27,Narrator,Narrator,0,0,0,,E no sudeste, em Coral Hill,
 Dialogue: 0,0:20:45.27,0:20:47.61,Narrator,Narrator,0,0,0,,o lugar que Luffy e os outros acabaram de sair.
 Dialogue: 0,0:20:47.61,0:20:50.07,Main,Fishman,0,0,0,,O que devemos fazer?!
@@ -324,14 +324,14 @@ Dialogue: 0,0:21:03.49,0:21:07.56,Main,Fishman,0,0,0,,Aparentemente o pessoal do
 Dialogue: 0,0:21:07.56,0:21:08.56,Main,Fishman,0,0,0,,O que?!
 Dialogue: 0,0:21:08.56,0:21:10.80,Main,Fishman,0,0,0,,O que está acontecendo nesta ilha?!
 Dialogue: 0,0:21:10.80,0:21:15.15,Main,Fishman,0,0,0,,Jovens sereias estão desaparecendo por toda a ilha...
-Dialogue: 0,0:21:15.67,0:21:18.96,Main,Fishman,0,0,0,,E se a princesa acabar sendo vendida para os Dragões Celestiais?\N!
+Dialogue: 0,0:21:15.67,0:21:18.96,Main,Fishman,0,0,0,,E se a princesa acabar sendo vendida para os Dragões Celestiais?!
 Dialogue: 0,0:21:20.86,0:21:24.80,Main,Fishwoman,0,0,0,,Ei! Outra jovem sereia parece ter desaparecido!
 Dialogue: 0,0:21:25.32,0:21:26.80,Main,Fishwoman,0,0,0,,Que assustador!
 Dialogue: 0,0:21:26.80,0:21:28.07,Main,Fishman,0,0,0,,Isso é horrível!
 Dialogue: 0,0:21:31.35,0:21:34.52,Main,Caribou,0,0,0,,Isso é coisa minha...
 Dialogue: 0,0:21:34.52,0:21:38.65,Main,Caribou,0,0,0,,Mas o mais importante é que acabei de ver algo incrível!
 Dialogue: 0,0:21:38.65,0:21:40.86,Main,Caribou,0,0,0,,{\i1}Sereia de tamanho grande!
-Dialogue: 0,0:21:44.19,0:21:47.43,Main,Caribou,0,0,0,,Se uma sereia de tamanho humano vale setenta milhões de.\N.\N.
+Dialogue: 0,0:21:44.19,0:21:47.43,Main,Caribou,0,0,0,,Se uma sereia de tamanho humano vale setenta milhões de...
 Dialogue: 0,0:21:47.43,0:21:51.83,Main,Caribou,0,0,0,,Então se eu conseguisse capturar aquela Princesa Sereia, que é sete ou oito vezes maior...
 Dialogue: 0,0:21:51.83,0:21:54.31,Main,Caribou,0,0,0,,E então venda-a!
 Dialogue: 0,0:21:55.29,0:21:59.00,Main,Caribou,0,0,0,,É uma quantia tão grande que mal consigo imaginar!
@@ -365,13 +365,13 @@ Dialogue: 0,0:23:38.58,0:23:42.73,Flashbacks,Yosaku,0,0,0,,Jinbe libertou um car
 Dialogue: 0,0:23:42.73,0:23:45.41,Main,Luffy,0,0,0,,Hmm, ele fez?
 Dialogue: 0,0:23:45.41,0:23:47.78,Main,Sanji,0,0,0,,Conhecendo você, provavelmente você simplesmente esqueceu.
 Dialogue: 0,0:23:47.78,0:23:49.80,Main,Luffy,0,0,0,,Eu me pergunto como está Yosaku?
-Dialogue: 0,0:23:50.64,0:23:55.06,Main,Sanji,0,0,0,,Há dois anos, quando li aquele artigo que dizia que você e Jinbei estavam trabalhando juntos.\N.\N.
+Dialogue: 0,0:23:50.64,0:23:55.06,Main,Sanji,0,0,0,,Há dois anos, quando li aquele artigo que dizia que você e Jinbei estavam trabalhando juntos...
 Dialogue: 0,0:23:55.88,0:23:58.68,Main,Sanji,0,0,0,,Isso fez com que pontos de interrogação dançassem dentro da minha cabeça.
 Dialogue: 0,0:23:59.90,0:24:05.93,Main,Sanji,0,0,0,,Sempre presumi que Jinbei era o cérebro que controlava Arlong das sombras.
 Dialogue: 0,0:24:05.93,0:24:06.85,Main,Sanji,0,0,0,,Olá, Jinbei.
 Dialogue: 0,0:24:08.20,0:24:11.22,Main,Sanji,0,0,0,,Se você tiver alguma desculpa, estou disposto a ouvir...
 Dialogue: 0,0:24:11.22,0:24:12.76,Main,Sanji,0,0,0,,mas escolha suas palavras com cuidado.
-Dialogue: 0,0:24:13.99,0:24:18.77,Main,Sanji,0,0,0,,Não há necessidade de esconder isso.\NA cidade natal da nossa linda navegadora Nami-san.\N.\N.
+Dialogue: 0,0:24:13.99,0:24:18.77,Main,Sanji,0,0,0,,Não há necessidade de esconder isso.\NA cidade natal da nossa linda navegadora Nami-san...
 Dialogue: 0,0:24:19.76,0:24:21.47,Main,Sanji,0,0,0,,estava na ilha que Arlong assumiu.
 Dialogue: 0,0:24:22.15,0:24:28.19,Main,Sanji,0,0,0,,Como resultado, ela foi colocada no inferno.
 Dialogue: 0,0:24:30.95,0:24:33.41,Main,Sanji,0,0,0,,Se o que você acabou de dizer for verdade...
@@ -427,7 +427,7 @@ Dialogue: 0,0:28:33.53,0:28:35.89,Main,Sanji,0,0,0,,Não fale assim, isso não l
 Dialogue: 0,0:28:35.89,0:28:36.89,Main,Nami,0,0,0,,De fato.
 Dialogue: 0,0:28:37.77,0:28:42.77,Main,Nami,0,0,0,,O que quer que tenha acontecido com ele, nunca sentirei pena do Arlong.
 Dialogue: 0,0:28:44.33,0:28:47.29,Main,Nami,0,0,0,,Mas, há dois anos,
-Dialogue: 0,0:28:47.29,0:28:51.32,Main,Nami,0,0,0,,antes de vir para o Arquipélago Sabaody, eu nunca soube.\N.\N.
+Dialogue: 0,0:28:47.29,0:28:51.32,Main,Nami,0,0,0,,antes de vir para o Arquipélago Sabaody, eu nunca soube...
 Dialogue: 0,0:28:52.20,0:28:55.72,Main,Nami,0,0,0,,que os homens-peixe, apesar de sua força, foram discriminados pelos humanos.
 Dialogue: 0,0:28:56.64,0:29:02.28,Main,Nami,0,0,0,,Quando Caimie foi sequestrada e nós a perseguimos, duvidei dos meus próprios olhos.
 Dialogue: 0,0:29:03.88,0:29:09.92,Main,Nami,0,0,0,,Porque eu vi o Parque Sabaody, e parecia exatamente com o Parque Arlong que Arlong construiu.
@@ -440,7 +440,7 @@ Dialogue: 0,0:29:37.44,0:29:40.96,Main,Hachi,0,0,0,,Mas, desde que éramos crian
 Dialogue: 0,0:29:40.96,0:29:45.24,Main,Hachi,0,0,0,,ansiamos pelo mundo em que os humanos viviam, e isso é um fato.
 Dialogue: 0,0:29:50.36,0:29:52.24,Main,Hachi,0,0,0,,Tanto eu, Arlong-san...
 Dialogue: 0,0:29:54.04,0:29:55.12,Main,Hachi,0,0,0,,e todos os outros.
-Dialogue: 0,0:30:21.44,0:30:27.24,Main,Hachi,0,0,0,,Aparentemente, no passado, humanos e homens-peixe estavam divididos.\N.\N.
+Dialogue: 0,0:30:21.44,0:30:27.24,Main,Hachi,0,0,0,,Aparentemente, no passado, humanos e homens-peixe estavam divididos...
 Dialogue: 0,0:30:27.24,0:30:34.16,Main,Hachi,0,0,0,,mas então o Reino Ryuuguu tornou-se parte do Governo Mundial duzentos anos atrás.
 Dialogue: 0,0:30:34.16,0:30:36.72,Main,Hachi,0,0,0,,Para formar laços diplomáticos com os humanos...
 Dialogue: 0,0:30:37.36,0:30:41.00,Main,Hachi,0,0,0,,o rei recebeu um lugar no conselho mundial.
@@ -460,14 +460,14 @@ Dialogue: 0,0:31:47.32,0:31:51.92,Main,Jinbe,0,0,0,,Depois que alguém ganha o p
 Dialogue: 0,0:31:51.92,0:31:55.60,Main,Jinbe,0,0,0,,O Governo decidiu que humanos e homens-peixe deveriam coexistir.
 Dialogue: 0,0:31:55.60,0:32:01.16,Main,Jinbe,0,0,0,,No entanto, aqueles que detinham o poder e tomaram essa decisão discriminaram-nos mais do que qualquer outra pessoa!
 Dialogue: 0,0:32:03.48,0:32:07.16,Main,Jinbe,0,0,0,,A relação entre humanos e homens-peixe não mudou em nada.
-Dialogue: 0,0:32:08.12,0:32:13.16,Main,Jinbe,0,0,0,,Por causa disso, duas pessoas surgiram aqui na Ilha dos Tritões.\N.\N.
+Dialogue: 0,0:32:08.12,0:32:13.16,Main,Jinbe,0,0,0,,Por causa disso, duas pessoas surgiram aqui na Ilha dos Tritões...
 Dialogue: 0,0:32:13.16,0:32:16.08,Main,Jinbe,0,0,0,,na tentativa de pôr fim a esta história desprezível.
 Dialogue: 0,0:32:17.00,0:32:20.12,Main,Jinbe,0,0,0,,A primeira foi a Rainha Otohime.
 Dialogue: 0,0:32:21.72,0:32:29.12,Main,Jinbe,0,0,0,,Mãe da princesa Shirahoshi, que incentivou os ilhéus a viver em paz com os humanos.
 Dialogue: 0,0:32:29.48,0:32:33.60,Main,Jinbe,0,0,0,,E o outro foi o herói que libertou os escravos...
 Dialogue: 0,0:32:33.60,0:32:35.36,Main,Jinbe,0,0,0,,Pescador Tigre.
-Dialogue: 0,0:32:35.36,0:32:39.32,Main,Luffy,0,0,0,,Algo Tiger.\N.\N.\NAcho que já ouvi falar dele antes.
-Dialogue: 0,0:32:39.32,0:32:41.44,Main,Jinbe,0,0,0,,Ele proclamou que cortaria nossos laços com os humanos.\N.\N.
+Dialogue: 0,0:32:35.36,0:32:39.32,Main,Luffy,0,0,0,,Algo Tiger...\NAcho que já ouvi falar dele antes.
+Dialogue: 0,0:32:39.32,0:32:41.44,Main,Jinbe,0,0,0,,Ele proclamou que cortaria nossos laços com os humanos...
 Dialogue: 0,0:32:42.32,0:32:48.51,Main,Jinbe,0,0,0,,e ele quebrou um tabu mundial.\NEle foi para a Terra Santa de Mariejoa e os atacou sozinho.
 Dialogue: 0,0:32:48.51,0:32:50.95,Main,Jinbe,0,0,0,,Ele libertou os escravos.
 Dialogue: 0,0:32:51.39,0:32:54.87,Main,Jinbe,0,0,0,,E depois disso, ele reuniu todos os ex-escravos homens-peixe,
@@ -478,7 +478,7 @@ Dialogue: 0,0:33:05.43,0:33:07.75,Main,Jinbe,0,0,0,,Naturalmente, estávamos tod
 Dialogue: 0,0:33:09.35,0:33:12.51,Main,Jinbe,0,0,0,,membros dos Piratas do Sol.
 Dialogue: 0,0:33:14.27,0:33:21.07,Main,Jinbe,0,0,0,,No entanto, tendo os piratas homens-peixe no mar, lutando ferozmente contra o Governo Mundial...
 Dialogue: 0,0:33:21.07,0:33:29.87,Main,Jinbe,0,0,0,,tornou tudo mais difícil para a Rainha Otohime, que estava tentando unir humanos e homens-peixe.
-Dialogue: 0,0:33:32.23,0:33:37.39,Main,Jinbe,0,0,0,,Ao contrário da Rainha Otohime, que queria suportar o presente e mudar o futuro.\N.\N.
+Dialogue: 0,0:33:32.23,0:33:37.39,Main,Jinbe,0,0,0,,Ao contrário da Rainha Otohime, que queria suportar o presente e mudar o futuro...
 Dialogue: 0,0:33:37.39,0:33:43.63,Main,Jinbe,0,0,0,,Fisher Tiger abandonou essas esperanças para o futuro e salvou os escravos homens-peixe que sofriam no presente.
 Dialogue: 0,0:33:45.51,0:33:48.31,Main,Jinbe,0,0,0,,Ninguém pode dizer com certeza qual deles estava certo.
 Dialogue: 0,0:33:52.11,0:33:52.87,Main,Jinbe,0,0,0,,Deixe-me dizer a você...

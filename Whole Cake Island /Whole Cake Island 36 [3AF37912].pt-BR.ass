@@ -115,8 +115,8 @@ Dialogue: 0,0:04:33.73,0:04:37.67,Main,,0,0,0,,Aquela grande explosão do castel
 Dialogue: 0,0:04:37.67,0:04:39.00,Main,,0,0,0,,O que?!
 Dialogue: 0,0:04:39.00,0:04:43.86,Main,,0,0,0,,Mesmo sendo novatos e um grupo pequeno, não podemos subestimá-los!
 Dialogue: 0,0:04:43.86,0:04:46.80,Main,,0,0,0,,Se os deixarmos escapar, seria o maior constrangimento para nós!
-Dialogue: 0,0:04:46.80,0:04:50.78,Main,,0,0,0,,Não se preocupe.\N.\N.\NEles não vão passar por nós aqui!
-Dialogue: 0,0:04:51.73,0:04:55.97,Main,,0,0,0,,Ouvir!\NDaqui a três horas, à 1 da manhã.\N.\N.
+Dialogue: 0,0:04:46.80,0:04:50.78,Main,,0,0,0,,Não se preocupe...\NEles não vão passar por nós aqui!
+Dialogue: 0,0:04:51.73,0:04:55.97,Main,,0,0,0,,Ouvir!\NDaqui a três horas, à 1 da manhã...
 Dialogue: 0,0:04:55.97,0:05:00.94,Main,,0,0,0,,os membros separados da tripulação do Chapéu de Palha se encontrarão aqui na Ilha do Cacau.
 Dialogue: 0,0:05:01.78,0:05:06.00,Main,,0,0,0,,Pense nisso como sua última chance de matar todos eles!
 Dialogue: 0,0:05:06.00,0:05:07.20,Main,,0,0,0,,Sim, senhor!
@@ -128,7 +128,7 @@ Dialogue: 0,0:05:26.01,0:05:31.26,Main,,0,0,0,,Ele é um usuário de habilidade.
 Dialogue: 0,0:05:31.26,0:05:34.48,Main,,0,0,0,,Você pode recuperá-lo mais tarde! De qualquer forma...
 Dialogue: 0,0:05:35.88,0:05:40.44,Main,,0,0,0,,este é o único espelho que permanecerá na ilha!
 Dialogue: 0,0:05:44.90,0:05:48.86,Main,,0,0,0,,Não deve haver outros!
-Dialogue: 0,0:05:48.86,0:05:53.80,Main,,0,0,0,,Se alguém permitir que o Chapéu de Palha escape de um de seus espelhos.\N.\N.
+Dialogue: 0,0:05:48.86,0:05:53.80,Main,,0,0,0,,Se alguém permitir que o Chapéu de Palha escape de um de seus espelhos...
 Dialogue: 0,0:05:53.80,0:05:57.00,Main,,0,0,0,,vamos executar toda a sua família!
 Dialogue: 0,0:05:57.00,0:05:58.07,Main,,0,0,0,,Se apresse!
 Dialogue: 0,0:05:58.83,0:06:00.27,Main,,0,0,0,,S-Sim, senhor!
@@ -154,7 +154,7 @@ Dialogue: 0,0:07:46.11,0:07:47.93,Main,,0,0,0,,Eu encontrei você!
 Dialogue: 0,0:07:47.93,0:07:50.05,Main,,0,0,0,,Ai!
 Dialogue: 0,0:07:50.05,0:07:54.28,Main,,0,0,0,,Seu inimigo nem sempre estará na sua frente...
 Dialogue: 0,0:07:54.28,0:07:59.38,Main,,0,0,0,,É fácil ler a mente dos animais porque eles mostram todas as suas emoções.
-Dialogue: 0,0:07:59.38,0:08:06.29,Main,,0,0,0,,Mas.\N.\N.\Nos humanos são diferentes.\N.\N.\NPodemos desafiar as expectativas e enganar os outros.
+Dialogue: 0,0:07:59.38,0:08:06.29,Main,,0,0,0,,Mas...\Nos humanos são diferentes...\NPodemos desafiar as expectativas e enganar os outros.
 Dialogue: 0,0:08:07.29,0:08:09.09,Note,,0,0,0,,Jogar
 Dialogue: 0,0:08:09.10,0:08:10.96,Main,,0,0,0,,Ai!
 Dialogue: 0,0:08:21.91,0:08:24.98,Main,,0,0,0,,Estou com fome, Rayleigh!
@@ -192,7 +192,7 @@ Dialogue: 0,0:10:42.44,0:10:45.63,Main,,0,0,0,,O que você fará quando enfrent�
 Dialogue: 0,0:10:45.63,0:10:49.78,Main,,0,0,0,,Com apenas dois anos de treinamento, você não ganhará essa habilidade.
 Dialogue: 0,0:10:50.36,0:10:51.54,Main,,0,0,0,,Você passará por momentos difíceis.
 Dialogue: 0,0:10:53.45,0:10:55.91,Main,,0,0,0,,Depende de que tipo de pessoa eles são.
-Dialogue: 0,0:10:55.91,0:11:00.64,Main,,0,0,0,,O que?\NO personagem do seu oponente?\N!\NIsso importa para você?
+Dialogue: 0,0:10:55.91,0:11:00.64,Main,,0,0,0,,O que?\NO personagem do seu oponente?!\NIsso importa para você?
 Dialogue: 0,0:11:00.64,0:11:02.88,Main,,0,0,0,,Nunca pensei nisso assim.
 Dialogue: 0,0:11:04.25,0:11:05.13,Main,,0,0,0,,Claro!
 Dialogue: 0,0:11:07.17,0:11:09.05,Main,,0,0,0,,Você é um personagem e tanto.
@@ -297,7 +297,7 @@ Dialogue: 0,0:19:49.59,0:19:52.91,Main,,0,0,0,,Tsk! Eles são tão persistentes!
 Dialogue: 0,0:19:53.66,0:19:57.67,Main,,0,0,0,,{\i1}Obrigado, Pudim-chan.\NVocê tem sido uma grande ajuda para mim.
 Dialogue: 0,0:19:53.60,0:19:58.84,Captions,,30,0,240,,{\fad(500,0)}23h08
 Dialogue: 0,0:19:57.67,0:19:58.84,Main,,0,0,0,,{\an8}Pare com isso!
-Dialogue: 0,0:19:59.28,0:20:03.40,Main,,0,0,0,,Mova-se!\NVá até o limite, Sanji.\N.\N.
+Dialogue: 0,0:19:59.28,0:20:03.40,Main,,0,0,0,,Mova-se!\NVá até o limite, Sanji...
 Dialogue: 0,0:20:03.40,0:20:04.61,Main,,0,0,0,,{\i1}...san!
 Dialogue: 0,0:20:04.61,0:20:07.14,Main,,0,0,0,,As pessoas vão pensar que somos marido e mulher!
 Dialogue: 0,0:20:07.14,0:20:08.18,Main,,0,0,0,,{\i1}Quem irá?
@@ -360,7 +360,7 @@ Dialogue: 0,0:23:29.76,0:23:30.60,Main,,0,0,0,,Sim.
 Dialogue: 0,0:23:35.68,0:23:37.42,Main,,0,0,0,,{\fad(150,150)}Engrenagem quarta!
 Dialogue: 0,0:24:24.56,0:24:26.20,Main,,0,0,0,,{\fad(150,150)}Homem-cobra!
 Dialogue: 0,0:24:35.03,0:24:38.83,Main,,0,0,0,,Homem-cobra?\NParece que é diferente do anterior.
-Dialogue: 0,0:24:40.29,0:24:43.66,Main,,0,0,0,,Sua observação Haki com certeza é algo.\N.\N.
+Dialogue: 0,0:24:40.29,0:24:43.66,Main,,0,0,0,,Sua observação Haki com certeza é algo...
 Dialogue: 0,0:24:44.04,0:24:45.33,Main,,0,0,0,,Por isso estou usando...
 Dialogue: 0,0:24:46.75,0:24:47.79,Main,,0,0,0,,algo mais rápido!
 Dialogue: 0,0:24:50.13,0:24:53.61,Thoughts,,0,0,0,,{\i1}Por que ele está fazendo um ataque tão simples a esta altura da luta?

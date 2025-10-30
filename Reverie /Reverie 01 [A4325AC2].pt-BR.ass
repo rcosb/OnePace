@@ -109,7 +109,7 @@ Dialogue: 5,0:03:44.62,0:03:47.83,Main,,0,0,0,,{guys}Ei, pessoal!\NO jornal est�
 Dialogue: 5,0:03:47.83,0:03:50.04,Main,,0,0,0,,Existe alguma coisa sobre nós?
 Dialogue: 5,0:03:50.04,0:03:51.33,Main,,0,0,0,,Vamos ver...
 Dialogue: 5,0:03:52.46,0:03:53.92,Main,,0,0,0,,Um close do Luffy!
-Dialogue: 5,0:03:54.60,0:03:58.92,Main,,0,0,0,,{mention}E quanto a Jinbei?\NDiz o que aconteceu depois que saímos?\N!
+Dialogue: 5,0:03:54.60,0:03:58.92,Main,,0,0,0,,{mention}E quanto a Jinbei?\NDiz o que aconteceu depois que saímos?!
 Dialogue: 5,0:03:58.92,0:04:04.26,Main,,0,0,0,,{Um}Hum.\NJinbe, Jinbe… Não há muita menção depois que partimos.
 Dialogue: 5,0:04:04.26,0:04:09.27,Main,,0,0,0,,Diz apenas que Luffy, Sanji, Jinbe e Bege tentaram assassinar Big Mom.
 Dialogue: 5,0:04:09.27,0:04:11.77,Main,,0,0,0,,{It says Luffy was the mastermind!}E esse Luffy foi o mentor!
@@ -134,7 +134,7 @@ Dialogue: 5,0:05:02.32,0:05:06.36,Main,,0,0,0,,{\i1}Huh! Há uma aura ainda mais
 Dialogue: 5,0:05:08.32,0:05:09.66,Main,,0,0,0,,L-Luffy!
 Dialogue: 5,0:05:09.66,0:05:11.41,Main,,0,0,0,,O que está errado?!
 Dialogue: 5,0:05:15.46,0:05:18.08,Narrator,,0,0,0,,Enquanto isso...
-Dialogue: 5,0:05:19.04,0:05:23.59,Narrator,,0,0,0,,O mundo está alvoroçado com a conversa sobre o Reverie, a cimeira global.\N.\N.
+Dialogue: 5,0:05:19.04,0:05:23.59,Narrator,,0,0,0,,O mundo está alvoroçado com a conversa sobre o Reverie, a cimeira global...
 Dialogue: 5,0:05:23.59,0:05:29.01,Narrator,,0,0,0,,realizada a cada quatro anos na Terra Santa de Mary Geoise.
 Dialogue: 5,0:05:30.14,0:05:34.64,Narrator,,0,0,0,,Esta é a Ilha dos Tritões, 10.\N000 metros abaixo do nível do mar.
 Dialogue: 5,0:05:34.64,0:05:37.60,Narrator,,0,0,0,,O Reino Ryugu.
@@ -155,13 +155,13 @@ Dialogue: 5,0:06:32.12,0:06:33.70,Main,,0,0,0,,OK!
 Dialogue: 5,0:06:35.87,0:06:44.71,Narrator,,0,0,0,,{is}No entanto, ofuscando o próximo Reverie e surpreendendo o público estava a notícia de que o pirata novato...
 Dialogue: 5,0:06:44.71,0:06:51.30,Narrator,,0,0,0,,{hasn't}O Chapéu de Palha Luffy ameaçou o Imperador Big Mom, cuja posição não vacilava há décadas.
 Dialogue: 5,0:06:51.30,0:06:54.31,Narrator,,0,0,0,,{states}O artigo afirmava o seguinte:
-Dialogue: 5,0:06:54.31,0:06:58.02,Narrator,,0,0,0,,{}"Uma fonte confiável confirmou que Luffy, o Chapéu de Palha.\N.\N.
+Dialogue: 5,0:06:54.31,0:06:58.02,Narrator,,0,0,0,,{}"Uma fonte confiável confirmou que Luffy, o Chapéu de Palha...
 Dialogue: 5,0:06:58.02,0:07:01.19,Narrator,,0,0,0,,{\fad(0,300)}já assumiu o comando de outras sete poderosas tripulações piratas.
 Dialogue: 5,0:07:01.56,0:07:06.44,Narrator,,0,0,0,,{\fad(0,300)}Este movimento faz dele o comandante de 5.\N000 subordinados.
-Dialogue: 5,0:07:07.49,0:07:11.41,Narrator,,0,0,0,,{Also noteworthy, Straw Hat considers Ace and Sabo, \Nthe Revolutionary Army's No.\N2.\N.\N.\N}Digno de nota tanto Ace quanto o número dois do Exército Revolucionário Sabo
+Dialogue: 5,0:07:07.49,0:07:11.41,Narrator,,0,0,0,,{Also noteworthy, Straw Hat considers Ace and Sabo, \Nthe Revolutionary Army's No.\N2...\N}Digno de nota tanto Ace quanto o número dois do Exército Revolucionário Sabo
 Dialogue: 5,0:07:11.41,0:07:13.95,Narrator,,0,0,0,,{\fad(0,800)}são considerados seus irmãos juramentados.
 Dialogue: 5,0:07:14.58,0:07:17.54,Narrator,,0,0,0,,{His extraordinary charisma and leadership convinced the evil army Germa 66....}Ele convenceu o exército maligno Germa 66,
-Dialogue: 5,0:07:17.54,0:07:22.33,Narrator,,0,0,0,,os Piratas do Sol e os Piratas Fire Tank para segui-lo.\N.\N.
+Dialogue: 5,0:07:17.54,0:07:22.33,Narrator,,0,0,0,,os Piratas do Sol e os Piratas Fire Tank para segui-lo...
 Dialogue: 5,0:07:22.33,0:07:25.46,Narrator,,0,0,0,,{\fad(0,300)}sem hesitação, tudo devido à sua liderança e carisma.
 Dialogue: 5,0:07:26.00,0:07:31.34,Narrator,,0,0,0,[snapped],{\fad(0,300)}Sua estratégia astuta resultou na destruição do castelo da rainha.
 Dialogue: 5,0:07:32.13,0:07:37.01,Narrator,,0,0,0,,{a}Seu poder derrubou dois de seus comandantes, no valor de 800 milhões e um bilhão, respectivamente.
@@ -193,7 +193,7 @@ Dialogue: 5,0:09:06.15,0:09:08.52,Main,,0,0,0,,Você tem razão! Ele é um pirat
 Dialogue: 5,0:09:08.52,0:09:13.69,Main,,0,0,0,,Exatamente.\NE agora ele está ganhando uma reputação extraordinariamente perigosa.
 Dialogue: 5,0:09:13.69,0:09:17.74,Main,,0,0,0,,{\i1}Ele é realmente incrível.\NOh sim!\NEu tenho que mostrar a Viola-san!
 Dialogue: 5,0:09:17.74,0:09:19.53,Main,,0,0,0,,Vamos fazer isso!
-Dialogue: 5,0:09:23.41,0:09:28.29,Main,,0,0,0,,{It's no mistake.\N.\N.\NThose ships are from \Nthe Kingdoms of Dressrosa and Prodence!\N}Não há dúvidas.\NEsses navios pertencem aos Reinos de Dressrosa e Prodence!
+Dialogue: 5,0:09:23.41,0:09:28.29,Main,,0,0,0,,{It's no mistake...\NThose ships are from \Nthe Kingdoms of Dressrosa and Prodence!\N}Não há dúvidas.\NEsses navios pertencem aos Reinos de Dressrosa e Prodence!
 Dialogue: 5,0:09:28.29,0:09:30.25,Main,,0,0,0,,{There's no naval escort either!}E sem escolta naval!
 Dialogue: 5,0:09:30.67,0:09:34.01,Main,,0,0,0,,Oh! E-eu vejo a Princesa Viola!
 Dialogue: 5,0:09:34.01,0:09:36.43,Main,,0,0,0,,Ela é tão linda quanto dizem.
@@ -231,13 +231,13 @@ Dialogue: 5,0:11:44.47,0:11:46.47,Main,,0,0,0,,{\i1}Helmeppo-san! Relatório!
 Dialogue: 5,0:11:46.47,0:11:48.85,Main,,0,0,0,[snapped],{\i1}Pegamos os piratas!
 Dialogue: 5,0:11:53.48,0:11:54.61,Main,,0,0,0,,Olhar!
 Dialogue: 5,0:11:54.61,0:11:57.82,Main,,0,0,5,,A Princesa Comane de Lulucia também está bem!
-Dialogue: 5,0:11:57.82,0:11:59.28,Main,,0,0,5,,{You little.\N.\N.\N!\NRoast these jerks on a skewer!\N\NI won't forgive them!\N}Por que você pequeno.\N.\N.\N!
-Dialogue: 5,0:11:59.28,0:12:03.03,Main,,0,0,0,,{You little.\N.\N.\N!\NRoast these jerks on a skewer!\NI won't forgive them!\N}Espete-os vivos e asse-os até ficarem crocantes!\NEles precisam pagar!
+Dialogue: 5,0:11:57.82,0:11:59.28,Main,,0,0,5,,{You little...!\NRoast these jerks on a skewer!\N\NI won't forgive them!\N}Por que você pequeno...!
+Dialogue: 5,0:11:59.28,0:12:03.03,Main,,0,0,0,,{You little...!\NRoast these jerks on a skewer!\NI won't forgive them!\N}Espete-os vivos e asse-os até ficarem crocantes!\NEles precisam pagar!
 Dialogue: 5,0:12:03.03,0:12:05.70,Main,,0,0,0,[snapped],{they'll get the\Nharshest punishment, Princess!\N}Claro, eles serão punidos de acordo, Princesa!
-Dialogue: 5,0:12:05.70,0:12:10.20,Main,,0,0,0,[snapped],{Anyway, what's up with your \NObservation Haki, Koby?\N!\N}Enfim, como seu haki de observação está tão avançado, Koby?\N!
+Dialogue: 5,0:12:05.70,0:12:10.20,Main,,0,0,0,[snapped],{Anyway, what's up with your \NObservation Haki, Koby?!\N}Enfim, como seu haki de observação está tão avançado, Koby?!
 Dialogue: 5,0:12:10.83,0:12:14.12,Main,,0,0,0,,{I didn't sense the torpedo at all.}Eu nem senti o torpedo.
 Dialogue: 5,0:12:16.54,0:12:17.88,Main,,0,0,0,,{...}Um submarino?
-Dialogue: 5,0:12:17.88,0:12:22.26,Main,,0,0,0,,{You have to be careful with pirates these days.\N.\N.\N\NThat was close.\N}Os piratas hoje em dia exigem cautela de todos.\NIsso foi perto.
+Dialogue: 5,0:12:17.88,0:12:22.26,Main,,0,0,0,,{You have to be careful with pirates these days...\N\NThat was close.\N}Os piratas hoje em dia exigem cautela de todos.\NIsso foi perto.
 Dialogue: 5,0:12:22.26,0:12:23.43,Main,,0,0,0,,Você!
 Dialogue: 5,0:12:25.05,0:12:27.55,Main,,0,0,0,,Então você é o famoso Capitão Koby!
 Dialogue: 5,0:12:27.55,0:12:30.60,Main,,0,0,0,,O que? Do incidente de Rocky Port?
@@ -282,7 +282,7 @@ Dialogue: 5,0:14:32.85,0:14:35.68,Main,,0,0,0,,Ah, Luffyland está neste artigo 
 Dialogue: 5,0:14:35.68,0:14:36.73,Main,,0,0,0,,{What?!}Ele é?!
 Dialogue: 5,0:14:36.73,0:14:39.73,Main,,0,0,0,,{\i1}Então você gosta dele!
 Dialogue: 5,0:14:46.86,0:14:47.99,Main,,0,0,0,,Droga.
-Dialogue: 5,0:14:48.82,0:14:51.82,Main,,0,0,0,,Tendo minha recompensa aumentada por causa da reputação de Germa.\N.\N.
+Dialogue: 5,0:14:48.82,0:14:51.82,Main,,0,0,0,,Tendo minha recompensa aumentada por causa da reputação de Germa...
 Dialogue: 5,0:14:51.82,0:14:55.20,Main,,0,0,0,,é tão deprimente.
 Dialogue: 5,0:14:58.29,0:15:00.71,Main,,0,0,0,,Ei, você está bem?
 Dialogue: 5,0:15:00.71,0:15:03.42,Main,,0,0,0,,Suas feridas doem?
@@ -293,7 +293,7 @@ Dialogue: 5,0:15:12.59,0:15:16.06,Main,,0,0,0,,Olha... são 150 milhões de barr
 Dialogue: 5,0:15:16.06,0:15:18.02,Main,,0,0,0,,O que?!
 Dialogue: 5,0:15:18.89,0:15:22.86,Main,,0,0,0,,Realmente?! Achei que tivesse aumentado para 500 milhões recentemente!
 Dialogue: 5,0:15:22.86,0:15:26.98,Main,,0,0,0,,{150}Cento e cinquenta milhões são menos do que a sua recompensa há dois anos!
-Dialogue: 5,0:15:26.98,0:15:31.86,Main,,0,0,0,,{Is that possible}Como isso é possível?\N!\NVocê fez algo errado?\N!
+Dialogue: 5,0:15:26.98,0:15:31.86,Main,,0,0,0,,{Is that possible}Como isso é possível?!\NVocê fez algo errado?!
 Dialogue: 5,0:15:31.86,0:15:33.45,Main,,0,0,0,,{Wouldn't it have gotten bigger?}Isso não o tornaria maior?
 Dialogue: 5,0:15:33.45,0:15:35.70,Main,,0,0,0,,Ah, isso mesmo.
 Dialogue: 5,0:15:37.87,0:15:40.91,Main,,0,0,0,,Não é tão ruim.\NMenos pessoas virão atrás de nós.
@@ -325,7 +325,7 @@ Dialogue: 5,0:17:35.82,0:17:38.16,Main,,0,0,0,,{Stop right there!}Fim da linha!
 Dialogue: 5,0:17:39.70,0:17:42.58,Main,,0,0,0,,{What do you have in your arms?}O que é isso em seus braços?
 Dialogue: 5,0:17:42.58,0:17:47.54,Main,,0,0,0,,{Show me what you're holding so tightly!}Seja o que for que você está segurando, entregue-o!
 Dialogue: 5,0:17:48.50,0:17:49.33,Main,,0,0,0,,Isso é...
-Dialogue: 5,0:17:49.33,0:17:54.26,Main,,0,0,0,,{Huh?\NJust milk?\N!\N\NTsk, I thought it was money…}Espere, é só leite?\N!\NE aqui eu pensei que era dinheiro.
+Dialogue: 5,0:17:49.33,0:17:54.26,Main,,0,0,0,,{Huh?\NJust milk?!\N\NTsk, I thought it was money…}Espere, é só leite?!\NE aqui eu pensei que era dinheiro.
 Dialogue: 5,0:17:54.26,0:17:56.63,Main,,0,0,0,,{Oh well, I'll take it anyway.}Dane-se! Eu aceito de qualquer maneira.
 Dialogue: 5,0:17:56.63,0:18:00.51,Main,,0,0,0,,{No... This is for the children of the village...}Você não pode! Isto é para as crianças da aldeia!
 Dialogue: 5,0:18:00.51,0:18:01.76,Main,,0,0,0,,{Shut up!}Coloque uma meia nele!
@@ -369,7 +369,7 @@ Dialogue: 5,0:20:32.04,0:20:35.46,Main,,0,0,0,,{What?}Hum, por que ele está usa
 Dialogue: 5,0:20:37.00,0:20:40.51,Main,,0,0,0,,{Come on! Where are you looking?!}Bruto! Para onde você pensa que está olhando?!
 Dialogue: 5,0:20:43.76,0:20:46.43,Main,,0,0,0,,Por que você está olhando para mim?!
 Dialogue: 5,0:20:46.43,0:20:49.85,Main,,0,0,0,,{a crush on me?!}Você tem uma queda por mim ou algo assim?!
-Dialogue: 5,0:20:49.85,0:20:54.56,Main,,0,0,0,,{Why am I suddenly being accused of that?\N!\N\NWhat's this old man talking about?\N!\N}Você está brincando comigo?\N!\NQual é o problema desse velho sujo?\N!
+Dialogue: 5,0:20:49.85,0:20:54.56,Main,,0,0,0,,{Why am I suddenly being accused of that?!\N\NWhat's this old man talking about?!\N}Você está brincando comigo?!\NQual é o problema desse velho sujo?!
 Dialogue: 5,0:20:54.56,0:20:57.65,Main,,0,0,0,,{Just shoot! Shoot him to death!}Apenas atire nele! Atire nele até matá-lo!
 Dialogue: 5,0:20:57.65,0:20:58.94,Main,,0,0,0,,{What?!}Dizer o que?!
 Dialogue: 5,0:21:00.07,0:21:03.11,Main,,0,0,0,,{Stop it, you silly boys!}Parem de me bajular, idiotas!
@@ -378,7 +378,7 @@ Dialogue: 5,0:21:09.41,0:21:11.37,Main,,0,0,0,,{I've never seen one before...}O 
 Dialogue: 5,0:21:11.37,0:21:13.21,Main,,0,0,0,,{Who is he?}Quem é ele, afinal?
 Dialogue: 5,0:21:13.21,0:21:16.12,Main,,0,0,0,,Não seja tão mau!
 Dialogue: 5,0:21:16.12,0:21:18.34,Main,,0,0,0,,Vamos!
-Dialogue: 5,0:21:18.34,0:21:21.67,Main,,0,0,0,,{How is}Como isso é possível?\N!\NEle está empurrando o chão como barro!
+Dialogue: 5,0:21:18.34,0:21:21.67,Main,,0,0,0,,{How is}Como isso é possível?!\NEle está empurrando o chão como barro!
 Dialogue: 5,0:21:21.67,0:21:24.30,Main,,0,0,0,,{be intimidated}Não vacile!\NÉ apenas um poder de fruta do diabo!
 Dialogue: 5,0:21:24.88,0:21:26.64,Main,,0,0,0,,{He's so strong}Incrível!
 Dialogue: 5,0:21:26.64,0:21:29.39,Main,,0,0,0,,{Now, what do you wanna do?}O que você vai fazer agora?
@@ -416,7 +416,7 @@ Dialogue: 5,0:23:28.67,0:23:30.88,Main,,0,0,3,,Heeha!
 Dialogue: 5,0:23:30.88,0:23:33.85,Main,,0,0,3,,{Straw Hat-boy}Aquele Straw-boy com certeza é alguma coisa!
 Dialogue: 5,0:23:33.85,0:23:37.14,Main,,0,0,3,,{sure}Ele certamente tem seu sangue.
 Dialogue: 5,0:23:37.14,0:23:38.06,Main,,0,0,3,,E...
-Dialogue: 5,0:23:38.06,0:23:42.77,Main,,0,0,0,,{I didn't know that Sanji-boy\Nwas a prince from Germa 66!\N}quem diria que aquele garoto Sanji era um príncipe da Germa 66?\N!
+Dialogue: 5,0:23:38.06,0:23:42.77,Main,,0,0,0,,{I didn't know that Sanji-boy\Nwas a prince from Germa 66!\N}quem diria que aquele garoto Sanji era um príncipe da Germa 66?!
 Dialogue: 5,0:23:42.77,0:23:47.78,Main,,0,0,0,,{He didn't mention it at all-chaburu! How rude!}Ele nunca falou uma palavra de eet comigo! Que patife!
 Dialogue: 5,0:23:47.78,0:23:52.57,Main,,0,0,0,,{Germa has been expelled from the World Government\Nbecause of this incident.\N}Este desastre levou à expulsão de Germa do Governo Mundial.
 Dialogue: 5,0:23:52.57,0:23:57.04,Main,,0,0,0,,{Vi expected nothing less of Straw Hat-boy and Sanji-boy.}Isso é esperado do Strawboy e do Sanji-boy.
@@ -426,7 +426,7 @@ Dialogue: 5,0:24:05.96,0:24:09.13,Main,,0,0,3,,De qualquer forma, os comandantes
 Dialogue: 5,0:24:09.13,0:24:12.18,Main,,0,0,3,,Eles já deveriam ter chegado.
 Dialogue: 5,0:24:12.18,0:24:14.34,Main,,0,0,0,,{Vyou're right...}Isso é verdade.
 Dialogue: 5,0:24:14.34,0:24:18.35,Main,,0,0,0,,{By the way, Sabo,\Nwhat are you doing over there-chaburu?\N}A propósito, Sabo, o que você está fazendo no mundo?
-Dialogue: 5,0:24:20.60,0:24:23.35,Main,,0,0,0,,{He hasn't stopped grinning since he \N heard the news about Luffy-kun, so.\N.\N.\N}Você está sorrindo desde que leu sobre Luffy-kun,
+Dialogue: 5,0:24:20.60,0:24:23.35,Main,,0,0,0,,{He hasn't stopped grinning since he \N heard the news about Luffy-kun, so...\N}Você está sorrindo desde que leu sobre Luffy-kun,
 Dialogue: 5,0:24:23.35,0:24:25.65,Main,,0,0,0,,{he probably got a facial cramp.}e seu rosto ficou com cãibras, certo?
 Dialogue: 5,0:24:25.65,0:24:27.11,Main,,0,0,0,,{Are you stupid?!}Que idiota!
 Dialogue: 5,0:24:30.36,0:24:31.61,Main,,0,0,0,,{\i1}Este é Lindbergh!
@@ -451,9 +451,9 @@ Dialogue: 5,0:25:31.00,0:25:33.67,Main,,0,0,0,,Por que quatro de seus oficiais e
 Dialogue: 5,0:25:33.67,0:25:36.55,Main,,0,0,0,,{Gee, these boys are so violent!}Nossa, vocês, garotos, jogam duro!
 Dialogue: 5,0:25:36.55,0:25:39.39,Main,,0,0,0,,{It's probably because they like you, you big oaf.\N}É porque eles estão se apaixonando por você, seu gigante!
 Dialogue: 5,0:25:39.39,0:25:41.18,Main,,0,0,0,,{gross}Sem chance. Isso é nojento!
-Dialogue: 5,0:25:41.18,0:25:45.10,Main,,0,0,0,,{so can we do it now, Betty?\N!\N}Eu verifiquei com Sabo!\NVamos começar, Betty?\N!
+Dialogue: 5,0:25:41.18,0:25:45.10,Main,,0,0,0,,{so can we do it now, Betty?!\N}Eu verifiquei com Sabo!\NVamos começar, Betty?!
 Dialogue: 5,0:25:45.10,0:25:47.52,Main,,0,0,0,,{You can't stop me...}Não há como me parar.
-Dialogue: 5,0:25:48.48,0:25:53.74,Main,,0,0,0,,{They're ignoring my question.\N.\N.\N\Nand what is that guy mumbling about?\N!\N}Parece que eles não vão responder à minha pergunta.\NE o que aquele cara está resmungando aí?\N!
+Dialogue: 5,0:25:48.48,0:25:53.74,Main,,0,0,0,,{They're ignoring my question...\N\Nand what is that guy mumbling about?!\N}Parece que eles não vão responder à minha pergunta.\NE o que aquele cara está resmungando aí?!
 Dialogue: 5,0:25:53.74,0:25:56.36,Main,,0,0,0,,{I won't forgive them!}Considero suas ações imperdoáveis!
 Dialogue: 5,0:25:56.36,0:25:58.45,Main,,0,0,0,,{Why is}Por que ele está tão chateado?!
 Dialogue: 5,0:25:58.45,0:26:02.33,Main,,0,0,0,,{What are you gonna do, you pieces of trash?!}O que vai ser, seu humano recusa?!
@@ -524,12 +524,12 @@ Dialogue: 5,0:31:01.29,0:31:03.13,Main,,0,0,0,,{be here soon}Eles chegarão em b
 Dialogue: 5,0:31:03.13,0:31:04.05,Main,,0,0,0,,Tudo bem!
 Dialogue: 5,0:31:05.80,0:31:07.26,Main,,0,0,0,,{let's go...}Vamos fazer isso!
 Dialogue: 5,0:31:10.76,0:31:13.14,Main,,0,0,0,,Que diabos?!
-Dialogue: 5,0:31:13.14,0:31:19.56,Main,,0,0,0,,{\an8}Então aquele idiota que estragou meu valioso acordo comercial SMILE.\N.\N.
+Dialogue: 5,0:31:13.14,0:31:19.56,Main,,0,0,0,,{\an8}Então aquele idiota que estragou meu valioso acordo comercial SMILE...
 Dialogue: 5,0:31:19.56,0:31:22.15,Main,,0,0,0,,{\an8}estava no território daquela velha bruxa?!
 Dialogue: 5,0:31:30.24,0:31:33.66,Main,,0,0,0,,{\i1}Ele é o vencedor?!
 Dialogue: 5,0:31:33.66,0:31:36.79,Main,,0,0,0,,{\i1}Huh?! Quando exatamente eu perdi?!
 Dialogue: 5,0:31:38.25,0:31:41.54,Main,,0,0,0,,{I'm sure he printed this article, Mama!\N}Foi ele, mamãe!\NEle imprimiu este artigo!
-Dialogue: 5,0:31:41.54,0:31:46.21,Main,,0,0,0,,{Yeah.\N.\N.\NI'll teach you\Na lesson, Morgans.\N.\N.\NNo!\N}Ah, você vai pagar por isso, Morgans.\N.\N.\NNão!
+Dialogue: 5,0:31:41.54,0:31:46.21,Main,,0,0,0,,{Yeah...\NI'll teach you\Na lesson, Morgans...\NNo!\N}Ah, você vai pagar por isso, Morgans...\NNão!
 Dialogue: 5,0:31:48.59,0:31:52.09,Main,,0,0,0,,{\i1}Aquele que realmente vai pagar...
 Dialogue: 5,0:31:52.68,0:31:55.26,Main,,0,0,1,,é o Chapéu de Palha!
 Dialogue: 5,0:31:57.31,0:31:59.14,Main,,0,0,1,,Um imperador?
@@ -537,7 +537,7 @@ Dialogue: 5,0:31:59.14,0:32:01.89,Main,,0,0,1,,{It's too soon for you to be call
 Dialogue: 5,0:32:12.66,0:32:15.91,Main,,0,0,0,,{Looks like I'll be seeing you soon...}Parece que nos encontraremos novamente em breve,
 Dialogue: 5,0:32:17.66,0:32:19.16,Main,,0,0,0,,Luffy!
 Dialogue: 5,0:32:28.13,0:32:31.34,Main,,0,0,0,,{What can we do?}Então, sua recompensa caiu. Não há muito que possamos fazer.
-Dialogue: 5,0:32:31.34,0:32:36.55,Main,,0,0,0,[snapped],{Cheer up, Luffy.\N.\N.\NI'll help you.\N\NWe'll give it our all.\N}Anime-se, Luffy!\NDeixe-me ajudar de alguma forma.\NVamos fazer o que pudermos!
+Dialogue: 5,0:32:31.34,0:32:36.55,Main,,0,0,0,[snapped],{Cheer up, Luffy...\NI'll help you.\N\NWe'll give it our all.\N}Anime-se, Luffy!\NDeixe-me ajudar de alguma forma.\NVamos fazer o que pudermos!
 Dialogue: 5,0:32:36.55,0:32:39.47,Main,,0,0,0,[snapped],Você quer que eu cozinhe alguma coisa para você?
 Dialogue: 5,0:32:40.64,0:32:41.89,Main,,0,0,0,,{Uh-huh...}Sim...
 Dialogue: 5,0:32:47.52,0:32:49.53,Main,,0,0,0,,{Wait a minute...}Espere só. Um. Minuto.

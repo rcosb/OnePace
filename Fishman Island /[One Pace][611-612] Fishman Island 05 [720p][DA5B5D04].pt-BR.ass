@@ -87,7 +87,7 @@ Dialogue: 0,0:03:03.36,0:03:04.91,Main,Gyro,0,0,0,,Temos que passar da Linha Ver
 Dialogue: 0,0:03:04.91,0:03:08.18,Main,Pirate,0,0,0,,Caramba! Eu queria muito conhecer o Mermaid Café!
 Dialogue: 0,0:03:08.18,0:03:12.37,Main,Gyro,0,0,0,,Vocês terão que desistir disso, idiotas! Agora pare de falar e reme!
 Dialogue: 0,0:03:12.37,0:03:15.20,Main,Gyro,0,0,0,,Sinceramente... não acredito nisso!
-Dialogue: 0,0:03:15.56,0:03:20.10,Main,Gyro,0,0,0,,O Kraken estava dormindo no fundo do oceano, então conseguimos evitá-lo.\N.\N.
+Dialogue: 0,0:03:15.56,0:03:20.10,Main,Gyro,0,0,0,,O Kraken estava dormindo no fundo do oceano, então conseguimos evitá-lo...
 Dialogue: 0,0:03:20.31,0:03:22.55,Main,Gyro,0,0,4,,e descemos 10 quilômetros.
 Dialogue: 0,0:03:20.63,0:03:27.12,Captions,Sign,0,0,240,,{\fad(520,0)}Pirata do South Blue Crab-Hand Gyro
 Dialogue: 0,0:03:20.73,0:03:27.12,Captions,Sign,0,0,240,,{\fad(520,0)\pos(256,150)}Recompensa: 73 milhões de barrigas.
@@ -158,7 +158,7 @@ Dialogue: 0,0:06:33.56,0:06:34.27,Main,Nami,0,0,0,,Oh!
 Dialogue: 0,0:06:34.52,0:06:37.52,Main,Nami,0,0,0,,{\i1}Espere, você quer dizer que esta é a sua loja?
 Dialogue: 0,0:06:37.62,0:06:40.04,Main,Nami,0,0,0,,O que há com os preços altos? Você está tentando me enganar?!
 Dialogue: 0,0:06:40.04,0:06:41.55,Main,Store-Man,0,0,0,,Senhor!
-Dialogue: 0,0:06:41.55,0:06:45.80,Main,Pappagg,0,0,0,,Bem, a marca é cara.\NAfinal, sou um designer popular.\N.\N.
+Dialogue: 0,0:06:41.55,0:06:45.80,Main,Pappagg,0,0,0,,Bem, a marca é cara.\NAfinal, sou um designer popular...
 Dialogue: 0,0:06:45.80,0:06:46.97,Main,Nami,0,0,0,,Me dê um desconto!
 Dialogue: 0,0:06:46.97,0:06:48.09,Main,Pappagg,0,0,0,,Não, espere!
 Dialogue: 0,0:06:49.99,0:06:51.72,Main,Pappagg,0,0,0,,Não seja tão hostil!
@@ -269,7 +269,7 @@ Dialogue: 0,0:13:33.95,0:13:36.39,Main,Caribou,0,0,0,,Não tente fugir agora!
 Dialogue: 0,0:13:36.39,0:13:38.59,Main,Ishilly,0,0,0,,Rápido! Na água!
 Dialogue: 0,0:13:42.79,0:13:45.01,Main,Caribou,0,0,0,,É tarde demais para isso!
 Dialogue: 0,0:13:50.35,0:13:52.54,Main,Mermaid,0,0,0,,Estou... afundando...
-Dialogue: 0,0:13:52.54,0:13:54.65,Main,Mermaid,0,0,0,,{Gil: Only just on the screen long enough for me to read.\NA good way of shortening the line isn't coming to mind right now.\N.\N.\N}É um pântano!\NComo foi parar nesta área rochosa?\N!
+Dialogue: 0,0:13:52.54,0:13:54.65,Main,Mermaid,0,0,0,,{Gil: Only just on the screen long enough for me to read.\NA good way of shortening the line isn't coming to mind right now...\N}É um pântano!\NComo foi parar nesta área rochosa?!
 Dialogue: 0,0:13:54.87,0:13:58.39,Main,Caribou,0,0,0,,Você não pode se libertar deste pântano!
 Dialogue: 0,0:13:58.39,0:14:01.07,Main,Caribou,0,0,0,,Não tem fundo!
 Dialogue: 0,0:14:01.07,0:14:06.32,Main,Caribou,0,0,0,,Eu sou um usuário da Akuma no Mi.\NUm homem do pântano que comeu a fruta do pântano!
@@ -298,7 +298,7 @@ Dialogue: 0,0:15:34.76,0:15:36.65,Main,Mermaid,0,0,0,,Eles pareciam pessoas lega
 Dialogue: 0,0:15:36.65,0:15:39.57,Main,Mermaid,0,0,0,,Além disso, são amigos da Caimie.
 Dialogue: 0,0:15:39.57,0:15:41.27,Main,Knight,0,0,0,,Eles podem tê-la ameaçado.
 Dialogue: 0,0:15:41.35,0:15:42.10,Main,Mermaid,0,0,0,,Sem chance.
-Dialogue: 0,0:15:42.34,0:15:45.94,Main,Knight,0,0,0,,Se olharmos para os fatos, os únicos que estavam lá naquele momento.\N.\N.
+Dialogue: 0,0:15:42.34,0:15:45.94,Main,Knight,0,0,0,,Se olharmos para os fatos, os únicos que estavam lá naquele momento...
 Dialogue: 0,0:15:45.94,0:15:48.47,Main,Knight,0,0,0,,éramos nós, guardas, as meninas,
 Dialogue: 0,0:15:48.47,0:15:51.13,Main,Knight,0,0,0,,a gangue do Distrito Fishman que foi espancada...
 Dialogue: 0,0:15:51.63,0:15:54.47,Main,Knight,0,0,0,,e os Chapéus de Palha.
@@ -308,7 +308,7 @@ Dialogue: 0,0:16:02.60,0:16:06.93,Main,Knight,0,0,0,,Na sociedade humana, as jov
 Dialogue: 0,0:16:06.93,0:16:10.39,Main,Fishman,0,0,0,,Mesmo assim, você não pode simplesmente acusá-los com base em suposições.
 Dialogue: 0,0:16:10.39,0:16:17.38,Main,Knight,0,0,0,,Você tem ideia de quantos humanos fingiram ser legais e depois sequestraram sereias no passado?!
 Dialogue: 0,0:16:19.88,0:16:20.96,Main,Knight,0,0,0,,{ def: i never get used to people just randomly saying someone's name }Príncipe Fukaboshi.
-Dialogue: 0,0:16:21.05,0:16:24.86,Main,Fukaboshi,0,0,0,,E Madame Shyarly, sobre o que você estava dizendo antes.\N.\N.
+Dialogue: 0,0:16:21.05,0:16:24.86,Main,Fukaboshi,0,0,0,,E Madame Shyarly, sobre o que você estava dizendo antes...
 Dialogue: 0,0:16:24.86,0:16:28.27,Main,Fukaboshi,0,0,0,,Você realmente viu um futuro como esse?
 Dialogue: 0,0:16:29.67,0:16:35.94,Main,Fukaboshi,0,0,0,,Que o pirata Chapéu de Palha Luffy vai destruir a Ilha dos Tritões?
 Dialogue: 0,0:16:36.91,0:16:39.88,Main,Mermaid,0,0,0,,Madame Shyarly, tome um pouco de água.
@@ -367,7 +367,7 @@ Dialogue: 0,0:19:56.00,0:19:59.07,Flashbacks,Robin,0,0,0,,Tenho certeza que outr
 Dialogue: 0,0:19:59.07,0:20:01.50,Flashbacks,Robin,0,0,0,,Um valioso fragmento da história.
 Dialogue: 0,0:20:02.07,0:20:04.85,Main,Nami,0,0,0,,Então nos separamos novamente.
 Dialogue: 0,0:20:04.85,0:20:06.66,Main,Nami,0,0,0,,Você não teve nenhum problema, certo?
-Dialogue: 0,0:20:06.66,0:20:10.60,Main,Usopp,0,0,0,,Bem, você poderia dizer que sim, e você poderia dizer que não.\N.\N.
+Dialogue: 0,0:20:06.66,0:20:10.60,Main,Usopp,0,0,0,,Bem, você poderia dizer que sim, e você poderia dizer que não...
 Dialogue: 0,0:20:10.60,0:20:13.28,Main,Nami,0,0,0,,{Kijou: the word Nami uses for Neptune is, rather than 'old man', endearing. It's what you'd use for your grandad or someone similar to that position. It's a very friendly (but very casual) term. So 'gramps' or something similar would probably suit better, since at least to me 'old man' sounds a bit rude.}A propósito, velho.
 Dialogue: 0,0:20:14.09,0:20:17.06,Main,Pappagg,0,0,0,,Esse é o Deus do Mar, Netuno-sama, com quem você está falando!
 Dialogue: 0,0:20:18.46,0:20:24.34,Main,Nami,0,0,0,,Estamos a dez mil metros de profundidade, então por que está tão claro na área ao redor da Ilha dos Tritões?
@@ -421,7 +421,7 @@ Dialogue: 0,0:23:25.96,0:23:31.69,Main,Neptune,0,0,0,,Eu trouxe as pessoas que s
 Dialogue: 0,0:23:32.41,0:23:35.29,Main,Neptune,0,0,0,,Agora, dê as boas-vindas aos nossos convidados!
 Dialogue: 0,0:23:35.29,0:23:38.46,Main,Neptune,0,0,0,,Uh, o que a princesa Shirahoshi está fazendo?
 Dialogue: 0,0:23:38.46,0:23:41.86,Main,Merman,0,0,0,,Bem, Majestade, parece que aconteceu de novo...
-Dialogue: 0,0:23:41.86,0:23:46.98,Main,Neptune,0,0,0,,O que?\N!\NIsso tudo porque você não cuidou da princesa para mantê-la calma!
+Dialogue: 0,0:23:41.86,0:23:46.98,Main,Neptune,0,0,0,,O que?!\NIsso tudo porque você não cuidou da princesa para mantê-la calma!
 Dialogue: 0,0:23:46.98,0:23:48.44,Main,Neptune,0,0,0,,Seus imbecis!
 Dialogue: 0,0:23:48.44,0:23:50.07,Main,Merman,0,0,0,,{\i1}E enquanto isso acontecia...
 Dialogue: 0,0:23:50.07,0:23:56.66,Main,Merman,0,0,0,,{\i1}você simplesmente desapareceu sem deixar vestígios! Você não percebe que deixou todo mundo preocupado, Majestade?!
@@ -449,7 +449,7 @@ Dialogue: 0,0:25:02.46,0:25:04.65,Main,Luffy,0,0,0,,Disseram que o Zoro já esta
 Dialogue: 0,0:25:05.61,0:25:10.65,Main,Luffy,0,0,0,,Ainda assim, é uma porta enorme, grossa e de aparência sólida!
 Dialogue: 0,0:25:10.65,0:25:16.09,Main,Luffy,0,0,0,,A parede também parece muito resistente.\NSão como as paredes de Impel Down!
 Dialogue: 0,0:25:16.09,0:25:18.96,Main,Luffy,0,0,0,,Que tipo de comida deliciosa eles têm dentro?!
-Dialogue: 0,0:25:24.40,0:25:27.47,Main,Luffy,0,0,0,,Está escuro aqui.\N.\N.\NEntão não é aqui que a festa está sendo realizada?
+Dialogue: 0,0:25:24.40,0:25:27.47,Main,Luffy,0,0,0,,Está escuro aqui...\NEntão não é aqui que a festa está sendo realizada?
 Dialogue: 0,0:25:29.24,0:25:32.76,Main,Luffy,0,0,0,,Mas eles têm comida que cheira muito bem aqui!
 Dialogue: 0,0:25:32.76,0:25:35.07,Main,Luffy,0,0,0,,Então este é o depósito de comida?
 Dialogue: 0,0:25:35.07,0:25:37.12,Main,Luffy,0,0,0,,Bem, tanto faz! Eu vou querer um pouco!

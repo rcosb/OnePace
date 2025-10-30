@@ -53,7 +53,7 @@ Dialogue: 0,0:02:21.95,0:02:25.12,Main-207+,,0,0,0,,{To see that the}Incrível!\
 Dialogue: 0,0:02:25.12,0:02:28.21,Main-207+,,0,0,0,,{come here!\N}É para que os navios de guerra do Quartel-General possam passar!
 Dialogue: 0,0:02:28.21,0:02:31.21,Main-207+,,0,0,0,,{It's for the buster call's cannon attack!}É para o bombardeio do Buster Call!
 Dialogue: 0,0:02:35.55,0:02:38.05,Main-207+,,0,0,0,,{Granny Kokoro surely said}Tenho certeza que a velha senhora Kokoro disse...
-Dialogue: 0,0:02:38.05,0:02:41.64,Main-207+,,0,0,0,,{, and yet.\N.\N}que essas portas nunca se abrem totalmente.
+Dialogue: 0,0:02:38.05,0:02:41.64,Main-207+,,0,0,0,,{, and yet..\N}que essas portas nunca se abrem totalmente.
 Dialogue: 0,0:02:42.26,0:02:47.35,Main-207+,,0,0,0,,{What's this air of intimidation?\N\NWhat on earth is buster call?\N}Isto é alarmante.\NO que diabos é uma "chamada destruidora"-waina?
 Dialogue: 0,0:02:47.35,0:02:49.69,Main-207+,,0,0,0,,Os Chapéus de Palha brigaram com o mundo.
 Dialogue: 0,0:02:49.69,0:02:52.86,Main-207+,,0,0,0,,{So they really are going to blow them\Naway along with the entire island!\N}Então a Marinha está pronta para destruir esta ilha inteira com eles lá, waina!
@@ -73,7 +73,7 @@ Dialogue: 0,0:03:53.75,0:03:55.88,Main-207+,,0,0,0,,{yet}Não vá a lugar nenhum
 Dialogue: 0,0:03:58.30,0:04:00.05,Main-207+,,0,0,0,,{! Go}Guardas, lá fora!
 Dialogue: 0,0:04:00.05,0:04:01.05,Main-207+,,0,0,0,,Sim, senhor!
 Dialogue: 0,0:04:07.97,0:04:10.41,Main-207+,,0,0,0,,{Guards at the Gates of Justice,}Sentinelas das Portas da Justiça...
-Dialogue: 0,0:04:10.41,0:04:13.19,Main-207+,,0,0,0,,{and marines on the escort ship\Nsent by Navy Headquarters.\N.\N.\N!\N}e fuzileiros navais da escolta do Quartel-General da Marinha,
+Dialogue: 0,0:04:10.41,0:04:13.19,Main-207+,,0,0,0,,{and marines on the escort ship\Nsent by Navy Headquarters...!\N}e fuzileiros navais da escolta do Quartel-General da Marinha,
 Dialogue: 0,0:04:14.35,0:04:18.53,Main-207+,,0,0,0,,{Cipher Pol No. 9's Chief Spandam is currently...}O Chefe Spandam da Cipher Pol No. 9 é atualmente...
 Dialogue: 0,0:04:18.53,0:04:24.74,Main-207+,,0,0,0,,{taking a criminal of utmost importance across the bridge from the Tower of Justice.}transportando um criminoso nefasto pela ponte da Torre da Justiça.
 Dialogue: 0,0:04:25.28,0:04:27.66,Main-207+,,0,0,0,,{All line up and salute!}Entre e saude!
@@ -102,8 +102,8 @@ Dialogue: 0,0:06:13.85,0:06:14.81,Main-207+,,0,0,0,,Sua vadia!
 Dialogue: 0,0:06:17.35,0:06:19.35,Main-207+,,0,0,0,,Chefe! Por favor, se apresse!
 Dialogue: 0,0:06:19.35,0:06:23.23,Main-207+,,0,0,0,,Eu sei! Cale-se! Eu sou um herói!
 Dialogue: 0,0:06:23.23,0:06:26.86,Main-207+,,0,0,0,,{think}Você provavelmente pensou que eu não sabia nada sobre isso, não é?
-Dialogue: 0,0:06:27.36,0:06:31.95,Main-207+,,0,0,0,,A má conduta de Jaguar D.\NSaul, ex-vice-almirante do Quartel-General da Marinha.\N.\N.
-Dialogue: 0,0:06:31.95,0:06:37.91,Main-207+,,0,0,0,,{in}Sua mãe, Olvia.\N.\N.\NO que aconteceu em Ohara naquela época.\N.\N.
+Dialogue: 0,0:06:27.36,0:06:31.95,Main-207+,,0,0,0,,A má conduta de Jaguar D.\NSaul, ex-vice-almirante do Quartel-General da Marinha...
+Dialogue: 0,0:06:31.95,0:06:37.91,Main-207+,,0,0,0,,{in}Sua mãe, Olvia...\NO que aconteceu em Ohara naquela época...
 Dialogue: 0,0:06:38.33,0:06:40.25,Main-207+,,0,0,0,,Eu sei tudo sobre isso!
 Dialogue: 0,0:06:41.67,0:06:43.75,Main-207+,,0,0,0,,Por que você acha que isso acontece?
 Dialogue: 0,0:06:43.75,0:06:45.34,Main-207+,,0,0,0,,Isso é porque me disseram.
@@ -127,19 +127,19 @@ Dialogue: 0,0:08:04.88,0:08:07.80,Flashbacks-720p,,0,0,0,,Fiquei feliz em ouvir 
 Dialogue: 0,0:08:08.38,0:08:09.76,Flashbacks-720p,,0,0,0,,Obrigado!
 Dialogue: 0,0:08:10.51,0:08:13.30,Flashbacks-720p,,0,0,0,,De agora em diante, para você e para mim...
 Dialogue: 0,0:08:13.30,0:08:14.84,Flashbacks-720p,,0,0,0,,Viva, Robin!
-Dialogue: 0,0:08:23.19,0:08:28.73,Main-207+,,0,0,0,,{They all thought that everyone\Nin Ohara at that time died, but.\N.\N.\N}Eles pensaram que todos em Ohara tinham morrido,
+Dialogue: 0,0:08:23.19,0:08:28.73,Main-207+,,0,0,0,,{They all thought that everyone\Nin Ohara at that time died, but...\N}Eles pensaram que todos em Ohara tinham morrido,
 Dialogue: 0,0:08:28.73,0:08:32.45,Main-207+,,0,0,0,,{the government missed one \Nbrat who escaped then.\N}mas o governo perdeu um pirralho que escapou.
 Dialogue: 0,0:08:34.11,0:08:35.11,Main-207+,,0,0,0,,Como foi?
-Dialogue: 0,0:08:35.53,0:08:38.78,Main-207+,,0,0,0,,{Who knows how many times this\Neight-year-old brat almost got killed}Quantas vezes você foi caçado por adultos.\N.\N.
+Dialogue: 0,0:08:35.53,0:08:38.78,Main-207+,,0,0,0,,{Who knows how many times this\Neight-year-old brat almost got killed}Quantas vezes você foi caçado por adultos...
 Dialogue: 0,0:08:38.78,0:08:41.62,Main-207+,,0,0,0,,{by adults who wanted money...?}quem esperava ficar rico matando uma criança de oito anos?
 Dialogue: 0,0:08:43.58,0:08:47.04,Main-207+,,0,0,0,,{You couldn't trust anyone who came near you.}Você não podia confiar em ninguém que se aproximasse de você.
 Dialogue: 0,0:08:47.04,0:08:51.05,Main-207+,,0,0,0,,{You had nowhere you could sleep safe\Nand sound.\NYou didn't have food, either.\N}Você não tinha onde dormir são e salvo.\NSem comida.
 Dialogue: 0,0:08:51.84,0:08:56.64,Main-207+,,0,0,0,,Não quero nem imaginar o quão ruins foram os últimos vinte anos para você.
 Dialogue: 0,0:08:58.49,0:09:01.02,Main-207+,,0,0,0,,{So you were so unhappy it'd make you cry?}Oh, foi tão miserável que dá vontade de chorar?
-Dialogue: 0,0:09:01.02,0:09:05.60,Main-207+,,0,0,0,,A pessoa que colocou uma recompensa pela sua cabeça há vinte anos.\N.\N.
+Dialogue: 0,0:09:01.02,0:09:05.60,Main-207+,,0,0,0,,A pessoa que colocou uma recompensa pela sua cabeça há vinte anos...
 Dialogue: 0,0:09:05.60,0:09:07.56,Main-207+,,0,0,0,,era meu velho!
 Dialogue: 0,0:09:08.56,0:09:10.19,Main-207+,,0,0,0,,Ele fez isso pela paz mundial!
-Dialogue: 0,0:09:14.11,0:09:20.28,Main-207+,,0,0,0,,{Now, after twenty years.\N.\N.\N\Nhis son hunts down the only survivor,}Agora, vinte anos depois, seu filho persegue o único sobrevivente.\N.\N.
+Dialogue: 0,0:09:14.11,0:09:20.28,Main-207+,,0,0,0,,{Now, after twenty years...\N\Nhis son hunts down the only survivor,}Agora, vinte anos depois, seu filho persegue o único sobrevivente...
 Dialogue: 0,0:09:20.28,0:09:23.25,Main-207+,,0,0,0,,{and the battle of Ohara comes to an end.}e encerra a batalha de Ohara.
 Dialogue: 0,0:09:24.41,0:09:26.92,Main-207+,,0,0,0,,Ohara perdeu!
 Dialogue: 0,0:09:29.34,0:09:32.34,Flashbacks-720p,,0,0,0,,Robin! Mantenha a cabeça erguida, Robin!
@@ -162,20 +162,20 @@ Dialogue: 0,0:10:45.04,0:10:46.41,Main-207+,,0,0,0,,Estamos zarpando!
 Dialogue: 0,0:10:46.41,0:10:47.12,Main-207+,,0,0,0,,Sim, senhor!
 Dialogue: 0,0:10:48.00,0:10:51.08,Thoughts-207+,,0,0,0,,{I'm so angry that I can't stop my tears!}Estou tão chateada que não consigo parar de chorar!
 Dialogue: 0,0:10:55.30,0:10:57.21,Main-207+,,0,0,0,,{Just watch carefully!}Contemplar!
-Dialogue: 0,0:10:57.21,0:11:02.43,Main-207+,,0,0,0,,{This is the first step of a hero\Nthat will be engraved in histo.\N.\N.\N}Aqui está o primeiro passo de um herói que a história lembrará por muito tempo:
+Dialogue: 0,0:10:57.21,0:11:02.43,Main-207+,,0,0,0,,{This is the first step of a hero\Nthat will be engraved in histo...\N}Aqui está o primeiro passo de um herói que a história lembrará por muito tempo:
 Dialogue: 0,0:11:11.60,0:11:14.94,Main-207+,,0,0,0,,{Wha-cha houie ouchie owow!}
 Dialogue: 0,0:11:16.57,0:11:18.65,Main-207+,,0,0,0,,Você está bem, chefe?!
 Dialogue: 0,0:11:19.32,0:11:20.99,Main-207+,,0,0,0,,O que é que foi isso?! Quem fez isso?!
 Dialogue: 0,0:11:20.99,0:11:22.49,Main-207+,,0,0,0,,Não há ninguém na ponte!
 Dialogue: 0,0:11:22.49,0:11:26.41,Main-207+,,0,0,0,,Deve haver!\NEles devem estar escondidos em algum lugar!\NEncontre-os!
 Dialogue: 0,0:11:26.99,0:11:28.04,Main-207+,,0,0,0,,Onde eles estão?!
-Dialogue: 0,0:11:38.13,0:11:42.13,Main-207+,,0,0,0,,{Why aren't you attacking?\N!\N}Ei!\NO que vocês estão fazendo?\N!\NVocês são todos inúteis!
+Dialogue: 0,0:11:38.13,0:11:42.13,Main-207+,,0,0,0,,{Why aren't you attacking?!\N}Ei!\NO que vocês estão fazendo?!\NVocês são todos inúteis!
 Dialogue: 0,0:11:42.13,0:11:45.43,Main-207+,,0,0,0,,{find}Mas, Chefe, não conseguimos localizar o inimigo!
 Dialogue: 0,0:11:47.39,0:11:50.02,Main-207+,,0,0,0,,Ah! Aí está ele!
 Dialogue: 0,0:12:06.74,0:12:09.62,Main-207+,,0,0,0,,No topo da Torre da Justiça!
-Dialogue: 0,0:12:09.62,0:12:14.42,Main-207+,,0,0,0,,{Tower of Justice?\N!\NWhat can\Nhe do from that far away?\N!\N}A Torre da Justiça?\N!\NO que ele pode fazer lá de cima?\N!
-Dialogue: 0,0:12:19.67,0:12:23.38,Main-207+,,0,0,0,,{Snap}– Zing!\N– Quem diabos é esse?\N!
-Dialogue: 0,0:12:24.01,0:12:28.89,Main-207+,,0,0,0,,{He's aiming at us from that distance \Nwithout the slightest error, in this wind?\N!\N}Ele está nos acertando em cheio, àquela distância, com esse vento?\N!
+Dialogue: 0,0:12:09.62,0:12:14.42,Main-207+,,0,0,0,,{Tower of Justice?!\NWhat can\Nhe do from that far away?!\N}A Torre da Justiça?!\NO que ele pode fazer lá de cima?!
+Dialogue: 0,0:12:19.67,0:12:23.38,Main-207+,,0,0,0,,{Snap}– Zing!\N– Quem diabos é esse?!
+Dialogue: 0,0:12:24.01,0:12:28.89,Main-207+,,0,0,0,,{He's aiming at us from that distance \Nwithout the slightest error, in this wind?!\N}Ele está nos acertando em cheio, àquela distância, com esse vento?!
 Dialogue: 0,0:12:28.89,0:12:30.39,Main-207+,,0,0,0,,Quem diabos é esse?!
 Dialogue: 0,0:12:31.39,0:12:32.85,Main-207+,,0,0,0,,{\i1}Nariz Comprido-kun!
 Dialogue: 0,0:12:33.64,0:12:37.31,Main-207+,,0,0,0,,{amazing, isn't he?!}Veja isso?! Nosso atirador é impressionante!
@@ -184,7 +184,7 @@ Dialogue: 0,0:12:41.07,0:12:42.78,Main-207+,,0,0,0,,{\i1}Robin-chan! Correr!
 Dialogue: 0,0:12:43.82,0:12:45.70,Main-207+,,0,0,0,,Ele realmente tem que cantar?
 Dialogue: 0,0:12:45.70,0:12:48.28,Main-207+,,0,0,0,,Como você ousa?!
 Dialogue: 0,0:12:51.00,0:12:52.12,Main-207+,,0,0,0,,Chefe!
-Dialogue: 0,0:12:55.08,0:13:00.13,Main-207+,,0,0,0,,{dead }Droga!\NO que vocês estão fazendo?\N!\NAtire nele já!
+Dialogue: 0,0:12:55.08,0:13:00.13,Main-207+,,0,0,0,,{dead }Droga!\NO que vocês estão fazendo?!\NAtire nele já!
 Dialogue: 0,0:13:00.13,0:13:05.26,Main-207+,,0,0,0,,{w}Estamos tentando, mas nossas balas não chegam tão longe e muito menos acertam ele!
 Dialogue: 0,0:13:05.26,0:13:08.10,Main-207+,,0,0,0,,{really incredible skills}Esse atirador tem uma mira excelente!
 Dialogue: 0,0:13:08.85,0:13:10.56,Main-207+,,0,0,0,,Nico Robin está fugindo!
@@ -199,8 +199,8 @@ Dialogue: 0,0:14:12.70,0:14:14.08,Main-207+,,0,0,0,,{You are...}É você.
 Dialogue: 0,0:14:16.54,0:14:19.67,Main-207+,,0,0,0,,{My body is strong because it's iron.}Eu sou de ferro sólido, querido.
 Dialogue: 0,0:14:19.67,0:14:21.50,Main-207+,,0,0,0,,{nice}Aquela mina terrestre não foi legal, Spanda!
 Dialogue: 0,0:14:21.50,0:14:22.80,Main-207+,,0,0,0,,Eek!
-Dialogue: 0,0:14:23.21,0:14:27.77,Main-207+,,0,0,0,,{Well.\N.\N.\N}Ah, Franky-Kun, Franky-Kun.\NIsso é encharcado.
-Dialogue: 0,0:14:27.77,0:14:30.97,Main-207+,,0,0,0,,{This transponder\Nsnail is supposed to.\N.\N.\N}Hum?\NOh?\NComo você conseguiu esse caracol transponder?
+Dialogue: 0,0:14:23.21,0:14:27.77,Main-207+,,0,0,0,,{Well...\N}Ah, Franky-Kun, Franky-Kun.\NIsso é encharcado.
+Dialogue: 0,0:14:27.77,0:14:30.97,Main-207+,,0,0,0,,{This transponder\Nsnail is supposed to...\N}Hum?\NOh?\NComo você conseguiu esse caracol transponder?
 Dialogue: 0,0:14:30.97,0:14:32.81,Main-207+,,0,0,0,,{I got it f}De Nami.
 Dialogue: 0,0:14:32.81,0:14:37.64,Main-207+,,0,0,0,,Mais importante ainda, você deve encontrar um pacote de pano vermelho no chão perto de você.
 Dialogue: 0,0:14:37.64,0:14:38.89,Main-207+,,0,0,0,,Pano vermelho?
@@ -219,7 +219,7 @@ Dialogue: 0,0:15:05.09,0:15:06.05,Main-207+,,0,0,0,,Eles saíram!
 Dialogue: 0,0:15:10.93,0:15:13.89,Main-207+,,0,0,0,,{Not possible}Bobagem! E-Elas são as verdadeiras chaves?!
 Dialogue: 0,0:15:16.01,0:15:18.14,Main-207+,,0,0,0,,Ei, ei. Controle-se!
 Dialogue: 0,0:15:18.14,0:15:20.56,Main-207+,,0,0,0,,{Does this mean...}Oh não. Isso significa...
-Dialogue: 0,0:15:20.56,0:15:27.53,Main-207+,,0,0,0,,{everyone\Nin CP9 in the Tower of Justice?\N!\N}Ahh!\NVocês derrotaram todos os agentes CP9 na Torre da Justiça?\N!
+Dialogue: 0,0:15:20.56,0:15:27.53,Main-207+,,0,0,0,,{everyone\Nin CP9 in the Tower of Justice?!\N}Ahh!\NVocês derrotaram todos os agentes CP9 na Torre da Justiça?!
 Dialogue: 0,0:15:35.37,0:15:37.04,Main-207+,,0,0,0,,Não, isso não pode ser verdade!
 Dialogue: 0,0:15:37.04,0:15:40.83,Main-207+,,0,0,0,,{run}Você deve tê-los roubado e fugido! Droga!
 Dialogue: 0,0:15:41.62,0:15:44.42,Main-207+,,0,0,0,,Esse é o Franky! Ei, Nariz Comprido!
@@ -259,7 +259,7 @@ Dialogue: 0,0:18:02.31,0:18:03.27,Main-207+,,0,0,0,,Sim, senhor.
 Dialogue: 0,0:18:03.27,0:18:07.02,Main-207+,,0,0,0,,{everything}Nossa missão é queimar tudo.
 Dialogue: 0,0:18:09.86,0:18:12.36,Main-207+,,0,0,0,,{busted}Dizimaram a cerca que circunda a ilha.
 Dialogue: 0,0:18:12.36,0:18:13.94,Main-207+,,0,0,0,,Foi uma grande explosão.
-Dialogue: 0,0:18:14.44,0:18:18.61,Main-207+,,0,0,0,,Se um bando de navios de guerra vier e fizer chover tiros de canhão daquele jeito.\N.\N.
+Dialogue: 0,0:18:14.44,0:18:18.61,Main-207+,,0,0,0,,Se um bando de navios de guerra vier e fizer chover tiros de canhão daquele jeito...
 Dialogue: 0,0:18:18.61,0:18:19.95,Main-207+,,0,0,0,,Além disso, olhe.
 Dialogue: 0,0:18:21.24,0:18:27.58,Main-207+,,0,0,0,,{The whirlpools that were surging so violently that they prevented ships from coming here are now completely gone.}Aqueles redemoinhos violentos que mantinham os navios afastados agora desapareceram.
 Dialogue: 0,0:18:28.00,0:18:31.42,Main-207+,,0,0,0,,{attacks}É porque os Portões da Justiça foram totalmente abertos para permitir o ataque.
@@ -291,8 +291,8 @@ Dialogue: 0,0:20:23.20,0:20:26.70,Main-207+,,0,0,0,,Ei! Usopp!
 Dialogue: 0,0:20:26.70,0:20:29.79,Main-207+,,0,0,0,,Ah!!
 Dialogue: 0,0:20:29.79,0:20:32.75,Main-207+,,0,0,0,,Você ligou?!
 Dialogue: 0,0:20:39.17,0:20:40.38,Main-207+,,0,0,0,,{Hey, y}Você está vivo!
-Dialogue: 0,0:20:40.38,0:20:43.43,Main-207+,,0,0,0,,{kindness}Ei!\NVocês não têm a decência de pegar um herói.\N.\N.
-Dialogue: 0,0:20:43.43,0:20:46.60,Main-207+,,0,0,0,,{of }dando um salto desesperado do telhado?\N!\NIdiotas!
+Dialogue: 0,0:20:40.38,0:20:43.43,Main-207+,,0,0,0,,{kindness}Ei!\NVocês não têm a decência de pegar um herói...
+Dialogue: 0,0:20:43.43,0:20:46.60,Main-207+,,0,0,0,,{of }dando um salto desesperado do telhado?!\NIdiotas!
 Dialogue: 0,0:20:48.68,0:20:52.77,Main-207+,,0,0,0,,{\i1}Franky!\NRobin-chan!\NEstamos bem aqui.\NEstamos indo imediatamente!
 Dialogue: 0,0:20:53.52,0:20:54.73,Main-207+,,0,0,0,,{Good.}Isso é um alívio.
 Dialogue: 0,0:20:54.73,0:20:57.11,Main-207+,,0,0,0,,Pois bem, vamos fazer algo sobre as coisas aqui.
@@ -322,14 +322,14 @@ Dialogue: 0,0:22:35.79,0:22:38.71,Main-207+,,0,0,0,,Você sentiu a explosão ant
 Dialogue: 0,0:22:38.71,0:22:42.75,Main-207+,,0,0,0,,{That was probably a Navy Headquarters\Nbattleship doing some trial fire.\N}Provavelmente era um navio de guerra do Quartel-General da Marinha realizando um exercício de tiro.
 Dialogue: 0,0:22:42.75,0:22:46.26,Main-207+,,0,0,0,,{all start firing at once.}Em pouco tempo, eles começarão sua barragem.
 Dialogue: 0,0:22:46.26,0:22:50.39,Main-207+,,0,0,0,,Seus amigos que estão na Torre da Justiça morrerão lá.
-Dialogue: 0,0:22:50.39,0:22:56.85,Main-207+,,0,0,0,,{Even if there are some lucky ones who are running this way in the\Nunderground passage right now.\N.\N.\N}Talvez alguns deles tenham a sorte de correr pelo túnel para chegar até aqui.
+Dialogue: 0,0:22:50.39,0:22:56.85,Main-207+,,0,0,0,,{Even if there are some lucky ones who are running this way in the\Nunderground passage right now...\N}Talvez alguns deles tenham a sorte de correr pelo túnel para chegar até aqui.
 Dialogue: 0,0:22:58.27,0:22:58.98,Main-207+,,0,0,0,,{\fad(150,150)}Chute Tempestuoso!
 Dialogue: 0,0:23:07.40,0:23:08.49,Main-207+,,0,0,0,,O que?!
 Dialogue: 0,0:23:18.41,0:23:21.88,Main-207+,,0,0,0,,{gush into}Esta água do mar inundará a passagem,
 Dialogue: 0,0:23:21.88,0:23:24.38,Main-207+,,0,0,0,,garantindo que qualquer um lá dentro se afogue.
 Dialogue: 0,0:23:39.00,0:23:39.86,Main-207+,,0,0,0,,Seu bastardo.
 Dialogue: 0,0:23:40.52,0:23:44.02,Main-207+,,0,0,0,,Nada está indo bem para você, Chapéu de Palha.
-Dialogue: 0,0:23:44.44,0:23:49.56,Main-207+,,0,0,0,,{That naive idea of yours that you\Ncan save everyone and escape.\N.\N.\N}Você tem essa ideia ingênua de que pode salvar a todos e escapar.
+Dialogue: 0,0:23:44.44,0:23:49.56,Main-207+,,0,0,0,,{That naive idea of yours that you\Ncan save everyone and escape...\N}Você tem essa ideia ingênua de que pode salvar a todos e escapar.
 Dialogue: 0,0:23:49.56,0:23:51.03,Main-207+,,0,0,0,,Vamos ver até onde isso te leva.
 Dialogue: 0,0:23:51.03,0:23:53.41,Main-207+,,0,0,0,,O que você está fazendo, seu idiota?!
 Dialogue: 0,0:24:10.09,0:24:13.05,Main-207+,,0,0,0,,{\i1}Koko-San! Chaminé! Gonbe!

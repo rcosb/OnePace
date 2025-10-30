@@ -115,7 +115,7 @@ Dialogue: 0,0:03:26.47,0:03:28.83,Main,,0,0,0,,{\an8}Deixe-me ir, vovô!
 Dialogue: 0,0:03:28.83,0:03:32.12,Main,,0,0,0,,{Windmill}Foi um erro deixar você na Vila Foosha!
 Dialogue: 0,0:03:32.12,0:03:34.59,Main,,0,0,0,,{Of all things,}Só tinham que ser piratas!
 Dialogue: 0,0:03:37.76,0:03:39.43,Main,,0,0,0,,Que lugar é esse?
-Dialogue: 0,0:03:41.07,0:03:46.00,Main,,0,0,0,,{Whoever you are,\Ndo you wanna get killed?\N!\N}Pare já!\NQuem se atreve a bater na minha porta?\N!
+Dialogue: 0,0:03:41.07,0:03:46.00,Main,,0,0,0,,{Whoever you are,\Ndo you wanna get killed?!\N}Pare já!\NQuem se atreve a bater na minha porta?!
 Dialogue: 0,0:03:46.00,0:03:47.07,Main,,0,0,0,,Sou eu.
 Dialogue: 0,0:03:50.22,0:03:52.35,Main,,0,0,0,,{\i1}G-Garp-san!
 Dialogue: 0,0:03:54.81,0:03:58.28,Captions,,0,0,0,,{\blur0.6\fad(500,0)\fnFOT-Greco Std B\fs50\b1\3c&H212326&\c&H222528&\1a&HFF&\t(455,500,\1a&H00&)}Dadan encaracolado
@@ -130,7 +130,7 @@ Dialogue: 0,0:04:11.60,0:04:14.14,Main,,0,0,0,,Ace tem 10 anos agora!
 Dialogue: 0,0:04:14.14,0:04:17.77,Main,,0,0,0,,Ah, sim, já? Como ele está?
 Dialogue: 0,0:04:17.77,0:04:19.92,Main,,0,0,0,,Não é engraçado!
 Dialogue: 0,0:04:19.92,0:04:23.73,Main,,0,0,0,,Não podemos mais lidar com ele!\NVocê tem que levá-lo!
-Dialogue: 0,0:04:23.73,0:04:26.78,Main,,0,0,0,,-Deixando isso de lado.\N.\N.\N-Não deixe isso de lado!
+Dialogue: 0,0:04:23.73,0:04:26.78,Main,,0,0,0,,-Deixando isso de lado...\N-Não deixe isso de lado!
 Dialogue: 0,0:04:26.78,0:04:28.68,Main,,0,0,0,,Você é chato, garoto!
 Dialogue: 0,0:04:29.16,0:04:30.88,Main,,0,0,0,,Quero que você cuide dele também.
 Dialogue: 0,0:04:32.38,0:04:34.49,Main,,0,0,0,,Ei, Luffy, diga "oi" para eles.
@@ -199,7 +199,7 @@ Dialogue: 0,0:07:40.24,0:07:44.05,Main,,0,0,0,,Estou bem porque uma vez o vovô 
 Dialogue: 0,0:07:44.05,0:07:49.51,Main,,0,0,0,,e havia água para beber e sapos, cobras e cogumelos para comer na floresta!
 Dialogue: 0,0:07:49.51,0:07:52.95,Main,,0,0,0,,{ so...}Além disso, um dia me tornarei um pirata,
 Dialogue: 0,0:07:52.95,0:07:55.00,Main,,0,0,0,,{must}então eu tenho que ser forte!
-Dialogue: 0,0:07:55.62,0:07:57.23,Main,,0,0,0,,-Chefe!\N-Você está bem?\N!
+Dialogue: 0,0:07:55.62,0:07:57.23,Main,,0,0,0,,-Chefe!\N-Você está bem?!
 Dialogue: 0,0:07:57.23,0:07:58.62,Main,,0,0,0,,O que você está fazendo?!
 Dialogue: 0,0:07:58.62,0:08:01.20,Main,,0,0,0,,Aqui vamos nós!
 Dialogue: 0,0:08:02.16,0:08:04.16,Main,,0,0,0,,Para onde ele está indo?!
@@ -225,14 +225,14 @@ Dialogue: 0,0:10:04.00,0:10:05.92,Main,,0,0,0,,Ele trouxe comida!
 Dialogue: 0,0:10:07.54,0:10:10.23,Main,,0,0,0,,Ace, você voltou sozinho?
 Dialogue: 0,0:10:10.23,0:10:13.97,Main,,0,0,0,,Onde está Luffy?\NAchei que você estava com ele.
 Dialogue: 0,0:10:13.96,0:10:15.01,Main,,0,0,0,,{I don't know}Não sei.
-Dialogue: 0,0:10:16.90,0:10:20.70,Main,,0,0,0,,-Controle-se, chefe!\N-O que você disse?\N!
+Dialogue: 0,0:10:16.90,0:10:20.70,Main,,0,0,0,,-Controle-se, chefe!\N-O que você disse?!
 Dialogue: 0,0:10:20.70,0:10:24.46,Main,,0,0,0,,{not good}Eu disse que é inaceitável que o tenhamos perdido no primeiro dia!
 Dialogue: 0,0:10:24.46,0:10:27.97,Main,,0,0,0,,Quem se importa! Se ele morrer, ele morre!
 Dialogue: 0,0:10:28.52,0:10:33.19,Main,,0,0,0,,{m}Eu já desisti do Ace, de qualquer maneira!
 Dialogue: 0,0:10:33.96,0:10:39.30,Main,,0,0,0,,Eu não me importo se ele morre ou não.\NDirei apenas ao Garp que foi um acidente.
 Dialogue: 0,0:10:39.30,0:10:43.36,Main,,0,0,0,,É verdade que “os filhos do diabo têm a sorte do diabo”!
 Dialogue: 0,0:10:43.36,0:10:45.67,Main,,0,0,0,,Ele é o filho do diabo!
-Dialogue: 0,0:10:46.28,0:10:52.71,Main,,0,0,0,,Se o governo descobrir isso, o que você acha que eles farão conosco?\N!
+Dialogue: 0,0:10:46.28,0:10:52.71,Main,,0,0,0,,Se o governo descobrir isso, o que você acha que eles farão conosco?!
 Dialogue: 0,0:10:52.71,0:10:54.50,Main,,0,0,0,,{Easy, easy}Vá com calma, chefe.
 Dialogue: 0,0:10:54.50,0:10:58.48,Main,,0,0,0,,Você está bebendo demais!
 Dialogue: 0,0:11:00.69,0:11:02.45,Narrator,,0,0,0,,Uma semana depois...
@@ -419,7 +419,7 @@ Dialogue: 0,0:23:28.65,0:23:31.60,Main,,0,0,0,,{have no idea}Não sei.
 Dialogue: 0,0:23:32.44,0:23:34.17,Thoughts,,0,0,0,,Que mentiroso terrível!
 Dialogue: 0,0:23:38.36,0:23:42.47,Main,,0,0,0,,Tudo bem, então. Se você não sabe, então é isso.
 Dialogue: 0,0:23:45.60,0:23:49.25,Main,,0,0,0,,Vou ajudá-lo a lembrar, então não se preocupe!
-Dialogue: 0,0:23:50.52,0:23:53.54,Main,,0,0,0,,Que diabos?\N!\NDeixe-me ir!\NPara onde você está me levando?\N!
+Dialogue: 0,0:23:50.52,0:23:53.54,Main,,0,0,0,,Que diabos?!\NDeixe-me ir!\NPara onde você está me levando?!
 Dialogue: 0,0:23:53.54,0:23:56.39,Main,,0,0,0,,Caramba! Idiota! Solte-me!
 Dialogue: 0,0:23:56.39,0:23:57.70,Main,,0,0,0,,Idiota!
 Dialogue: 0,0:23:58.28,0:23:59.67,Main,,0,0,0,,O que vamos fazer?
@@ -526,7 +526,7 @@ Dialogue: 0,0:31:26.82,0:31:28.44,Main,,0,0,0,,Sabo!
 Dialogue: 0,0:31:32.20,0:31:33.50,Main,,0,0,0,,{\i1}Porchemy-san!
 Dialogue: 0,0:31:36.11,0:31:38.51,Main,,0,0,0,,Ás! Sabo!
 Dialogue: 0,0:31:38.51,0:31:42.05,Main,,0,0,0,,Isso dói. Ei!
-Dialogue: 0,0:31:43.97,0:31:47.96,Main,,0,0,0,,{adults}Você sabe o que acontece quando você mexe com os adultos?\N!
+Dialogue: 0,0:31:43.97,0:31:47.96,Main,,0,0,0,,{adults}Você sabe o que acontece quando você mexe com os adultos?!
 Dialogue: 0,0:31:48.65,0:31:52.26,Main,,0,0,0,,Eu vou lutar com você! Sabo, ajude-o!
 Dialogue: 0,0:31:52.26,0:31:53.36,Main,,0,0,0,,Ás!
 Dialogue: 0,0:31:54.52,0:31:57.53,Main,,0,0,0,,Ele tem uma espada! Tome cuidado!
@@ -567,7 +567,7 @@ Dialogue: 0,0:34:31.06,0:34:35.49,Main,,0,0,0,,Não gosto de covardes ou chorõe
 Dialogue: 0,0:34:37.63,0:34:39.23,Main,,0,0,0,,Obrigado!
 Dialogue: 0,0:34:42.83,0:34:43.88,Main,,0,0,0,,Você...
 Dialogue: 0,0:34:45.13,0:34:47.13,Main,,0,0,0,,{helped}Você me salvou!
-Dialogue: 0,0:34:47.13,0:34:50.93,Main,,0,0,0,,-Você.\N.\N.\N!\N-Uau, ele só está agradecendo.
+Dialogue: 0,0:34:47.13,0:34:50.93,Main,,0,0,0,,-Você...!\N-Uau, ele só está agradecendo.
 Dialogue: 0,0:34:54.39,0:34:58.40,Main,,0,0,0,,Por que você não tossiu em primeiro lugar?
 Dialogue: 0,0:34:58.40,0:35:02.22,Main,,0,0,0,,São o tipo de pessoa que mataria mulheres ou crianças sem hesitação!
 Dialogue: 0,0:35:03.19,0:35:07.83,Main,,0,0,0,,Achei que se dissesse alguma coisa, você não seria meu amigo.
@@ -594,7 +594,7 @@ Dialogue: 0,0:36:28.20,0:36:29.66,Main,,0,0,0,,Claro que sim!
 Dialogue: 0,0:36:31.01,0:36:32.30,Main,,0,0,0,,Eu vejo.
 Dialogue: 0,0:36:34.72,0:36:39.08,Main,,0,0,0,,Mas não gosto de crianças mimadas como você.
 Dialogue: 0,0:36:40.99,0:36:44.12,Main,,0,0,0,,Eu não sou mimado! Eu sou forte!
-Dialogue: 0,0:36:44.12,0:36:48.65,Main,,0,0,0,,Forte?\N!\NVocê não é nada forte!\NVocê chora como uma menina!
+Dialogue: 0,0:36:44.12,0:36:48.65,Main,,0,0,0,,Forte?!\NVocê não é nada forte!\NVocê chora como uma menina!
 Dialogue: 0,0:36:48.65,0:36:53.30,Main,,0,0,0,,{7}Você já foi atingido por espinhos?\NTenho apenas sete anos!
 Dialogue: 0,0:36:53.30,0:36:58.32,Main,,0,0,0,,{ become your age - 10}Quando eu tiver dez anos como você, vou parar de chorar e ficar ainda mais forte!
 Dialogue: 0,0:36:58.32,0:37:02.27,Main,,0,0,0,,{wouldn't cry}Eu nunca chorei quando tinha sete anos, estúpido!\NEu não sou como você!
@@ -633,7 +633,7 @@ Dialogue: 0,0:39:37.24,0:39:40.08,Narrator,,0,0,0,,Ace, Sabo e Luffy.
 Dialogue: 0,0:39:41.09,0:39:43.74,Narrator,,0,0,0,,{se}O trio logo começou a passar seu tempo...
 Dialogue: 0,0:39:43.74,0:39:46.33,Narrator,,0,0,0,,{with }lutando contra animais selvagens nas montanhas e na selva.
 Dialogue: 0,0:39:46.88,0:39:51.40,Narrator,,0,0,0,,{and}Eles também entraram em confronto com hooligans da cidade e piratas na baía.
-Dialogue: 0,0:39:51.84,0:39:56.33,Narrator,,0,0,0,,{In the end}Eventualmente, até mesmo as pessoas que vivem no coração da cidade.\N.\N.
+Dialogue: 0,0:39:51.84,0:39:56.33,Narrator,,0,0,0,,{In the end}Eventualmente, até mesmo as pessoas que vivem no coração da cidade...
 Dialogue: 0,0:39:56.33,0:39:58.94,Narrator,,0,0,0,,{wrongdoing}veio a conhecer suas travessuras!
 Dialogue: 0,0:00:18.59,0:00:22.17,OP14 Translation,,0,0,0,,{\be1}Vamos zarpar antes do amanhecer
 Dialogue: 0,0:00:22.26,0:00:26.69,OP14 Translation,,0,0,0,,{\be1}para conhecer um amanhã ainda invisível

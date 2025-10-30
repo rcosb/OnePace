@@ -886,7 +886,7 @@ Dialogue: 0,0:03:49.24,0:03:51.37,Main,,0,0,0,,Porta!
 Dialogue: 0,0:03:59.32,0:04:01.17,Main,,0,0,0,,Ouvir...
 Dialogue: 0,0:04:01.17,0:04:04.55,Main,,0,0,0,,Pare de me seguir!\NPensei que este fosse o meu quarto!
 Dialogue: 0,0:04:05.18,0:04:09.47,Main,,0,0,0,,Este quarto também pertence a mim!\NDeixe-me sair!\NDroga!
-Dialogue: 0,0:04:09.47,0:04:14.40,Main,,0,0,0,,Por que você está me tratando tão mal?\N!\NSou um cientista genial!
+Dialogue: 0,0:04:09.47,0:04:14.40,Main,,0,0,0,,Por que você está me tratando tão mal?!\NSou um cientista genial!
 Dialogue: 0,0:04:14.40,0:04:17.21,Main,,0,0,0,,Você ainda não desistiu?!
 Dialogue: 0,0:04:17.78,0:04:21.65,Main,,0,0,0,,Disseram-nos apenas para capturar você, César!
 Dialogue: 0,0:04:21.65,0:04:25.18,Main,,0,0,0,,Mas ele é um noivo precioso que irá
@@ -915,31 +915,31 @@ Dialogue: 0,0:05:33.10,0:05:36.39,Main,,0,0,0,,O que você está fazendo?!
 Dialogue: 0,0:05:39.12,0:05:40.65,Main,,0,0,0,,Eu sou!
 Dialogue: 0,0:05:55.75,0:06:00.29,Main,,0,0,0,,Você sabia que ele é filho do Vinsmoke?!
 Dialogue: 0,0:06:01.34,0:06:03.50,Main,,0,0,0,,Se você encostar um dedo nele,
-Dialogue: 0,0:06:03.50,0:06:09.09,Main,,0,0,0,,a cabeça do seu Pai vai rolar!\NVocê não consegue?\N!\NHuh?\N!
-Dialogue: 0,0:06:11.93,0:06:15.64,Main,,0,0,0,,Você quer que eu corte sua cabeça primeiro, seu idiota?\N!
+Dialogue: 0,0:06:03.50,0:06:09.09,Main,,0,0,0,,a cabeça do seu Pai vai rolar!\NVocê não consegue?!\NHuh?!
+Dialogue: 0,0:06:11.93,0:06:15.64,Main,,0,0,0,,Você quer que eu corte sua cabeça primeiro, seu idiota?!
 Dialogue: 0,0:06:15.64,0:06:19.98,Main,,0,0,0,,Ai! Desculpe! Senhora! Desculpe!
 Dialogue: 0,0:06:19.98,0:06:21.90,Main,,0,0,0,,Ei, você...
 Dialogue: 0,0:06:22.69,0:06:23.94,Main,,0,0,0,,Ai, ai, ai!
 Dialogue: 0,0:06:23.94,0:06:26.65,Main,,0,0,0,,Desculpe! Senhora! Desculpe!
 Dialogue: 0,0:06:26.65,0:06:29.20,Main,,0,0,0,,Não há comida para você hoje como punição!
 Dialogue: 0,0:06:29.20,0:06:31.82,Main,,0,0,0,,Não, por favor, senhora!
-Dialogue: 0,0:06:34.88,0:06:40.42,Main,,0,0,0,,Desculpe incomodá-lo.\NDeixe-me ouvir sobre Germa outra hora.\N.\N.
+Dialogue: 0,0:06:34.88,0:06:40.42,Main,,0,0,0,,Desculpe incomodá-lo.\NDeixe-me ouvir sobre Germa outra hora...
 Dialogue: 0,0:06:40.42,0:06:41.88,Main,,0,0,0,,Não.
 Dialogue: 0,0:06:51.01,0:06:52.47,Main,,0,0,0,,Bem...
 Dialogue: 0,0:06:55.75,0:06:58.31,Main,,0,0,0,,Ela se parece com ela...
 Dialogue: 0,0:07:07.19,0:07:12.20,Captions,,0,0,0,,{\fad(500,500)}Alguns dias depois
-Dialogue: 0,0:07:08.74,0:07:13.20,Main,,0,0,0,,{\an8}Não aguento mais.\N.\N.\Nvou morrer.\N.\N.
+Dialogue: 0,0:07:08.74,0:07:13.20,Main,,0,0,0,,{\an8}Não aguento mais...\Nvou morrer...
 Dialogue: 0,0:07:12.32,0:07:17.04,Captions,,0,0,0,,{\pos(1033.334,454.333)}Nos Mil Sol
 Dialogue: 0,0:07:13.20,0:07:18.29,Main,,0,0,0,,Está quente... eu vou morrer...
 Dialogue: 0,0:07:18.90,0:07:22.71,Main,,0,0,0,,{\an8}(Eu vou secar...)
 Dialogue: 0,0:07:22.71,0:07:26.96,Main,,0,0,0,,{\an8}(Sanji, comida! Sorvete!)
-Dialogue: 0,0:07:32.29,0:07:36.60,Main,,0,0,0,,Não aguento o calor.\N.\N.\Nqueria poder tirar essa pele de pelo.\N.\N.
-Dialogue: 0,0:07:36.60,0:07:41.31,Main,,0,0,0,,Somos como você.\N.\N.\NNós, Minks, temos baixa tolerância ao calor.
-Dialogue: 0,0:07:41.31,0:07:45.83,Main,,0,0,0,,Está muito quente.\NEu vou me tornar uma múmia.\N.\N.
+Dialogue: 0,0:07:32.29,0:07:36.60,Main,,0,0,0,,Não aguento o calor...\Nqueria poder tirar essa pele de pelo...
+Dialogue: 0,0:07:36.60,0:07:41.31,Main,,0,0,0,,Somos como você...\NNós, Minks, temos baixa tolerância ao calor.
+Dialogue: 0,0:07:41.31,0:07:45.83,Main,,0,0,0,,Está muito quente.\NEu vou me tornar uma múmia...
 Dialogue: 0,0:07:45.83,0:07:47.80,Main,,0,0,0,,Uma múmia...
 Dialogue: 0,0:07:47.80,0:07:49.13,Main,,0,0,0,,Uma múmia?
-Dialogue: 0,0:07:49.69,0:07:52.86,Main,,0,0,0,,Uma múmia!\NNami-san, se eu me tornar uma múmia.\N.\N.
-Dialogue: 0,0:07:52.86,0:07:56.49,Main,,0,0,0,,– .\N.\N.\Nseria uma espécie de ressurreição para mim, não é?\N- Eu não ligo.
+Dialogue: 0,0:07:49.69,0:07:52.86,Main,,0,0,0,,Uma múmia!\NNami-san, se eu me tornar uma múmia...
+Dialogue: 0,0:07:52.86,0:07:56.49,Main,,0,0,0,,– ...\Nseria uma espécie de ressurreição para mim, não é?\N- Eu não ligo.
 Dialogue: 0,0:07:56.49,0:08:00.81,Main,,0,0,0,,Nesse caso, posso ver sua calcinha?
 Dialogue: 0,0:08:00.81,0:08:03.60,Main,,0,0,0,,Não tenho energia nem para bater em você.
 Dialogue: 0,0:08:03.60,0:08:07.80,Main,,0,0,0,,Nami, estou com tanta fome e está calor...
@@ -958,7 +958,7 @@ Dialogue: 0,0:08:49.62,0:08:51.40,Main,,0,0,0,,Alimentação de emergência...
 Dialogue: 0,0:08:51.40,0:08:53.38,Main,,0,0,0,,Não olhe para mim!
 Dialogue: 0,0:08:55.93,0:08:58.46,Main,,0,0,0,,Luffy! Você deu uma mordida!
 Dialogue: 0,0:09:05.06,0:09:07.56,Main,,0,0,0,,Tem um peixe! É enorme!
-Dialogue: 0,0:09:26.92,0:09:30.49,Main,,0,0,0,,– Levanta isso, Luffy!\N–Luffy-san, vá.\N.\N.
+Dialogue: 0,0:09:26.92,0:09:30.49,Main,,0,0,0,,– Levanta isso, Luffy!\N–Luffy-san, vá...
 Dialogue: 0,0:09:32.80,0:09:34.88,Main,,0,0,0,,Você consegue, Luffy!
 Dialogue: 0,0:09:34.88,0:09:36.72,Main,,0,0,0,,Comida...
 Dialogue: 0,0:09:47.60,0:09:50.69,Main,,0,0,0,,Comida!
@@ -969,7 +969,7 @@ Dialogue: 0,0:09:57.99,0:10:01.51,Main,,0,0,0,,Vamos comer!
 Dialogue: 0,0:10:07.29,0:10:08.71,Main,,0,0,0,,Eu consegui!
 Dialogue: 0,0:10:09.58,0:10:12.12,Main,,0,0,0,,Sua cor não parece certa.
 Dialogue: 0,0:10:12.60,0:10:14.17,Main,,0,0,0,,Posso comer?
-Dialogue: 0,0:10:14.17,0:10:16.48,Main,,0,0,0,,O que você está dizendo?\N!\NNão existe peixe não comestível!
+Dialogue: 0,0:10:14.17,0:10:16.48,Main,,0,0,0,,O que você está dizendo?!\NNão existe peixe não comestível!
 Dialogue: 0,0:10:16.48,0:10:19.52,Main,,0,0,0,,Luffy!\NEspere um segundo!\NVou verificar bem rápido!
 Dialogue: 0,0:10:19.52,0:10:21.14,Main,,0,0,0,,O que?
 Dialogue: 0,0:10:24.51,0:10:26.90,Main,,0,0,0,,Cadê a enciclopédia dos peixes?!
@@ -1032,7 +1032,7 @@ Dialogue: 0,0:14:14.41,0:14:15.85,Main,,0,0,0,,Legal! Legal!
 Dialogue: 0,0:14:19.18,0:14:20.25,Main,,0,0,0,,Doce...
 Dialogue: 0,0:14:28.05,0:14:30.25,Captions,,0,0,0,,{\fad(250,300)}Lesma do Mar Territorial
 Dialogue: 0,0:14:32.66,0:14:34.31,Main,,0,0,0,,Toca, toca, toca...
-Dialogue: 0,0:14:34.70,0:14:37.72,Main,,0,0,0,,– Toca, toca, toca.\N.\N.\NToca, toca, toca.\N.\N.\N– Ah?\NQuem é?
+Dialogue: 0,0:14:34.70,0:14:37.72,Main,,0,0,0,,– Toca, toca, toca...\NToca, toca, toca...\N– Ah?\NQuem é?
 Dialogue: 0,0:14:37.72,0:14:41.77,Main,,0,0,0,,Seu caracol transponder está recebendo sinais de alerta.
 Dialogue: 0,0:14:41.77,0:14:47.61,Main,,0,0,0,,Isso significa que estamos no território da Big Mom, com certeza.
 Dialogue: 0,0:14:47.61,0:14:49.07,Main,,0,0,0,,Algodão doce!
@@ -1043,13 +1043,13 @@ Dialogue: 0,0:15:02.08,0:15:04.25,Main,,0,0,0,,Eu vejo algo, Pekoms!
 Dialogue: 0,0:15:06.84,0:15:10.01,Main,,0,0,0,,É um navio! Um navio está vindo em nossa direção!
 Dialogue: 0,0:15:10.01,0:15:14.05,Main,,0,0,0,,O que?! Eles já estão aqui?!
 Dialogue: 0,0:15:15.06,0:15:15.94,Main,,0,0,0,,O que você quer dizer?!
-Dialogue: 0,0:15:15.94,0:15:20.14,Main,,0,0,0,,– Provavelmente é uma TARTE, uma de nossas naves de reconhecimento.\N- O que?\N!
+Dialogue: 0,0:15:15.94,0:15:20.14,Main,,0,0,0,,– Provavelmente é uma TARTE, uma de nossas naves de reconhecimento.\N- O que?!
 Dialogue: 0,0:15:21.00,0:15:24.73,Main,,0,0,0,,– Não consigo ver claramente por causa da neblina.\N– O que devemos fazer?
 Dialogue: 0,0:15:24.73,0:15:28.86,Main,,0,0,0,,– Eu vou cuidar disso de alguma forma, então todos vocês, vão se esconder!\N- Entendi!
-Dialogue: 0,0:15:28.86,0:15:32.82,Main,,0,0,0,,- Oh não!\NLuffy está parecendo muito doente!\N- O que?\N!
+Dialogue: 0,0:15:28.86,0:15:32.82,Main,,0,0,0,,- Oh não!\NLuffy está parecendo muito doente!\N- O que?!
 Dialogue: 0,0:15:32.82,0:15:34.80,Main,,0,0,0,,O veneno deve ter se espalhado ainda mais pelo organismo dele!
 Dialogue: 0,0:15:34.80,0:15:38.45,Main,,0,0,0,,É perigoso! Temos que tratá-lo o mais rápido possível!
-Dialogue: 0,0:15:38.45,0:15:41.16,Main,,0,0,0,,Eles não têm um antídoto para aquela nave de reconhecimento?\N!
+Dialogue: 0,0:15:38.45,0:15:41.16,Main,,0,0,0,,Eles não têm um antídoto para aquela nave de reconhecimento?!
 Dialogue: 0,0:15:41.16,0:15:45.17,Main,,0,0,0,,– Vou pedir para você!\NApresse-se e esconda-se!\N- OK!
 Dialogue: 0,0:15:45.88,0:15:48.04,Main,,0,0,0,,Chopper-san, apresse-se!
 Dialogue: 0,0:16:00.23,0:16:01.14,Main,,0,0,0,,O que?!
@@ -1060,7 +1060,7 @@ Dialogue: 0,0:16:54.24,0:16:56.20,Main,,0,0,0,,Existe um número.
 Dialogue: 0,0:16:57.34,0:16:59.28,Main,,0,0,0,,Sessenta e seis?
 Dialogue: 0,0:17:02.98,0:17:07.54,Main,,0,0,0,,Esta é a Germa.\NEsse é o navio dos Chapéus de Palha?
 Dialogue: 0,0:17:07.54,0:17:09.96,Main,,0,0,0,,Essa é a nave da Germa 66!
-Dialogue: 0,0:17:12.22,0:17:17.72,Main,,0,0,0,,Germa 66.\N.\N.\N​​A organização liderada pelo pai de Sanji-kun.\N.\N.
+Dialogue: 0,0:17:12.22,0:17:17.72,Main,,0,0,0,,Germa 66...\N​​A organização liderada pelo pai de Sanji-kun...
 Dialogue: 0,0:17:18.27,0:17:22.18,Main,,0,0,0,,Por que vocês estão aqui, Chapéus de Palha?!
 Dialogue: 0,0:17:24.43,0:17:28.35,Main,,0,0,0,,Nós vamos colidir!\NPessoal, fechem a vela!
 Dialogue: 0,0:17:30.98,0:17:33.28,Main,,0,0,0,,Luffy, eu já volto.
@@ -1083,12 +1083,12 @@ Dialogue: 0,0:19:00.11,0:19:02.70,Main,,0,0,0,,{\an8}Meu nome é Yonji!
 Dialogue: 0,0:19:01.95,0:19:06.49,Captions,,0,0,0,,{\pos(644,457)}Vinsmoke Yonji Germa 66 (Guincho Verde)
 Dialogue: 0,0:19:06.49,0:19:08.33,Main,,0,0,0,,Yonji?!
 Dialogue: 0,0:19:08.33,0:19:10.16,Main,,0,0,0,,Não "San(três)-ji", mas "Yon(quatro)-ji"?!
-Dialogue: 0,0:19:10.16,0:19:13.34,Main,,0,0,0,,Ele se parece com ele e tem sobrancelhas curvas, mas não é ele?\N!
+Dialogue: 0,0:19:10.16,0:19:13.34,Main,,0,0,0,,Ele se parece com ele e tem sobrancelhas curvas, mas não é ele?!
 Dialogue: 0,0:19:13.34,0:19:18.62,Main,,0,0,0,,Meu relacionamento com seu amigo Sanji é um segredo entre segredos.
 Dialogue: 0,0:19:18.62,0:19:22.09,Main,,0,0,0,,É absolutamente confidencial!
 Dialogue: 0,0:19:22.09,0:19:24.76,Main,,0,0,0,,Ele é definitivamente seu irmão mais novo...
 Dialogue: 0,0:19:26.64,0:19:28.36,Main,,0,0,0,,Então ele também tinha um irmão mais novo...
-Dialogue: 0,0:19:28.36,0:19:31.23,Main,,0,0,0,,O que?\N!\NComo você pode saber que esse é o irmão mais novo dele?\N!
+Dialogue: 0,0:19:28.36,0:19:31.23,Main,,0,0,0,,O que?!\NComo você pode saber que esse é o irmão mais novo dele?!
 Dialogue: 0,0:19:33.40,0:19:36.11,Main,,0,0,0,,Linda!! Lindo, tão fofo...
 Dialogue: 0,0:19:36.11,0:19:38.78,Main,,0,0,0,,Você realmente não é Sanji?!
 Dialogue: 0,0:19:39.10,0:19:40.45,Main,,0,0,0,,Yonji-sama.
@@ -1100,7 +1100,7 @@ Dialogue: 0,0:19:55.88,0:19:57.17,Main,,0,0,0,,Eu sou Yonji!
 Dialogue: 0,0:19:59.05,0:20:00.80,Main,,0,0,0,,Ah, Luffy...
 Dialogue: 0,0:20:03.42,0:20:05.72,Main,,0,0,0,,Uma erupção cutânea está surgindo em todo o seu corpo!
 Dialogue: 0,0:20:05.72,0:20:08.18,Main,,0,0,0,,Ele está perdendo a resistência!
-Dialogue: 0,0:20:08.64,0:20:13.65,Main,,0,0,0,,Este veneno é tão grave!\NLuffy pode ter anticorpos fortes, mas é.\N.\N.
+Dialogue: 0,0:20:08.64,0:20:13.65,Main,,0,0,0,,Este veneno é tão grave!\NLuffy pode ter anticorpos fortes, mas é...
 Dialogue: 0,0:20:17.77,0:20:19.78,Main,,0,0,0,,Luffy, fique conosco!
 Dialogue: 0,0:20:20.44,0:20:25.45,Main,,0,0,0,,Ei, é só veneno de peixe!\NAchei que você seria o Rei dos Piratas!
 Dialogue: 0,0:20:25.45,0:20:27.49,Main,,0,0,0,,Luffy! Não morra!
@@ -1136,7 +1136,7 @@ Dialogue: 0,0:22:59.52,0:23:01.35,Main,,0,0,0,,Suas sobrancelhas também estão 
 Dialogue: 0,0:23:01.35,0:23:04.23,Main,,0,0,0,,Ela é linda!
 Dialogue: 0,0:23:07.50,0:23:08.90,Main,,0,0,0,,Reiju!
 Dialogue: 0,0:23:08.90,0:23:09.90,Main,,0,0,0,,Ele está voando?!
-Dialogue: 0,0:23:09.90,0:23:13.53,Main,,0,0,0,,Seu idiota!\NComo você pôde me humilhar?\N!
+Dialogue: 0,0:23:09.90,0:23:13.53,Main,,0,0,0,,Seu idiota!\NComo você pôde me humilhar?!
 Dialogue: 0,0:23:13.53,0:23:15.91,Main,,0,0,0,,Cale-se!\NVocê deveria ter vergonha de si mesmo!
 Dialogue: 0,0:23:18.20,0:23:21.25,Main,,0,0,0,,O que? Ele está pairando no ar?
 Dialogue: 0,0:23:21.25,0:23:22.88,Main,,0,0,0,,É ciência!
@@ -1145,11 +1145,11 @@ Dialogue: 0,0:23:24.14,0:23:30.30,Main,,0,0,0,,Germa 66 é um grupo de lutadores
 Dialogue: 0,0:23:30.30,0:23:33.26,Main,,0,0,0,,Eles são um esquadrão de combate científico, por assim dizer.
 Dialogue: 0,0:23:35.56,0:23:37.39,Main,,0,0,0,,E mamãe é...
 Dialogue: 0,0:23:39.64,0:23:42.69,Main,,0,0,0,,... procurando obter essa tecnologia!
-Dialogue: 0,0:23:44.78,0:23:49.28,Main,,0,0,0,,Pekoms-san, se estou certo, Vinsmoke era.\N.\N.
+Dialogue: 0,0:23:44.78,0:23:49.28,Main,,0,0,0,,Pekoms-san, se estou certo, Vinsmoke era...
 Dialogue: 0,0:23:49.28,0:23:52.49,Main,,0,0,0,,...o nome de uma família real, não é?
 Dialogue: 0,0:23:54.74,0:23:58.31,Main,,0,0,0,,Se bem me lembro, era uma família que
 Dialogue: 0,0:23:58.31,0:24:02.12,Main,,0,0,0,,conquistou o North Blue pela força das armas há muito tempo!
-Dialogue: 0,0:24:02.62,0:24:07.09,Main,,0,0,0,,Por “família real”, você quer dizer Vivi e Netuno?\N!
+Dialogue: 0,0:24:02.62,0:24:07.09,Main,,0,0,0,,Por “família real”, você quer dizer Vivi e Netuno?!
 Dialogue: 0,0:24:07.09,0:24:09.80,Main,,0,0,0,,O que? Eles são uma família tão proeminente?
 Dialogue: 0,0:24:09.80,0:24:14.31,Main,,0,0,0,,Isso mesmo.\NEles eram sinônimos de “mal” em uma época passada.
 Dialogue: 0,0:24:14.31,0:24:17.93,Main,,0,0,0,,Por isso foram usados ​​como modelos para histórias em quadrinhos.
@@ -1167,16 +1167,16 @@ Dialogue: 0,0:25:04.48,0:25:09.48,Main,,0,0,0,,Parece que ele comeu um Peixe de 
 Dialogue: 0,0:25:09.48,0:25:11.86,Main,,0,0,0,,O que? Como você sabia?
 Dialogue: 0,0:25:11.86,0:25:14.65,Main,,0,0,0,,A forma como esse veneno funciona é única.
 Dialogue: 0,0:25:16.50,0:25:20.24,Main,,0,0,0,,Ele deve ser ganancioso.\NPoderia até matar um gigante instantaneamente.
-Dialogue: 0,0:25:20.24,0:25:24.79,Main,,0,0,0,,O que?\N!\NOh não!\NEntão, não há como salvar Luffy.\N.\N.
+Dialogue: 0,0:25:20.24,0:25:24.79,Main,,0,0,0,,O que?!\NOh não!\NEntão, não há como salvar Luffy...
 Dialogue: 0,0:25:26.79,0:25:30.14,Main,,0,0,0,,Eu não deveria mais ser médico de navio!
 Dialogue: 0,0:25:31.46,0:25:34.47,Main,,0,0,0,,Mas esse menino tem sorte.
 Dialogue: 0,0:25:34.47,0:25:37.12,Main,,0,0,0,,Porque esse veneno é...
 Dialogue: 0,0:25:37.92,0:25:40.68,Main,,0,0,0,,... uma das minhas coisas favoritas!
 Dialogue: 0,0:25:43.64,0:25:45.64,Main,,0,0,0,,O que você vai fazer?
 Dialogue: 0,0:25:46.59,0:25:48.35,Main,,0,0,0,,Vamos lá!
-Dialogue: 0,0:25:57.03,0:26:03.20,Main,,0,0,0,,O que?\N!\NEi, ei, ei!\NSe você sugar veneno assim, você vai morrer!
+Dialogue: 0,0:25:57.03,0:26:03.20,Main,,0,0,0,,O que?!\NEi, ei, ei!\NSe você sugar veneno assim, você vai morrer!
 Dialogue: 0,0:26:03.20,0:26:06.62,Main,,0,0,0,,Oh! Estou com inveja! Beijo!
-Dialogue: 0,0:26:06.62,0:26:10.84,Main,,0,0,0,,Eu gostaria de poder trocar de lugar com ele!\NMesmo que meus lábios.\N.\N.
+Dialogue: 0,0:26:06.62,0:26:10.84,Main,,0,0,0,,Eu gostaria de poder trocar de lugar com ele!\NMesmo que meus lábios...
 Dialogue: 0,0:26:10.84,0:26:15.88,Main,,0,0,0,,... se foram!
 Dialogue: 0,0:26:30.40,0:26:33.27,Main,,0,0,0,,A erupção está sendo transferida para o corpo dela!
 Dialogue: 0,0:26:33.27,0:26:34.32,Main,,0,0,0,,O que?!
@@ -1189,12 +1189,12 @@ Dialogue: 0,0:27:26.84,0:27:28.25,Main,,0,0,0,,Estava uma delícia!
 Dialogue: 0,0:27:41.02,0:27:42.84,Main,,0,0,0,,O que?! O que aconteceu?!
 Dialogue: 0,0:27:42.84,0:27:43.90,Main,,0,0,0,,Luffy!
 Dialogue: 0,0:27:43.90,0:27:46.88,Main,,0,0,0,,Luffy!
-Dialogue: 0,0:27:47.52,0:27:50.64,Main,,0,0,0,,– Estou tão aliviado!\N– Você está bem?\N!
+Dialogue: 0,0:27:47.52,0:27:50.64,Main,,0,0,0,,– Estou tão aliviado!\N– Você está bem?!
 Dialogue: 0,0:27:50.64,0:27:52.98,Main,,0,0,0,,Que alívio!
 Dialogue: 0,0:27:52.98,0:27:55.36,Main,,0,0,0,,Luffy!
 Dialogue: 0,0:27:55.36,0:27:59.44,Main,,0,0,0,,Oh? Adormeci enquanto comia peixe?
 Dialogue: 0,0:27:59.44,0:28:02.36,Main,,0,0,0,,A pele ficou tão boa! Sobrou algum?
-Dialogue: 0,0:28:02.36,0:28:06.08,Main,,0,0,0,,- Não!\NVocê não lembra?\N!\N- Não.
+Dialogue: 0,0:28:02.36,0:28:06.08,Main,,0,0,0,,- Não!\NVocê não lembra?!\N- Não.
 Dialogue: 0,0:28:08.49,0:28:09.66,Main,,0,0,0,,Sanji!
 Dialogue: 0,0:28:09.66,0:28:11.21,Main,,0,0,0,,Ela é uma mulher!
 Dialogue: 0,0:28:11.21,0:28:13.29,Main,,0,0,0,,Ah, certo. Quem é esse?
@@ -1210,10 +1210,10 @@ Dialogue: 0,0:28:44.25,0:28:48.47,Main,,0,0,0,,Quando o pôster de procurado de 
 Dialogue: 0,0:28:48.47,0:28:52.29,Main,,0,0,0,,nosso pai imediatamente pediu ao QG da Marinha que o perseguisse.
 Dialogue: 0,0:28:54.08,0:28:59.00,Main,,0,0,0,,Mas eles encontraram o homem errado – alguém chamado Duval.
 Dialogue: 0,0:28:59.00,0:29:00.50,Main,,0,0,0,,Duval!
-Dialogue: 0,0:29:04.10,0:29:08.14,Main,,0,0,0,,Ele é o cara dos Flying Fish Riders que conhecemos antes de Sabaody.\N.\N.
+Dialogue: 0,0:29:04.10,0:29:08.14,Main,,0,0,0,,Ele é o cara dos Flying Fish Riders que conhecemos antes de Sabaody...
 Dialogue: 0,0:29:08.72,0:29:13.18,Main,,0,0,0,,Ah, eu me lembro!\NSanji-san também ficou bravo com isso.
-Dialogue: 0,0:29:13.81,0:29:18.92,Main,,0,0,0,,Só recentemente é que o Governo nos telefonou a dizer.\N.\N.
-Dialogue: 0,0:29:18.92,0:29:22.70,Main,,0,0,0,,.\N.\N.\Nque eles finalmente capturaram uma imagem de Black Leg Sanji em meio ao caos
+Dialogue: 0,0:29:13.81,0:29:18.92,Main,,0,0,0,,Só recentemente é que o Governo nos telefonou a dizer...
+Dialogue: 0,0:29:18.92,0:29:22.70,Main,,0,0,0,,...\Nque eles finalmente capturaram uma imagem de Black Leg Sanji em meio ao caos
 Dialogue: 0,0:29:22.70,0:29:25.24,Main,,0,0,0,,evocado pelo retorno dos Chapéus de Palha.
 Dialogue: 0,0:29:25.95,0:29:29.58,Main,,0,0,0,,Nosso pai levantou a recompensa imediatamente
 Dialogue: 0,0:29:29.58,0:29:33.07,Main,,0,0,0,,e os fez mudar "DEAD OR ALIVE"...
@@ -1234,7 +1234,7 @@ Dialogue: 0,0:31:08.56,0:31:11.05,Main,,0,0,0,,Vou levar Sanji de volta a qualqu
 Dialogue: 0,0:31:16.52,0:31:19.89,Main,,0,0,0,,Ver? Ela salvou a vida do nosso inimigo.
 Dialogue: 0,0:31:22.06,0:31:25.94,Main,,0,0,0,,Ei, você!\NVocê é o Pekoms dos Big Mom Pirates, certo?
 Dialogue: 0,0:31:26.86,0:31:30.03,Main,,0,0,0,,Por que você está com os Chapéus de Palha?
-Dialogue: 0,0:31:31.45,0:31:38.20,Main,,0,0,0,,Eu tenho meu próprio motivo!\NPor que eu tenho que explicar isso para vocês?\N!\NGrr!
+Dialogue: 0,0:31:31.45,0:31:38.20,Main,,0,0,0,,Eu tenho meu próprio motivo!\NPor que eu tenho que explicar isso para vocês?!\NGrr!
 Dialogue: 0,0:31:39.41,0:31:45.00,Main,,0,0,0,,Ainda não há vínculo entre nós!
 Dialogue: 0,0:31:45.00,0:31:46.59,Main,,0,0,0,,Você tem razão!
 Dialogue: 0,0:31:52.60,0:31:56.58,Main,,0,0,0,,Vou fingir que não vi nada por enquanto.

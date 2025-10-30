@@ -146,12 +146,12 @@ Comment: 0,0:01:08.85,0:01:11.64,Translation,,0,0,0,karaoke,Even failure is stra
 Dialogue: 0,0:01:39.28,0:01:41.28,Main,,0,0,0,,
 Dialogue: 0,0:01:41.28,0:01:46.26,Main,,0,0,0,,Doces, doces... sluggie-gie!
 Dialogue: 0,0:01:43.32,0:01:46.26,Title,,0,0,250,,{\fad(500,0)}Sala Onda
-Dialogue: 0,0:02:04.71,0:02:09.14,Main,,0,0,0,,{\i1}O que você quer dizer com você acabou?\N!\NO que está acontecendo aí?\N!
+Dialogue: 0,0:02:04.71,0:02:09.14,Main,,0,0,0,,{\i1}O que você quer dizer com você acabou?!\NO que está acontecendo aí?!
 Dialogue: 0,0:02:09.14,0:02:11.07,Main,,0,0,0,,{\i1}Ei pessoal!
 Dialogue: 0,0:02:11.07,0:02:13.67,Main,,0,0,0,,Se formos pegos nessa onda, estaremos perdidos!
 Dialogue: 0,0:02:13.67,0:02:16.22,Main,,0,0,0,,Ah, certo! Temos o Golpe de Estouro!
 Dialogue: 0,0:02:17.51,0:02:21.49,Main,,0,0,0,,Não podemos usá-lo!\NNão temos cola suficiente!
-Dialogue: 0,0:02:21.49,0:02:25.60,Main,,0,0,0,,Pedro, me desculpe!\NVocê se sacrificou para nos salvar, mas.\N.\N.
+Dialogue: 0,0:02:21.49,0:02:25.60,Main,,0,0,0,,Pedro, me desculpe!\NVocê se sacrificou para nos salvar, mas...
 Dialogue: 0,0:02:42.39,0:02:44.88,Main,,0,0,0,,Todos, ouçam!
 Dialogue: 0,0:02:46.10,0:02:49.85,Main,,0,0,0,,Meu bolo!
 Dialogue: 0,0:02:55.28,0:02:57.52,Main,,0,0,0,,Espere! Espere, espere!
@@ -199,7 +199,7 @@ Dialogue: 0,0:06:26.50,0:06:29.65,Main,,0,0,0,,Nunca vi um timoneiro assim antes
 Dialogue: 0,0:06:29.65,0:06:32.97,Main,,0,0,0,,Você é incrível, Jinbei!
 Dialogue: 0,0:06:32.97,0:06:35.93,Main,,0,0,0,,Então não vamos morrer?!
 Dialogue: 0,0:06:45.33,0:06:50.13,Main,,0,0,0,,Casamento...
-Dialogue: 0,0:06:53.46,0:06:58.02,Main,,0,0,0,,Ah, bem.\N.\N.\NIsso é bem feito para vocês, fracos!
+Dialogue: 0,0:06:53.46,0:06:58.02,Main,,0,0,0,,Ah, bem...\NIsso é bem feito para vocês, fracos!
 Dialogue: 0,0:06:58.02,0:07:00.04,Main,,0,0,0,,{\i1}Lamber!
 Dialogue: 0,0:07:02.00,0:07:03.80,Main,,0,0,0,,{\i1}Este é Peróspero.
 Dialogue: 0,0:07:03.80,0:07:05.30,Main,,0,0,0,,{\i1}Olá, Katakuri.
@@ -246,7 +246,7 @@ Dialogue: 0,0:09:50.24,0:09:53.70,Main,,0,0,0,,{\i1}Tenho uma coisa para te cont
 Dialogue: 0,0:09:53.70,0:09:54.40,Main,,0,0,0,,OK!
 Dialogue: 0,0:09:56.34,0:09:58.81,Main,,0,0,0,,Vocês estão bem?!
 Dialogue: 0,0:09:59.20,0:10:02.17,Main,,0,0,0,,Ei! O Chapéu de Palha está fugindo!
-Dialogue: 0,0:10:07.52,0:10:11.74,Main,,0,0,0,,O que aconteceu?\N!\NO doceiro disse que o Sunny afundou!
+Dialogue: 0,0:10:07.52,0:10:11.74,Main,,0,0,0,,O que aconteceu?!\NO doceiro disse que o Sunny afundou!
 Dialogue: 0,0:10:11.74,0:10:16.53,Main,,0,0,0,,{\i1}Pensávamos que íamos afundar também!\NMas Jinbei fez algo incrível!
 Dialogue: 0,0:10:21.83,0:10:23.97,Main,,0,0,0,,{\i1}Estamos todos bem, Luffy!
 Dialogue: 0,0:10:24.76,0:10:28.22,Main,,0,0,0,,{\i1}Luffy-san!\NQuebramos todos os espelhos do navio!
@@ -277,7 +277,7 @@ Dialogue: 0,0:13:35.62,0:13:37.21,Main,,0,0,0,,{\i1}Luffy?
 Dialogue: 0,0:13:37.21,0:13:39.39,Main,,0,0,0,,{\i1}Você está bem, certo, Luffy-san?!
 Dialogue: 0,0:13:39.78,0:13:42.62,Main,,0,0,0,,Qual é o problema, Luffy?!
 Dialogue: 0,0:14:24.81,0:14:26.98,Main,,0,0,0,,{\i1}Apresse-se e chegue lá, pessoal!
-Dialogue: 0,0:14:28.12,0:14:31.87,Main,,0,0,0,,{\i1}Provavelmente estarei lá em breve.\N.\N.\Ne estarei cansado de esperar!
+Dialogue: 0,0:14:28.12,0:14:31.87,Main,,0,0,0,,{\i1}Provavelmente estarei lá em breve...\Ne estarei cansado de esperar!
 Dialogue: 0,0:14:33.72,0:14:35.54,Main,,0,0,0,,Sim!
 Dialogue: 0,0:14:35.54,0:14:37.87,Main,,0,0,0,,{\i1}Até mais, pessoal!
 Dialogue: 0,0:14:37.87,0:14:39.69,Main,,0,0,0,,Sim!
@@ -318,7 +318,7 @@ Dialogue: 0,0:18:01.18,0:18:02.47,Main,,0,0,0,,Ai...
 Dialogue: 0,0:18:07.00,0:18:08.73,Main,,0,0,0,,Isso foi perto!
 Dialogue: 0,0:18:22.81,0:18:24.71,Main,,0,0,0,,Quase fui esmagado!
 Dialogue: 0,0:18:30.32,0:18:33.18,Main,,0,0,0,,O nome desta lança é Mole!
-Dialogue: 0,0:18:37.16,0:18:42.44,Main,,0,0,0,,Seus braços.\N.\N.\Nou suas pernas?\NQual parte do corpo você deseja remover primeiro?
+Dialogue: 0,0:18:37.16,0:18:42.44,Main,,0,0,0,,Seus braços...\Nou suas pernas?\NQual parte do corpo você deseja remover primeiro?
 Dialogue: 0,0:18:43.75,0:18:45.57,Main,,0,0,0,,Eu vou separá-los para você!
 Dialogue: 0,0:18:49.75,0:18:52.65,Main,,0,0,0,,Por favor, comece com a cabeça dele, Big Bro!
 Dialogue: 0,0:18:52.65,0:18:54.36,Main,,0,0,0,,Cale a boca, seu idiota!
@@ -422,7 +422,7 @@ Dialogue: 0,0:27:19.90,0:27:24.73,Main,,0,0,0,,{\i1}desde que os Chapéus de Pal
 Dialogue: 0,0:27:28.52,0:27:32.41,Main,,0,0,0,,Um governante arrogante terá o tapete puxado debaixo dele.
 Dialogue: 0,0:27:32.41,0:27:35.74,Main,,0,0,0,,Para evitar uma chance em um milhão de o nome da mamãe ficar manchado...
 Dialogue: 0,0:27:35.74,0:27:41.88,Main,,0,0,0,,{\i1}Uma frota poderosa deveria ser enviada para a fronteira do nosso território como linha final de defesa-amor!
-Dialogue: 0,0:27:48.67,0:27:53.11,Main,,0,0,0,,Toca, toca, toca.\N.\N.\Ntoca, toca, toca.\N.\N.\NClank.
+Dialogue: 0,0:27:48.67,0:27:53.11,Main,,0,0,0,,Toca, toca, toca...\Ntoca, toca, toca...\NClank.
 Dialogue: 0,0:27:55.11,0:27:56.30,Main,,0,0,0,,{\i1}Mont d'Or-sama.
 Dialogue: 0,0:27:56.30,0:27:57.06,Main,,0,0,0,,O que?
 Dialogue: 0,0:27:57.06,0:27:59.69,Main,,0,0,0,,{\i1}Há uma ligação de Custard-sama no Transponder Snail.
@@ -496,7 +496,7 @@ Dialogue: 0,0:32:18.94,0:32:21.51,Main,,0,0,0,,O que? Isso é mochi?!
 Dialogue: 0,0:32:21.51,0:32:24.98,Main,,0,0,0,,Isso é ruim! Se eu for esmagado por todo aquele mochi, serei enterrado vivo!
 Dialogue: 0,0:32:24.98,0:32:27.15,Main,,0,0,0,,Sim, você vai sufocar.
 Dialogue: 0,0:32:28.15,0:32:29.61,Main,,0,0,0,,É aqui que você morre!
-Dialogue: 0,0:32:47.56,0:32:53.40,Main,,0,0,0,,Lamento que a luta tenha que terminar assim.\N.\N.\Nmas isso me deixou um pouco irritado.
+Dialogue: 0,0:32:47.56,0:32:53.40,Main,,0,0,0,,Lamento que a luta tenha que terminar assim...\Nmas isso me deixou um pouco irritado.
 Dialogue: 0,0:32:53.40,0:32:56.03,Main,,0,0,0,,Porque você aguentou por muito mais tempo do que o esperado...
 Dialogue: 0,0:32:56.03,0:32:59.36,Main,,0,0,0,,Estou 40 minutos atrasado para a merienda de hoje.
 Dialogue: 0,0:32:56.03,0:32:59.36,Note,,0,0,0,,Merienda: Palavra espanhola para uma refeição leve.

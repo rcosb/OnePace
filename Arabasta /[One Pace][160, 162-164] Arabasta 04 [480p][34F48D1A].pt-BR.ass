@@ -80,7 +80,7 @@ Dialogue: 0,0:03:07.27,0:03:11.54,Main-480p,,0,0,0,,{gathering is...}Os agentes 
 Dialogue: 0,0:03:11.54,0:03:14.18,Main-480p,,0,0,0,,{..}hoje à noite às oito horas, no Café Spiders.
 Dialogue: 0,0:03:16.66,0:03:19.51,Main-480p,,0,0,0,,Sim. Muito bom.
 Dialogue: 0,0:03:19.51,0:03:22.51,Main-480p,,0,0,0,,Já passa das cinco horas.
-Dialogue: 0,0:03:22.51,0:03:26.47,Main-480p,,0,0,0,,{I assume they'll start gathering around now.\N.\N.\N}É provável que eles já tenham começado a se reunir.
+Dialogue: 0,0:03:22.51,0:03:26.47,Main-480p,,0,0,0,,{I assume they'll start gathering around now...\N}É provável que eles já tenham começado a se reunir.
 Dialogue: 0,0:03:44.33,0:03:47.43,Main-480p,,0,0,0,,Sim!\NSim!\NSim!\NSim!\NFeliz Natal!\NFeliz Natal!
 Dialogue: 0,0:03:47.43,0:03:50.67,Main-480p,,0,0,0,,Que viagem longa e cansativa!\NMinhas costas estão me matando!
 Dialogue: 1,0:03:50.66,0:03:55.17,Captions_v2-480p,,0,0,110,,{\blur0.5\fnChinacat\c&H000000&}Senhorita Feliz Natal
@@ -109,7 +109,7 @@ Dialogue: 0,0:04:42.43,0:04:44.57,Main-480p,,0,0,0,,{\i1}♪ Um, dois...
 Dialogue: 0,0:04:43.55,0:04:44.57,Secondary-480p,,0,0,0,,{\i1}...olá! ♪
 Dialogue: 0,0:04:44.57,0:04:46.26,Main-480p,,0,0,0,,{\i1}♪ Um, dois...
 Dialogue: 0,0:04:45.48,0:04:46.26,Secondary-480p,,0,0,0,,{\i1}... KROIS! ♪ ♪
-Dialogue: 0,0:04:46.26,0:04:51.93,Main-480p,,0,0,0,,{What the–?\NWhat kind of crazy songs does this place play now?\N}O que dá?\N!\NAs músicas deste lugar têm as letras mais estranhas!
+Dialogue: 0,0:04:46.26,0:04:51.93,Main-480p,,0,0,0,,{What the–?\NWhat kind of crazy songs does this place play now?\N}O que dá?!\NAs músicas deste lugar têm as letras mais estranhas!
 Dialogue: 0,0:04:51.93,0:04:56.70,Main-480p,,0,0,0,,{Song?\NNo, I have a sonata playing right now.\N}Letra da música?\NNão, há uma sonata tocando agora.
 Dialogue: 0,0:04:56.70,0:04:58.32,Main-480p,,0,0,0,,{There's no singing...}Não há palavras.
 Dialogue: 0,0:04:58.82,0:05:01.33,Main-480p,,0,0,0,,{\i1}♪ Um, dois...
@@ -117,7 +117,7 @@ Dialogue: 0,0:05:00.04,0:05:01.33,Secondary-480p,,0,0,0,,{\i1}...olá! ♪
 Dialogue: 0,0:05:01.33,0:05:02.51,Main-480p,,0,0,0,,Huh?
 Dialogue: 0,0:05:02.51,0:05:03.48,Main-480p,,0,0,0,,{\i1}♪ Um, dois...
 Dialogue: 0,0:05:03.48,0:05:04.50,Main-480p,,0,0,0,,{\i1}... KROIS! ♪ ♪
-Dialogue: 0,0:05:04.50,0:05:06.45,Main-480p,,0,0,0,,{Look at your fingertip with your nose}♪ Olhe do nariz até a ponta do dedo.\N.\N.\N♪
+Dialogue: 0,0:05:04.50,0:05:06.45,Main-480p,,0,0,0,,{Look at your fingertip with your nose}♪ Olhe do nariz até a ponta do dedo...\N♪
 Dialogue: 0,0:05:06.45,0:05:08.38,Main-480p,,0,0,0,,{\i1}♪ Um, dois...
 Dialogue: 0,0:05:07.40,0:05:08.38,Secondary-480p,,0,0,0,,{\i1}... KROIS! ♪ ♪
 Dialogue: 0,0:05:08.38,0:05:10.28,Main-480p,,0,0,0,,{Keep with your fingernails!}♪ Agora chute os dedos dos pés! ♪
@@ -169,7 +169,7 @@ Dialogue: 0,0:07:26.28,0:07:28.56,Main-480p,,0,0,0,,{if their younger brother is
 Dialogue: 0,0:07:28.98,0:07:32.59,Main-480p,,0,0,0,,{I know that he'll be a handful...}E tenho certeza que ele não faz nada além de estressar todos vocês.
 Dialogue: 0,0:07:32.59,0:07:34.18,Main-480p,,0,0,0,,{but please look after him.}Cuide dele para mim.
 Dialogue: 0,0:07:35.72,0:07:38.43,Main-480p,,0,0,0,,{Are you leaving already?}Huh? Você já está indo?
-Dialogue: 0,0:07:41.27,0:07:46.10,Main-480p,,0,0,0,,{DemonRin, Viz has something like "Next time we meet will be on the high seas.\N" and then later he says again "See you on the high seas, Luffy!\N!\N!\N"}Luffy, te vejo quando você chegar ao topo do mundo dos piratas!
+Dialogue: 0,0:07:41.27,0:07:46.10,Main-480p,,0,0,0,,{DemonRin, Viz has something like "Next time we meet will be on the high seas.\N" and then later he says again "See you on the high seas, Luffy!!!\N"}Luffy, te vejo quando você chegar ao topo do mundo dos piratas!
 Dialogue: 0,0:08:08.02,0:08:10.69,Main-480p,,0,0,0,,{Hey, Luffy...}Ei. Então, Luffy...
 Dialogue: 0,0:08:10.17,0:08:10.69,Secondary-480p,,0,0,0,,{Hey, Luffy...}Sim?
 Dialogue: 0,0:08:10.69,0:08:12.69,Main-480p,,0,0,0,,O que seu irmão lhe deu?
@@ -196,7 +196,7 @@ Dialogue: 0,0:09:06.82,0:09:09.73,Main-480p,,0,0,0,,{Your confidence isn't based
 Dialogue: 0,0:09:09.73,0:09:11.61,Main-480p,,0,0,0,,{So what?\NIt's right a lot!\N}Está tudo bem!\NEles estão certos muitas vezes!
 Dialogue: 0,0:09:11.61,0:09:14.61,Main-480p,,0,0,0,,Eu não sei sobre isso...
 Dialogue: 0,0:09:12.96,0:09:14.61,Secondary-480p,,0,0,0,,Alguém me carregue...
-Dialogue: 0,0:09:16.74,0:09:21.71,Main-480p,,0,0,0,,{Oh!\NThe night grows ever later!\N}Oh!\NA noite.\N.\N.\Ncresce cada vez mais tarde!
+Dialogue: 0,0:09:16.74,0:09:21.71,Main-480p,,0,0,0,,{Oh!\NThe night grows ever later!\N}Oh!\NA noite...\Ncresce cada vez mais tarde!
 Dialogue: 0,0:09:22.54,0:09:25.16,Main-480p,,0,0,0,,{It's almost the appointed time of 8:00!\N}E a hora marcada das oito horas se aproxima.
 Dialogue: 0,0:09:34.83,0:09:36.89,Main-480p,,0,0,0,,{Oh, I'm bored!}Tão chato!
 Dialogue: 0,0:09:39.34,0:09:41.85,Main-480p,,0,0,0,,{I spin around!}Estou tão entediado que vou girar!
@@ -205,8 +205,8 @@ Dialogue: 0,0:09:45.04,0:09:47.11,Main-480p,,0,0,0,,{You're an eyesore!}Pare com
 Dialogue: 0,0:09:47.11,0:09:50.61,Main-480p,,0,0,0,,{What's your problem, hag?! You wanna fight or something?!}E daí, seu velho?! Quer um pedaço de mim?!
 Dialogue: 0,0:09:50.61,0:09:52.19,Main-480p,,0,0,0,,{If that's what you want!}Achei que você nunca iria perguntar!
 Dialogue: 0,0:09:52.62,0:09:56.16,Main-480p,,0,0,0,,{Come, now!\NStop it, you two!\N}Vamos!\NVocês dois poderiam parar com isso?
-Dialogue: 0,0:10:07.72,0:10:10.21,Main-480p,,0,0,0,,E-Ei, agora!\NO que aconteceu com vocês?\N!
-Dialogue: 0,0:10:10.21,0:10:12.37,Main-480p,,0,0,0,,Por que você voltou aqui?\N!
+Dialogue: 0,0:10:07.72,0:10:10.21,Main-480p,,0,0,0,,E-Ei, agora!\NO que aconteceu com vocês?!
+Dialogue: 0,0:10:10.21,0:10:12.37,Main-480p,,0,0,0,,Por que você voltou aqui?!
 Dialogue: 0,0:10:12.37,0:10:14.17,Main-480p,,0,0,0,,N-Não... Foi ele...
 Dialogue: 0,0:10:15.48,0:10:18.60,Main-480p,,0,0,0,,Oh. Eles são conhecidos seus?
 Dialogue: 0,0:10:20.98,0:10:24.26,Main-480p,,0,0,0,,{\an8}Eles estavam se comportando de maneira bastante estranha no deserto, sabe.
@@ -219,7 +219,7 @@ Dialogue: 0,0:10:40.72,0:10:43.32,Main-480p,,0,0,0,,{\fad(150,150)\i1}Um, dois, 
 Dialogue: 0,0:10:44.95,0:10:47.62,Main-480p,,0,0,0,,{\fad(150,150)\i1}Um, dois, olá!
 Dialogue: 0,0:10:51.45,0:10:53.20,Main-480p,,0,0,0,,{\fad(150,150)}Mudança ousada!
 Dialogue: 0,0:10:53.20,0:10:54.67,Main-480p,,0,0,0,,{\fad(150,150)\i1}UM! Dois!
-Dialogue: 0,0:11:02.46,0:11:06.01,Main-480p,,0,0,0,,{What the– ?\N!\NHe slipped through the wall?\N!\N}Como diabos.\N.\N.\N?\N!\NA parede desabou para ele!
+Dialogue: 0,0:11:02.46,0:11:06.01,Main-480p,,0,0,0,,{What the– ?!\NHe slipped through the wall?!\N}Como diabos...?!\NA parede desabou para ele!
 Dialogue: 0,0:11:06.01,0:11:08.18,Main-480p,,0,0,0,,{\i1}Não! Ele quebrou a parede?!
 Dialogue: 0,0:11:10.83,0:11:12.77,Main-480p,,0,0,0,,{want to die.}Parece que você tem um desejo de morte.
 Dialogue: 0,0:11:13.94,0:11:17.10,Main-480p,,0,0,0,,Espere! Já chega, Sr. 1!
@@ -229,11 +229,11 @@ Dialogue: 0,0:11:25.67,0:11:28.02,Main-480p,,0,0,0,,{Cool your anger as well!}Se
 Dialogue: 0,0:11:28.55,0:11:33.79,Main-480p,,0,0,0,,{8:00}Agora são oito.\NTodos os agentes convidados estão aqui.
 Dialogue: 0,0:11:34.42,0:11:39.05,Main-480p,,0,0,0,,E uma carta com pedidos chegou ao Café Spiders.
 Dialogue: 0,0:11:41.53,0:11:45.72,Main-480p,,0,0,0,,Devemos ir para Rainbase, a Cidade dos Sonhos.
-Dialogue: 0,0:11:45.72,0:11:51.06,Main-480p,,0,0,0,,{,}O homem que chamamos de chefe.\N.\N.\Ncujo rosto nunca vimos.\N.\N.
+Dialogue: 0,0:11:45.72,0:11:51.06,Main-480p,,0,0,0,,{,}O homem que chamamos de chefe...\Ncujo rosto nunca vimos...
 Dialogue: 0,0:11:56.08,0:11:57.87,Main-480p,,0,0,0,,{is waiting for us there.}Ele está lá esperando por nós.
 Dialogue: 0,0:12:05.47,0:12:09.87,Main-480p,,0,0,0,,{They should be on their way here to Rainbase now.\N}Neste momento, eles devem estar a caminho de Rainbase.
 Dialogue: 0,0:12:12.53,0:12:17.33,Main-480p,,0,0,0,,{I expect them to arrive sometime tonight.\N}Mandei Bunchi buscá-los.\NEspero que eles cheguem esta noite.
-Dialogue: 0,0:12:22.13,0:12:26.81,Main-480p,,0,0,0,,{To think that you were actually Miss Doublefinger.\N.\N.\N}Todo esse tempo.\N.\N.\NVocê nunca nos contou que era a Srta.\NDoublefinger.
+Dialogue: 0,0:12:22.13,0:12:26.81,Main-480p,,0,0,0,,{To think that you were actually Miss Doublefinger...\N}Todo esse tempo...\NVocê nunca nos contou que era a Srta.\NDoublefinger.
 Dialogue: 1,0:12:26.81,0:12:32.68,Captions_v2-480p,,0,0,110,,{\blur0.6\bord1.6\fnChinacat\c&H000000&}Senhorita Dedo Duplo
 Dialogue: 2,0:12:26.81,0:12:32.68,Captions_v2-480p,,0,0,110,,{\blur0.6\bord0\fnChinacat\4a&HFF&}Senhorita Dedo Duplo
 Dialogue: 0,0:12:28.67,0:12:32.68,Main-480p,,0,0,0,,{\q2}Não me lembro de alguma vez ter dito que não era.
@@ -242,7 +242,7 @@ Dialogue: 0,0:12:38.35,0:12:40.54,Main-480p,,0,0,0,,{I've finished assigning the
 Dialogue: 0,0:12:41.48,0:12:47.37,Main-480p,,0,0,0,,{ to contact the new Billions.\N}Já despachei os corredores com babados.\NEles entrarão em contato com os novos bilhões.
 Dialogue: 0,0:12:53.67,0:12:57.46,Main-480p,,0,0,0,,{Everything is progressing smoothly.}Eu vejo. Ótimo trabalho, então.
 Dialogue: 0,0:13:01.92,0:13:04.85,Main-480p,,0,0,0,,Mais à frente! Eu vejo uma luz!
-Dialogue: 0,0:13:04.85,0:13:09.64,Main-480p,,0,0,0,,Chegamos em Yuba?\N!\NEu realmente não consigo ver com toda essa areia!
+Dialogue: 0,0:13:04.85,0:13:09.64,Main-480p,,0,0,0,,Chegamos em Yuba?!\NEu realmente não consigo ver com toda essa areia!
 Dialogue: 0,0:13:10.27,0:13:12.60,Main-480p,,0,0,0,,{What could that sound be?}Esse som... você ouve?
 Dialogue: 0,0:13:14.59,0:13:16.35,Main-480p,,0,0,0,,{The city doesn't look right!}Algo está errado aqui!
 Dialogue: 0,0:13:23.82,0:13:25.20,Main-480p,,0,0,0,,{Darude}Uma tempestade de areia!
@@ -256,7 +256,7 @@ Dialogue: 0,0:13:58.50,0:13:59.74,Main-480p,,0,0,0,,Onde está a água?!
 Dialogue: 0,0:14:00.46,0:14:03.32,Main-480p,,0,0,0,,{ city}Isso não era para ser um oásis, Vivi-chan?
 Dialogue: 0,0:14:03.32,0:14:08.95,Main-480p,,0,0,0,,A areia levantou o chão!\NO oásis foi engolido!
 Dialogue: 0,0:14:14.51,0:14:16.50,Main-480p,,0,0,0,,Vocês são viajantes?
-Dialogue: 0,0:14:17.49,0:14:21.79,Main-480p,,0,0,0,,{.\N.\N}Você deve estar exausto.\N.\N.\Nda sua jornada pelo deserto.
+Dialogue: 0,0:14:17.49,0:14:21.79,Main-480p,,0,0,0,,{..\N}Você deve estar exausto...\Nda sua jornada pelo deserto.
 Dialogue: 0,0:14:23.19,0:14:27.76,Main-480p,,0,0,0,,Desculpe. Esta cidade está um pouco seca.
 Dialogue: 0,0:14:28.98,0:14:32.14,Main-480p,,0,0,0,,Mas você está livre para descansar aqui se quiser.
 Dialogue: 0,0:14:34.85,0:14:42.24,Captions_v2-480p,,0,0,0,,{\blur0.5\fad(700,0)\pos(320,367.93)\fnChinacat\fscx86\fscy86\bord1.3\c&H000000&\1a&HFF&\t(655,700,\1a&H00&)}Um homem de Yuba, Toto
@@ -264,8 +264,8 @@ Dialogue: 1,0:14:34.85,0:14:42.24,Captions_v2-480p,,0,0,0,,{\blur0.5\fad(700,0)\
 Dialogue: 0,0:14:34.85,0:14:37.27,Main-480p,,0,0,0,,Há muitas pousadas aqui.
 Dialogue: 0,0:14:37.27,0:14:42.23,Main-480p,,0,0,0,,Afinal, eles são o orgulho desta cidade.
 Dialogue: 0,0:14:42.74,0:14:47.19,Main-480p,,0,0,0,,{Umm}Na verdade, viemos porque ouvimos dizer que o Exército Rebelde estava nesta cidade.
-Dialogue: 0,0:14:47.77,0:14:50.11,Main-480p,,0,0,0,,Que negócios você tem com o Exército Rebelde?\N!
-Dialogue: 0,0:14:50.11,0:14:55.79,Main-480p,,0,0,0,,{Curse you}Seus imbecis!\NNão me diga que você espera se juntar à Rebelião?\N!
+Dialogue: 0,0:14:47.77,0:14:50.11,Main-480p,,0,0,0,,Que negócios você tem com o Exército Rebelde?!
+Dialogue: 0,0:14:50.11,0:14:55.79,Main-480p,,0,0,0,,{Curse you}Seus imbecis!\NNão me diga que você espera se juntar à Rebelião?!
 Dialogue: 0,0:14:59.66,0:15:04.42,Main-480p,,0,0,0,,Se você está procurando aqueles idiotas, eles deixaram a cidade há muito tempo.
 Dialogue: 0,0:15:04.42,0:15:07.27,Main-480p,,0,0,0,,Eles o quê?!
 Dialogue: 0,0:15:07.27,0:15:08.92,Main-480p,,0,0,0,,Não!
@@ -278,9 +278,9 @@ Dialogue: 0,0:15:33.28,0:15:37.00,Main-480p,,0,0,0,,Sem o fluxo de suprimentos d
 Dialogue: 0,0:15:37.00,0:15:40.62,Main-480p,,0,0,0,,{not even}a luta prolongada da Rebelião não poderia durar muito mais tempo.
 Dialogue: 0,0:15:40.62,0:15:45.75,Main-480p,,0,0,0,,{the rebel army moved its}Então eles mudaram sua base para Katorea.
 Dialogue: 0,0:15:46.34,0:15:48.18,Main-480p,,0,0,0,,Votos?!
-Dialogue: 0,0:15:48.18,0:15:51.45,Main-480p,,0,0,0,,Onde é isso, Vivi?\N!\NKatorea está por perto?\N!
+Dialogue: 0,0:15:48.18,0:15:51.45,Main-480p,,0,0,0,,Onde é isso, Vivi?!\NKatorea está por perto?!
 Dialogue: 0,0:15:51.45,0:15:54.13,Main-480p,,0,0,0,,{It's}É um oásis próximo a Nanohana.
-Dialogue: 0,0:15:54.66,0:15:58.23,Main-480p,,0,0,0,,{Why did we come all this way, then?\N!\N}Então viemos até aqui por nada?\N!
+Dialogue: 0,0:15:54.66,0:15:58.23,Main-480p,,0,0,0,,{Why did we come all this way, then?!\N}Então viemos até aqui por nada?!
 Dialogue: 0,0:15:58.71,0:16:00.12,Main-480p,,0,0,0,,Vivi?
 Dialogue: 0,0:16:00.12,0:16:01.42,Main-480p,,0,0,0,,Você acabou de dizer "Vivi"?
 Dialogue: 0,0:16:01.42,0:16:05.40,Main-480p,,0,0,0,,Espere, velho! Vivi não é a princesa!
@@ -288,14 +288,14 @@ Dialogue: 0,0:16:04.06,0:16:05.40,Secondary-480p,,0,0,0,,{Don't tell him that, m
 Dialogue: 0,0:16:07.72,0:16:10.40,Main-480p,,0,0,0,,{\i1}Vivi-chan? É você?
 Dialogue: 0,0:16:11.71,0:16:15.87,Main-480p,,0,0,0,,Você está vivo! Graças a Deus!
 Dialogue: 0,0:16:15.87,0:16:19.38,Main-480p,,0,0,0,,Sou eu! Você não me reconhece?
-Dialogue: 0,0:16:19.94,0:16:23.95,Main-480p,,0,0,0,,Suponho que não posso culpar você.\NEu perdi um pouco de peso.\N.\N.
+Dialogue: 0,0:16:19.94,0:16:23.95,Main-480p,,0,0,0,,Suponho que não posso culpar você.\NEu perdi um pouco de peso...
 Dialogue: 0,0:16:24.60,0:16:26.22,Main-480p,,0,0,0,,{Toto-ojisan?}Tio... Totó?
 Dialogue: 0,0:16:29.42,0:16:31.63,Main-480p,,0,0,0,,Isso mesmo!
 Dialogue: 0,0:16:35.08,0:16:36.43,Main-480p,,0,0,0,,Não pode ser...
 Dialogue: 0,0:16:42.36,0:16:45.98,Flashbacks-480p,,0,0,0,,{Well}Adeus, Vivi-chan.\NIsso é um adeus por enquanto.
 Dialogue: 0,0:16:45.98,0:16:49.56,Flashbacks-480p,,0,0,0,,{Come visit sometime, once the city's taken shape!\N}Quando a cidade estiver funcionando, venha visitá-la algum dia.
 Dialogue: 0,0:16:49.56,0:16:51.57,Flashbacks-480p,,0,0,0,,{Okay, Toto-ojisan}Eu vou, tio Totó!
-Dialogue: 0,0:16:53.93,0:16:57.90,Flashbacks-480p,,0,0,0,,{Yuba will surely make this kingdom lusher.\N.\N.\N}Yuba aumentará a exuberância deste país.
+Dialogue: 0,0:16:53.93,0:16:57.90,Flashbacks-480p,,0,0,0,,{Yuba will surely make this kingdom lusher...\N}Yuba aumentará a exuberância deste país.
 Dialogue: 0,0:17:01.16,0:17:02.16,Flashbacks-480p,,0,0,0,,{I'm sure of it...}Eu sei isso.
 Dialogue: 0,0:17:12.02,0:17:14.29,Main-480p,,0,0,0,,{Toto-ojisan?}"Totó"? "Tio"?
 Dialogue: 0,0:17:14.29,0:17:20.14,Main-480p,,0,0,0,,{\i1}Vivi-chan. Tenho fé em Sua Majestade!
@@ -321,7 +321,7 @@ Dialogue: 1,0:19:12.55,0:19:16.34,Captions_v2-480p,,0,0,0,,{\pos(320,365)\fscx90
 Dialogue: 0,0:19:12.33,0:19:14.25,Main-480p,,0,0,0,,{spoiled}Perdoe meu filho precoce!
 Dialogue: 0,0:19:14.25,0:19:16.34,Main-480p,,0,0,0,,Assumo total responsabilidade!
 Dialogue: 0,0:19:16.86,0:19:21.30,Main-480p,,0,0,0,,{I'll accept any punishment}Castigue-me, não ele!\NEu farei melhor!\NPor favor, eu te imploro!
-Dialogue: 0,0:19:21.30,0:19:24.25,Main-480p,,0,0,0,,{!\N}Não posso acreditar que você é um idiota.\N.\N.\NQue idiota!
+Dialogue: 0,0:19:21.30,0:19:24.25,Main-480p,,0,0,0,,{!\N}Não posso acreditar que você é um idiota...\NQue idiota!
 Dialogue: 0,0:19:24.25,0:19:29.23,Main-480p,,0,0,0,,{You fool!\NYou fool!\NYou fool!\N}Que idiota!\NQue idiota!\NQue idiota!\NQue idiota!
 Dialogue: 0,0:19:29.23,0:19:32.44,Main-480p,,0,0,0,,{Toto, was it?}Seu nome é Totó, não é?
 Dialogue: 0,0:19:32.44,0:19:33.48,Main-480p,,0,0,0,,{Yes, }Pai!
@@ -375,7 +375,7 @@ Dialogue: 0,0:22:31.95,0:22:33.88,Main-480p,,0,0,0,,Não!
 Dialogue: 0,0:22:35.50,0:22:37.91,Main-480p,,0,0,0,,Olha, Igaram.
 Dialogue: 0,0:22:37.91,0:22:39.97,Main-480p,,0,0,0,,Vivi fez amigos.
 Dialogue: 0,0:22:40.80,0:22:41.87,Main-480p,,0,0,0,,Sim.
-Dialogue: 0,0:22:41.87,0:22:46.30,Main-480p,,0,0,0,,{That is the most important thing to have.\N.\N.\N}Se algum dia ela quiser carregar Alabasta nos ombros,
+Dialogue: 0,0:22:41.87,0:22:46.30,Main-480p,,0,0,0,,{That is the most important thing to have...\N}Se algum dia ela quiser carregar Alabasta nos ombros,
 Dialogue: 0,0:22:46.30,0:22:48.48,Main-480p,,0,0,0,,{if she's to carry Arabasta on her shoulders someday.}a amizade será de vital importância.
 Dialogue: 0,0:22:55.00,0:22:56.80,Main-480p,,0,0,0,,Ah!
 Dialogue: 0,0:22:57.30,0:23:00.15,Main-480p,,0,0,0,,{Toto-ojisan}Tio Totó! Tia! Bom dia!
@@ -391,17 +391,17 @@ Dialogue: 0,0:23:22.63,0:23:24.71,Main-480p,,0,0,0,,É uma prova de paz!
 Dialogue: 0,0:23:25.71,0:23:27.98,Main-480p,,0,0,0,,{you join us}Igaram-san.\NVocê também vai almoçar conosco?
 Dialogue: 0,0:23:27.98,0:23:30.67,Main-480p,,0,0,0,,Não, não, está tudo bem!\NEu trouxe bolinhos de arroz!
 Dialogue: 0,0:23:30.67,0:23:31.76,Main-480p,,0,0,0,,{Well, I must be going!}Perdoe-me!
-Dialogue: 0,0:23:40.93,0:23:43.61,Main-480p,,0,0,0,,Sua Majestade!\NO que você está fazendo aqui?\N!
+Dialogue: 0,0:23:40.93,0:23:43.61,Main-480p,,0,0,0,,Sua Majestade!\NO que você está fazendo aqui?!
 Dialogue: 0,0:23:44.40,0:23:46.06,Main-480p,,0,0,0,,Urgh! Pai!
 Dialogue: 0,0:23:47.70,0:23:50.11,Main-480p,,0,0,0,,Você está me seguindo de novo?!
-Dialogue: 0,0:23:50.11,0:23:55.07,Main-480p,,0,0,0,,{B-But I'm worried about Vivi-chan.\N.\N.\N}M-Mas eu simplesmente não posso deixar de me preocupar com a Vivi-chan!
+Dialogue: 0,0:23:50.11,0:23:55.07,Main-480p,,0,0,0,,{B-But I'm worried about Vivi-chan...\N}M-Mas eu simplesmente não posso deixar de me preocupar com a Vivi-chan!
 Dialogue: 0,0:23:56.62,0:23:59.96,Main-480p,,0,0,0,,{Go home}Volte para casa!\NVocê está criando trabalho extra para mim!
 Dialogue: 0,0:23:59.96,0:24:01.48,Main-480p,,0,0,0,,O que?!
 Dialogue: 0,0:24:01.48,0:24:03.50,Main-480p,,0,0,0,,Não me diga: "O quê?!"
 Dialogue: 0,0:24:17.90,0:24:20.04,Main-480p,,0,0,0,,Ei, garota!
 Dialogue: 0,0:24:20.04,0:24:22.84,Main-480p,,0,0,0,,{Headed out?\NWant us to come with ya?\N}Indo para algum lugar?\NNós levaremos você até lá.
 Dialogue: 0,0:24:25.99,0:24:27.92,Main-480p,,0,0,0,,Ataque, Clã Areia-Areia!
-Dialogue: 0,0:24:30.48,0:24:33.74,Main-480p,,0,0,0,,{What's with these guys?\N!\N}Você deve estar brincando!\NEssas crianças não vão cair!
+Dialogue: 0,0:24:30.48,0:24:33.74,Main-480p,,0,0,0,,{What's with these guys?!\N}Você deve estar brincando!\NEssas crianças não vão cair!
 Dialogue: 0,0:24:34.47,0:24:35.62,Main-480p,,0,0,0,,Líder! Todos!
 Dialogue: 0,0:24:35.62,0:24:39.28,Main-480p,,0,0,0,,Corre, Vivi!\NEsses caras estão atrás de você!
 Dialogue: 0,0:24:39.28,0:24:41.34,Main-480p,,0,0,0,,Vá em frente, Vivi!

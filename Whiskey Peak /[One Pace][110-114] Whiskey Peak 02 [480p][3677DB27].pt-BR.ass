@@ -39,7 +39,7 @@ Dialogue: 0,0:00:43.72,0:00:46.24,Credits,,0,60,40,,{\fad(150,200)\fs37}Cronomet
 Dialogue: 0,0:00:46.24,0:00:48.35,Credits,,0,60,40,,{\fad(150,200)\fs38}Dados gráficos
 Dialogue: 0,0:00:48.35,0:00:51.72,Credits,,0,60,40,,{\fad(150,700)\fs38}QC Feeso Galaxy9000 Sr.
 Dialogue: 0,0:00:13.10,0:00:14.63,Main,,0,0,0,,{\i1}Testamento herdado...
-Dialogue: 0,0:00:14.63,0:00:17.54,Main,,0,0,0,,{\i1}A maré dos tempos.\N.\N.\NOs sonhos das pessoas.\N.\N.
+Dialogue: 0,0:00:14.63,0:00:17.54,Main,,0,0,0,,{\i1}A maré dos tempos...\NOs sonhos das pessoas...
 Dialogue: 0,0:00:17.54,0:00:20.37,Main,,0,0,0,,{\i1}Estas coisas não podem ser interrompidas.
 Dialogue: 0,0:00:20.37,0:00:23.48,Main,,0,0,0,,{\i1}Enquanto as pessoas procurarem a resposta da liberdade,
 Dialogue: 0,0:00:23.48,0:00:26.11,Main,,0,0,0,,{\i1}essas coisas nunca deixarão de existir!
@@ -62,17 +62,17 @@ Dialogue: 0,0:02:02.64,0:02:05.08,Main,,0,0,0,,Huh? Por que estou lá fora?
 Dialogue: 0,0:02:05.08,0:02:08.07,Main,,0,0,0,,Ah bem. Estou com sono. Eu vou dormir.
 Dialogue: 0,0:02:10.15,0:02:16.16,Main,,0,0,0,,Nunca pensei que quatro agentes com números menores de 12 perderiam!
 Dialogue: 0,0:02:16.16,0:02:19.49,Main,,0,0,0,,Mas para onde você está planejando fugir?!
-Dialogue: 0,0:02:19.49,0:02:23.43,Main,,0,0,0,,De qualquer forma, vamos nos esconder em algum lugar até que eles saiam desta ilha e.\N.\N.
+Dialogue: 0,0:02:19.49,0:02:23.43,Main,,0,0,0,,De qualquer forma, vamos nos esconder em algum lugar até que eles saiam desta ilha e...
 Dialogue: 0,0:02:25.10,0:02:27.36,Main,,0,0,0,,Ahh! Os azarados!!
 Dialogue: 0,0:02:29.77,0:02:31.94,Main,,0,0,0,,E-espere um segundo!
-Dialogue: 0,0:02:31.94,0:02:34.17,Main,,0,0,0,,Não estamos fugindo!\NNão é isso.\N.\N.
+Dialogue: 0,0:02:31.94,0:02:34.17,Main,,0,0,0,,Não estamos fugindo!\NNão é isso...
 Dialogue: 0,0:02:34.17,0:02:37.70,Main,,0,0,0,,Por favor! Não se reporte ao chefe!
 Dialogue: 0,0:02:43.45,0:02:44.61,Main,,0,0,0,,Espere!
 Dialogue: 0,0:02:46.79,0:02:51.12,Main,,0,0,0,,Esta cidade é bastante animada, apesar de ser tarde.
 Dialogue: 0,0:02:51.12,0:02:55.46,Main,,0,0,0,,Ha! Que trabalho chato ele nos deu...
 Dialogue: 0,0:02:55.46,0:02:59.13,Main,,0,0,0,,enviando-nos até a linha de frente...
 Dialogue: 0,0:03:11.48,0:03:12.64,Main,,0,0,0,,Hum?
-Dialogue: 0,0:03:16.65,0:03:22.49,Main,,0,0,0,,Não posso cair num lugar como este.\NTenho uma missão importante.\N.\N.
+Dialogue: 0,0:03:16.65,0:03:22.49,Main,,0,0,0,,Não posso cair num lugar como este.\NTenho uma missão importante...
 Dialogue: 0,0:03:22.49,0:03:24.49,Main,,0,0,0,,Que pena...
 Dialogue: 0,0:03:24.49,0:03:27.16,Main,,0,0,0,,perdendo contra apenas um espadachim...
 Dialogue: 0,0:03:27.16,0:03:28.83,Main,,0,0,0,,Hum?!
@@ -92,7 +92,7 @@ Dialogue: 0,0:04:14.54,0:04:17.44,Main,,0,0,0,,O que?\NEntão para qual missão 
 Dialogue: 0,0:04:17.44,0:04:19.55,Main,,0,0,0,,Você realmente não tem ideia?
 Dialogue: 0,0:04:19.55,0:04:26.49,Main,,0,0,0,,Há grandes criminosos aqui que o chefe nos enviou para resolver.
 Dialogue: 0,0:04:26.49,0:04:31.16,Main,,0,0,0,,Estas são as palavras do chefe: “Eles descobriram meus segredos”.
-Dialogue: 0,0:04:31.16,0:04:34.16,Main,,0,0,0,,Claro, eu nem sei que tipo de segredos são eles, mas.\N.\N.
+Dialogue: 0,0:04:31.16,0:04:34.16,Main,,0,0,0,,Claro, eu nem sei que tipo de segredos são eles, mas...
 Dialogue: 0,0:04:34.16,0:04:36.50,Main,,0,0,0,,o lema da nossa empresa é "mistério".
 Dialogue: 0,0:04:36.50,0:04:41.17,Main,,0,0,0,,Não importa de quem seja a identidade, a regra é que você nunca bisbilhote.
 Dialogue: 0,0:04:41.17,0:04:44.77,Main,,0,0,0,,Se alguém descobrir os segredos do chefe,
@@ -103,7 +103,7 @@ Dialogue: 0,0:05:03.52,0:05:06.86,Main,,0,0,0,,Um certo reino? E-espere um segun
 Dialogue: 0,0:05:06.86,0:05:10.03,Main,,0,0,0,,Embora eu esteja usando uma coroa, não sou rei nem nada!
 Dialogue: 0,0:05:10.03,0:05:11.86,Main,,0,0,0,,É apenas meu hobby!
 Dialogue: 0,0:05:11.86,0:05:13.20,Main,,0,0,0,,Não estamos falando de você!
-Dialogue: 0,0:05:13.20,0:05:18.54,Main,,0,0,0,,Os pecadores são aqueles que estão desaparecidos do Reino de Alabasta neste momento.\N.\N.
+Dialogue: 0,0:05:13.20,0:05:18.54,Main,,0,0,0,,Os pecadores são aqueles que estão desaparecidos do Reino de Alabasta neste momento...
 Dialogue: 0,0:05:18.54,0:05:22.03,Thoughts,,0,0,0,,Eles sabem! Está tudo acabado!
 Dialogue: 0,0:05:22.91,0:05:25.01,Main,,0,0,0,,Morrer! Igappappa!
 Dialogue: 0,0:05:26.38,0:05:28.72,Main,,0,0,0,,Não vou deixar você encostar um dedo na nossa princesa!
@@ -131,10 +131,10 @@ Dialogue: 0,0:07:09.10,0:07:12.01,Main,,0,0,0,,Vá em frente, senhorita quarta-f
 Dialogue: 0,0:07:12.01,0:07:13.91,Main,,0,0,0,,Senhor 9!
 Dialogue: 0,0:07:13.91,0:07:15.91,Main,,0,0,0,,Muito viril, você não diria?
 Dialogue: 0,0:07:15.91,0:07:17.85,Main,,0,0,0,,Tchau, querido!
-Dialogue: 0,0:07:17.85,0:07:20.28,Main,,0,0,0,,--Morcego de sangue quente.\N.\N.\N--Sr.\N9!
+Dialogue: 0,0:07:17.85,0:07:20.28,Main,,0,0,0,,--Morcego de sangue quente...\N--Sr.\N9!
 Dialogue: 0,0:07:22.52,0:07:27.49,Main,,0,0,0,,Tudo o que precisamos é de vontade de cumprir as nossas missões.
 Dialogue: 0,0:07:27.49,0:07:30.49,Main,,0,0,0,,Um sentimento patético de camaradagem só trará a morte.
-Dialogue: 0,0:07:30.49,0:07:33.50,Main,,0,0,0,,É hora de aprender isso da maneira mais difícil!\NNariz extravagante.\N.\N.
+Dialogue: 0,0:07:30.49,0:07:33.50,Main,,0,0,0,,É hora de aprender isso da maneira mais difícil!\NNariz extravagante...
 Dialogue: 0,0:07:33.50,0:07:35.33,Main,,0,0,0,,...de coragem!
 Dialogue: 0,0:07:35.33,0:07:36.63,Main,,0,0,0,,...Canhão!
 Dialogue: 0,0:07:41.74,0:07:43.57,Main,,0,0,0,,Senhor 9!
@@ -144,15 +144,15 @@ Dialogue: 0,0:07:49.98,0:07:51.08,Main,,0,0,0,,Senhor Espadachim!
 Dialogue: 0,0:07:51.08,0:07:54.55,Main,,0,0,0,,Ao ver sua habilidade, tenho um pedido, por mais irracional que seja!
 Dialogue: 0,0:07:54.55,0:07:58.02,Main,,0,0,0,,Sim, certo! Dane-se isso! Solte-me!
 Dialogue: 0,0:07:58.02,0:08:03.26,Main,,0,0,0,,Como ambas as pessoas possuem poderes de Akuma no Mi, não posso detê-las!
-Dialogue: 0,0:08:03.26,0:08:07.03,Main,,0,0,0,,Posso pedir para você proteger a princesa em meu lugar?\N!
+Dialogue: 0,0:08:03.26,0:08:07.03,Main,,0,0,0,,Posso pedir para você proteger a princesa em meu lugar?!
 Dialogue: 0,0:08:07.03,0:08:08.30,Main,,0,0,0,,Por favor!
 Dialogue: 0,0:08:08.83,0:08:10.32,Main,,0,0,0,,Karoo! Correr!
 Dialogue: 0,0:08:11.96,0:08:12.90,Main,,0,0,0,,Lá vai ela.
 Dialogue: 0,0:08:12.90,0:08:16.10,Main,,0,0,0,,Ela não pode fugir de nós.\NVamos pegá-la, senhorita Valentine!
 Dialogue: 0,0:08:16.10,0:08:18.24,Main,,0,0,0,,Certo, Sr. 5!
 Dialogue: 0,0:08:18.24,0:08:20.17,Main,,0,0,0,,Se você puder entregar a princesa com segurança
-Dialogue: 0,0:08:20.17,0:08:24.34,Main,,0,0,0,,para o grande reino de Alabasta, no extremo leste daqui.\N.\N.
-Dialogue: 0,0:08:24.34,0:08:27.78,Main,,0,0,0,,.\N.\N.\NEu prometo que você será imensamente recompensado!
+Dialogue: 0,0:08:20.17,0:08:24.34,Main,,0,0,0,,para o grande reino de Alabasta, no extremo leste daqui...
+Dialogue: 0,0:08:24.34,0:08:27.78,Main,,0,0,0,,...\NEu prometo que você será imensamente recompensado!
 Dialogue: 0,0:08:27.78,0:08:32.35,Main,,0,0,0,,Eu humildemente te imploro!\NPor favor, mantenha a princesa segura!
 Dialogue: 0,0:08:32.35,0:08:36.82,Main,,0,0,0,,Dane-se isso!\NVocê estava tentando nos matar até um minuto atrás!
 Dialogue: 0,0:08:36.82,0:08:38.42,Main,,0,0,0,,Não me faça cortar mais um pouco!
@@ -170,8 +170,8 @@ Dialogue: 0,0:09:02.58,0:09:05.42,Main,,0,0,0,,Eu poderia continuar se quisesse!
 Dialogue: 0,0:09:05.42,0:09:06.52,Main,,0,0,0,,É isso mesmo?
 Dialogue: 0,0:09:06.52,0:09:09.19,Main,,0,0,0,,Obrigado, seg, MAUI ...
 Dialogue: 0,0:09:09.19,0:09:13.69,Main,,0,0,0,,Então, você nos prometerá um bilhão, Capitão do Esquadrão?
-Dialogue: 0,0:09:13.69,0:09:18.06,Main,,0,0,0,,{\i1}Se você não pedir nossa ajuda, sua princesa provavelmente morrerá.\N.\N.
-Dialogue: 0,0:09:19.46,0:09:24.23,Main,,0,0,0,,Um mero soldado como eu não pode prometer quantias tão grandes de dinheiro.\N.\N.
+Dialogue: 0,0:09:13.69,0:09:18.06,Main,,0,0,0,,{\i1}Se você não pedir nossa ajuda, sua princesa provavelmente morrerá...
+Dialogue: 0,0:09:19.46,0:09:24.23,Main,,0,0,0,,Um mero soldado como eu não pode prometer quantias tão grandes de dinheiro...
 Dialogue: 0,0:09:24.23,0:09:28.91,Main,,0,0,0,,Você não está sugerindo que uma princesa vale menos que isso, está?
 Dialogue: 0,0:09:28.91,0:09:31.11,Main,,0,0,0,,Pagar.
 Dialogue: 0,0:09:31.11,0:09:33.88,Main,,0,0,0,,{\i1}Agora ela o está ameaçando!
@@ -182,11 +182,11 @@ Dialogue: 0,0:09:43.92,0:09:47.29,Main,,0,0,0,,Neste exato momento, a vida dela 
 Dialogue: 0,0:09:47.29,0:09:50.99,Main,,0,0,0,,Tudo bem, então.\NVou salvar sua princesa por enquanto.
 Dialogue: 0,0:09:52.93,0:09:54.70,Main,,0,0,0,,OK! Vá buscá-la, Zoro!
 Dialogue: 0,0:09:54.70,0:09:56.50,Main,,0,0,0,,Sim, certo, seu idiota!
-Dialogue: 0,0:09:56.50,0:10:00.50,Main,,0,0,0,,{\i1}Por que tenho que concordar com seus esquemas para ganhar dinheiro?\N!
+Dialogue: 0,0:09:56.50,0:10:00.50,Main,,0,0,0,,{\i1}Por que tenho que concordar com seus esquemas para ganhar dinheiro?!
 Dialogue: 0,0:10:00.50,0:10:02.94,Main,,0,0,0,,Nossa, você é tão estúpido!
 Dialogue: 0,0:10:02.94,0:10:08.55,Main,,0,0,0,,Meu dinheiro é meu, mas meus contratos pertencem a todos vocês!
 Dialogue: 0,0:10:08.55,0:10:11.18,Main,,0,0,0,,Esse é o tipo de lógica que um agressor usaria!
-Dialogue: 0,0:10:11.18,0:10:14.22,Main,,0,0,0,,Qual é o problema?\N!\NTudo o que você precisa fazer é acabar com esses caras!
+Dialogue: 0,0:10:11.18,0:10:14.22,Main,,0,0,0,,Qual é o problema?!\NTudo o que você precisa fazer é acabar com esses caras!
 Dialogue: 0,0:10:14.22,0:10:18.06,Main,,0,0,0,,Não gosto de ser usado, ao contrário daquele cozinheiro idiota!
 Dialogue: 0,0:10:18.06,0:10:21.46,Main,,0,0,0,,Você só está com medo de não conseguir vencê-los!
 Dialogue: 0,0:10:21.46,0:10:24.03,Main,,0,0,0,,O que?! Apenas tente dizer isso um pouco mais!
@@ -212,8 +212,8 @@ Dialogue: 0,0:11:24.62,0:11:28.69,Main,,0,0,0,,--Maldita mulher!\N--Muito obriga
 Dialogue: 0,0:11:28.69,0:11:31.23,Main,,0,0,0,,Estou com tanta vergonha...
 Dialogue: 0,0:11:31.23,0:11:35.90,Main,,0,0,0,,Se eu fosse mais forte, poderia ter protegido a princesa!
 Dialogue: 0,0:11:35.90,0:11:39.44,Main,,0,0,0,,Não se preocupe com isso!\NEle é incrivelmente forte!
-Dialogue: 0,0:11:39.44,0:11:43.47,Main,,0,0,0,,{\i1}Se alguma coisa acontecer com a princesa – com Vivi-sama.\N.\N.
-Dialogue: 0,0:11:43.47,0:11:48.01,Main,,0,0,0,,o reino de Alabasta estaria acabado.\N.\N.
+Dialogue: 0,0:11:39.44,0:11:43.47,Main,,0,0,0,,{\i1}Se alguma coisa acontecer com a princesa – com Vivi-sama...
+Dialogue: 0,0:11:43.47,0:11:48.01,Main,,0,0,0,,o reino de Alabasta estaria acabado...
 Dialogue: 0,0:11:48.01,0:11:50.98,Main,,0,0,0,,{\i1}Ela deve viver!
 Dialogue: 0,0:11:51.98,0:11:55.08,Main,,0,0,0,,Correr! Corra, Karoo!
 Dialogue: 0,0:11:59.16,0:12:01.89,Main,,0,0,0,,Há um navio atracado atrás das pedras dos cactos!
@@ -222,7 +222,7 @@ Dialogue: 0,0:12:09.35,0:12:12.22,Main,,0,0,0,,Eles nos encontraram!\NKaroo!\NPo
 Dialogue: 0,0:12:15.12,0:12:17.02,Main,,0,0,0,,Uma luta tão inútil.
 Dialogue: 0,0:12:20.13,0:12:21.53,Main,,0,0,0,,Saudades da segunda-feira!
 Dialogue: 0,0:12:22.53,0:12:26.00,Main,,0,0,0,,Prossiga.\NVocê pode chegar aos navios por aqui.
-Dialogue: 0,0:12:26.00,0:12:29.80,Main,,0,0,0,,-Vou segurá-los aqui!\N--Mas.\N.\N.
+Dialogue: 0,0:12:26.00,0:12:29.80,Main,,0,0,0,,-Vou segurá-los aqui!\N--Mas...
 Dialogue: 0,0:12:29.80,0:12:31.97,Main,,0,0,0,,Graças a esse espadachim assustadoramente forte,
 Dialogue: 0,0:12:31.97,0:12:35.10,Main,,0,0,0,,todos nós seremos punidos por falhar em nossa missão de qualquer maneira.
 Dialogue: 0,0:12:37.15,0:12:41.07,Main,,0,0,0,,Além disso, prefiro levar um chute na bunda protegendo um amigo.
@@ -265,12 +265,12 @@ Dialogue: 0,0:15:16.80,0:15:20.34,Main,,0,0,0,,que o chefe estará criando em br
 Dialogue: 0,0:15:20.34,0:15:22.78,Main,,0,0,0,,Eu vejo...
 Dialogue: 0,0:15:22.78,0:15:26.28,Main,,0,0,0,,O codinome do chefe é Sr.
 Dialogue: 0,0:15:26.28,0:15:31.28,Main,,0,0,0,,Em outras palavras, quanto mais próximo o codinome de uma pessoa estiver de zero,
-Dialogue: 0,0:15:31.28,0:15:34.22,Main,,0,0,0,,maior será a posição futura dessa pessoa.\N.\N.
-Dialogue: 0,0:15:34.22,0:15:36.59,Main,,0,0,0,,.\N.\N.\Ne mais do que tudo, mais fortes eles são!
+Dialogue: 0,0:15:31.28,0:15:34.22,Main,,0,0,0,,maior será a posição futura dessa pessoa...
+Dialogue: 0,0:15:34.22,0:15:36.59,Main,,0,0,0,,...\Ne mais do que tudo, mais fortes eles são!
 Dialogue: 0,0:15:36.59,0:15:43.61,Main,,0,0,0,,A força daqueles do Mr.\N5 e acima é especialmente incrível.
 Dialogue: 0,0:15:45.09,0:15:50.77,Main,,0,0,0,,{\i1}Então você é o espadachim que matou todos os funcionários humildes desta cidade.
 Dialogue: 0,0:15:50.77,0:15:53.74,Main,,0,0,0,,{\i1}Por que você iria querer proteger a princesa de Alabasta?
-Dialogue: 0,0:15:53.74,0:15:56.71,Main,,0,0,0,,Eu tenho algumas circunstâncias próprias, você vê.\N.\N.
+Dialogue: 0,0:15:53.74,0:15:56.71,Main,,0,0,0,,Eu tenho algumas circunstâncias próprias, você vê...
 Dialogue: 0,0:15:56.71,0:16:00.88,Main,,0,0,0,,Bem, não importa.\NVocê é nosso inimigo, de uma forma ou de outra.
 Dialogue: 0,0:16:00.88,0:16:03.05,Main,,0,0,0,,Você está no nosso caminho.
 Dialogue: 0,0:16:03.05,0:16:05.31,Main,,0,0,0,,{\i1}Sim! Ele é!
@@ -286,7 +286,7 @@ Dialogue: 0,0:16:31.96,0:16:33.00,Main,,0,0,0,,Cale-se!
 Dialogue: 0,0:16:33.00,0:16:36.97,Main,,0,0,0,,Vou chutar a sua bunda por ser tão ingrato!
 Dialogue: 0,0:16:36.97,0:16:38.41,Main,,0,0,0,,Ingrato?!
 Dialogue: 0,0:16:38.58,0:16:40.11,Main,,0,0,0,,Isso mesmo!
-Dialogue: 0,0:16:41.42,0:16:43.82,Flashbacks,,0,0,0,,Ei!\NO que aconteceu?\N!\NQuem fez isso com você?\N!
+Dialogue: 0,0:16:41.42,0:16:43.82,Flashbacks,,0,0,0,,Ei!\NO que aconteceu?!\NQuem fez isso com você?!
 Dialogue: 0,0:16:43.82,0:16:47.86,Flashbacks,,0,0,0,,Seu amigo espadachim de cabelo verde...
 Dialogue: 0,0:16:47.86,0:16:49.49,Flashbacks,,0,0,0,,O que?!
 Dialogue: 0,0:16:50.49,0:16:55.20,Main,,0,0,0,,Todos na cidade nos acolheram e nos deram muita comida gostosa!
@@ -349,7 +349,7 @@ Dialogue: 0,0:19:55.73,0:19:58.47,Main,,0,0,0,,Aguentar! O que está acontecendo
 Dialogue: 0,0:19:58.47,0:20:00.66,Main,,0,0,0,,Essas duas pessoas não eram amigas?!
 Dialogue: 0,0:20:01.57,0:20:05.13,Main,,0,0,0,,Borracha de borracha...
 Dialogue: 0,0:20:06.74,0:20:07.87,Main,,0,0,0,,Eles...
-Dialogue: 0,0:20:09.88,0:20:11.87,Main,,0,0,0,,--.\N.\N.\NBazuca!\N--.\N.\N.\NGiri!
+Dialogue: 0,0:20:09.88,0:20:11.87,Main,,0,0,0,,--...\NBazuca!\N--...\NGiri!
 Dialogue: 0,0:20:21.76,0:20:24.96,Main,,0,0,0,,Esta é a oportunidade perfeita para ver quem é mais forte,
 Dialogue: 0,0:20:24.96,0:20:26.60,Main,,0,0,0,,força bruta ou esgrima!
 Dialogue: 0,0:20:26.60,0:20:30.27,Main,,0,0,0,,Sim!\NVamos descobrir de uma vez por todas!
@@ -382,7 +382,7 @@ Dialogue: 0,0:23:08.76,0:23:10.10,Main,,0,0,0,,Entender?!
 Dialogue: 0,0:23:11.08,0:23:14.70,Main,,0,0,0,,O que você está falando?
 Dialogue: 0,0:23:14.70,0:23:17.63,Main,,0,0,0,,Por que você me salvou?
 Dialogue: 0,0:23:17.63,0:23:20.80,Main,,0,0,0,,Certo! Precisamos conversar sobre isso!
-Dialogue: 0,0:23:20.80,0:23:23.84,Main,,0,0,0,,É assim.\N.\N.\NVocê não vai fazer um contrato comigo?
+Dialogue: 0,0:23:20.80,0:23:23.84,Main,,0,0,0,,É assim...\NVocê não vai fazer um contrato comigo?
 Dialogue: 0,0:23:23.84,0:23:25.81,Main,,0,0,0,,Contrato?
 Dialogue: 0,0:23:25.81,0:23:27.80,Main,,0,0,0,,Pare de lutar!
 Dialogue: 0,0:23:35.22,0:23:38.35,Main,,0,0,0,,Oh! Você deveria ter dito isso, Zoro!
@@ -401,8 +401,8 @@ Dialogue: 0,0:24:05.45,0:24:07.35,Main,,0,0,0,,Bem, costumava ser.
 Dialogue: 0,0:24:07.35,0:24:09.95,Main,,0,0,0,,Costumava ser? E agora?
 Dialogue: 0,0:24:09.95,0:24:12.35,Main,,0,0,0,,Está no meio de uma guerra civil.
 Dialogue: 0,0:24:12.35,0:24:16.39,Main,,0,0,0,,Há anos que começam a aparecer sinais de uma revolução.
-Dialogue: 0,0:24:16.39,0:24:20.52,Main,,0,0,0,,O povo se revoltou e o reino caiu no caos total.\N.\N.
-Dialogue: 0,0:24:22.50,0:24:26.24,Main,,0,0,0,,Então, um dia, ouvi o nome de uma organização.\N.\N.
+Dialogue: 0,0:24:16.39,0:24:20.52,Main,,0,0,0,,O povo se revoltou e o reino caiu no caos total...
+Dialogue: 0,0:24:22.50,0:24:26.24,Main,,0,0,0,,Então, um dia, ouvi o nome de uma organização...
 Dialogue: 0,0:24:26.24,0:24:27.38,Main,,0,0,0,,...Obras Barrocas!
 Dialogue: 0,0:24:29.40,0:24:34.01,Main,,0,0,0,,Aprendi que a população estava sendo manipulada por esse grupo.
 Dialogue: 0,0:24:34.01,0:24:37.08,Main,,0,0,0,,Mas havia um controle rígido sobre qualquer outra informação além dessa,
@@ -426,7 +426,7 @@ Dialogue: 0,0:25:19.62,0:25:24.29,Main,,0,0,0,,O verdadeiro objetivo é dominar 
 Dialogue: 0,0:25:24.29,0:25:28.33,Main,,0,0,0,,Tenho que voltar correndo, contar a verdade a todos e parar a luta!
 Dialogue: 0,0:25:30.83,0:25:32.87,Main,,0,0,0,,Eu vejo.
 Dialogue: 0,0:25:32.87,0:25:37.14,Main,,0,0,0,,Então esse é o acordo.\NAgora tudo finalmente se conecta.
-Dialogue: 0,0:25:37.14,0:25:41.08,Main,,0,0,0,,Não haveria dinheiro durante uma guerra civil, hein.\N.\N.
+Dialogue: 0,0:25:37.14,0:25:41.08,Main,,0,0,0,,Não haveria dinheiro durante uma guerra civil, hein...
 Dialogue: 0,0:25:42.81,0:25:44.15,Main,,0,0,0,,Ei.
 Dialogue: 0,0:25:44.15,0:25:46.58,Main,,0,0,0,,{\i1}Quem está puxando as cordas?
 Dialogue: 0,0:25:46.58,0:25:48.65,Main,,0,0,0,,A-identidade do chefe?!
@@ -443,13 +443,13 @@ Dialogue: 0,0:26:07.40,0:26:09.57,Main,,0,0,0,,contra um dos Sete Senhores da Gu
 Dialogue: 0,0:26:09.57,0:26:12.28,Main,,0,0,0,,Crocodilo!
 Dialogue: 0,0:26:13.91,0:26:14.90,Main,,0,0,0,,Quem, agora?
 Dialogue: 0,0:26:17.48,0:26:18.91,Main,,0,0,0,,Você acabou de dizer isso.
-Dialogue: 0,0:26:26.56,0:26:28.86,Main,,0,0,0,,--O que era aquele pássaro e lontra marinha?\N!\N--Desculpe!\NDesculpe!
+Dialogue: 0,0:26:26.56,0:26:28.86,Main,,0,0,0,,--O que era aquele pássaro e lontra marinha?!\N--Desculpe!\NDesculpe!
 Dialogue: 0,0:26:28.86,0:26:30.26,Main,,0,0,0,,Eles vão contar para alguém?!
 Dialogue: 0,0:26:30.26,0:26:32.63,Main,,0,0,0,,Ei! Um Senhor da Guerra!
 Dialogue: 0,0:26:32.63,0:26:33.73,Main,,0,0,0,,Nada mal!
 Dialogue: 0,0:26:33.73,0:26:36.27,Main,,0,0,0,,Eu-eu sinto muito!\NSimplesmente escapou!
 Dialogue: 0,0:26:36.27,0:26:37.67,Main,,0,0,0,,Como se isso realmente resolvesse as coisas agora!
-Dialogue: 0,0:26:37.67,0:26:40.66,Main,,0,0,0,,Por que você teve que nos arrastar com você?\N!
+Dialogue: 0,0:26:37.67,0:26:40.66,Main,,0,0,0,,Por que você teve que nos arrastar com você?!
 Dialogue: 0,0:26:42.67,0:26:46.31,Main,,0,0,0,,Sendo caçado por um Senhor da Guerra no momento em que entramos na Grand Line
 Dialogue: 0,0:26:46.31,0:26:47.98,Main,,0,0,0,,é demais para lidar!
 Dialogue: 0,0:26:47.98,0:26:51.01,Main,,0,0,0,,-Temos sorte de poder vê-lo tão cedo!\N-Eu me pergunto como ele é!
@@ -458,13 +458,13 @@ Dialogue: 0,0:26:52.82,0:26:54.92,Main,,0,0,0,,Foi um breve conhecimento, mas ag
 Dialogue: 0,0:26:54.92,0:26:56.02,Main,,0,0,0,,Onde você está indo?
 Dialogue: 0,0:26:56.02,0:26:58.28,Main,,0,0,0,,Eles ainda não sabem como somos!\NEstou fugindo!
 Dialogue: 0,0:27:02.86,0:27:04.69,Main,,0,0,0,,Uau! Isso é tão bom!
-Dialogue: 0,0:27:05.70,0:27:08.16,Main,,0,0,0,,Acho que isso significa que não há para onde correr agora, hein?\N!
+Dialogue: 0,0:27:05.70,0:27:08.16,Main,,0,0,0,,Acho que isso significa que não há para onde correr agora, hein?!
 Dialogue: 0,0:27:08.16,0:27:09.37,Main,,0,0,0,,Desculpe!
 Dialogue: 0,0:27:09.37,0:27:10.73,Main,,0,0,0,,Ela é engraçada!
 Dialogue: 0,0:27:10.73,0:27:13.35,Main,,0,0,0,,Para onde ela estava planejando fugir, afinal?
 Dialogue: 0,0:27:13.35,0:27:20.03,Main,,0,0,0,,Acho que isso significa que nós três estamos na lista de alvos da Baroque Work agora.
 Dialogue: 0,0:27:20.03,0:27:21.69,Main,,0,0,0,,Isso é emocionante por algum motivo!
-Dialogue: 0,0:27:23.16,0:27:26.82,Main,,0,0,0,,{\i1}E-eu tenho 500.\N000 Belly em economias.\N.\N.
+Dialogue: 0,0:27:23.16,0:27:26.82,Main,,0,0,0,,{\i1}E-eu tenho 500.\N000 Belly em economias...
 Dialogue: 0,0:27:27.07,0:27:30.17,Main,,0,0,0,,Não tenha medo!
 Dialogue: 0,0:27:30.17,0:27:30.83,Main,,0,0,0,,Isso é--
 Dialogue: 0,0:27:33.81,0:27:36.01,Main,,0,0,0,,Está tudo bem! Eu tenho um plano!
@@ -486,7 +486,7 @@ Dialogue: 0,0:28:20.10,0:28:22.84,Main,,0,0,0,,O Crocodile é realmente tão for
 Dialogue: 0,0:28:22.84,0:28:25.31,Main,,0,0,0,,Ele é um dos Sete Senhores da Guerra dos Mares.
 Dialogue: 0,0:28:25.31,0:28:29.51,Main,,0,0,0,,Ele é um pirata legalmente reconhecido e, portanto, não tem recompensa por sua cabeça.
 Dialogue: 0,0:28:29.51,0:28:34.95,Main,,0,0,0,,{\i1}No entanto, a recompensa que ele tinha há muito tempo era de 80 milhões de Belly.
-Dialogue: 0,0:28:34.95,0:28:39.52,Main,,0,0,0,,80 milhões?\N!\NIsso é quatro vezes a recompensa de Arlong!\NDiga não!
+Dialogue: 0,0:28:34.95,0:28:39.52,Main,,0,0,0,,80 milhões?!\NIsso é quatro vezes a recompensa de Arlong!\NDiga não!
 Dialogue: 0,0:28:41.34,0:28:44.27,Main,,0,0,0,,Agora, então.\NEu, Vivi, sairei daqui.
 Dialogue: 0,0:28:44.27,0:28:45.94,Main,,0,0,0,,Essa é uma imitação perfeita, meu velho!
 Dialogue: 0,0:28:45.94,0:28:47.67,Main,,0,0,0,,{\i1}Imitação de quem?!
@@ -515,7 +515,7 @@ Dialogue: 0,0:30:13.83,0:30:15.53,Main,,0,0,0,,Lá vai ele.
 Dialogue: 0,0:30:15.53,0:30:18.17,Main,,0,0,0,,Ele era um velho engraçado, até o fim!
 Dialogue: 0,0:30:18.17,0:30:21.14,Main,,0,0,0,,Ele realmente é confiável.
 Dialogue: 0,0:30:47.30,0:30:48.79,Main,,0,0,0,,Não!
-Dialogue: 0,0:30:54.17,0:30:57.73,Main,,0,0,0,,{\i1}Isso é impossível!\NEles já estão atrás de nós?\N!
+Dialogue: 0,0:30:54.17,0:30:57.73,Main,,0,0,0,,{\i1}Isso é impossível!\NEles já estão atrás de nós?!
 Dialogue: 0,0:31:07.28,0:31:08.35,Main,,0,0,0,,Ele era uma ótima pessoa!
 Dialogue: 0,0:31:08.35,0:31:10.09,Main,,0,0,0,,Nami! O que diz o Log?!
 Dialogue: 0,0:31:10.09,0:31:12.19,Main,,0,0,0,,Estamos bem! Está guardado!
@@ -524,9 +524,9 @@ Dialogue: 0,0:31:14.32,0:31:15.72,Main,,0,0,0,,Você vive! Você vive!
 Dialogue: 0,0:31:15.72,0:31:19.19,Main,,0,0,0,,Pressa!\NSe eles nos encontrarem, será tudo em vão!
 Dialogue: 0,0:31:22.70,0:31:25.93,Main,,0,0,0,,{\i1}Não se preocupe! Nós levaremos você até lá!
 Dialogue: 0,0:31:25.93,0:31:27.54,Main,,0,0,0,,-Eu sei que eles não se parecem...
-Dialogue: 0,0:31:27.54,0:31:28.94,Main,,0,0,0,,--Luffy!\NVá acordar esses dois!\N-Eu sei que eles não se parecem.\N.\N.
-Dialogue: 0,0:31:28.94,0:31:30.11,Main,,0,0,0,,--Luffy!\NVá acordar esses dois!\N--.\N.\N.\Nmas eles salvaram o East Blue!
-Dialogue: 0,0:31:30.11,0:31:30.77,Main,,0,0,0,,-Estou indo para o navio!\N--.\N.\N.\Nmas eles salvaram o East Blue!
+Dialogue: 0,0:31:27.54,0:31:28.94,Main,,0,0,0,,--Luffy!\NVá acordar esses dois!\N-Eu sei que eles não se parecem...
+Dialogue: 0,0:31:28.94,0:31:30.11,Main,,0,0,0,,--Luffy!\NVá acordar esses dois!\N--...\Nmas eles salvaram o East Blue!
+Dialogue: 0,0:31:30.11,0:31:30.77,Main,,0,0,0,,-Estou indo para o navio!\N--...\Nmas eles salvaram o East Blue!
 Dialogue: 0,0:31:30.77,0:31:30.94,Main,,0,0,0,,-Estou indo para o navio!\N-Só os quatro!
 Dialogue: 0,0:31:30.94,0:31:32.77,Main,,0,0,0,,--Tudo bem!\NDeixe comigo!\N-Só os quatro!
 Dialogue: 0,0:31:32.77,0:31:36.91,Main,,0,0,0,,Obras Barrocas?! Crocodilo?! Ha!
@@ -534,7 +534,7 @@ Dialogue: 0,0:31:38.22,0:31:40.67,Main,,0,0,0,,Os Sete Senhores da Guerra não s
 Dialogue: 0,0:31:49.30,0:31:50.96,Main,,0,0,0,,Vamos!
 Dialogue: 0,0:31:53.50,0:31:55.94,Main,,0,0,0,,O que...?! Uau! O que...?!
 Dialogue: 0,0:31:55.94,0:31:57.57,Main,,0,0,0,,O que diabos você está fazendo, Luffy?! Ei!
-Dialogue: 0,0:31:57.57,0:32:02.17,Main,,0,0,0,,--Meu nariz está saindo!\N--Deixe ir, caramba!\NO que está acontecendo?\N!
+Dialogue: 0,0:31:57.57,0:32:02.17,Main,,0,0,0,,--Meu nariz está saindo!\N--Deixe ir, caramba!\NO que está acontecendo?!
 Dialogue: 0,0:32:02.98,0:32:04.28,Main,,0,0,0,,Depressa, viva!
 Dialogue: 0,0:32:04.28,0:32:06.12,Main,,0,0,0,,R-certo!
 Dialogue: 0,0:32:06.12,0:32:07.48,Thoughts,,0,0,0,,Karoo está desaparecido!
@@ -548,7 +548,7 @@ Dialogue: 0,0:32:32.24,0:32:33.58,Main,,0,0,0,,Ei! Qual é o problema?!
 Dialogue: 0,0:32:33.58,0:32:36.08,Main,,0,0,0,,Ela diz que seu pato sumiu!
 Dialogue: 0,0:32:36.08,0:32:38.81,Main,,0,0,0,,Ele não virá quando assobiarmos para ele!
 Dialogue: 0,0:32:39.92,0:32:41.35,Main,,0,0,0,,Este é ele?
-Dialogue: 0,0:32:41.35,0:32:44.19,Main,,0,0,0,,--Você está aí?\N!\N-Ele estava aqui antes mesmo de mim.
+Dialogue: 0,0:32:41.35,0:32:44.19,Main,,0,0,0,,--Você está aí?!\N-Ele estava aqui antes mesmo de mim.
 Dialogue: 0,0:32:44.19,0:32:46.19,Main,,0,0,0,,Há um afluente logo acima do rio!
 Dialogue: 0,0:32:46.19,0:32:48.19,Main,,0,0,0,,Podemos usá-lo para sair para o mar um pouco mais rápido!
 Dialogue: 0,0:32:48.19,0:32:50.59,Main,,0,0,0,,Tudo bem! Vamos!
@@ -567,11 +567,11 @@ Dialogue: 0,0:33:17.55,0:33:18.35,Main,,0,0,0,,Sim!
 Dialogue: 0,0:33:18.35,0:33:20.56,Main,,0,0,0,,Esta cidade é ótima!\NE as meninas são fofas!
 Dialogue: 0,0:33:20.56,0:33:22.89,Main,,0,0,0,,Não há como dizer quando nos divertiremos tanto novamente!
 Dialogue: 0,0:33:22.89,0:33:26.66,Main,,0,0,0,,{\i1}--Vamos com calma!\NSomos piratas!\N--Além disso, ainda nem é de manhã!
-Dialogue: 0,0:33:26.66,0:33:29.89,Main,,0,0,0,,Eles têm alguma coragem.\NEles nem sabem de nada.\N.\N.
+Dialogue: 0,0:33:26.66,0:33:29.89,Main,,0,0,0,,Eles têm alguma coragem.\NEles nem sabem de nada...
 Dialogue: 0,0:33:30.63,0:33:32.57,Main,,0,0,0,,Ei! Explique a eles!
-Dialogue: 0,0:33:32.57,0:33:35.64,Main,,0,0,0,,--Sim!\NAcabei de fazer!\N--Isso foi rápido.\N.\N.
+Dialogue: 0,0:33:32.57,0:33:35.64,Main,,0,0,0,,--Sim!\NAcabei de fazer!\N--Isso foi rápido...
 Dialogue: 0,0:33:35.64,0:33:37.97,Main,,0,0,0,,Sim, deixei de fora as partes complicadas.
-Dialogue: 0,0:33:39.34,0:33:41.28,Main,,0,0,0,,Devemos poder sair da ilha em breve.\N.\N.
+Dialogue: 0,0:33:39.34,0:33:41.28,Main,,0,0,0,,Devemos poder sair da ilha em breve...
 Dialogue: 0,0:33:41.28,0:33:43.61,Main,,0,0,0,,Legal! Há neblina agora!
 Dialogue: 0,0:33:43.61,0:33:46.07,Main,,0,0,0,,Já é quase de manhã...
 Dialogue: 0,0:33:47.62,0:33:49.65,Main,,0,0,0,,Ainda bem que conseguimos escapar das pessoas que nos perseguiam!
@@ -583,32 +583,32 @@ Dialogue: 0,0:34:03.00,0:34:06.30,Main,,0,0,0,,Encontrei o Sr. 8 há pouco tempo
 Dialogue: 0,0:34:06.30,0:34:08.12,Main,,0,0,0,,Senhorita quarta-feira.
 Dialogue: 0,0:34:08.83,0:34:10.69,Main,,0,0,0,,Você matou Igaram?!
 Dialogue: 0,0:34:10.69,0:34:12.44,Main,,0,0,0,,Esqueça isso!
-Dialogue: 0,0:34:12.44,0:34:15.78,Main,,0,0,0,,O que você está fazendo neste navio?\N!\NQuem é você?\N!
+Dialogue: 0,0:34:12.44,0:34:15.78,Main,,0,0,0,,O que você está fazendo neste navio?!\NQuem é você?!
 Dialogue: 0,0:34:15.78,0:34:18.16,Main,,0,0,0,,O que você está fazendo aqui...
 Dialogue: 0,0:34:18.16,0:34:20.34,Main,,0,0,1,,...Senhorita Domingo Todo?!
 Dialogue: 0,0:34:18.16,0:34:22.71,Captions,,0,0,282,,{\fad(500,0)\fs32}Vice-presidente da Baroque Works (Comandante Supremo) Miss All Sunday
-Dialogue: 0,0:34:22.92,0:34:27.29,Main,,0,0,0,,Perdeu todo domingo?\N!\NDe qual número ela é parceira?\N!
+Dialogue: 0,0:34:22.92,0:34:27.29,Main,,0,0,0,,Perdeu todo domingo?!\NDe qual número ela é parceira?!
 Dialogue: 0,0:34:27.29,0:34:30.66,Main,,0,0,0,,Ela é parceira do Sr. 0... o chefe!
 Dialogue: 0,0:34:30.66,0:34:32.96,Main,,0,0,0,,O bo-- Crocodilo?!
 Dialogue: 0,0:34:32.96,0:34:34.23,Main,,0,0,0,,Ela é ruim?
 Dialogue: 0,0:34:34.23,0:34:37.83,Main,,0,0,0,,Ela era a única que conhecia a identidade do chefe.
 Dialogue: 0,0:34:37.83,0:34:41.89,Main,,0,0,0,,Descobrimos quem ele é seguindo-a!
-Dialogue: 0,0:34:41.89,0:34:45.23,Main,,0,0,0,,Mais precisamente.\N.\N.\Neu permiti que você me seguisse.
+Dialogue: 0,0:34:41.89,0:34:45.23,Main,,0,0,0,,Mais precisamente...\Neu permiti que você me seguisse.
 Dialogue: 0,0:34:45.23,0:34:46.80,Main,,0,0,0,,Oh! Então ela está bem!
 Dialogue: 0,0:34:46.80,0:34:48.60,Main,,0,0,0,,Eu sei que!
-Dialogue: 0,0:34:48.60,0:34:52.27,Main,,0,0,0,,Também foi você quem disse a ele que descobrimos a identidade dele, certo?\N!
+Dialogue: 0,0:34:48.60,0:34:52.27,Main,,0,0,0,,Também foi você quem disse a ele que descobrimos a identidade dele, certo?!
 Dialogue: 0,0:34:52.27,0:34:53.21,Main,,0,0,0,,Correto.
 Dialogue: 0,0:34:53.21,0:34:56.84,Main,,0,0,0,,--Então ela é realmente má!\N-Cale a boca, você!
 Dialogue: 0,0:34:56.84,0:35:00.55,Main,,0,0,0,,O que exatamente você está tentando fazer?!
 Dialogue: 0,0:35:00.55,0:35:02.98,Main,,0,0,0,,Boa pergunta.
 Dialogue: 0,0:35:02.98,0:35:07.89,Main,,0,0,0,,Vocês estavam todos tão atentos e sérios que me vi ajudando.
 Dialogue: 0,0:35:07.89,0:35:10.72,Main,,0,0,0,,A ideia de uma princesa se esforçando ao máximo para salvar seu reino
-Dialogue: 0,0:35:10.72,0:35:13.56,Main,,0,0,0,,enquanto se torna inimiga da Baroque Works.\N.\N.
+Dialogue: 0,0:35:10.72,0:35:13.56,Main,,0,0,0,,enquanto se torna inimiga da Baroque Works...
 Dialogue: 0,0:35:13.56,0:35:17.40,Main,,0,0,0,,Foi tão ridículo, você vê...
 Dialogue: 0,0:35:17.40,0:35:19.99,Main,,0,0,0,,Não zombe de mim!
-Dialogue: 0,0:35:23.77,0:35:27.94,Main,,0,0,0,,{\i1}Ei!\NSanji!\NVocê percebe o que está fazendo?\N!
+Dialogue: 0,0:35:23.77,0:35:27.94,Main,,0,0,0,,{\i1}Ei!\NSanji!\NVocê percebe o que está fazendo?!
 Dialogue: 0,0:35:27.94,0:35:30.18,Main,,0,0,0,,Não, na verdade não.
-Dialogue: 0,0:35:30.18,0:35:34.01,Main,,0,0,0,,Sinto que minha amada Srta.\NWednesday está em perigo.\N.\N.
+Dialogue: 0,0:35:30.18,0:35:34.01,Main,,0,0,0,,Sinto que minha amada Srta.\NWednesday está em perigo...
 Dialogue: 0,0:35:34.01,0:35:38.25,Main,,0,0,0,,Eu apreciaria se você não apontasse objetos tão perigosos para mim.
 Dialogue: 0,0:35:39.85,0:35:40.84,Main,,0,0,0,,Você não quer dizer...!
 Dialogue: 0,0:35:41.39,0:35:42.38,Main,,0,0,0,,Um Diabo--
@@ -618,13 +618,13 @@ Dialogue: 0,0:35:48.02,0:35:50.16,Main,,0,0,0,,Ai...
 Dialogue: 0,0:35:50.16,0:35:53.03,Main,,0,0,0,,Olhando mais de perto, você é realmente uma linda dama!
 Dialogue: 0,0:35:53.63,0:36:00.41,Main,,0,0,0,,Agora, agora.\NNão seja tão precipitado.\NNão recebi nenhuma ordem.
 Dialogue: 0,0:36:00.41,0:36:02.67,Main,,0,0,0,,Não tenho motivos para lutar.
-Dialogue: 0,0:36:04.38,0:36:07.85,Main,,0,0,0,,Então você é o capitão do chapéu de palha de quem tanto ouvi falar.\N.\N.
+Dialogue: 0,0:36:04.38,0:36:07.85,Main,,0,0,0,,Então você é o capitão do chapéu de palha de quem tanto ouvi falar...
 Dialogue: 0,0:36:07.85,0:36:10.31,Main,,0,0,0,,... Macaco D. Luffy.
-Dialogue: 0,0:36:10.31,0:36:13.72,Main,,0,0,0,,Ei, você!\NDevolva meu chapéu!\NVocê está tentando começar uma briga?\N!
+Dialogue: 0,0:36:10.31,0:36:13.72,Main,,0,0,0,,Ei, você!\NDevolva meu chapéu!\NVocê está tentando começar uma briga?!
 Dialogue: 0,0:36:13.72,0:36:16.96,Main,,0,0,0,,Eu considero você um inimigo! Saia agora mesmo!
 Dialogue: 0,0:36:16.96,0:36:18.56,Main,,0,0,0,,Como você é azarado...
-Dialogue: 0,0:36:18.56,0:36:23.50,Main,,0,0,0,,Vocês que pegaram uma princesa, Baroque Works quer matar.\N.\N.
-Dialogue: 0,0:36:23.50,0:36:27.37,Main,,0,0,0,,E uma princesa sendo protegida por um punhado de piratas.\N.\N.
+Dialogue: 0,0:36:18.56,0:36:23.50,Main,,0,0,0,,Vocês que pegaram uma princesa, Baroque Works quer matar...
+Dialogue: 0,0:36:23.50,0:36:27.37,Main,,0,0,0,,E uma princesa sendo protegida por um punhado de piratas...
 Dialogue: 0,0:36:27.37,0:36:34.24,Main,,0,0,0,,Mas o que é ainda mais azarado é o curso que seu Log Pose indica.
 Dialogue: 0,0:36:34.24,0:36:36.78,Main,,0,0,0,,O nome da próxima ilha é...
 Dialogue: 0,0:36:36.78,0:36:39.71,Main,,0,0,0,,Pequeno Jardim.
@@ -658,7 +658,7 @@ Dialogue: 0,0:38:10.74,0:38:12.50,Main,,0,0,0,,Se você sobreviver...
 Dialogue: 0,0:38:12.50,0:38:14.21,Main,,0,0,0,,...Vamos nos encontrar novamente.
 Dialogue: 0,0:38:14.21,0:38:15.20,Main,,0,0,0,,Não!
 Dialogue: 0,0:38:18.41,0:38:20.21,Main,,0,0,0,,Vamos, Bunchi!
-Dialogue: 0,0:38:23.58,0:38:26.89,Main,,0,0,0,,--O-O que é isso?\N!\N--Não me diga que é um Rei do Mar!
+Dialogue: 0,0:38:23.58,0:38:26.89,Main,,0,0,0,,--O-O que é isso?!\N--Não me diga que é um Rei do Mar!
 Dialogue: 0,0:38:26.89,0:38:28.32,Main,,0,0,0,,Não...
 Dialogue: 0,0:38:29.32,0:38:31.62,Main,,0,0,0,,Uma tartaruga!
 Dialogue: 0,0:38:31.62,0:38:34.16,Main,,0,0,0,,Que tartaruga enorme!
@@ -666,10 +666,10 @@ Dialogue: 0,0:38:36.89,0:38:41.36,Main,,0,0,0,,Não consigo dizer o que aquela m
 Dialogue: 0,0:38:41.36,0:38:43.47,Main,,0,0,0,,Então não adianta pensar nisso.
 Dialogue: 0,0:38:43.47,0:38:46.23,Main,,0,0,0,,De qualquer forma, já temos alguém assim neste navio.
 Dialogue: 0,0:38:46.23,0:38:49.30,Main,,0,0,0,,Ei!\NExplique o que está acontecendo!\NNada disso faz sentido!
-Dialogue: 0,0:38:49.30,0:38:51.51,Main,,0,0,0,,Ah, senhorita quarta-feira!\NNão me diga que você se juntou à tripulação?\N!
+Dialogue: 0,0:38:49.30,0:38:51.51,Main,,0,0,0,,Ah, senhorita quarta-feira!\NNão me diga que você se juntou à tripulação?!
 Dialogue: 0,0:38:51.51,0:38:53.18,Main,,0,0,0,,Ei! Explique já--!
 Dialogue: 0,0:38:53.18,0:38:55.27,Main,,0,0,0,,Uau! Há um avestruz a bordo!
-Dialogue: 0,0:38:56.04,0:38:58.84,Main,,0,0,0,,--Vamos, o que está acontecendo?\N!\N-É para comida?
+Dialogue: 0,0:38:56.04,0:38:58.84,Main,,0,0,0,,--Vamos, o que está acontecendo?!\N-É para comida?
 Dialogue: 0,0:38:59.58,0:39:03.12,Main,,0,0,0,,Explique o que está acontecendo!
 Dialogue: 0,0:39:04.39,0:39:06.99,Main,,0,0,0,,Eu vejo.
 Dialogue: 0,0:39:06.99,0:39:09.29,Main,,0,0,0,,É uma pena que eu perdi isso,
@@ -680,7 +680,7 @@ Dialogue: 0,0:39:18.40,0:39:21.24,Main,,0,0,0,,Uau! Ainda bem que dormi durante 
 Dialogue: 0,0:39:21.24,0:39:24.61,Main,,0,0,0,,{\i1}--Nami-san.\NAlgum ciúme?\N--Não!
 Dialogue: 0,0:39:24.61,0:39:29.61,Main,,0,0,0,,Está realmente tudo bem para mim estar neste navio?
 Dialogue: 0,0:39:29.61,0:39:31.81,Main,,0,0,0,,Eu só vou incomodar todos vocês...
-Dialogue: 0,0:39:31.81,0:39:34.95,Main,,0,0,0,,Do que você está falando?\N!\NNós sabemos quem você é agora!
+Dialogue: 0,0:39:31.81,0:39:34.95,Main,,0,0,0,,Do que você está falando?!\NNós sabemos quem você é agora!
 Dialogue: 0,0:39:34.95,0:39:38.49,Main,,0,0,0,,Se você não queria nos incomodar, deveria ter feito isso desde o início!
 Dialogue: 0,0:39:38.49,0:39:39.65,Main,,0,0,0,,Desculpe.
 Dialogue: 0,0:39:39.65,0:39:41.32,Main,,0,0,0,,Certo, Luffy?

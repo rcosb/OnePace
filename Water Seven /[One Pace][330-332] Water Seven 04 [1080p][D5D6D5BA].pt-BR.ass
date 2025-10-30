@@ -54,7 +54,7 @@ Dialogue: 1,0:01:35.12,0:01:38.79,Credits,,0,0,0,,{\pos(525,456.\N31)\blur0.\N4\
 Dialogue: 0,0:01:38.91,0:01:43.08,Credits,,0,0,0,,{\pos(521,406)\blur0.\N4\fscx115\fscy120\c&H000000&}Tradução
 Dialogue: 1,0:01:38.91,0:01:43.08,Credits,,0,0,0,,{\pos(521,406)\blur0.\N4\fscx115\fscy120\bord0\4a&HFF&}Tradução
 Dialogue: 5,0:02:12.61,0:02:16.21,Flashbacks-720p,,0,0,0,,{I've drawn graffiti on the walls \Nof people's houses for all these years.\N}Eu desenhei nas paredes das pessoas durante anos.
-Dialogue: 5,0:02:25.79,0:02:28.46,Flashbacks-720p,,0,0,0,,{That huge amount of money}Nosso dinheiro.\N.\N.\Neles levaram tudo.
+Dialogue: 5,0:02:25.79,0:02:28.46,Flashbacks-720p,,0,0,0,,{That huge amount of money}Nosso dinheiro...\Neles levaram tudo.
 Dialogue: 5,0:02:28.46,0:02:29.17,Flashbacks-720p,,0,0,0,,Nami...
 Dialogue: 5,0:02:30.50,0:02:35.63,Flashbacks-720p,,0,0,0,,{I can't face everyone.}A tripulação... não posso enfrentá-los.
 Dialogue: 5,0:22:44.14,0:22:46.63,Flashbacks-720p,,0,0,0,,{Flashback: Last episode of Syrup Village}Do que você está falando? Vá em frente já.
@@ -5377,7 +5377,7 @@ Dialogue: 5,0:02:37.12,0:02:40.59,Main-207+,,0,0,0,,{Make sure you beat up \Neve
 Dialogue: 5,0:02:47.11,0:02:48.35,Main-207+,,0,0,0,,{So that's what you wanna do?}Você tem certeza disso?
 Dialogue: 5,0:02:48.35,0:02:50.40,Main-207+,,0,0,0,,{See? You lose.}Leia-os e chore!
 Dialogue: 5,0:02:50.40,0:02:52.40,Main-207+,,0,0,0,,{Now, go buy some food!}Parece que você está comprando a comida!
-Dialogue: 5,0:02:52.40,0:02:56.19,Main-207+,,0,0,0,,{Make sure you buy all the food \Nat the store, okay?\N!\NWe've got money!\N}Compre tudo na loja, ok?\N!\NConseguimos o dinheiro!
+Dialogue: 5,0:02:52.40,0:02:56.19,Main-207+,,0,0,0,,{Make sure you buy all the food \Nat the store, okay?!\NWe've got money!\N}Compre tudo na loja, ok?!\NConseguimos o dinheiro!
 Dialogue: 5,0:03:02.60,0:03:06.95,Main-207+,,0,0,0,,{Dammit.\NJust you wait and see.\N\NI'll beat you later.\N}Bem, droga!\NNão vá a lugar nenhum, porque vencerei na próxima vez!
 Dialogue: 5,0:03:12.88,0:03:14.29,Main-207+,,0,0,0,,Huh?
 Dialogue: 5,0:03:27.22,0:03:29.45,Main-207+,,0,0,0,,{What?! What happened?!}O que?! O que é que foi isso?!
@@ -5388,7 +5388,7 @@ Dialogue: 5,0:03:55.54,0:03:58.34,Main-207+,,0,0,0,,Isso é...
 Dialogue: 5,0:03:58.34,0:04:00.78,Main-207+,,0,0,0,,Luffy do Chapéu de Palha!
 Dialogue: 5,0:04:12.71,0:04:16.15,Main-207+,,0,0,0,,{So you came to get the money back, \Nhuh, you fools?\N}Então você pensou em vir buscar seu dinheiro de volta, hein?\NQue estúpido!
 Dialogue: 5,0:04:16.15,0:04:21.86,Main-207+,,0,0,0,,{See all the guys here?\N\NWhat do you think the four of you can do?\N}Você vê todos nós?\NO que vocês quatro poderiam fazer?
-Dialogue: 5,0:04:24.11,0:04:28.05,Main-207+,,0,0,0,,{But, well.\N.\N.\Nyou're here.\N\NYou've got a bounty on your head.\N}Mas, aqui está você.\NDizem que você tem uma recompensa pela sua cabeça.
+Dialogue: 5,0:04:24.11,0:04:28.05,Main-207+,,0,0,0,,{But, well...\Nyou're here.\N\NYou've got a bounty on your head.\N}Mas, aqui está você.\NDizem que você tem uma recompensa pela sua cabeça.
 Dialogue: 5,0:04:28.05,0:04:30.33,Main-207+,,0,0,0,,{So why don't you leave \Nthat head of yours with us?\N}Então por que não deixar sua cabeça conosco?
 Dialogue: 5,0:04:31.70,0:04:34.96,Main-207+,,0,0,0,,{weak}Este é o capitão daquele covarde de nariz comprido!
 Dialogue: 5,0:04:36.10,0:04:39.90,Main-207+,,0,0,0,,{He can't be that strong.}Então ele não pode ser tão durão!
@@ -5423,7 +5423,7 @@ Dialogue: 5,0:07:23.25,0:07:24.38,Main-207+,,0,0,0,,{\fad(150,150)}Rumo!
 Dialogue: 5,0:07:25.30,0:07:26.82,Main-207+,,0,0,0,,{\fad(150,150)}Ponto do Chifre!
 Dialogue: 5,0:07:36.97,0:07:39.89,Main-207+,,0,0,0,,{\fad(150,150)}Colunata Rosada!
 Dialogue: 5,0:07:45.87,0:07:48.61,Main-207+,,0,0,0,,W-W-Espere um segundo, pessoal!
-Dialogue: 5,0:07:48.61,0:07:51.71,Main-207+,,0,0,0,,{The money, right?\N!\N\NYou want the money back, right?\N!\N}É o dinheiro, certo?\N!\NÉ isso que você quer!
+Dialogue: 5,0:07:48.61,0:07:51.71,Main-207+,,0,0,0,,{The money, right?!\N\NYou want the money back, right?!\N}É o dinheiro, certo?!\NÉ isso que você quer!
 Dialogue: 5,0:07:51.71,0:07:55.03,Main-207+,,0,0,0,,A barriga de 200 milhões que aquele perdedor tinha, certo?
 Dialogue: 5,0:07:55.03,0:07:59.00,Main-207+,,0,0,0,,{isn't here anymore}Infelizmente, esse dinheiro não está mais aqui!
 Dialogue: 5,0:07:59.00,0:08:03.59,Main-207+,,0,0,0,,Nosso chefe, Big Bro Franky, pegou o dinheiro e foi às compras.
@@ -5461,7 +5461,7 @@ Dialogue: 5,0:10:38.37,0:10:40.94,Main-207+,,0,0,0,,Ei! Terminei de dar os prime
 Dialogue: 5,0:10:40.94,0:10:44.08,Main-207+,,0,0,0,,{I'd like to put him on a stretcher, \Nso help me out here!\N}Preciso dele em uma maca.\NMe dê uma mão!
 Dialogue: 5,0:10:44.74,0:10:46.96,Main-207+,,0,0,0,,{Staying here talking won't get us anywhere.}Não vamos descobrir isso aqui.
 Dialogue: 5,0:10:46.96,0:10:51.20,Main-207+,,0,0,0,,{We left }Vamos voltar para o navio por enquanto.\NNami-san está sozinha lá.
-Dialogue: 5,0:10:51.20,0:10:53.29,Main-207+,,0,0,0,,{We have the thing \Nwith Robin-chan to deal with.\N.\N.\N}Tem também Robin-chan.\N.\N.
+Dialogue: 5,0:10:51.20,0:10:53.29,Main-207+,,0,0,0,,{We have the thing \Nwith Robin-chan to deal with...\N}Tem também Robin-chan...
 Dialogue: 5,0:10:53.29,0:10:55.89,Main-207+,,0,0,0,,{,}e os problemas com o navio também.
 Dialogue: 5,0:10:55.89,0:10:56.71,Main-207+,,0,0,0,,Sim.
 Dialogue: 5,0:10:57.21,0:10:58.56,Main-207+,,0,0,0,,Oi, Luffy!
@@ -5504,10 +5504,10 @@ Dialogue: 5,0:13:20.89,0:13:23.35,Main-207+,,0,0,0,,Olha quem está falando!
 Dialogue: 5,0:13:25.90,0:13:29.74,Main-207+,,0,0,0,,{Just because I'm so good-for-nothing. I'm sorry!}Sinto muito por ter sido tão idiota!
 Dialogue: 5,0:13:29.74,0:13:32.66,Main-207+,,0,0,0,,{Really. I'm ashamed!}Quero dizer. Eu sou um fracasso!
 Dialogue: 5,0:13:32.66,0:13:34.82,Main-207+,,0,0,0,,Vocês!
-Dialogue: 5,0:13:37.87,0:13:40.77,Main-207+,,0,0,0,,{That money was so important for us \Nand yet, I let it.\N.\N.\NI let it.\N.\N.\N}Aquele dinheiro significava muito, e eu deixei.\N.\N.\Neu deixei.\N.\N.
+Dialogue: 5,0:13:37.87,0:13:40.77,Main-207+,,0,0,0,,{That money was so important for us \Nand yet, I let it...\NI let it...\N}Aquele dinheiro significava muito, e eu deixei...\Neu deixei...
 Dialogue: 5,0:13:40.77,0:13:42.90,Main-207+,,0,0,0,,{Hey, hold on a sec}Uau, espere! Legal!
 Dialogue: 5,0:13:42.90,0:13:44.38,Main-207+,,0,0,0,,{me }E-já entendi, solte!
-Dialogue: 5,0:13:44.38,0:13:48.93,Main-207+,,0,0,0,,{But the huge amount of money we got, \Nafter all that we went through.\N}Não, sério, passamos por muita coisa para conseguir aquele dinheiro e eu.\N.\N.
+Dialogue: 5,0:13:44.38,0:13:48.93,Main-207+,,0,0,0,,{But the huge amount of money we got, \Nafter all that we went through.\N}Não, sério, passamos por muita coisa para conseguir aquele dinheiro e eu...
 Dialogue: 5,0:13:48.93,0:13:51.90,Main-207+,,0,0,0,,Usopp, você ainda deveria estar na cama.
 Dialogue: 5,0:13:51.90,0:13:56.02,Main-207+,,0,0,0,,{Hey, listen to Chopper is saying.}Ei, você precisa ouvir Chopper.
 Dialogue: 5,0:13:57.30,0:13:59.00,Main-207+,,0,0,0,,{Then, as I was afraid...}Então é isso.
@@ -5531,44 +5531,44 @@ Dialogue: 5,0:14:53.60,0:14:59.25,Main-207+,,0,0,0,,A Going Merry cuidou muito b
 Dialogue: 5,0:15:07.65,0:15:08.76,Main-207+,,0,0,0,,De qualquer forma...
 Dialogue: 5,0:15:09.28,0:15:12.22,Main-207+,,0,0,0,,{that }Dei uma olhada no catálogo que o Iceboss nos deu.
 Dialogue: 5,0:15:12.22,0:15:16.99,Main-207+,,0,0,0,,{While checking the ships in it, \NI noticed there're quite a few kinds.\N}Há muitos navios diferentes para conferir aqui.
-Dialogue: 5,0:15:16.99,0:15:20.00,Main-207+,,0,0,0,,{If we get a used one, 100 million will allow us to buy a bigger ship than Merry.\N}Se formos com um usado, 100 milhões devem nos levar.\N.\N.
+Dialogue: 5,0:15:16.99,0:15:20.00,Main-207+,,0,0,0,,{If we get a used one, 100 million will allow us to buy a bigger ship than Merry.\N}Se formos com um usado, 100 milhões devem nos levar...
 Dialogue: 5,0:15:20.00,0:15:21.27,Main-207+,,0,0,0,,{ship }um navio muito maior.
 Dialogue: 5,0:15:22.65,0:15:28.01,Main-207+,,0,0,0,,{You're taking \Nthe joke too far.\NThat's ridiculous.\N}Espere, espere.\NVocê está levando essa piada um pouco longe demais.
 Dialogue: 5,0:15:28.01,0:15:29.11,Main-207+,,0,0,0,,Certo?
 Dialogue: 5,0:15:29.80,0:15:33.89,Main-207+,,0,0,0,,{See?\NChopper took it seriously.\N}Quero dizer, olhe!\NChopper está levando isso a sério.
 Dialogue: 5,0:15:33.89,0:15:37.59,Main-207+,,0,0,0,,{Seriously, what'll we do with our captain?\N}Na verdade, alguém diga ao nosso capitão para parar com isso.
 Dialogue: 5,0:15:37.59,0:15:40.09,Main-207+,,0,0,0,,Diga algo para ele, Nami.
-Dialogue: 5,0:15:43.70,0:15:48.42,Main-207+,,0,0,0,,{So, does that mean that we don't \Nhave enough money for the repair?\N}Então.\N.\N.\Nnós realmente não.\N.\N.\Ntemos dinheiro suficiente para consertá-la?
-Dialogue: 5,0:15:48.42,0:15:53.00,Main-207+,,0,0,0,,{Because I got that 200 million stolen by them, w-we're now short on money, right?\N}É porque deixei que roubassem os 200 milhões, não é?\N!
+Dialogue: 5,0:15:43.70,0:15:48.42,Main-207+,,0,0,0,,{So, does that mean that we don't \Nhave enough money for the repair?\N}Então...\Nnós realmente não...\Ntemos dinheiro suficiente para consertá-la?
+Dialogue: 5,0:15:48.42,0:15:53.00,Main-207+,,0,0,0,,{Because I got that 200 million stolen by them, w-we're now short on money, right?\N}É porque deixei que roubassem os 200 milhões, não é?!
 Dialogue: 5,0:15:53.00,0:15:55.23,Main-207+,,0,0,0,,Ei, é isso que está acontecendo, certo, Luffy?
-Dialogue: 5,0:15:55.23,0:15:58.50,Main-207+,,0,0,0,,{The cost of a first-class shipyard \Nwould also be first-class, so.\N.\N.\N}Afinal, um estaleiro de classe mundial cobraria preços premium, então.\N.\N.
+Dialogue: 5,0:15:55.23,0:15:58.50,Main-207+,,0,0,0,,{The cost of a first-class shipyard \Nwould also be first-class, so...\N}Afinal, um estaleiro de classe mundial cobraria preços premium, então...
 Dialogue: 5,0:15:58.50,0:16:00.18,Main-207+,,0,0,0,,Não! Não é isso!
-Dialogue: 5,0:16:00.18,0:16:04.73,Main-207+,,0,0,0,,{why}Então o que é isso?\N!\NCuspa!\NVocê está adoçando isso por minha causa?\N!
+Dialogue: 5,0:16:00.18,0:16:04.73,Main-207+,,0,0,0,,{why}Então o que é isso?!\NCuspa!\NVocê está adoçando isso por minha causa?!
 Dialogue: 5,0:16:04.73,0:16:08.82,Main-207+,,0,0,0,,{I'm not!\NIt has nothing to do \Nwith that money being stolen!\N}Eu não sou!\NIsso não tem nada a ver com o dinheiro sendo roubado!
-Dialogue: 5,0:16:08.82,0:16:11.82,Main-207+,,0,0,0,,{Then why are you saying stupid stuff like \Nthat we're gonna get a new ship?\N!\N}Então por que o plano estúpido de conseguir um novo navio?\N!
+Dialogue: 5,0:16:08.82,0:16:11.82,Main-207+,,0,0,0,,{Then why are you saying stupid stuff like \Nthat we're gonna get a new ship?!\N}Então por que o plano estúpido de conseguir um novo navio?!
 Dialogue: 5,0:16:11.82,0:16:13.24,Main-207+,,0,0,0,,{both of you}Ei, parem com isso, vocês dois!
 Dialogue: 5,0:16:13.24,0:16:16.98,Main-207+,,0,0,0,,{fighting}De que adianta brigar?\NAcalme-se e depois fale!
-Dialogue: 5,0:16:18.41,0:16:21.79,Main-207+,,0,0,0,,{How can I calm down when \Nhe starts saying stupid stuff?\N!\N}Como posso me acalmar depois de ouvir essa besteira?\N!
+Dialogue: 5,0:16:18.41,0:16:21.79,Main-207+,,0,0,0,,{How can I calm down when \Nhe starts saying stupid stuff?!\N}Como posso me acalmar depois de ouvir essa besteira?!
 Dialogue: 5,0:16:21.79,0:16:25.23,Main-207+,,0,0,0,,{Hey!\NThis is an important matter.\N\NDon't get so worked up.\N}Ei!\NEntendo que isso é importante, mas você não deveria ficar tão preocupado.
 Dialogue: 5,0:16:25.23,0:16:29.20,Main-207+,,0,0,0,,{You need to rest, \Nor you won't get better.\N}Ela está certa, Usopp.\NVocê vai piorar se não pegar leve.
 Dialogue: 5,0:16:29.20,0:16:30.99,Main-207+,,0,0,0,,{Who cares about my body?!}Então eu fico pior!
-Dialogue: 5,0:16:30.99,0:16:34.26,Main-207+,,0,0,0,,{How can I be quiet when our captain \Ncasually says we'll get a new ship?\N!\N}Como posso relaxar quando o Capitão Loudmouth quer comprar um novo navio?\N!
+Dialogue: 5,0:16:30.99,0:16:34.26,Main-207+,,0,0,0,,{How can I be quiet when our captain \Ncasually says we'll get a new ship?!\N}Como posso relaxar quando o Capitão Loudmouth quer comprar um novo navio?!
 Dialogue: 5,0:16:34.61,0:16:38.20,Main-207+,,0,0,0,,{It's not casual!\NI made the decision \Nafter agonizing over it!\N}Você entendeu errado!\NEu pensei nisso!
-Dialogue: 5,0:16:38.20,0:16:40.89,Main-207+,,0,0,0,,{What and how did you agonize \Nover to make this kind of decision?\N!\N}E foi isso que você inventou?\N!
-Dialogue: 5,0:16:41.28,0:16:44.44,Main-207+,,0,0,0,,{How dare you talk about it \Nwhile waving this stupid thing?\N!\N}Como você ousa falar enquanto balança essa coisa ?\N!
+Dialogue: 5,0:16:38.20,0:16:40.89,Main-207+,,0,0,0,,{What and how did you agonize \Nover to make this kind of decision?!\N}E foi isso que você inventou?!
+Dialogue: 5,0:16:41.28,0:16:44.44,Main-207+,,0,0,0,,{How dare you talk about it \Nwhile waving this stupid thing?!\N}Como você ousa falar enquanto balança essa coisa ?!
 Dialogue: 5,0:16:45.15,0:16:46.36,Main-207+,,0,0,0,,{What'd you do that for?!}Por que você fez isso?!
 Dialogue: 5,0:16:46.85,0:16:48.50,Main-207+,,0,0,0,,{It's an eyesore.}Isso me irritou.
-Dialogue: 5,0:16:48.50,0:16:52.50,Main-207+,,0,0,0,,{Hey, Luffy, if it wasn't because \Nwe got our money stolen, then why?\N!\N}Diga-me Luffy, se não é sobre o dinheiro roubado, então do que se trata?\N!
-Dialogue: 5,0:16:52.50,0:16:56.49,Main-207+,,0,0,0,,{why don't you say it?\N}Luffy, diga logo!\NEi!\NPor que você não me conta?\N!
+Dialogue: 5,0:16:48.50,0:16:52.50,Main-207+,,0,0,0,,{Hey, Luffy, if it wasn't because \Nwe got our money stolen, then why?!\N}Diga-me Luffy, se não é sobre o dinheiro roubado, então do que se trata?!
+Dialogue: 5,0:16:52.50,0:16:56.49,Main-207+,,0,0,0,,{why don't you say it?\N}Luffy, diga logo!\NEi!\NPor que você não me conta?!
 Dialogue: 5,0:16:56.49,0:16:58.72,Main-207+,,0,0,0,,{If you're not being considerate to me, \Nthen don't hold back!\N}Não se contenha, não importa o quanto doa!
-Dialogue: 5,0:16:58.72,0:17:02.79,Main-207+,,0,0,0,,{Say it!\NI won't accept it \Nunless I hear good reason!\NHey!\N}Diga!\NPor que eu deveria concordar com isso, hein?\N!
+Dialogue: 5,0:16:58.72,0:17:02.79,Main-207+,,0,0,0,,{Say it!\NI won't accept it \Nunless I hear good reason!\NHey!\N}Diga!\NPor que eu deveria concordar com isso, hein?!
 Dialogue: 5,0:17:02.79,0:17:04.75,Main-207+,,0,0,0,,O Merry não pode...
 Dialogue: 5,0:17:16.80,0:17:20.22,Main-207+,,0,0,0,,{What did you just say?}O que foi... O que você acabou de dizer?
 Dialogue: 5,0:17:20.86,0:17:23.02,Main-207+,,0,0,0,,Não me faça repetir.
 Dialogue: 5,0:17:23.45,0:17:26.80,Main-207+,,0,0,0,,O Merry... não pode ser consertado.
 Dialogue: 5,0:17:26.80,0:17:29.36,Main-207+,,0,0,0,,{No matter what we do, she won't be fixed.}Simplesmente... não há como consertá-la.
 Dialogue: 5,0:17:31.78,0:17:35.15,Main-207+,,0,0,0,,{Otherwise, I wouldn't say something like that.\N}Se houvesse, não estaríamos falando sobre isso.
-Dialogue: 5,0:17:35.15,0:17:39.99,Main-207+,,0,0,0,,{This ship?\N!\NAre you talking about this ship \Nthat we're on board right now?\N!\N}Este navio?\N!\NVocê quer dizer o navio em que estamos a bordo agora?\N!
+Dialogue: 5,0:17:35.15,0:17:39.99,Main-207+,,0,0,0,,{This ship?!\NAre you talking about this ship \Nthat we're on board right now?!\N}Este navio?!\NVocê quer dizer o navio em que estamos a bordo agora?!
 Dialogue: 5,0:17:39.99,0:17:43.50,Main-207+,,0,0,0,,{This ship will sink soon.}Isso mesmo. Este navio não durará muito mais tempo.
 Dialogue: 5,0:17:46.46,0:17:48.80,Main-207+,,0,0,0,,{What're you talking about, Luffy?}O que você está dizendo... Luffy?
 Dialogue: 5,0:17:48.80,0:17:52.76,Main-207+,,0,0,0,,É a verdade.\NEles nos contaram no estaleiro.
@@ -5576,13 +5576,13 @@ Dialogue: 5,0:17:53.89,0:17:57.00,Main-207+,,0,0,0,,{that }Disseram que ela nem 
 Dialogue: 5,0:17:57.00,0:18:00.28,Main-207+,,0,0,0,,{\i1}É assim mesmo? Ela não vai, né?
 Dialogue: 5,0:18:00.28,0:18:04.41,Main-207+,,0,0,0,,{So you were persuaded by strangers you just met today and gave up just like that?\N}Você acabou de conhecer esses caras hoje e eles já o convenceram a ir embora?
 Dialogue: 5,0:18:04.41,0:18:06.00,Main-207+,,0,0,0,,{What'd you say?}Dizer o que?
-Dialogue: 5,0:18:06.00,0:18:09.90,Main-207+,,0,0,0,,{Just because first-class shipwrights \Ntold you that this is it.\N.\N.\N}Entendo que esses construtores navais de alto nível lhe deram a avaliação deles, mas.\N.\N.
+Dialogue: 5,0:18:06.00,0:18:09.90,Main-207+,,0,0,0,,{Just because first-class shipwrights \Ntold you that this is it...\N}Entendo que esses construtores navais de alto nível lhe deram a avaliação deles, mas...
 Dialogue: 5,0:18:10.90,0:18:13.89,Main-207+,,0,0,0,,você desistiu assim?!
 Dialogue: 5,0:18:13.89,0:18:16.54,Main-207+,,0,0,0,,Viajamos juntos esse tempo todo!
 Dialogue: 5,0:18:16.54,0:18:18.64,Main-207+,,0,0,0,,{We made it through all sorts \Nof waves and battles together!\N}Passado cada onda!\NEm cada batalha!
 Dialogue: 5,0:18:18.64,0:18:21.68,Main-207+,,0,0,0,,{She's our dear friend!\N}Nos carregou pelo inferno e pelas águas altas!
-Dialogue: 5,0:18:21.68,0:18:25.51,Main-207+,,0,0,0,,{Are you gonna abandon her \Nin a place like this?\N!\N}E você vai abandonar nosso querido companheiro de tripulação em um lugar como esse?\N!
-Dialogue: 5,0:18:28.90,0:18:34.76,Main-207+,,0,0,0,,{Is that how little this \Nship means to you, Luffy?\N!\N}Então é isso.\N.\N.\NEsse navio significa pouco para você, Luffy?\N!
+Dialogue: 5,0:18:21.68,0:18:25.51,Main-207+,,0,0,0,,{Are you gonna abandon her \Nin a place like this?!\N}E você vai abandonar nosso querido companheiro de tripulação em um lugar como esse?!
+Dialogue: 5,0:18:28.90,0:18:34.76,Main-207+,,0,0,0,,{Is that how little this \Nship means to you, Luffy?!\N}Então é isso...\NEsse navio significa pouco para você, Luffy?!
 Dialogue: 5,0:18:36.59,0:18:39.76,Main-207+,,0,0,0,,Você não deveria gritar assim, Usopp.
 Dialogue: 5,0:18:39.76,0:18:41.76,Main-207+,,0,0,0,,– Por favor, afaste-se.\N- O que?
 Dialogue: 5,0:18:43.60,0:18:46.02,Main-207+,,0,0,0,,{I'm not done talking to him.}Ainda não consegui falar com ele.
@@ -5599,17 +5599,17 @@ Dialogue: 5,0:19:19.13,0:19:21.18,Main-207+,,0,0,0,,{Now, we're getting busy.}Ag
 Dialogue: 5,0:19:21.18,0:19:23.60,Main-207+,,0,0,0,,{You're not a shipwright, are you, Usopp?!}Você não é um construtor naval, Usopp!
 Dialogue: 5,0:19:23.60,0:19:24.72,Main-207+,,0,0,0,,Espera aí, Luffy!
 Dialogue: 5,0:19:25.80,0:19:28.10,Main-207+,,0,0,0,,Sim, você está certo. E daí?!
-Dialogue: 5,0:19:28.10,0:19:31.39,Main-207+,,0,0,0,,{But I don't trust irresponsible shipwrights \Nwho easily give up on a ship}Não confio em construtores navais obscuros que abusam de sua posição.\N.\N.
+Dialogue: 5,0:19:28.10,0:19:31.39,Main-207+,,0,0,0,,{But I don't trust irresponsible shipwrights \Nwho easily give up on a ship}Não confio em construtores navais obscuros que abusam de sua posição...
 Dialogue: 5,0:19:31.39,0:19:37.25,Main-207+,,0,0,0,,{just because it belongs to someone else by taking advantage \Nof their position as craftsmen!\N}e descartar as coisas porque é "apenas mais um navio" para eles!
 Dialogue: 5,0:19:37.25,0:19:38.66,Main-207+,,0,0,0,,Usopp.
 Dialogue: 5,0:19:38.66,0:19:43.29,Main-207+,,0,0,0,,{This must be a lesson that we should \Nprotect our own ship by ourselves.\N}A lição aqui?\NPrecisamos cuidar do navio nós mesmos.
 Dialogue: 5,0:19:43.29,0:19:48.19,Main-207+,,0,0,0,,Eu nunca vou desistir deste navio!
 Dialogue: 5,0:19:48.84,0:19:50.60,Main-207+,,0,0,0,,{Are you guys stupid or what?!}Você perdeu a cabeça?!
-Dialogue: 5,0:19:50.60,0:19:54.80,Main-207+,,0,0,0,,{You probably got fooled by the shipwrights' \Nconvincing argument, didn't you?\N!\N}Todos vocês foram enganados por aqueles construtores navais de fala mansa, não foi?\N!
+Dialogue: 5,0:19:50.60,0:19:54.80,Main-207+,,0,0,0,,{You probably got fooled by the shipwrights' \Nconvincing argument, didn't you?!\N}Todos vocês foram enganados por aqueles construtores navais de fala mansa, não foi?!
 Dialogue: 5,0:19:54.80,0:19:58.92,Main-207+,,0,0,0,,{The Luffy I know would've believed \Nin the strength of the Merry first}O Luffy que eu conheço não teria caído em algum discurso de vendas.
 Dialogue: 5,0:19:58.92,0:20:02.72,Main-207+,,0,0,0,,{rather than buying those guys' sales talk!\N}Ele teria sido o primeiro a acreditar na força do Merry!
 Dialogue: 5,0:20:02.72,0:20:06.81,Main-207+,,0,0,0,,{Such a clear-cut answer that sounds like one made \Nby an old man who understands everything.\N}Mas você não hesitou.\NComo se você fosse um velhote sábio com todas as respostas.
-Dialogue: 5,0:20:06.81,0:20:09.79,Main-207+,,0,0,0,,{How can you make a decision like that, \Nsuddenly acting all captain-like?\N!\N}Que tipo de capitão toma decisões precipitadas como essa?\N!
+Dialogue: 5,0:20:06.81,0:20:09.79,Main-207+,,0,0,0,,{How can you make a decision like that, \Nsuddenly acting all captain-like?!\N}Que tipo de capitão toma decisões precipitadas como essa?!
 Dialogue: 5,0:20:09.79,0:20:12.02,Main-207+,,0,0,0,,Eu estava errado sobre você, Luffy!
 Dialogue: 5,0:20:12.36,0:20:14.80,Main-207+,,0,0,0,,{Wait a sec, Usopp! Luffy, too, first–}Espere um pouco, Usopp! Luffy pensou o mesmo–
 Dialogue: 5,0:20:14.80,0:20:17.90,Main-207+,,0,0,0,,{\i1}Fique fora disso, Nami!\NIsso é algo que eu decidi!
@@ -5630,8 +5630,8 @@ Dialogue: 5,0:20:54.29,0:20:55.94,Main-207+,,0,0,0,,{ way}Todos aqui sentem o me
 Dialogue: 5,0:20:55.94,0:20:58.48,Main-207+,,0,0,0,,{decide to }Se isso for verdade, não há como você conseguir um novo navio!
 Dialogue: 5,0:20:58.48,0:21:03.28,Main-207+,,0,0,0,,{Fine!\NIf you dislike what I decide \Nthat much, then get off this–}Multar!\NSe você odeia como eu administro as coisas, você deveria simplesmente ir–
 Dialogue: 5,0:21:07.13,0:21:08.73,Main-207+,,0,0,0,,Sanji!
-Dialogue: 5,0:21:14.61,0:21:19.21,Main-207+,,0,0,0,,{You idiot}Seu idiota.\NO que você estava prestes a dizer?\N!
-Dialogue: 5,0:21:19.21,0:21:23.97,Main-207+,,0,0,0,,{Cool down!\NBe careful \Nabout what you say!\NGot that, Luffy?\N!\N}Esfriar!\NVocê pode acabar dizendo algo do qual se arrependerá!\NEntendeu, Luffy?\N!
+Dialogue: 5,0:21:14.61,0:21:19.21,Main-207+,,0,0,0,,{You idiot}Seu idiota.\NO que você estava prestes a dizer?!
+Dialogue: 5,0:21:19.21,0:21:23.97,Main-207+,,0,0,0,,{Cool down!\NBe careful \Nabout what you say!\NGot that, Luffy?!\N}Esfriar!\NVocê pode acabar dizendo algo do qual se arrependerá!\NEntendeu, Luffy?!
 Dialogue: 5,0:21:30.89,0:21:33.99,Main-207+,,0,0,0,,Desculpe. Eu acabei de...
 Dialogue: 5,0:21:33.99,0:21:38.06,Main-207+,,0,0,0,,{That's how you really feel, isn't it?\N}Tudo bem, Luffy.\NProvavelmente é assim que você realmente se sente.
 Dialogue: 5,0:21:38.50,0:21:39.98,Main-207+,,0,0,0,,O que você disse?!
@@ -5650,7 +5650,7 @@ Dialogue: 5,0:22:26.40,0:22:31.14,Main-207+,,0,0,0,,Luffy, você é o homem que 
 Dialogue: 5,0:22:31.89,0:22:35.95,Main-207+,,0,0,0,,{But I don't have to go that high up.}Mas não tenho ambições tão altas.
 Dialogue: 5,0:22:36.71,0:22:43.67,Main-207+,,0,0,0,,{Thinking back, when I was about to set sail, \Nyou guys asked me to join you.\N}Pensando bem, eu estava prestes a partir sozinho quando você me convidou para acompanhá-lo.
 Dialogue: 5,0:22:53.19,0:22:54.89,Main-207+,,0,0,0,,{That's all that's tying us together.}Isso é tudo o que nos une.
-Dialogue: 5,0:22:57.30,0:23:01.10,Main-207+,,0,0,0,,{We don't have to travel together \Nwhen we have a difference of opinion!\N}Se não podemos concordar, então por que deveríamos viajar juntos?\N!
+Dialogue: 5,0:22:57.30,0:23:01.10,Main-207+,,0,0,0,,{We don't have to travel together \Nwhen we have a difference of opinion!\N}Se não podemos concordar, então por que deveríamos viajar juntos?!
 Dialogue: 5,0:23:03.08,0:23:06.11,Main-207+,,0,0,0,,Ei, onde você vai, Usopp?!
 Dialogue: 5,0:23:06.78,0:23:08.82,Main-207+,,0,0,0,,Para onde vou é problema meu.
 Dialogue: 5,0:23:09.20,0:23:12.53,Main-207+,,0,0,0,,Não tem mais nada a ver com vocês.

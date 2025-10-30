@@ -115,7 +115,7 @@ Dialogue: 0,0:03:11.48,0:03:13.96,Main,,0,0,0,,Corra para o navio de evacuação
 Dialogue: 0,0:03:13.96,0:03:17.29,Main,,0,0,0,,Você não sobreviverá se ficar aqui!
 Dialogue: 0,0:03:51.40,0:03:53.83,Main,,0,0,0,,Mãe!
 Dialogue: 0,0:03:58.71,0:04:00.53,Main,,0,0,0,,Atire em Saul!
-Dialogue: 0,0:04:01.67,0:04:07.14,Main,,0,0,0,,{.\N}Robin!\NApresse-se e corra!\NQual foi o último desejo da sua mãe?\N!
+Dialogue: 0,0:04:01.67,0:04:07.14,Main,,0,0,0,,{.\N}Robin!\NApresse-se e corra!\NQual foi o último desejo da sua mãe?!
 Dialogue: 0,0:04:07.14,0:04:09.71,Flashbacks,,0,0,0,,Viva, Robin!
 Dialogue: 0,0:04:10.93,0:04:13.35,Main,,0,0,0,,O navio de evacuação está partindo!
 Dialogue: 0,0:04:13.35,0:04:15.60,Main,,0,0,0,,Espere! Tem alguém vindo!
@@ -137,7 +137,7 @@ Dialogue: 0,0:04:51.41,0:04:54.39,Main,,0,0,0,,Ver? Se a tivéssemos deixado emb
 Dialogue: 0,0:04:54.39,0:04:56.38,Main,,0,0,0,,Robin!
 Dialogue: 0,0:04:56.38,0:04:59.39,Main,,0,0,0,,{.   }Deve ser o CP9! Aquela escória inútil!
 Dialogue: 0,0:04:59.39,0:05:02.53,Main,,0,0,0,,Chefe! O vice-almirante Saul está vindo para cá!
-Dialogue: 0,0:05:02.53,0:05:06.34,Main,,0,0,0,,Realmente?\N!\NAcho que não precisamos perguntar a Olvia sobre o paradeiro dele.
+Dialogue: 0,0:05:02.53,0:05:06.34,Main,,0,0,0,,Realmente?!\NAcho que não precisamos perguntar a Olvia sobre o paradeiro dele.
 Dialogue: 0,0:05:06.34,0:05:08.90,Main,,0,0,0,,Fogo! Fogo! Dispare os canhões contra ele!
 Dialogue: 0,0:05:11.30,0:05:12.69,Main,,0,0,0,,{\fad(150,150)}Bloco de gelo!
 Dialogue: 0,0:05:13.23,0:05:14.11,Main,,0,0,0,,{\fad(150,150)}Partidário!
@@ -168,7 +168,7 @@ Dialogue: 0,0:06:33.24,0:06:37.09,Main,,0,0,0,,Se quisermos fazer isso, devemos 
 Dialogue: 0,0:06:37.09,0:06:40.04,Main,,0,0,0,,Se pelo menos um único estudioso estivesse escondido naquele navio...
 Dialogue: 0,0:06:40.04,0:06:42.54,Main,,0,0,0,,os sacrifícios que fizemos aqui seriam em vão.
 Dialogue: 0,0:06:43.50,0:06:47.37,Main,,0,0,0,,Devemos erradicar até mesmo a menor possibilidade do mal.
-Dialogue: 0,0:06:47.37,0:06:52.09,Main,,0,0,0,,Isso é realmente justiça?\N!\NVocê ainda pode afirmar que está certo?\N!
+Dialogue: 0,0:06:47.37,0:06:52.09,Main,,0,0,0,,Isso é realmente justiça?!\NVocê ainda pode afirmar que está certo?!
 Dialogue: 0,0:06:52.09,0:06:54.84,Main,,0,0,0,,Nunca tive a intenção de ir tão longe quanto aquele idiota!
 Dialogue: 0,0:06:55.56,0:06:57.10,Main,,0,0,0,,Vamos sair daqui, Robin!
 Dialogue: 0,0:06:57.10,0:06:59.77,Main,,0,0,0,,Ele é anormalmente forte!
@@ -194,7 +194,7 @@ Dialogue: 0,0:08:13.63,0:08:17.89,Main,,0,0,0,,Quando você estiver tendo um dia
 Dialogue: 0,0:08:17.89,0:08:19.56,Main,,0,0,0,,Cuidado, Saulo!
 Dialogue: 0,0:08:22.52,0:08:24.23,Main,,0,0,0,,{\fad(150,150)}Hora do Gelo.
 Dialogue: 0,0:08:26.52,0:08:27.77,Main,,0,0,0,,Saulo!
-Dialogue: 0,0:08:29.23,0:08:32.74,Thoughts,,0,0,0,,Vá conhecer os amigos que estão esperando por você.\N.\N.
+Dialogue: 0,0:08:29.23,0:08:32.74,Thoughts,,0,0,0,,Vá conhecer os amigos que estão esperando por você...
 Dialogue: 0,0:08:32.74,0:08:35.20,Thoughts,,0,0,0,,{.   }em algum lugar por aí, Robin!
 Dialogue: 0,0:08:39.07,0:08:42.12,Thoughts,,0,0,0,,Viva junto com eles.
 Dialogue: 0,0:08:56.23,0:08:57.38,Main,,0,0,0,,{.   }É impossível!
@@ -227,7 +227,7 @@ Dialogue: 0,0:10:33.48,0:10:38.57,Flashbacks,,0,0,0,,Não podemos desistir do fu
 Dialogue: 0,0:10:39.02,0:10:42.95,Flashbacks,,0,0,0,,Então ria.\NQuando você estiver passando por um momento difícil, apenas ria.
 Dialogue: 0,0:10:43.45,0:10:45.96,Flashbacks,,0,0,0,,Parece estúpido rir quando você está passando por um momento difícil.
 Dialogue: 0,0:10:45.96,0:10:47.92,Flashbacks,,0,0,0,,Isso não é verdade.
-Dialogue: 0,0:11:41.01,0:11:43.96,Flashbacks,,0,0,0,,Vá conhecer os amigos que estão esperando por você.\N.\N.
+Dialogue: 0,0:11:41.01,0:11:43.96,Flashbacks,,0,0,0,,Vá conhecer os amigos que estão esperando por você...
 Dialogue: 0,0:11:43.96,0:11:46.06,Flashbacks,,0,0,0,,{.   }em algum lugar por aí, Robin!
 Dialogue: 0,0:12:04.08,0:12:05.85,Main,,0,0,0,,Sobreviventes?
 Dialogue: 0,0:12:05.85,0:12:07.27,Main,,0,0,0,,Isso seria impossível.
@@ -248,11 +248,11 @@ Dialogue: 0,0:12:52.62,0:12:57.78,Main,,0,0,0,,Eu queria ir atrás dela, mas o l
 Dialogue: 0,0:12:57.78,0:13:01.13,Main,,0,0,0,,Aposto que Saul a deixou escapar pouco antes de morrer!
 Dialogue: 0,0:13:02.72,0:13:05.56,Main,,0,0,0,,{.   }Se ela conseguir decifrar os Poneglyphs...
 Dialogue: 0,0:13:05.56,0:13:08.51,Main,,0,0,0,,ela é perigosa, independentemente de sua juventude.
-Dialogue: 0,0:13:09.14,0:13:12.69,Main,,0,0,0,,{.\N}Esta operação não dará em nada a menos que a capturemos.\N.\N.
+Dialogue: 0,0:13:09.14,0:13:12.69,Main,,0,0,0,,{.\N}Esta operação não dará em nada a menos que a capturemos...
 Dialogue: 0,0:13:12.69,0:13:15.48,Main,,0,0,0,,{.   }o mais rápido possível - não me importa como!
 Dialogue: 0,0:13:19.81,0:13:21.57,Main,,0,0,0,,79 milhões de barriga?!
 Dialogue: 0,0:13:21.57,0:13:24.65,Main,,0,0,0,,Uma recompensa tão alta para uma menina de oito anos?!
-Dialogue: 0,0:13:24.65,0:13:27.62,Main,,0,0,0,,Disseram que ela é uma sobrevivente daqueles demônios Ohara.\N.\N.
+Dialogue: 0,0:13:24.65,0:13:27.62,Main,,0,0,0,,Disseram que ela é uma sobrevivente daqueles demônios Ohara...
 Dialogue: 0,0:13:27.62,0:13:29.91,Main,,0,0,0,,que planejou a destruição do mundo.
 Dialogue: 0,0:13:29.91,0:13:31.67,Main,,0,0,0,,Ohara?
 Dialogue: 0,0:13:31.67,0:13:36.55,Main,,0,0,0,,Não sei como, mas disseram que ela afundou seis navios de guerra da Marinha.
@@ -266,7 +266,7 @@ Dialogue: 0,0:13:56.73,0:13:59.90,Main,,0,0,0,,Claro. Obrigado por me deixar tra
 Dialogue: 0,0:13:59.90,0:14:04.61,Main,,0,0,0,,Aliás, antes do almoço você tem convidados.
 Dialogue: 0,0:14:04.61,0:14:05.82,Main,,0,0,0,,O que?!
 Dialogue: 0,0:14:05.82,0:14:07.15,Main,,0,0,0,,Não a deixe escapar!
-Dialogue: 0,0:14:07.15,0:14:11.12,Main,,0,0,0,,Agora, me dê o dinheiro!\NEu desisti dela, não foi?\N!
+Dialogue: 0,0:14:07.15,0:14:11.12,Main,,0,0,0,,Agora, me dê o dinheiro!\NEu desisti dela, não foi?!
 Dialogue: 0,0:14:11.60,0:14:14.58,Main,,0,0,0,,{.   }Ela é pequena, mas trabalha muito.
 Dialogue: 0,0:14:16.61,0:14:19.17,Main,,0,0,0,,Oh? Você ainda está acordado?
 Dialogue: 0,0:14:19.17,0:14:21.12,Main,,0,0,0,,Temos que fazer compras pela manhã.
@@ -292,13 +292,13 @@ Dialogue: 0,0:15:35.22,0:15:39.91,Main,,0,0,0,,Eu tenho dezesseis anos.\NEu fare
 Dialogue: 0,0:15:39.91,0:15:42.87,Flashbacks,,0,0,0,,Você me traiu, Robin!
 Dialogue: 0,0:15:43.47,0:15:47.17,Main,,0,0,0,,Nico Robin. Eu quero que você me ajude.
 Dialogue: 0,0:15:49.34,0:15:52.33,Main,,0,0,0,,Ouvi dizer que você pode ler Poneglyphs.
-Dialogue: 0,0:15:55.73,0:16:00.33,Main,,0,0,0,,Se.\N.\N.\Nvocê fizer uma chamada destruidora aqui e agora,
+Dialogue: 0,0:15:55.73,0:16:00.33,Main,,0,0,0,,Se...\Nvocê fizer uma chamada destruidora aqui e agora,
 Dialogue: 0,0:16:01.28,0:16:03.42,Main,,0,0,0,,então junto com Enies Lobby...
 Dialogue: 0,0:16:07.28,0:16:10.36,Main,,0,0,0,,{.   }você também encontrará sua morte.
 Dialogue: 0,0:16:10.36,0:16:12.57,Main,,0,0,0,,D-Não seja ridículo!
 Dialogue: 0,0:16:13.00,0:16:15.64,Main,,0,0,0,,Não há como nossos aliados nos atacarem!
 Dialogue: 0,0:16:15.64,0:16:18.00,Main,,0,0,0,,O que você está dizendo?!
-Dialogue: 0,0:16:18.00,0:16:21.41,Main,,0,0,0,,Há vinte anos, tudo foi tirado de mim.\N.\N.
+Dialogue: 0,0:16:18.00,0:16:21.41,Main,,0,0,0,,Há vinte anos, tudo foi tirado de mim...
 Dialogue: 0,0:16:22.11,0:16:25.13,Main,,0,0,0,,e a vida de muitas pessoas foi arruinada.
 Dialogue: 0,0:16:25.57,0:16:29.25,Main,,0,0,0,,{.   }Foi causado por um único ataque – uma chamada buster.
 Dialogue: 0,0:16:29.96,0:16:31.55,Main,,0,0,0,,Esse ataque é agora...
@@ -310,7 +310,7 @@ Dialogue: 0,0:16:46.09,0:16:49.11,Main,,0,0,0,,{.   }Enfrento um inimigo colossa
 Dialogue: 0,0:16:49.51,0:16:54.07,Main,,0,0,0,,porque o mundo e suas trevas são meus inimigos!
 Dialogue: 0,0:16:54.07,0:16:57.49,Main,,0,0,0,,{.   }O incidente com Aokiji, e isso...
 Dialogue: 0,0:16:57.49,0:17:00.04,Main,,0,0,0,,Já arrastei você para meus problemas duas vezes!
-Dialogue: 0,0:17:01.00,0:17:05.00,Main,,0,0,0,,{.\N}Se isso continuar para sempre, não importa quão bem-humorado você seja.\N.\N.
+Dialogue: 0,0:17:01.00,0:17:05.00,Main,,0,0,0,,{.\N}Se isso continuar para sempre, não importa quão bem-humorado você seja...
 Dialogue: 0,0:17:07.00,0:17:09.39,Main,,0,0,0,,{.   }você eventualmente sentirá que sou um fardo!
 Dialogue: 0,0:17:09.39,0:17:12.56,Main,,0,0,0,,{.   }Um dia, tenho certeza que você vai me trair e me abandonar!
 Dialogue: 0,0:17:12.56,0:17:14.77,Main,,0,0,0,,É disso que tenho mais medo!
@@ -327,7 +327,7 @@ Dialogue: 0,0:17:49.14,0:17:51.52,Main,,0,0,0,,Olhem esse símbolo, seus maldito
 Dialogue: 0,0:17:54.52,0:17:58.23,Main,,0,0,0,,Esse logotipo simboliza a unidade de mais de 170 países...
 Dialogue: 0,0:17:58.23,0:18:02.36,Main,,0,0,0,,abrangendo os quatro azuis e a Grand Line.
 Dialogue: 0,0:18:02.36,0:18:04.69,Main,,0,0,0,,Este é o mundo!
-Dialogue: 0,0:18:04.69,0:18:09.40,Main,,0,0,0,,{.\N}Você agora percebe quão completamente impotente é a sua oposição?\N!
+Dialogue: 0,0:18:04.69,0:18:09.40,Main,,0,0,0,,{.\N}Você agora percebe quão completamente impotente é a sua oposição?!
 Dialogue: 0,0:18:10.41,0:18:15.86,Main,,0,0,0,,Você percebe o quão grande é a organização que persegue essa mulher?!
 Dialogue: 0,0:18:16.31,0:18:19.32,Main,,0,0,0,,Eu conheço o inimigo de Robin agora.
 Dialogue: 0,0:18:19.70,0:18:21.00,Main,,0,0,0,,Sogeking.
@@ -341,9 +341,9 @@ Dialogue: 0,0:18:34.84,0:18:37.92,Main,,0,0,0,,{\fad(150,150)}Letal... Estrela d
 Dialogue: 0,0:18:46.98,0:18:47.98,Main,,0,0,0,,Sem chance...!
 Dialogue: 0,0:18:51.41,0:18:52.80,Main,,0,0,0,,Missão cumprida.
 Dialogue: 0,0:18:56.53,0:18:58.32,Main,,0,0,0,,Eles foram e fizeram isso!
-Dialogue: 0,0:18:58.32,0:19:02.28,Main,,0,0,0,,Eles entendem o que significa atacar aquela bandeira?\N!
+Dialogue: 0,0:18:58.32,0:19:02.28,Main,,0,0,0,,Eles entendem o que significa atacar aquela bandeira?!
 Dialogue: 0,0:19:02.88,0:19:08.25,Main,,0,0,0,,Os piratas declararam guerra contra o Governo Mundial!
-Dialogue: 0,0:19:08.63,0:19:11.86,Main,,0,0,0,,Você está louco?\N!\NNão pense que você conseguirá sobreviver.\N.\N.
+Dialogue: 0,0:19:08.63,0:19:11.86,Main,,0,0,0,,Você está louco?!\NNão pense que você conseguirá sobreviver...
 Dialogue: 0,0:19:11.86,0:19:13.96,Main,,0,0,0,,depois de fazer do mundo inteiro seu inimigo!
 Dialogue: 0,0:19:13.96,0:19:18.84,Main,,0,0,0,,Pode vir!
 Dialogue: 0,0:19:28.78,0:19:30.38,Main,,0,0,0,,Robin!
@@ -360,7 +360,7 @@ Dialogue: 0,0:20:16.37,0:20:18.73,Flashbacks,,0,0,0,,Eu quero morrer!
 Dialogue: 0,0:20:18.90,0:20:23.16,Flashbacks,,0,0,0,,{.   }O mar é vasto, então um dia...
 Dialogue: 0,0:20:23.16,0:20:27.12,Flashbacks,,0,0,0,,{.   }você encontrará amigos que irão protegê-lo!
 Dialogue: 0,0:20:34.46,0:20:36.46,Flashbacks,,0,0,0,,Acredite em Luffy.
-Dialogue: 0,0:20:38.68,0:20:43.55,Thoughts,,0,0,0,,{.\N}Se.\N.\N.\Nestiver tudo bem para mim expressar meu desejo apenas uma vez.\N.\N.
+Dialogue: 0,0:20:38.68,0:20:43.55,Thoughts,,0,0,0,,{.\N}Se...\Nestiver tudo bem para mim expressar meu desejo apenas uma vez...
 Dialogue: 0,0:20:45.06,0:20:46.55,Thoughts,,0,0,0,,EU...
 Dialogue: 0,0:20:49.10,0:20:51.56,Main,,0,0,0,,Eu quero viver!
 Dialogue: 0,0:20:51.56,0:20:55.94,Main,,0,0,0,,{.   }Leve-me de volta ao mar com você!

@@ -62,10 +62,10 @@ Dialogue: 0,0:02:05.04,0:02:08.33,Main,,0,0,0,,Depois de concluir esta tarefa, r
 Dialogue: 0,0:02:08.85,0:02:12.92,Main,,0,0,0,,E assim que tiver, vou dar uma lição a todos eles!
 Dialogue: 0,0:02:16.11,0:02:19.84,Title,,0,0,0,,{\fad(500,0)\pos(640,480)}Ei, mãe
 Dialogue: 0,0:02:25.23,0:02:27.25,Thoughts,,0,0,0,,Como vai tudo lá dentro?
-Dialogue: 0,0:02:28.61,0:02:32.15,Thoughts,,0,0,0,,Ainda não estou ouvindo nenhum grito.\N.\N.\NO que a Big Mom está fazendo?
+Dialogue: 0,0:02:28.61,0:02:32.15,Thoughts,,0,0,0,,Ainda não estou ouvindo nenhum grito...\NO que a Big Mom está fazendo?
 Dialogue: 0,0:02:37.40,0:02:39.34,Thoughts,,0,0,0,,Assim como planejamos...
-Dialogue: 0,0:02:39.94,0:02:44.06,Thoughts,,0,0,0,,O bolo está quebrado.\N.\N.\Ne o bando de Chapéus de Palha está à solta.\N.\N.
-Dialogue: 0,0:02:44.75,0:02:49.44,Thoughts,,0,0,0,,O retrato da Madre Carmelo também está quebrado.\N.\N.
+Dialogue: 0,0:02:39.94,0:02:44.06,Thoughts,,0,0,0,,O bolo está quebrado...\Ne o bando de Chapéus de Palha está à solta...
+Dialogue: 0,0:02:44.75,0:02:49.44,Thoughts,,0,0,0,,O retrato da Madre Carmelo também está quebrado...
 Dialogue: 0,0:02:49.88,0:02:53.15,Thoughts,,0,0,0,,Então por que a Big Mom não está gritando?!
 Dialogue: 0,0:02:56.75,0:02:58.65,Thoughts,,0,0,0,,O que está acontecendo?!
 Dialogue: 0,0:03:04.23,0:03:06.99,Flashbacks,,0,0,0,,{\i1}Luffy-san, me escute!
@@ -96,7 +96,7 @@ Dialogue: 0,0:05:12.25,0:05:14.46,Main,,0,0,0,,Corra, Reiju!
 Dialogue: 0,0:05:24.67,0:05:25.76,Main,,0,0,0,,É você de novo!
 Dialogue: 0,0:05:29.06,0:05:31.21,Main,,0,0,0,,Não fique no meu caminho!
 Dialogue: 0,0:05:37.91,0:05:39.30,Main,,0,0,0,,Sanji...
-Dialogue: 0,0:05:39.30,0:05:43.11,Main,,0,0,0,,O que ele está fazendo?\NEle está causando problemas.\N.\N.
+Dialogue: 0,0:05:39.30,0:05:43.11,Main,,0,0,0,,O que ele está fazendo?\NEle está causando problemas...
 Dialogue: 0,0:05:55.79,0:05:56.66,Thoughts,,0,0,0,,Sanji...
 Dialogue: 0,0:05:58.41,0:06:01.25,Thoughts,,0,0,0,,Subestimei sua gentileza.
 Dialogue: 0,0:06:01.64,0:06:05.92,Thoughts,,0,0,0,,Mesmo depois de tudo que fizemos com você, você ainda não nos abandonará.
@@ -154,7 +154,7 @@ Dialogue: 0,0:13:02.98,0:13:05.66,Main,,0,0,0,,O que?! Eu quero ir com você...
 Dialogue: 0,0:13:05.66,0:13:09.53,Main,,0,0,0,,Se você for uma boa menina, pode comer todos os doces que quiser na sua mochila!
 Dialogue: 0,0:13:09.53,0:13:10.93,Main,,0,0,0,,Isso mesmo!
 Dialogue: 0,0:13:11.43,0:13:12.89,Main,,0,0,0,,O que?!
-Dialogue: 0,0:13:12.89,0:13:15.27,Main,,0,0,0,,Tudo isso?\N!\NEntão, vou esperar, vou esperar!
+Dialogue: 0,0:13:12.89,0:13:15.27,Main,,0,0,0,,Tudo isso?!\NEntão, vou esperar, vou esperar!
 Dialogue: 0,0:13:15.70,0:13:17.52,Main,,0,0,0,,Eu esperarei por você!
 Dialogue: 0,0:13:21.90,0:13:23.24,Main,,0,0,0,,Até mais!
 Dialogue: 0,0:13:23.24,0:13:25.53,Main,,0,0,0,,Volte logo!
@@ -188,8 +188,8 @@ Dialogue: 0,0:15:23.98,0:15:26.26,Main,,0,0,0,,O céu busca um entendimento pac�
 Dialogue: 0,0:15:28.14,0:15:31.45,Narrator,,0,0,0,,Até o aparecimento de uma santa mulher errante!
 Dialogue: 0,0:15:31.57,0:15:35.08,Captions,,0,0,0,,{\fad(400,0)\pos(640,550)}Irmã Carmelo
 Dialogue: 0,0:15:31.45,0:15:34.32,Narrator,,0,0,0,,O nome dela era Irmã Carmel.
-Dialogue: 0,0:15:35.08,0:15:38.29,Main,,0,0,0,,O céu busca o quê?\N!\NDe que bobagem você está falando?\N!
-Dialogue: 0,0:15:38.29,0:15:41.23,Main,,0,0,0,,Você sabe quanto terror eles causaram.\N.\N.
+Dialogue: 0,0:15:35.08,0:15:38.29,Main,,0,0,0,,O céu busca o quê?!\NDe que bobagem você está falando?!
+Dialogue: 0,0:15:38.29,0:15:41.23,Main,,0,0,0,,Você sabe quanto terror eles causaram...
 Dialogue: 0,0:15:41.23,0:15:44.12,Main,,0,0,0,,Um motivo ainda maior para penitência!\NPor que você não consegue ver isso?
 Dialogue: 0,0:15:54.87,0:15:56.76,Main,,0,0,0,,Se você matar esses homens,
 Dialogue: 0,0:15:56.76,0:16:02.51,Main,,0,0,0,,os guerreiros de Elbaf formarão um exército para se vingar da humanidade!
@@ -198,7 +198,7 @@ Dialogue: 0,0:16:13.40,0:16:16.12,Main,,0,0,0,,Eu os guiarei!
 Dialogue: 0,0:16:21.55,0:16:24.04,Main,,0,0,0,,Para um mundo onde todas as raças dão as mãos
 Dialogue: 0,0:16:26.06,0:16:27.92,Main,,0,0,0,,e rir juntos!
 Dialogue: 0,0:16:30.13,0:16:35.11,Narrator,,0,0,0,,Com o tempo, ela se tornou a "Mãe" Carmel e fundou um orfanato...
-Dialogue: 0,0:16:35.11,0:16:38.01,Narrator,,0,0,0,,.\N.\N.\Nchamada Casa das Ovelhas, onde ela acolheu crianças
+Dialogue: 0,0:16:35.11,0:16:38.01,Narrator,,0,0,0,,...\Nchamada Casa das Ovelhas, onde ela acolheu crianças
 Dialogue: 0,0:16:38.01,0:16:41.32,Narrator,,0,0,0,,sem ter para onde ir, independentemente do seu estatuto ou raça.
 Dialogue: 0,0:16:43.00,0:16:45.53,Narrator,,0,0,0,,Em Elbaf, a terra natal dos Gigantes...
 Dialogue: 0,0:16:46.66,0:16:50.40,Narrator,,0,0,0,,ela serviu como uma ponte diplomática para unir a humanidade e os Gigantes...
@@ -290,7 +290,7 @@ Dialogue: 0,0:22:03.09,0:22:05.59,Main,,0,0,0,,Seu verdadeiro oponente é você 
 Dialogue: 0,0:22:07.84,0:22:09.50,Main,,0,0,0,,Levante-se, Hajrudin!
 Dialogue: 0,0:22:16.35,0:22:21.06,Captions,,0,0,0,,{\fad(400,1200)\pos(640,550)}Hajrudin
 Dialogue: 0,0:22:16.75,0:22:20.13,Narrator,,0,0,0,,Esse garoto gigante, Hajrudin...
-Dialogue: 0,0:22:20.13,0:22:25.40,Narrator,,0,0,0,,.\N.\N.\Neventualmente encontrará Luffy em Dressrosa e ficará impressionado com sua determinação.
+Dialogue: 0,0:22:20.13,0:22:25.40,Narrator,,0,0,0,,...\Neventualmente encontrará Luffy em Dressrosa e ficará impressionado com sua determinação.
 Dialogue: 0,0:22:26.30,0:22:27.73,Narrator,,0,0,0,,Junto com Bartolomeo e os outros,
 Dialogue: 0,0:22:27.73,0:22:30.20,Narrator,,0,0,0,,ele trocou xícaras de saquê como pai e filho com Luffy.
 Dialogue: 0,0:22:31.20,0:22:34.72,Narrator,,0,0,0,,Ele agora é membro da Grande Frota do Chapéu de Palha.

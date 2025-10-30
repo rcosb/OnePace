@@ -104,7 +104,7 @@ Dialogue: 0,0:03:48.00,0:03:51.90,Flashbacks,,0,0,0,,Não tenho para onde ir e n
 Dialogue: 0,0:03:53.40,0:03:54.67,Main,,0,0,0,,Não!
 Dialogue: 0,0:03:54.67,0:03:56.09,Main,,0,0,0,,Isso não!
 Dialogue: 0,0:03:57.81,0:04:00.65,Main,,0,0,0,,Essa é uma boa reação. Isso me emociona.
-Dialogue: 0,0:04:00.65,0:04:04.66,Main,,0,0,0,,O que?\NIsso significa que você quer que eu pressione este botão.\N.\N.
+Dialogue: 0,0:04:00.65,0:04:04.66,Main,,0,0,0,,O que?\NIsso significa que você quer que eu pressione este botão...
 Dialogue: 0,0:04:04.66,0:04:08.84,Main,,0,0,0,,ligar em um Buster Call?\NHum?\NNão é?
 Dialogue: 0,0:04:08.84,0:04:13.91,Main,,0,0,0,,Você realmente entende o que acontecerá quando você pressioná-lo?
 Dialogue: 0,0:04:13.91,0:04:20.84,Main,,0,0,0,,Eu faço.\NIsso eliminará a possibilidade de os piratas escaparem desta ilha!
@@ -175,7 +175,7 @@ Dialogue: 0,0:09:33.83,0:09:37.55,Main,,0,0,0,,{\an8}Parabéns, Robinho!
 Dialogue: 0,0:09:33.91,0:09:37.55,Captions,,0,0,0,,{\pos(329,431)}Arqueólogos de Ohara
 Dialogue: 0,0:09:37.55,0:09:40.64,Main,,0,0,0,,– Você é incrível, Robin!\N– Exatamente como esperaríamos de um gênio!
 Dialogue: 0,0:09:40.64,0:09:42.94,Main,,0,0,0,,Temos um bolo para você!
-Dialogue: 0,0:09:42.94,0:09:46.63,Main,,0,0,0,,Robin, o exame para o doutorado que você fez outro dia.\N.\N.
+Dialogue: 0,0:09:42.94,0:09:46.63,Main,,0,0,0,,Robin, o exame para o doutorado que você fez outro dia...
 Dialogue: 0,0:09:46.63,0:09:48.57,Main,,0,0,0,,Você surpreendentemente acertou 100% nisso!
 Dialogue: 0,0:09:48.57,0:09:52.66,Main,,0,0,0,,Por isso, a partir de hoje, reconhecemos você como arqueólogo.
 Dialogue: 0,0:09:52.66,0:09:58.32,Main,,0,0,0,,Agora você é um de nós e faremos pesquisas juntos.
@@ -199,23 +199,23 @@ Dialogue: 0,0:10:53.26,0:10:54.97,Main,,0,0,0,,Entendeu, Robin?
 Dialogue: 0,0:10:54.97,0:10:56.71,Main,,0,0,0,,Sim!
 Dialogue: 0,0:10:56.71,0:11:03.24,Main,,0,0,0,,Gostaria de ver você contribuir para o mundo pesquisando várias culturas.
 Dialogue: 0,0:11:03.24,0:11:08.06,Main,,0,0,0,,Professor! Eu gostaria de resolver o mistério da lacuna na história!
-Dialogue: 0,0:11:08.06,0:11:12.86,Main,,0,0,0,,O que.\N.\N.\NNão!\NVocê não deveria!\NEu proíbo você de fazer isso, como sempre fiz.
+Dialogue: 0,0:11:08.06,0:11:12.86,Main,,0,0,0,,O que...\NNão!\NVocê não deveria!\NEu proíbo você de fazer isso, como sempre fiz.
 Dialogue: 0,0:11:12.86,0:11:16.67,Main,,0,0,0,,O que? Por que? Se pesquisarmos os Poneglyphs,
 Dialogue: 0,0:11:16.67,0:11:19.70,Main,,0,0,0,,saberemos o que aconteceu durante o Século do Vazio, certo?
 Dialogue: 0,0:11:21.20,0:11:23.40,Main,,0,0,0,,Por que você sabe tanto?
-Dialogue: 0,0:11:23.40,0:11:26.96,Main,,0,0,0,,Você espiou o porão usando seus poderes?\N!
+Dialogue: 0,0:11:23.40,0:11:26.96,Main,,0,0,0,,Você espiou o porão usando seus poderes?!
 Dialogue: 0,0:11:26.96,0:11:28.16,Main,,0,0,0,,Mas...
 Dialogue: 0,0:11:28.16,0:11:33.13,Main,,0,0,0,,Você deve saber que tentar decifrar os Poneglyphs é um ato criminoso!
 Dialogue: 0,0:11:33.13,0:11:34.21,Main,,0,0,0,,O que...?
 Dialogue: 0,0:11:35.21,0:11:36.68,Main,,0,0,0,,Mas...
-Dialogue: 0,0:11:36.68,0:11:38.77,Main,,0,0,0,,vocês têm pesquisado os Poneglyphs.\N.\N.
+Dialogue: 0,0:11:36.68,0:11:38.77,Main,,0,0,0,,vocês têm pesquisado os Poneglyphs...
 Dialogue: 0,0:11:38.77,0:11:41.56,Main,,0,0,0,,no porão tarde da noite!
 Dialogue: 0,0:11:41.56,0:11:45.23,Main,,0,0,0,,Robin! Como você sabe disso?!
 Dialogue: 0,0:11:45.63,0:11:49.90,Main,,0,0,0,,Explique-se!\NVocê está dizendo que também está espionando isso?
 Dialogue: 0,0:11:49.90,0:11:53.13,Main,,0,0,0,,Responda-me, Robin!
 Dialogue: 0,0:11:53.13,0:11:55.52,Main,,0,0,0,,Mas...
 Dialogue: 0,0:11:55.52,0:12:00.02,Main,,0,0,0,,se eu simplesmente subisse, você não me deixaria entrar!
-Dialogue: 0,0:12:00.50,0:12:08.25,Main,,0,0,0,,Pensei.\N.\N.\Nque você me deixaria fazer parte da sua pesquisa se eu me tornasse arqueólogo.
+Dialogue: 0,0:12:00.50,0:12:08.25,Main,,0,0,0,,Pensei...\Nque você me deixaria fazer parte da sua pesquisa se eu me tornasse arqueólogo.
 Dialogue: 0,0:12:08.25,0:12:10.90,Main,,0,0,0,,Então estudei muito!
 Dialogue: 0,0:12:12.69,0:12:14.14,Main,,0,0,0,,Robin...
 Dialogue: 0,0:12:16.55,0:12:22.85,Main,,0,0,0,,É verdade que você adquiriu conhecimento suficiente para ser chamado de estudioso.
@@ -359,27 +359,27 @@ Dialogue: 0,0:22:36.61,0:22:39.56,Main,,0,0,0,,Vou pedir a ela que me leve para 
 Dialogue: 0,0:22:39.56,0:22:44.04,Main,,0,0,0,,Então estudei muito e finalmente consegui me tornar arqueólogo.
 Dialogue: 0,0:22:44.04,0:22:48.41,Main,,0,0,0,,Um arqueólogo? Quando você ainda é tão pequeno?
 Dialogue: 0,0:22:48.41,0:22:49.74,Main,,0,0,0,,Sim.
-Dialogue: 0,0:22:49.74,0:22:55.88,Main,,0,0,0,,Mas.\N.\N.\Nvocê nem lembra do rosto da sua mãe, né?
+Dialogue: 0,0:22:49.74,0:22:55.88,Main,,0,0,0,,Mas...\Nvocê nem lembra do rosto da sua mãe, né?
 Dialogue: 0,0:22:55.88,0:22:58.66,Main,,0,0,0,,Certo... mas ela ainda é minha mãe.
 Dialogue: 0,0:22:59.75,0:23:01.64,Main,,0,0,0,,Eu quero vê-la.
-Dialogue: 0,0:23:03.84,0:23:05.59,Main,,0,0,0,,– Diga, Saulo.\N.\N.\N– Hm?
+Dialogue: 0,0:23:03.84,0:23:05.59,Main,,0,0,0,,– Diga, Saulo...\N– Hm?
 Dialogue: 0,0:23:05.59,0:23:10.59,Main,,0,0,0,,Você sabia que a história tem um grande intervalo de 100 anos que ninguém conhece?
 Dialogue: 0,0:23:10.59,0:23:14.45,Main,,0,0,0,,Sim. É chamado de Século do Vazio.
-Dialogue: 0,0:23:14.45,0:23:19.35,Main,,0,0,0,,Estou curioso sobre isso, mas o governo proíbe as pessoas de investigar, então.\N.\N.
+Dialogue: 0,0:23:14.45,0:23:19.35,Main,,0,0,0,,Estou curioso sobre isso, mas o governo proíbe as pessoas de investigar, então...
 Dialogue: 0,0:23:19.35,0:23:24.36,Main,,0,0,0,,Sim.\NOuvi dizer que minha mãe está viajando pelo mundo investigando isso.
 Dialogue: 0,0:23:24.36,0:23:28.83,Main,,0,0,0,,Mas não conte a ninguém, pois na verdade é um crime.
 Dialogue: 0,0:23:28.83,0:23:29.70,Main,,0,0,0,,O que?!
 Dialogue: 0,0:23:29.70,0:23:35.59,Main,,0,0,0,,C-Isso poderia significar que ela está viajando em busca daquelas pedras chamadas Poneglyphs?
 Dialogue: 0,0:23:36.29,0:23:38.21,Main,,0,0,0,,Então você conhece os Poneglyphs?
-Dialogue: 0,0:23:38.21,0:23:44.48,Main,,0,0,0,,Claro que sim!\NMas não fale sobre isso na frente das pessoas, ok?\N!
-Dialogue: 0,0:23:44.48,0:23:48.87,Main,,0,0,0,,Sem falar da sua mãe viajando em busca de.\N.\N.\NAh!
+Dialogue: 0,0:23:38.21,0:23:44.48,Main,,0,0,0,,Claro que sim!\NMas não fale sobre isso na frente das pessoas, ok?!
+Dialogue: 0,0:23:44.48,0:23:48.87,Main,,0,0,0,,Sem falar da sua mãe viajando em busca de...\NAh!
 Dialogue: 0,0:23:50.66,0:23:52.02,Main,,0,0,0,,O que está errado?
 Dialogue: 0,0:23:52.02,0:23:56.44,Main,,0,0,0,,Robin... você sabe o nome da sua mãe?
 Dialogue: 0,0:23:56.90,0:23:57.94,Main,,0,0,0,,Ólvia.
 Dialogue: 0,0:23:59.78,0:24:01.80,Main,,0,0,0,,É Nico Olvia.
 Dialogue: 0,0:24:08.97,0:24:10.34,Main,,0,0,0,,Saulo?!
 Dialogue: 0,0:24:10.34,0:24:14.26,Main,,0,0,0,,Robin é filha de Olvia...!
-Dialogue: 0,0:24:14.26,0:24:19.73,Main,,0,0,0,,Então.\N.\N.\Npoderia este lugar ser.\N.\N.\Numa ilha chamada Ohara?\N!
+Dialogue: 0,0:24:14.26,0:24:19.73,Main,,0,0,0,,Então...\Npoderia este lugar ser...\Numa ilha chamada Ohara?!
 Dialogue: 0,0:24:19.73,0:24:24.29,Main,,0,0,0,,- Sim.\N- Ahh!\NIsso é terrível!\NOh não!
 Dialogue: 0,0:24:24.29,0:24:27.91,Main,,0,0,0,,Então fui para Ohara?!
 Dialogue: 0,0:24:28.92,0:24:31.03,Main,,0,0,0,,Não é hora de ficar sentado conversando!
@@ -390,8 +390,8 @@ Dialogue: 0,0:24:41.50,0:24:43.18,Main,,0,0,0,,A Marinha? Por que?
 Dialogue: 0,0:24:43.18,0:24:46.54,Main,,0,0,0,,Para eliminar os estudiosos desta ilha!
 Dialogue: 0,0:24:47.94,0:24:49.60,Main,,0,0,0,,Eliminá-los?
 Dialogue: 0,0:24:50.49,0:24:52.99,Main,,0,0,0,,Não conte...
-Dialogue: 0,0:24:52.99,0:24:56.10,Main,,0,0,0,,– Isso é mentira.\N.\N.\N– Não diga ao governo que você é um estudioso!
-Dialogue: 0,0:24:56.10,0:24:58.38,Main,,0,0,0,,– Isso é mentira.\N.\N.\N!\N– Entendeu?\N!
+Dialogue: 0,0:24:52.99,0:24:56.10,Main,,0,0,0,,– Isso é mentira...\N– Não diga ao governo que você é um estudioso!
+Dialogue: 0,0:24:56.10,0:24:58.38,Main,,0,0,0,,– Isso é mentira...!\N– Entendeu?!
 Dialogue: 0,0:24:58.38,0:25:00.09,Main,,0,0,0,,Isso é mentira!
 Dialogue: 0,0:25:00.09,0:25:03.56,Main,,0,0,0,,É verdade! Eu nunca mentiria para você!
 Dialogue: 0,0:25:03.56,0:25:06.77,Main,,0,0,0,,Vá para a cidade agora e veja se algo estranho está acontecendo!
@@ -399,7 +399,7 @@ Dialogue: 0,0:25:06.77,0:25:10.18,Main,,0,0,0,,É possível que sua mãe também
 Dialogue: 0,0:25:10.18,0:25:11.66,Main,,0,0,0,,O que?!
 Dialogue: 0,0:25:18.42,0:25:21.46,Captions,,0,0,0,,{\pos(646,502)}Arqueóloga Nico Olvia
 Dialogue: 0,0:25:18.68,0:25:21.46,Main,,0,0,0,,{\an8}Já faz um tempo, pessoal.
-Dialogue: 0,0:25:21.46,0:25:23.55,Main,,0,0,0,,{\i1}– Olvia.\N.\N.\N– Olvia-san.\N.\N.\N!
+Dialogue: 0,0:25:21.46,0:25:23.55,Main,,0,0,0,,{\i1}– Olvia...\N– Olvia-san...!
 Dialogue: 0,0:25:23.55,0:25:25.75,Main,,0,0,0,,Então foi você quem veio naquele navio da Marinha!
 Dialogue: 0,0:25:25.75,0:25:27.91,Main,,0,0,0,,Pensávamos que você tinha sido pego pela Marinha...
 Dialogue: 0,0:25:34.62,0:25:38.07,Main,,0,0,0,,Lamento ter voltado trazendo más notícias.
@@ -407,7 +407,7 @@ Dialogue: 0,0:25:38.07,0:25:40.34,Main,,0,0,0,,Mas o que acabei de dizer é verd
 Dialogue: 0,0:25:40.34,0:25:44.52,Main,,0,0,0,,Então o governo finalmente voltou os olhos para Ohara?
 Dialogue: 0,0:25:44.92,0:25:46.69,Main,,0,0,0,,Você leu o jornal?
 Dialogue: 0,0:25:46.69,0:25:51.37,Main,,0,0,0,,A equipe de busca Poneglyph que partiu de Ohara há seis anos foi aniquilada.
-Dialogue: 0,0:25:51.37,0:25:56.21,Main,,0,0,0,,Todos eles, exceto eu.\N.\N.\NUm total de 33 membros.\N.\N.
+Dialogue: 0,0:25:51.37,0:25:56.21,Main,,0,0,0,,Todos eles, exceto eu...\NUm total de 33 membros...
 Dialogue: 0,0:25:56.21,0:25:58.71,Main,,0,0,0,,Eu também fui capturado temporariamente.
 Dialogue: 0,0:25:58.71,0:26:03.92,Main,,0,0,0,,O Governo analisou cuidadosamente os pertences dos meus companheiros assassinados...
 Dialogue: 0,0:26:03.92,0:26:06.77,Main,,0,0,0,,e descobrimos que viemos de Ohara.
@@ -425,7 +425,7 @@ Dialogue: 0,0:26:43.47,0:26:46.04,Main,,0,0,0,,Eles não vão deixar passar esta
 Dialogue: 0,0:26:46.04,0:26:50.09,Main,,0,0,0,,Sim, mas descobrimos antes que fosse tarde demais!
 Dialogue: 0,0:26:50.09,0:26:54.69,Main,,0,0,0,,No final das contas, eles eliminarão todos os estudiosos conhecidos em Ohara!
 Dialogue: 0,0:26:54.69,0:26:58.47,Main,,0,0,0,,Pessoal, devemos escapar de Ohara imediatamente!
-Dialogue: 0,0:26:58.47,0:27:02.63,Main,,0,0,0,,Sim.\N.\N.\Ndesta vez, provavelmente não conseguiremos escapar da investigação deles
+Dialogue: 0,0:26:58.47,0:27:02.63,Main,,0,0,0,,Sim...\Ndesta vez, provavelmente não conseguiremos escapar da investigação deles
 Dialogue: 0,0:27:02.63,0:27:05.45,Main,,0,0,0,,como costumamos fazer...
 Dialogue: 0,0:27:05.45,0:27:09.53,Main,,0,0,0,,se eles estão tentando nos matar.
 Dialogue: 0,0:27:09.53,0:27:10.87,Main,,0,0,0,,Então, apresse-se e...
@@ -447,7 +447,7 @@ Dialogue: 0,0:27:51.94,0:27:53.53,Flashbacks,,0,0,0,,Não! Eu irei com você!
 Dialogue: 0,0:27:53.53,0:27:59.50,Flashbacks,,0,0,0,,Sou um estudioso de Ohara. Não posso abandonar a vontade dos nossos antepassados!
 Dialogue: 0,0:28:00.20,0:28:01.50,Thoughts,,0,0,0,,Sinto muito, Robin.
 Dialogue: 0,0:28:01.50,0:28:05.43,Thoughts,,0,0,0,,Estarei em casa depois de resolvermos todos os mistérios!
-Dialogue: 0,0:28:11.09,0:28:15.98,Main,,0,0,0,,Mamãe.\N.\N.\NOnde está a mamãe?\NPara onde a mamãe foi?
+Dialogue: 0,0:28:11.09,0:28:15.98,Main,,0,0,0,,Mamãe...\NOnde está a mamãe?\NPara onde a mamãe foi?
 Dialogue: 0,0:28:15.98,0:28:21.19,Main,,0,0,0,,Sua mãe saiu para o mar para trabalhar.\NVocê ficará aqui conosco por um tempo.
 Dialogue: 0,0:28:21.19,0:28:23.77,Main,,0,0,0,,Você é barulhento! Fique quieto ou eu vou bater em você!
 Dialogue: 0,0:28:23.77,0:28:26.29,Main,,0,0,0,,Ei, pare com isso. Ela tem apenas dois anos.
@@ -472,7 +472,7 @@ Dialogue: 0,0:29:24.27,0:29:27.25,Main,,0,0,0,,Contanto que eu saiba que ela est
 Dialogue: 0,0:29:27.92,0:29:31.39,Main,,0,0,0,,Estou muito adiantado nesse caminho, então devo cortar os laços.
 Dialogue: 0,0:29:31.39,0:29:35.35,Main,,0,0,0,,Não posso fazer dela filha de um criminoso.
 Dialogue: 0,0:29:35.35,0:29:39.07,Main,,0,0,0,,Professor Trevo!\NDesta vez, chegou um navio com a bandeira do Governo Mundial!
-Dialogue: 0,0:29:39.07,0:29:43.02,Main,,0,0,0,,Um navio do governo veio até West Blue.\N.\N.
+Dialogue: 0,0:29:39.07,0:29:43.02,Main,,0,0,0,,Um navio do governo veio até West Blue...
 Dialogue: 0,0:29:43.02,0:29:46.99,Main,,0,0,0,,Na verdade, parece bastante sério.
 Dialogue: 0,0:29:48.94,0:29:50.79,Main,,0,0,0,,Todos, ouçam.
 Dialogue: 0,0:29:50.79,0:29:53.91,Main,,0,0,0,,Vocês e eu não somos colegas acadêmicos nem conhecidos.
@@ -485,13 +485,13 @@ Dialogue: 0,0:30:09.51,0:30:12.51,Main,,0,0,0,,Nossa... Que dor.
 Dialogue: 0,0:30:13.06,0:30:16.63,Main,,0,0,0,,De qualquer forma, é melhor que este trabalho me dê uma promoção.
 Dialogue: 0,0:30:16.63,0:30:20.51,Main,,0,0,0,,Ei, vá buscar todos os estudiosos e contenha-os.
 Dialogue: 0,0:30:20.51,0:30:21.44,Main,,0,0,0,,Sim, senhor!
-Dialogue: 0,0:30:21.44,0:30:25.11,Main,,0,0,0,,– O que está acontecendo?\N!\N– Uma mulher com uma arma está correndo por aí!
+Dialogue: 0,0:30:21.44,0:30:25.11,Main,,0,0,0,,– O que está acontecendo?!\N– Uma mulher com uma arma está correndo por aí!
 Dialogue: 0,0:30:43.84,0:30:49.05,Main,,0,0,0,,Pelo amor de Deus! Sinto muito, Robin!
 Dialogue: 0,0:30:49.05,0:30:49.80,Main,,0,0,0,,Vice-almirante Kuzan!
 Dialogue: 0,0:30:49.10,0:30:54.46,Captions,,0,0,0,,{\pos(1140,453)}West Blue em algum lugar no mar
 Dialogue: 0,0:30:49.80,0:30:51.92,Main,,0,0,0,,Hum? O que é?
 Dialogue: 0,0:30:51.92,0:30:56.03,Main,,0,0,0,,Fomos notificados de que o Chefe Spandine do CP9 chegou a Ohara.
-Dialogue: 0,0:30:56.03,0:31:01.93,Main,,0,0,0,,{\an8}O que?\NIsso é algo tão importante que você teve que me acordar para me contar?\N!
+Dialogue: 0,0:30:56.03,0:31:01.93,Main,,0,0,0,,{\an8}O que?\NIsso é algo tão importante que você teve que me acordar para me contar?!
 Dialogue: 0,0:30:59.96,0:31:03.42,Captions,,0,0,0,,{\pos(646,433)}Vice-almirante Kuzan, Quartel-General da Marinha (que mais tarde se tornaria Almirante Aokiji)
 Dialogue: 0,0:31:01.93,0:31:03.42,Main,,0,0,0,,{\an8}Eu-me desculpe!
 Dialogue: 0,0:31:03.42,0:31:06.00,Credits,,0,0,0,,Edição: Galaxy 9000 Tempo: Halee Garantia de qualidade: Feeso, Galaxy 9000, Grug, Pepperjack Trilha sonora: Halee Título e Infoboxes: Datenshi Karaokê: KaitouYahiko Tradução: Crunchyroll, Gaijin

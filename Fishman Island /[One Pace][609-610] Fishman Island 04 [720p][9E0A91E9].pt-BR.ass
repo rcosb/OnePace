@@ -101,7 +101,7 @@ Dialogue: 0,0:03:27.72,0:03:29.81,Main,Caimie,0,0,0,,Quem é? A princesa sereia?
 Dialogue: 0,0:03:29.81,0:03:30.42,Main,Luffy,0,0,0,,Não!
 Dialogue: 0,0:03:30.42,0:03:31.88,Main,Luffy,0,0,0,,É Jinbei!
 Dialogue: 0,0:03:33.96,0:03:35.86,Main,Caimie,0,0,0,,Chefe Jinbei?
-Dialogue: 0,0:03:35.86,0:03:39.42,Main,Usopp,0,0,0,,E-Espere, Luffy, quando você diz Jinbei.\N.\N.\NVocê não fez amizade com outro Senhor da Guerra, não é?\N!
+Dialogue: 0,0:03:35.86,0:03:39.42,Main,Usopp,0,0,0,,E-Espere, Luffy, quando você diz Jinbei...\NVocê não fez amizade com outro Senhor da Guerra, não é?!
 Dialogue: 0,0:03:39.42,0:03:43.38,Main,Usopp,0,0,0,,Oh, espere, ele desistiu durante a guerra, então acho que ele é um ex-Senhor da Guerra agora.
 Dialogue: 0,0:03:43.38,0:03:45.10,Main,Luffy,0,0,0,,Sim! Ele é meu amigo!
 Dialogue: 0,0:03:46.03,0:03:48.03,Main,Usopp,0,0,0,,{\an8}O-O que há com você?!
@@ -196,7 +196,7 @@ Dialogue: 0,0:08:05.06,0:08:07.32,Main,Chopper,0,0,0,,Mas se você vai nos prend
 Dialogue: 0,0:08:07.32,0:08:10.60,Main,Chopper,0,0,0,,Tem alguém aqui disposto a doar sangue?!
 Dialogue: 0,0:08:10.98,0:08:15.04,Main,Chopper,0,0,0,,Sem ajuda, nosso companheiro morrerá em uma hora!
 Dialogue: 0,0:08:15.37,0:08:18.51,Main,Chopper,0,0,0,,Ele tem tipo sanguíneo S, RH-.
-Dialogue: 0,0:08:18.51,0:08:21.52,Main,Chopper,0,0,0,,Não é muito comum, mas tem alguém aqui com esse tipo?\N!
+Dialogue: 0,0:08:18.51,0:08:21.52,Main,Chopper,0,0,0,,Não é muito comum, mas tem alguém aqui com esse tipo?!
 Dialogue: 0,0:08:21.52,0:08:24.85,Main,Chopper,0,0,0,,Ou os tritões e os homens-peixe têm sangue diferente dos humanos?
 Dialogue: 0,0:08:25.70,0:08:27.02,Main,Caimie,0,0,0,,Queixo picador...
 Dialogue: 0,0:08:27.02,0:08:29.73,Main,Chopper,0,0,0,,Pressa! Não há ninguém?!
@@ -266,7 +266,7 @@ Dialogue: 0,0:12:20.28,0:12:24.29,Main,Chopper,0,0,0,,Não imagine absolutamente
 Dialogue: 0,0:12:24.29,0:12:28.43,Main,Usopp,0,0,0,,Ainda assim, isso me lembra da discriminação que você e Hachi sofreram em Sabaody há dois anos.
 Dialogue: 0,0:12:28.43,0:12:30.50,Main,Usopp,0,0,0,,Parece que o problema é profundo.
 Dialogue: 0,0:12:30.50,0:12:33.39,Main,Usopp,0,0,0,,Nunca pensei que uma hemorragia nasal pudesse se tornar algo sério assim.
-Dialogue: 0,0:12:33.39,0:12:36.90,Main,Caimie,0,0,0,,Sim.\N.\N.\NMesmo se chegarmos à cidade, ainda estou um pouco preocupado.
+Dialogue: 0,0:12:33.39,0:12:36.90,Main,Caimie,0,0,0,,Sim...\NMesmo se chegarmos à cidade, ainda estou um pouco preocupado.
 Dialogue: 0,0:12:36.90,0:12:39.14,Main,Caimie,0,0,0,,Encontraremos alguém disposto a doar sangue na hora certa?
 Dialogue: 0,0:12:40.21,0:12:45.35,Main,Caimie,0,0,0,,No mês passado, nenhum humano veio para a ilha.
 Dialogue: 0,0:12:45.35,0:12:47.98,Main,Caimie,0,0,0,,Vocês são os primeiros convidados que recebemos há algum tempo.
@@ -327,7 +327,7 @@ Dialogue: 0,0:16:23.23,0:16:28.94,Main,Chopper,0,0,0,,O corpo de Luffy deve ter 
 Dialogue: 0,0:16:28.94,0:16:33.02,Main,Chopper,0,0,0,,Você já foi exposto a grandes quantidades de veneno antes?
 Dialogue: 0,0:16:33.02,0:16:34.43,Main,Luffy,0,0,0,,Veneno, hein...
 Dialogue: 0,0:16:35.41,0:16:39.38,Main,Luffy,0,0,0,,Quase fui morto por veneno em Impel Down.
-Dialogue: 0,0:16:42.25,0:16:45.49,Main,Usopp,0,0,0,,Quase morto?\NIsso é realmente algo para rir?\N!
+Dialogue: 0,0:16:42.25,0:16:45.49,Main,Usopp,0,0,0,,Quase morto?\NIsso é realmente algo para rir?!
 Dialogue: 0,0:16:45.49,0:16:47.68,Main,Luffy,0,0,0,,Deve ter sido aquele cara...
 Dialogue: 0,0:16:47.68,0:16:50.29,Main,Luffy,0,0,0,,O espadachim com pernas de polvo.
 Dialogue: 0,0:16:50.29,0:16:53.83,Main,Luffy,0,0,0,,Afinal, ele resistiu ao meu ataque.
@@ -354,7 +354,7 @@ Dialogue: 0,0:17:49.17,0:17:51.94,Main,Shyarly,0,0,0,,{\an8}O garoto loiro está
 Dialogue: 0,0:17:51.94,0:17:52.97,Main,Caimie,0,0,0,,{\an8}Sim.
 Dialogue: 0,0:17:52.97,0:17:54.86,Main,Caimie,0,0,0,,{\an8}Mas Madame, já que você é tão linda,
 Dialogue: 0,0:17:54.86,0:17:57.76,Main,Caimie,0,0,0,,você deveria ficar fora do quarto dele por enquanto.
-Dialogue: 0,0:17:57.76,0:18:02.01,Main,Caimie,0,0,0,,Além disso, o fato de estarmos nos fundos do Mermaid Café.\N.\N.
+Dialogue: 0,0:17:57.76,0:18:02.01,Main,Caimie,0,0,0,,Além disso, o fato de estarmos nos fundos do Mermaid Café...
 Dialogue: 0,0:18:02.01,0:18:04.02,Main,Caimie,0,0,0,,Mantenha isso em segredo de Sanji-chin.
 Dialogue: 0,0:18:04.02,0:18:05.31,Main,Shyarly,0,0,0,,Por que?
 Dialogue: 0,0:18:05.31,0:18:07.20,Main,Caimie,0,0,0,,Porque se ele descobrir...
@@ -371,7 +371,7 @@ Dialogue: 0,0:18:29.84,0:18:33.98,Main,Caimie,0,0,0,,Madame é famosa por fazer 
 Dialogue: 0,0:18:35.18,0:18:38.37,Main,Shyarly,0,0,0,,Eu parei de adivinhar a sorte.
 Dialogue: 0,0:18:38.37,0:18:42.17,Main,Shyarly,0,0,0,,É melhor não saber o futuro.
 Dialogue: 0,0:18:42.46,0:18:45.43,Main,Luffy,0,0,0,,Então, as sereias fazem cocô?
-Dialogue: 0,0:18:45.86,0:18:48.24,Main,Usopp,0,0,0,,O que você quer dizer com "então"?\N!\NIsso não tem nada a ver com adivinhação!
+Dialogue: 0,0:18:45.86,0:18:48.24,Main,Usopp,0,0,0,,O que você quer dizer com "então"?!\NIsso não tem nada a ver com adivinhação!
 Dialogue: 0,0:18:48.24,0:18:50.58,Main,Shyarly,0,0,0,,Seu garoto vulgar!
 Dialogue: 0,0:18:50.58,0:18:52.69,Main,Caimie,0,0,0,,Peça desculpas a ela, Luffy-chin!
 Dialogue: 0,0:18:52.69,0:18:53.73,Main,Luffy & Usopp,0,0,0,,Desculpe!
@@ -393,7 +393,7 @@ Dialogue: 0,0:19:29.20,0:19:33.16,Main,Shyarly,0,0,0,,Se você quer dizer Monsie
 Dialogue: 0,0:19:33.16,0:19:34.99,Main,Shyarly,0,0,0,,Os dois estão no café agora.
 Dialogue: 0,0:19:39.53,0:19:42.25,Main,Caimie,0,0,0,,Eu não mencionei isso antes, mas...
 Dialogue: 0,0:19:42.25,0:19:45.29,Main,Caimie,0,0,0,,Quando a Madame ainda era criança,
-Dialogue: 0,0:19:45.29,0:19:48.72,Main,Caimie,0,0,0,,ela disse que muitos piratas viriam para a ilha em breve.\N.\N.
+Dialogue: 0,0:19:45.29,0:19:48.72,Main,Caimie,0,0,0,,ela disse que muitos piratas viriam para a ilha em breve...
 Dialogue: 0,0:19:49.11,0:19:53.71,Main,Caimie,0,0,0,,E então a Grande Era dos Piratas começou no ano seguinte.
 Dialogue: 0,0:19:53.71,0:19:55.61,Main,Luffy & Usopp,0,0,0,,{\i1}O que?!
 Dialogue: 0,0:19:55.91,0:19:58.10,Main,Caimie,0,0,0,,Levaria muito tempo se eu te contasse todos os detalhes,
@@ -484,7 +484,7 @@ Dialogue: 0,0:24:28.03,0:24:29.24,Main,Pappagg,0,0,0,,Oh!
 Dialogue: 0,0:24:29.24,0:24:34.04,Main,Pappagg,0,0,0,,Bem, as lendas costumam ser exageros de exageros.
 Dialogue: 0,0:24:34.25,0:24:36.70,Main,Pappagg,0,0,0,,Parece que ele existiu,
 Dialogue: 0,0:24:36.70,0:24:45.42,Main,Pappagg,0,0,0,,mas o Vander Decken da lenda era apenas um homem que chegou a esta ilha e viveu no campo.
-Dialogue: 0,0:24:45.42,0:24:51.22,Main,Pappagg,0,0,0,,Então, o navio que você encontrou provavelmente era o verdadeiro Flying Dutchman.\N.\N.
+Dialogue: 0,0:24:45.42,0:24:51.22,Main,Pappagg,0,0,0,,Então, o navio que você encontrou provavelmente era o verdadeiro Flying Dutchman...
 Dialogue: 0,0:24:52.43,0:24:54.67,Main,Pappagg,0,0,0,,mas o capitão era apenas seu descendente!
 Dialogue: 0,0:24:56.24,0:24:56.53,Main,Pappagg,0,0,0,,{\fscx250}Va-
 Dialogue: 0,0:24:56.53,0:24:58.61,Main,Caimie,0,0,0,,Vander Decken o nono!

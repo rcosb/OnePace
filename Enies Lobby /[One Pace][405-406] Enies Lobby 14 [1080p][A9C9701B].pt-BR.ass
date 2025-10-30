@@ -2273,10 +2273,10 @@ Dialogue: 0,0:03:02.00,0:03:04.99,Main-207+,,0,0,0,,O que?! Você não deveria f
 Dialogue: 0,0:03:06.00,0:03:06.99,Main-207+,,0,0,0,,Que idiota.
 Dialogue: 0,0:03:06.99,0:03:12.54,Main-207+,,0,0,0,,Sou um mestre dos Seis Poderes.\NBalas de canhão nunca me atingiriam!
 Dialogue: 0,0:03:12.54,0:03:15.04,Main-207+,,0,0,0,,Não importa o quanto você corra,
-Dialogue: 0,0:03:15.04,0:03:20.55,Main-207+,,0,0,0,,você não pode escapar do meu canhão Franky Destroyer.\N.\N.
+Dialogue: 0,0:03:15.04,0:03:20.55,Main-207+,,0,0,0,,você não pode escapar do meu canhão Franky Destroyer...
 Dialogue: 0,0:03:20.55,0:03:24.55,Main-207+,,0,0,0,,{.}porque tem balas de canhão!
 Dialogue: 0,0:03:25.30,0:03:27.31,Thoughts-207+,,0,0,0,,{.}Direcionando balas de canhão?!
-Dialogue: 0,0:03:27.31,0:03:31.81,Thoughts-207+,,0,0,0,,Será que as balas de canhão sentem o inimigo e o seguem?\N!
+Dialogue: 0,0:03:27.31,0:03:31.81,Thoughts-207+,,0,0,0,,Será que as balas de canhão sentem o inimigo e o seguem?!
 Dialogue: 0,0:03:42.82,0:03:45.32,Thoughts-207+,,0,0,0,,Nunca ouvi falar dessa tecnologia!
 Dialogue: 0,0:03:45.32,0:03:47.28,Thoughts-207+,,0,0,0,,O que diabos ele é?
 Dialogue: 0,0:03:51.23,0:03:52.12,Main-207+,,0,0,0,,Huh?
@@ -2390,16 +2390,16 @@ Dialogue: 0,0:11:47.10,0:11:48.30,Main-207+,,0,0,0,,Por que eu faria isso?!
 Dialogue: 0,0:11:49.81,0:11:50.64,Main-207+,,0,0,0,,{\fad(150,150)}Chute Tempestuoso.
 Dialogue: 0,0:11:58.23,0:11:59.69,Main-207+,,0,0,0,,{\fad(150,150)}Arma de dedo!
 Dialogue: 0,0:11:59.69,0:12:01.11,Main-207+,,0,0,0,,O que você está fazendo?!
-Dialogue: 0,0:12:01.11,0:12:06.07,Main-207+,,0,0,0,,Você acabou de mirar em mim enquanto fingia atacar aqueles dois, não foi?\N!
+Dialogue: 0,0:12:01.11,0:12:06.07,Main-207+,,0,0,0,,Você acabou de mirar em mim enquanto fingia atacar aqueles dois, não foi?!
 Dialogue: 0,0:12:06.07,0:12:09.08,Main-207+,,0,0,0,,É uma acusação falsa, mas se você quiser, podemos lutar.
 Dialogue: 0,0:12:09.08,0:12:12.71,Main-207+,,0,0,0,,Já faz um tempo que estou frustrado porque você está no meu caminho.
-Dialogue: 0,0:12:12.71,0:12:16.67,Main-207+,,0,0,0,,O que você disse?\N!\NÉ isso que eu quero dizer, seu herbívoro estúpido!
+Dialogue: 0,0:12:12.71,0:12:16.67,Main-207+,,0,0,0,,O que você disse?!\NÉ isso que eu quero dizer, seu herbívoro estúpido!
 Dialogue: 0,0:12:16.67,0:12:20.17,Main-207+,,0,0,0,,Não, devo dizer que prefiro carne.
 Dialogue: 0,0:12:20.57,0:12:22.97,Main-207+,,0,0,0,,Jogaremos pedra-papel-tesoura, Sogeking.
 Dialogue: 0,0:12:22.97,0:12:25.77,Main-207+,,0,0,0,,- O que?\N– O problema são essas algemas.
 Dialogue: 0,0:12:25.77,0:12:28.31,Main-207+,,0,0,0,,Há uma maneira de tirá-los de nós.
 Dialogue: 0,0:12:28.31,0:12:31.73,Main-207+,,0,0,0,,Vou cortar a mão do perdedor.
-Dialogue: 0,0:12:33.69,0:12:37.29,Main-207+,,0,0,0,,{.\N}O que há com você tendo uma ideia tão assustadora e parecendo tão séria?\N!
+Dialogue: 0,0:12:33.69,0:12:37.29,Main-207+,,0,0,0,,{.\N}O que há com você tendo uma ideia tão assustadora e parecendo tão séria?!
 Dialogue: 0,0:12:37.29,0:12:40.09,Main-207+,,0,0,0,,{.}Ainda não terminei! Continue ouvindo!
 Dialogue: 0,0:12:40.09,0:12:42.69,Main-207+,,0,0,0,,Então aquele que tira as algemas assim...
 Dialogue: 0,0:12:42.69,0:12:46.20,Main-207+,,0,0,0,,correrão para Chopper com a mão decepada...
@@ -2415,7 +2415,7 @@ Dialogue: 0,0:13:37.12,0:13:38.83,Main-207+,,0,0,0,,Você é uma espada!
 Dialogue: 0,0:13:38.83,0:13:44.13,Main-207+,,0,0,0,,Alguém me arranje um advogado! Eu vou te processar com certeza!
 Dialogue: 0,0:13:57.02,0:14:00.12,Main-207+,,0,0,0,,{.\N}Nunca vi ninguém com tão pouca autodisciplina quanto ele.
 Dialogue: 0,0:14:00.12,0:14:02.72,Main-207+,,0,0,0,,{.}Não acredito que ele ganhou tanto peso em apenas alguns minutos sozinho.
-Dialogue: 0,0:14:04.03,0:14:12.74,Main-207+,,0,0,0,,Você não.\N.\N.\Nprecisa ser.\N.\N.\Nprecisa ser.\N.\N.\Nprecisa ser.\N.\N.
+Dialogue: 0,0:14:04.03,0:14:12.74,Main-207+,,0,0,0,,Você não...\Nprecisa ser...\Nprecisa ser...\Nprecisa ser...
 Dialogue: 0,0:14:12.74,0:14:16.65,Main-207+,,0,0,0,,Eu não estou preocupado! Apenas fale normalmente!
 Dialogue: 0,0:14:16.65,0:14:18.04,Main-207+,,0,0,0,,Isso é “precisar se preocupar”, certo?!
 Dialogue: 0,0:14:18.04,0:14:19.54,Main-207+,,0,0,0,,Obrigado!
@@ -2439,17 +2439,17 @@ Dialogue: 0,0:15:02.75,0:15:04.54,Main-207+,,0,0,0,,{\fad(150,150)}Digerir!
 Dialogue: 0,0:15:04.54,0:15:07.05,Main-207+,,0,0,0,,{\fad(150,150)}Absorver!
 Dialogue: 0,0:15:10.05,0:15:13.18,Main-207+,,0,0,0,,Você é incrível! Como isso funciona?!
 Dialogue: 0,0:15:13.88,0:15:17.60,Main-207+,,0,0,0,,Que bom que você perguntou!
-Dialogue: 0,0:15:18.18,0:15:21.31,Main-207+,,0,0,0,,Mil anos no mar e mil anos nas montanhas.\N.\N.
+Dialogue: 0,0:15:18.18,0:15:21.31,Main-207+,,0,0,0,,Mil anos no mar e mil anos nas montanhas...
 Dialogue: 0,0:15:21.31,0:15:24.27,Main-207+,,0,0,0,,Respirando o vento e bebendo gotas de orvalho,
 Dialogue: 0,0:15:24.27,0:15:27.23,Main-207+,,0,0,0,,Eu me treinei, vivendo como um eremita!
-Dialogue: 0,0:15:27.23,0:15:33.74,Main-207+,,0,0,0,,{.\N}Depois de tudo isso, eu.\N.\N.\Neu.\N.\N.\Neu.\N.\N.\Neu adquiri essa “Resposta Vital”!
+Dialogue: 0,0:15:27.23,0:15:33.74,Main-207+,,0,0,0,,{.\N}Depois de tudo isso, eu...\Neu...\Neu...\Neu adquiri essa “Resposta Vital”!
 Dialogue: 0,0:15:34.90,0:15:39.12,Main-207+,,0,0,0,,Essencialmente, se você estender sua consciência para todos os lugares,
 Dialogue: 0,0:15:39.12,0:15:45.13,Main-207+,,0,0,0,,do cabelo aos órgãos internos, dedos dos pés, até a ponta do cabelo felpudo,
 Dialogue: 0,0:15:45.13,0:15:50.22,Main-207+,,0,0,0,,não há nenhuma parte do seu corpo que você não possa manipular.
 Dialogue: 0,0:15:51.02,0:15:54.08,Main-207+,,0,0,0,,Estendendo sua consciência até a ponta do cabelo?
 Dialogue: 0,0:15:54.39,0:15:57.60,Main-207+,,0,0,0,,Já li sobre esse tipo de habilidade em um livro antes.
 Dialogue: 0,0:15:57.60,0:15:59.60,Main-207+,,0,0,0,,{.}É chamado de algo como biofeedback.
-Dialogue: 0,0:16:00.52,0:16:04.94,Main-207+,,0,0,0,,Aí seu cabelo se mexe como um polvo por causa dessa habilidade?\N!
+Dialogue: 0,0:16:00.52,0:16:04.94,Main-207+,,0,0,0,,Aí seu cabelo se mexe como um polvo por causa dessa habilidade?!
 Dialogue: 0,0:16:07.65,0:16:10.90,Main-207+,,0,0,0,,Um polvo?! Que terrivelmente rude!
 Dialogue: 0,0:16:11.50,0:16:15.24,Main-207+,,0,0,0,,Me chame de... um valente...
 Dialogue: 0,0:16:17.12,0:16:24.00,Main-207+,,0,0,0,,leão... vai... você vai?!

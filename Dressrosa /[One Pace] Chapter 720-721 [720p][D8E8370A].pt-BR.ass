@@ -156,7 +156,7 @@ Dialogue: 0,0:08:41.38,0:08:43.47,Main,Cavendish,0,0,0,,Ei, não fuja de uma lut
 Dialogue: 0,0:08:45.30,0:08:47.71,Main,Bartolomeo,0,0,0,,W-W-W-O que eu faço?
 Dialogue: 0,0:08:47.71,0:08:51.43,Main,Bartolomeo,0,0,0,,Quero falar com ele, mas não sei como!
 Dialogue: 0,0:08:51.43,0:08:53.14,Main,Bartolomeo,0,0,0,,Por favor, aguarde!
-Dialogue: 0,0:08:53.56,0:08:56.66,Thoughts,Chinjao,0,0,0,,{kind of guessing on what's thoughts and what's not here -Fadey}Queria mostrar minha gratidão por colocar minha cabeça de volta ao normal.\N.\N.
+Dialogue: 0,0:08:53.56,0:08:56.66,Thoughts,Chinjao,0,0,0,,{kind of guessing on what's thoughts and what's not here -Fadey}Queria mostrar minha gratidão por colocar minha cabeça de volta ao normal...
 Dialogue: 0,0:08:56.66,0:09:00.65,Thoughts,Chinjao,0,0,0,,oferecendo-me para fazer com que a Marinha Happou dos meus netos o sirva.
 Dialogue: 0,0:09:02.02,0:09:04.02,Main,Chinjao,0,0,0,,Espere!
 Dialogue: 0,0:09:04.02,0:09:07.09,Main,Luffy,0,0,0,,O que há com todos esses caras? Eles são tão persistentes!
@@ -253,7 +253,7 @@ Dialogue: 0,0:15:57.50,0:16:03.41,Main,Prisoner,0,0,0,,{Xemnas: Spelling fix}Mas
 Dialogue: 0,0:16:10.38,0:16:11.35,Main,Rebecca,0,0,0,,EU...
 Dialogue: 0,0:16:12.74,0:16:17.93,Main,Rebecca,0,0,0,,{Quality... POWER UUUUPP}vai ganhar o torneio hoje, custe o que custar...
 Dialogue: 0,0:16:19.46,0:16:23.89,Main,Rebecca,0,0,0,,e use o poder da Flame Fruit para matar Doflamingo!
-Dialogue: 0,0:16:28.90,0:16:35.14,Main,Rebecca,0,0,0,,{Her waist is smaller than Nami's here.\N.\N.\Nseriously, she looks like a concentration camp victim O_O}Hoje, o exército do Soldier-san vai desafiar Doflamingo.\N.\N.
+Dialogue: 0,0:16:28.90,0:16:35.14,Main,Rebecca,0,0,0,,{Her waist is smaller than Nami's here...\Nseriously, she looks like a concentration camp victim O_O}Hoje, o exército do Soldier-san vai desafiar Doflamingo...
 Dialogue: 0,0:16:38.90,0:16:41.96,Main,Rebecca,0,0,0,,para nos libertar.
 Dialogue: 0,0:16:44.12,0:16:47.03,Main,Rebecca,0,0,0,,Ele pretende sacrificar sua própria vida...
 Dialogue: 0,0:16:47.03,0:16:49.14,Main,Rebecca,0,0,0,,para derrubar este reino!
@@ -288,7 +288,7 @@ Dialogue: 0,0:18:47.28,0:18:48.94,Main,Announcer,0,0,0,,{He specifically says th
 Dialogue: 0,0:18:49.46,0:18:52.03,Main,Gladiator,0,0,0,,Sua partida está prestes a começar, Rebecca.
 Dialogue: 0,0:18:53.41,0:18:56.18,Main,Rebecca,0,0,0,,Ei, o que você está fazendo, Lúcia?!
 Dialogue: 0,0:18:56.18,0:18:59.79,Main,Luffy,0,0,0,,Durante aquela briga anterior, um pouco de comida caiu no chão.
-Dialogue: 0,0:19:00.43,0:19:03.47,Main,Luffy,0,0,0,,{This could perhaps stand some trimming down.\N.\N.\NI just thought the previous translation was a bit confusing so I thought I'd clarify it a bit.\N-Starfish}Desculpe.\NVocê gastou todo o dinheiro que tinha com isso, então não quero que seja desperdiçado.
+Dialogue: 0,0:19:00.43,0:19:03.47,Main,Luffy,0,0,0,,{This could perhaps stand some trimming down...\NI just thought the previous translation was a bit confusing so I thought I'd clarify it a bit.\N-Starfish}Desculpe.\NVocê gastou todo o dinheiro que tinha com isso, então não quero que seja desperdiçado.
 Dialogue: 0,0:19:04.11,0:19:06.57,Main,Luffy,0,0,0,,{Yeah... I still wouldn't eat that personally though. Ah well, you're the one who's gonna have a terrible stomachache later. -Starfish}Eles ainda estão bons, apesar de estarem no chão!
 Dialogue: 0,0:19:09.36,0:19:12.56,Main,Luffy,0,0,0,,Você não parece um prisioneiro para mim.
 Dialogue: 0,0:19:15.47,0:19:17.61,Main,Rebecca,0,0,0,,Vamos nos encontrar nas finais.
@@ -320,7 +320,7 @@ Dialogue: 0,0:21:36.07,0:21:37.74,Main,Rebecca,0,0,0,,Mãe?
 Dialogue: 0,0:21:40.94,0:21:43.38,Main,Soldier,0,0,0,,E-eu não pude protegê-la.
 Dialogue: 0,0:21:44.24,0:21:49.98,Main,Soldier,0,0,0,,Sinto muito, não consegui proteger sua mãe.
 Dialogue: 0,0:21:51.54,0:21:53.66,Main,Soldier,0,0,0,,Ela queria que eu lhe desse isso.
-Dialogue: 0,0:21:53.66,0:21:57.56,Main,Soldier,0,0,0,,Ela disse.\N.\N.\Nque você estava esperando com o estômago vazio.
+Dialogue: 0,0:21:53.66,0:21:57.56,Main,Soldier,0,0,0,,Ela disse...\Nque você estava esperando com o estômago vazio.
 Dialogue: 0,0:21:58.26,0:22:01.58,Flashbacks,Rebecca,0,0,0,,{Copy paste from this ep.}Mãe, estou com fome.
 Dialogue: 0,0:22:03.70,0:22:05.44,Flashbacks,Scarlett,0,0,0,,{end copy past from this ep}Vou buscar algo para comermos.
 Dialogue: 0,0:22:20.95,0:22:22.86,Main,Grunt,0,0,0,,Havia manchas de sangue na escada.

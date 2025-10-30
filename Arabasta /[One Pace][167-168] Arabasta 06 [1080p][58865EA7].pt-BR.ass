@@ -39,7 +39,7 @@ Dialogue: 5,0:02:39.12,0:02:43.64,Main-207-,,0,0,0,,O crocodilo está aqui. Base
 Dialogue: 5,0:02:43.64,0:02:45.51,Main-207-,,0,0,0,,Base de chuva...
 Dialogue: 5,0:02:45.51,0:02:49.61,Main-207-,,0,0,0,,{It's about a day's \Njourney north of here.\N}Fica a cerca de um dia de caminhada ao norte daqui.
 Dialogue: 5,0:02:58.31,0:03:02.29,Main-207-,,0,0,0,,{C'mon, I told you \Nto quit moaning, you two!\N}Vamos, eu disse para vocês dois pararem de gemer!
-Dialogue: 5,0:03:02.98,0:03:05.82,Main-207-,,0,0,0,,{Who're you to say anything \Nwhen you're riding the camel?\N!\N}Você pode andar de camelo, então não pode reclamar!
+Dialogue: 5,0:03:02.98,0:03:05.82,Main-207-,,0,0,0,,{Who're you to say anything \Nwhen you're riding the camel?!\N}Você pode andar de camelo, então não pode reclamar!
 Dialogue: 5,0:03:05.82,0:03:07.75,Main-207-,,0,0,0,,Sim! Vamos cavalgar também!
 Dialogue: 5,0:03:07.75,0:03:09.24,Main-207-,,0,0,0,,Sua mulher camelo!
 Dialogue: 5,0:03:09.24,0:03:10.75,Main-207-,,0,0,0,,Nami-mel!
@@ -72,7 +72,7 @@ Dialogue: 5,0:04:23.60,0:04:27.79,Main-207-,,0,0,0,,{After I kick Crocodile's as
 Dialogue: 5,0:04:28.40,0:04:30.50,Main-207-,,0,0,0,,OK! Eu prometo!
 Dialogue: 5,0:04:43.72,0:04:47.31,Main-207-,,0,0,0,,{\an8}Por favor, Koza!\NDeixe-me entrar para o Exército Rebelde!
 Dialogue: 5,0:04:47.31,0:04:48.68,Main-207-,,0,0,0,,{No.}Não é uma chance.
-Dialogue: 5,0:04:48.68,0:04:53.00,Main-207-,,0,0,0,,Por que não?\N!\NEu também tenho o direito de me juntar à Rebelião, não tenho?\N!
+Dialogue: 5,0:04:48.68,0:04:53.00,Main-207-,,0,0,0,,Por que não?!\NEu também tenho o direito de me juntar à Rebelião, não tenho?!
 Dialogue: 5,0:04:53.00,0:04:55.69,Main-207-,,0,0,0,,Eu desprezo o rei!\NDeixe-me lutar com você!
 Dialogue: 5,0:04:55.69,0:04:58.01,Main-207-,,0,0,0,,{Show him, Faracla.}Mostre para ele, Farafla.
 Dialogue: 5,0:05:01.57,0:05:05.37,Main-207-,,0,0,0,,{He got this trying to protect me \Nin the middle of a battle.\N}Ele conseguiu isso me protegendo no meio de uma batalha.
@@ -103,7 +103,7 @@ Dialogue: 5,0:06:20.15,0:06:22.82,Main-207-,,0,0,0,,{we launch an all-out \Nassa
 Dialogue: 5,0:06:24.48,0:06:29.64,Main-207-,,0,0,0,,Pai!\NÉ apenas uma questão de tempo até que o Exército Rebelde ataque Alubarna!
 Dialogue: 5,0:06:29.64,0:06:31.91,Main-207-,,0,0,0,,{We must take action first, \Nbefore it's too late!\N}Devemos agir antes que seja tarde demais!
 Dialogue: 5,0:06:31.91,0:06:34.92,Main-207-,,0,0,0,,Silêncio! Eu te disse não!
-Dialogue: 5,0:06:34.92,0:06:38.75,Main-207-,,0,0,0,,Isto não é uma briga de crianças!\NRetaliação é o que você quer?\N!
+Dialogue: 5,0:06:34.92,0:06:38.75,Main-207-,,0,0,0,,Isto não é uma briga de crianças!\NRetaliação é o que você quer?!
 Dialogue: 5,0:06:38.75,0:06:42.26,Main-207-,,0,0,0,,Mas, senhor!\NA existência do país está em jogo!
 Dialogue: 5,0:06:42.26,0:06:44.27,Main-207-,,0,0,0,,E daí?
 Dialogue: 5,0:06:44.27,0:06:46.98,Main-207-,,0,0,0,,{Ever since the Dance Powder \Nincident, it has been clear}Está claro desde o incidente do pó de dança
@@ -118,7 +118,7 @@ Dialogue: 5,0:07:09.92,0:07:10.42,Main-207-,,0,0,0,,{would be too late, Sire!}Pa
 Dialogue: 5,0:07:10.86,0:07:13.33,Main-207-,,0,0,0,,Não. Por favor, entenda.
 Dialogue: 5,0:07:13.65,0:07:16.33,Main-207-,,0,0,0,,O rei não nos permitirá tomar a ofensiva.
 Dialogue: 5,0:07:16.98,0:07:20.54,Main-207-,,0,0,0,,Mal conseguimos apaziguar os soldados neste momento.
-Dialogue: 5,0:07:20.54,0:07:24.51,Main-207-,,0,0,0,,{\i1}Se ao menos Igaram-san estivesse aqui em um momento como este.\N.\N.
+Dialogue: 5,0:07:20.54,0:07:24.51,Main-207-,,0,0,0,,{\i1}Se ao menos Igaram-san estivesse aqui em um momento como este...
 Dialogue: 5,0:07:25.11,0:07:28.89,Flashbacks-207-,,0,0,0,,Igaram diz que vai sair do país por um tempo?
 Dialogue: 5,0:07:29.67,0:07:32.05,Main-207-,,0,0,0,,{\an8}Enquanto conversamos, ele e a princesa Vivi
 Dialogue: 5,0:07:32.05,0:07:36.19,Main-207-,,0,0,0,,{\an8}provavelmente ainda estão trabalhando duro, tentando descobrir quem está por trás disso.
@@ -128,9 +128,9 @@ Dialogue: 5,0:07:40.09,0:07:41.23,Main-207-,,0,0,0,,O que é?!
 Dialogue: 5,0:07:41.23,0:07:43.28,Main-207-,,0,0,0,,Karoo voltou!
 Dialogue: 5,0:07:43.28,0:07:44.94,Main-207-,,0,0,0,,{Karoo has?!}Ele tem?!
 Dialogue: 5,0:07:54.37,0:07:56.90,Main-207-,,0,0,0,,Pai! De quem é essa carta?!
-Dialogue: 5,0:07:58.79,0:08:01.79,Main-207-,,0,0,0,,É a letra da Vivi, sem dúvida.\N.\N.
+Dialogue: 5,0:07:58.79,0:08:01.79,Main-207-,,0,0,0,,É a letra da Vivi, sem dúvida...
 Dialogue: 5,0:08:02.26,0:08:04.51,Main-207-,,0,0,0,,Pai! Isso significa–
-Dialogue: 5,0:08:04.51,0:08:06.63,Main-207-,,0,0,0,,{Karoo came to deliver a letter \Nfrom Vivi-sama?\N!\N}Karoo entregou uma carta da Vivi?\N!
+Dialogue: 5,0:08:04.51,0:08:06.63,Main-207-,,0,0,0,,{Karoo came to deliver a letter \Nfrom Vivi-sama?!\N}Karoo entregou uma carta da Vivi?!
 Dialogue: 5,0:08:08.82,0:08:15.02,Main-207-,,0,0,0,,{\i1}Pai.\NTudo o que está escrito aqui é verdade.\NÉ um fato.
 Dialogue: 5,0:08:20.88,0:08:25.77,Main-207-,,0,0,0,,{\i1}A pessoa que tenta trazer sofrimento e ruína a este reino
 Dialogue: 5,0:08:25.77,0:08:28.91,Main-207-,,0,0,0,,{\i1}não é outro senão o Crocodilo!
@@ -138,7 +138,7 @@ Dialogue: 5,0:08:35.24,0:08:40.50,Main-207-,,0,0,0,,{\i1}Igaram é mais um que c
 Dialogue: 5,0:08:40.50,0:08:44.89,Main-207-,,0,0,0,,Crocodilo!\NEu estupidamente acreditei que ele trabalhava para o governo!
 Dialogue: 5,0:08:44.89,0:08:48.51,Main-207-,,0,0,0,,{I never would've imagined he was \Ntrying to usurp this kingdom!\N}Eu nunca teria imaginado que ele estava tentando usurpar o trono!
 Dialogue: 5,0:08:48.93,0:08:51.00,Main-207-,,0,0,0,,{\i1}Igaram-san...
-Dialogue: 5,0:08:51.00,0:08:54.85,Main-207-,,0,0,0,,{He gave his life for Vivi-sama \Nand this land.\N.\N.\N}Ele deu a vida pela Princesa Vivi e por esta terra.\N.\N.
+Dialogue: 5,0:08:51.00,0:08:54.85,Main-207-,,0,0,0,,{He gave his life for Vivi-sama \Nand this land...\N}Ele deu a vida pela Princesa Vivi e por esta terra...
 Dialogue: 5,0:08:55.83,0:09:02.40,Main-207-,,0,0,0,,{\i1}E agora, existem pessoas poderosas me emprestando sua força.
 Dialogue: 5,0:09:02.40,0:09:06.47,Main-207-,,0,0,0,,{\i1}Se eu continuar com eles, poderemos fazer a diferença neste reino.
 Dialogue: 5,0:09:06.47,0:09:11.61,Main-207-,,0,0,0,,{\i1}A luz da esperança está aqui!\NAlabasta será salvo!
@@ -159,7 +159,7 @@ Dialogue: 5,0:10:02.93,0:10:06.54,Main-207-,,0,0,0,,Com todo o respeito, ainda m
 Dialogue: 5,0:10:07.14,0:10:09.41,Main-207-,,0,0,0,,Se atacarmos o Rainbase,
 Dialogue: 5,0:10:09.41,0:10:13.60,Main-207-,,0,0,0,,o Exército Rebelde usará isso como uma oportunidade para invadir o palácio!
 Dialogue: 5,0:10:13.60,0:10:14.47,Main-207-,,0,0,0,,{And if that happens–!}Se isso acontecer–
-Dialogue: 5,0:10:15.00,0:10:19.89,Main-207-,,0,0,0,,{So what if the rebel army \Ndestroys this palace?\N!\N}E daí se o Exército Rebelde destruir o palácio?\N!
+Dialogue: 5,0:10:15.00,0:10:19.89,Main-207-,,0,0,0,,{So what if the rebel army \Ndestroys this palace?!\N}E daí se o Exército Rebelde destruir o palácio?!
 Dialogue: 5,0:10:19.89,0:10:22.85,Main-207-,,0,0,0,,Eu já te contei antes!\NUm país é o seu povo!
 Dialogue: 5,0:10:25.56,0:10:30.49,Main-207-,,0,0,0,,{our}Mesmo que o Exército Real caia, desde que Crocodile seja derrotado,
 Dialogue: 5,0:10:30.49,0:10:33.03,Main-207-,,0,0,0,,os cidadãos reconstruirão o seu país!
@@ -204,7 +204,7 @@ Dialogue: 5,0:12:37.00,0:12:40.37,Main-207-,,0,0,0,,{\i1}Eu protegerei Nami-san 
 Dialogue: 5,0:12:40.37,0:12:43.16,Main-207-,,0,0,0,,Vocês duas podem me chamar de "Príncipe"!
 Dialogue: 5,0:12:43.16,0:12:44.84,Main-207-,,0,0,0,,Príncipe.
 Dialogue: 5,0:12:44.84,0:12:46.50,Main-207-,,0,0,0,,Não me faça chutar sua bunda!
-Dialogue: 5,0:12:46.67,0:12:48.96,Main-207-,,0,0,0,,– Príncipe.\N.\N.\NÁgua.\N.\N.\N– Água.\N.\N.
+Dialogue: 5,0:12:46.67,0:12:48.96,Main-207-,,0,0,0,,– Príncipe...\NÁgua...\N– Água...
 Dialogue: 5,0:12:48.96,0:12:50.91,Main-207-,,0,0,0,,Calem a boca, pessoal!
 Dialogue: 5,0:12:50.91,0:12:52.84,Main-207-,,0,0,0,,Água! Precisa de água!
 Dialogue: 5,0:12:52.84,0:12:54.31,Main-207-,,0,0,0,,Eu também!
@@ -262,10 +262,10 @@ Dialogue: 5,0:15:36.79,0:15:39.70,Main-207-,,0,0,0,,Então está decidido! Vamos
 Dialogue: 5,0:15:39.08,0:15:39.70,Secondary-207-,,0,0,0,,{Changed to Secondary style - JT}Huh?!
 Dialogue: 5,0:15:39.70,0:15:41.50,Main-207-,,0,0,0,,Para onde o Crocodilo está!
 Dialogue: 5,0:15:41.50,0:15:43.21,Main-207-,,0,0,0,,Certo, Vivi?!
-Dialogue: 5,0:15:44.01,0:15:48.60,Main-207-,,0,0,0,,{Yes!\NDo you see that \Nalligator-roof building up ahead?\N!\N}Sim!\NVocê vê aquele prédio com telhado de crocodilo à frente?\N!
+Dialogue: 5,0:15:44.01,0:15:48.60,Main-207-,,0,0,0,,{Yes!\NDo you see that \Nalligator-roof building up ahead?!\N}Sim!\NVocê vê aquele prédio com telhado de crocodilo à frente?!
 Dialogue: 5,0:15:48.60,0:15:51.29,Main-207-,,0,0,0,,{That's the casino Crocodile runs...}Esse é o cassino do Crocodile:
 Dialogue: 5,0:15:51.29,0:15:53.64,Main-207-,,0,0,0,,{Raindinners!}Jantares de Chuva!
-Dialogue: 5,0:15:53.64,0:15:57.35,Main-207-,,0,0,0,,Aí, né?\N!\NEntão é aí que está o Crocodilo?\N!
+Dialogue: 5,0:15:53.64,0:15:57.35,Main-207-,,0,0,0,,Aí, né?!\NEntão é aí que está o Crocodilo?!
 Dialogue: 5,0:15:58.90,0:16:00.40,Main-207-,,0,0,0,,Seria melhor se nos separássemos!
 Dialogue: 5,0:16:00.40,0:16:01.90,Main-207-,,0,0,0,,Parece que sim!
 Dialogue: 5,0:16:01.90,0:16:04.11,Main-207-,,0,0,0,,Tudo bem! Até mais!
@@ -304,7 +304,7 @@ Dialogue: 5,0:17:43.67,0:17:46.63,Main-207-,,0,0,0,,Isso é tudo que você tem?\
 Dialogue: 5,0:17:47.71,0:17:51.47,Main-207-,,0,0,0,,Roronoa Zoro! Nos encontramos novamente!
 Dialogue: 5,0:17:52.51,0:17:54.97,Main-207-,,0,0,0,,Essa voz...
 Dialogue: 5,0:17:55.45,0:17:58.03,Main-207-,,0,0,0,,{I've been looking \Nfor you for a long time!\N}Estou procurando por você há muito tempo!
-Dialogue: 5,0:17:58.03,0:18:00.81,Main-207-,,0,0,0,,{What do you think you're doing, \Ncutting down regular citizens?\N!\N}De onde você tira a redução dos cidadãos comuns?\N!
+Dialogue: 5,0:17:58.03,0:18:00.81,Main-207-,,0,0,0,,{What do you think you're doing, \Ncutting down regular citizens?!\N}De onde você tira a redução dos cidadãos comuns?!
 Dialogue: 5,0:18:00.81,0:18:03.19,Main-207-,,0,0,0,,Há mais coisas acontecendo aqui do que parece!
 Dialogue: 5,0:18:03.90,0:18:07.09,Main-207-,,0,0,0,,Além disso, não tenho vontade de lutar com você!
 Dialogue: 5,0:18:07.09,0:18:09.82,Main-207-,,0,0,0,,Resolvemos nossa partida em Loguetown!
@@ -312,7 +312,7 @@ Dialogue: 5,0:18:09.82,0:18:11.15,Main-207-,,0,0,0,,{We did not!}Não, não fize
 Dialogue: 5,0:18:11.15,0:18:14.26,Main-207-,,0,0,0,,{I haven't even laid a single blow yet!\N}Eu nem dei um único golpe ainda!
 Dialogue: 5,0:18:14.26,0:18:17.16,Thoughts-207-,,0,0,0,,Ela se parece com ela!\NMuito parecido com ela!
 Dialogue: 5,0:18:17.36,0:18:19.62,Main-207-,,0,0,0,,E pare com essa cara, ok?!
-Dialogue: 5,0:18:20.31,0:18:24.30,Main-207-,,0,0,0,,{C-Come again?\N!\NAre you trying \Nto ridicule me yet again?\N!\N}C-Vem de novo?\N!\NVocê ainda está tentando me ridicularizar?\N!
+Dialogue: 5,0:18:20.31,0:18:24.30,Main-207-,,0,0,0,,{C-Come again?!\NAre you trying \Nto ridicule me yet again?!\N}C-Vem de novo?!\NVocê ainda está tentando me ridicularizar?!
 Dialogue: 5,0:18:24.30,0:18:26.00,Main-207-,,0,0,0,,Você vai pagar por isso!
 Dialogue: 5,0:18:26.62,0:18:29.38,Main-207-,,0,0,0,,Droga!\NEla é a única pessoa com quem não consigo lidar!
 Dialogue: 5,0:18:30.53,0:18:31.80,Main-207-,,0,0,0,,Espere!

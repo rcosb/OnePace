@@ -2077,7 +2077,7 @@ Dialogue: 0,0:02:48.26,0:02:52.82,Main,,0,0,0,,– Os Piratas do Barba Branca pe
 Dialogue: 0,0:02:53.53,0:02:56.02,Main,,0,0,0,,{occurring}A batalha que ocorreu em Marineford...
 Dialogue: 0,0:02:56.02,0:02:59.43,Main,,0,0,0,,{being waged by}entre os Piratas do Barba Branca e o QG da Marinha...
 Dialogue: 0,0:02:59.43,0:03:04.69,Main,,0,0,0,,{\Nbecause of}durou mais do que o esperado devido à tenacidade do inimigo.
-Dialogue: 0,0:03:04.69,0:03:08.33,Main,,0,0,0,,{but}No entanto, os fuzileiros navais que lutaram por justiça.\N.\N.
+Dialogue: 0,0:03:04.69,0:03:08.33,Main,,0,0,0,,{but}No entanto, os fuzileiros navais que lutaram por justiça...
 Dialogue: 0,0:03:08.33,0:03:13.46,Main,,0,0,0,,prevaleceu sobre os Piratas do Barba Branca e seus aliados.
 Dialogue: 0,0:03:13.46,0:03:18.90,Main,,0,0,0,,{and now }Temos o prazer de informar que a Marinha alcançou uma vitória total.
 Dialogue: 0,0:03:20.95,0:03:22.38,Main,,0,0,0,,Eles conseguiram!
@@ -2159,7 +2159,7 @@ Dialogue: 0,0:08:08.71,0:08:10.08,Main,,0,0,0,,Eu quero brincar de pega-pega!
 Dialogue: 0,0:08:10.08,0:08:11.58,Main,,0,0,0,,Esconde-esconde!
 Dialogue: 0,0:08:11.58,0:08:13.27,Main,,0,0,0,,Tudo bem!
 Dialogue: 0,0:08:14.50,0:08:18.74,Main,,0,0,0,,{.}Oh Deus, muito obrigado!
-Dialogue: 0,0:08:19.07,0:08:25.43,Narrator,,0,0,0,,{\an8}Como na maior parte da história, alguns fatos são omitidos à medida que as notícias se espalham.\N.\N.
+Dialogue: 0,0:08:19.07,0:08:25.43,Narrator,,0,0,0,,{\an8}Como na maior parte da história, alguns fatos são omitidos à medida que as notícias se espalham...
 Dialogue: 0,0:08:25.43,0:08:30.14,Narrator,,0,0,0,,{\an8}e apenas as duas palavras “Vitória da Marinha” se destacam.
 Dialogue: 0,0:08:30.14,0:08:35.39,Narrator,,0,0,0,,{\an8}As pessoas, entusiasmadas com a notícia, não perceberam nada.
 Dialogue: 0,0:08:36.63,0:08:38.40,Main,,0,0,0,,O-O que está acontecendo?!
@@ -2236,7 +2236,7 @@ Dialogue: 0,0:13:16.46,0:13:20.68,Main,,0,0,0,,Não consigo parar de me preocupa
 Dialogue: 0,0:13:27.51,0:13:31.00,Main,,0,0,0,,{zz}Você, fera peluda! Você tem um caracol transponder?
 Dialogue: 0,0:13:31.69,0:13:34.85,Main,,0,0,0,,Sim... quero dizer... sim, senhora!
 Dialogue: 0,0:13:34.85,0:13:36.03,Main,,0,0,0,,Desculpe!
-Dialogue: 0,0:13:36.03,0:13:40.63,Main,,0,0,0,,{yeah.\N.\N.\N}- Estou com inveja.\NEle é como seu servo.\N– Sim, com certeza.
+Dialogue: 0,0:13:36.03,0:13:40.63,Main,,0,0,0,,{yeah...\N}- Estou com inveja.\NEle é como seu servo.\N– Sim, com certeza.
 Dialogue: 0,0:13:40.89,0:13:45.97,Main,,0,0,0,,Posso fazer com que o navio dos Piratas Kuja leve este submarino através do Calm Belt.
 Dialogue: 0,0:13:45.97,0:13:50.47,Main,,0,0,0,,{'re gonna}Se o governo descobrir que Luffy está vivo, eles irão atrás dele!
 Dialogue: 0,0:13:50.47,0:13:52.84,Main,,0,0,0,,{and}Vou lhe dar abrigo na Ilha das Mulheres.
@@ -2262,7 +2262,7 @@ Dialogue: 0,0:15:15.18,0:15:20.01,Main,,0,0,0,,{\an8}Vocês, prisioneiros, estã
 Dialogue: 0,0:15:20.53,0:15:23.16,Main,,0,0,0,,A única coisa que você pode fazer é esperar pela morte!
 Dialogue: 0,0:15:23.16,0:15:28.34,Main,,0,0,0,,{Then}Então, que tal isso?! Por que vocês não lutam até a morte em suas células?!
 Dialogue: 0,0:15:29.73,0:15:35.48,Main,,0,0,0,,Vou libertar os sobreviventes e fazer com que se juntem à minha tripulação!
-Dialogue: 0,0:15:35.48,0:15:38.22,Main,,0,0,0,,- Realmente?\N!\N– Tire-me daqui!
+Dialogue: 0,0:15:35.48,0:15:38.22,Main,,0,0,0,,- Realmente?!\N– Tire-me daqui!
 Dialogue: 0,0:15:38.22,0:15:40.53,Main,,0,0,0,,{Let me be your crewmate!}Vou ganhar um lugar na sua tripulação!
 Dialogue: 0,0:15:49.27,0:15:55.47,Main,,0,0,0,,Então foi assim que ele libertou os presos mais notórios do mundo?!
 Dialogue: 0,0:15:55.47,0:15:58.71,Main,,0,0,0,,Sim. Mas apenas quatro prisioneiros foram feitos.
@@ -2356,11 +2356,11 @@ Dialogue: 0,0:23:05.01,0:23:07.45,Main,,0,0,0,,Sim, agora é a nossa chance!
 Dialogue: 0,0:23:07.45,0:23:10.73,Main,,0,0,0,,– Me solta, caramba!\N– Fique quieto, Chapéu de Palha!
 Dialogue: 0,0:23:10.73,0:23:13.47,Main,,0,0,0,,Eu disse "deixe-me ir"!
 Dialogue: 0,0:23:14.97,0:23:17.55,Main,,0,0,0,,Onde está Ás?!
-Dialogue: 0,0:23:17.55,0:23:22.17,Main,,0,0,0,,- Ás!\N!\N- Droga!\NEle está fora de controle!
+Dialogue: 0,0:23:17.55,0:23:22.17,Main,,0,0,0,,- Ás!!\N- Droga!\NEle está fora de controle!
 Dialogue: 0,0:23:22.17,0:23:25.75,Main,,0,0,0,,{-sama}–É o Luffy!\N– Precisamos informar a Princesa Cobra!
 Dialogue: 0,0:23:25.75,0:23:30.42,Main,,0,0,0,,{-sama}Princesa Cobra! Princesa Cobra!
 Dialogue: 0,0:23:30.42,0:23:32.79,Main,,0,0,0,,Luffy acordou!
-Dialogue: 0,0:23:32.79,0:23:35.93,Main,,0,0,0,,{\i1}– Luffy-sama?\N!\N- Realmente?\N!
+Dialogue: 0,0:23:32.79,0:23:35.93,Main,,0,0,0,,{\i1}– Luffy-sama?!\N- Realmente?!
 Dialogue: 0,0:23:35.93,0:23:38.40,Main,,0,0,0,,Estou feliz. Quero vê-lo imediatamente!
 Dialogue: 0,0:23:38.40,0:23:40.23,Main,,0,0,0,,Você não pode, Princesa Cobra!
 Dialogue: 0,0:23:40.23,0:23:43.19,Main,,0,0,0,,Todo mundo quer vê-lo.

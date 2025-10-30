@@ -114,8 +114,8 @@ Dialogue: 0,0:04:37.63,0:04:39.38,Main,Luffy,0,0,0,,Qual forma?
 Dialogue: 0,0:04:39.94,0:04:45.80,Main,Sanji,0,0,0,,Ah, certo, Luffy estava dormindo, então ele mal ouviu uma palavra da história de Jinbei.
 Dialogue: 0,0:04:46.61,0:04:55.19,Main,Jinbe,0,0,0,,Bem, é um pedaço de papel muito importante que a Rainha Otohime arriscou a vida para conseguir há dez anos.
 Dialogue: 0,0:04:55.44,0:04:59.53,Main,Jinbe,0,0,0,,A outra coisa que precisamos é da chave das correntes do Rei.
-Dialogue: 0,0:04:59.53,0:05:04.03,Main,Jinbe,0,0,0,,Roubar essas coisas.\N.\N.\NTemos alguém que pode fazer isso?
-Dialogue: 0,0:05:04.48,0:05:08.83,Main,Nami,0,0,0,,Deixe o roubo comigo.\NEu poderia fazer isso.\N.\N.\Ncom a ajuda de Robin.
+Dialogue: 0,0:04:59.53,0:05:04.03,Main,Jinbe,0,0,0,,Roubar essas coisas...\NTemos alguém que pode fazer isso?
+Dialogue: 0,0:05:04.48,0:05:08.83,Main,Nami,0,0,0,,Deixe o roubo comigo.\NEu poderia fazer isso...\Ncom a ajuda de Robin.
 Dialogue: 0,0:05:08.83,0:05:09.91,Main,Robin,0,0,0,,Bastante.
 Dialogue: 0,0:05:10.57,0:05:15.88,Main,Jinbe,0,0,0,,Então, depois que você libertar o Rei, pedirei ao Luffy-kun para me ajudar.
 Dialogue: 0,0:05:15.88,0:05:21.26,Main,Jinbe,0,0,0,,E então você fará uma grande entrada no estômago de Megalo.
@@ -195,7 +195,7 @@ Dialogue: 0,0:09:46.66,0:09:50.23,Flashbacks,Tiger,0,0,0,,{\fad(0,900)}Não cont
 Dialogue: 0,0:09:51.14,0:09:57.69,Flashbacks,Otohime,0,0,0,,{\q2}Não se perca em raiva e ódio por minha causa.
 Dialogue: 0,0:09:59.08,0:10:02.49,Main,Jinbe,0,0,0,,Você plantou uma pequena semente em seu coração.
 Dialogue: 0,0:10:02.49,0:10:04.98,Main,Jinbe,0,0,0,,Podemos esperar que a semente cresça e cubra a ilha.
-Dialogue: 0,0:10:04.98,0:10:08.92,Main,Jinbe,0,0,0,,Se chegar um dia em que todos pensem da mesma maneira que você.\N.\N.
+Dialogue: 0,0:10:04.98,0:10:08.92,Main,Jinbe,0,0,0,,Se chegar um dia em que todos pensem da mesma maneira que você...
 Dialogue: 0,0:10:08.92,0:10:11.51,Main,Jinbe,0,0,0,,então não haveria mais conflitos entre homens-peixe e humanos,
 Dialogue: 0,0:10:11.51,0:10:15.46,Main,Jinbe,0,0,0,,e o ciclo de vingança desapareceria.
 Dialogue: 0,0:10:15.85,0:10:20.53,Main,Jinbe,0,0,0,,Não quero desrespeitar esses longos anos que você suportou...
@@ -211,7 +211,7 @@ Dialogue: 0,0:11:21.11,0:11:22.50,Main,Pirates,0,0,0,,Capitão Hody!
 Dialogue: 0,0:11:32.99,0:11:38.13,Main,Hody,0,0,0,,A lendária Princesa Sereia com seu poder perturbador...
 Dialogue: 0,0:11:38.24,0:11:42.59,Main,Hody,0,0,0,,Tudo o que ele precisava fazer era eliminar Shirahoshi rapidamente.
 Dialogue: 0,0:11:42.59,0:11:46.55,Main,Hody,0,0,0,,Inferno, e agora fui feito de idiota.
-Dialogue: 0,0:11:47.17,0:11:53.37,Main,Hody,0,0,0,,Jinbei.\N.\N.\NEu deveria ter percebido quando você se deixou capturar tão facilmente.
+Dialogue: 0,0:11:47.17,0:11:53.37,Main,Hody,0,0,0,,Jinbei...\NEu deveria ter percebido quando você se deixou capturar tão facilmente.
 Dialogue: 0,0:11:57.06,0:11:59.60,Main,Hody,0,0,0,,Você realmente se tornou um amante dos humanos!
 Dialogue: 0,0:12:00.14,0:12:04.12,Main,Hody,0,0,0,,Você é o tipo de pessoa que eu mais odeio!
 Dialogue: 0,0:12:04.12,0:12:10.18,Main,Hody,0,0,0,,Fisher Tiger e seu irmão juramentado Arlong foram criados no Distrito dos Homens-Peixe com você,
@@ -248,7 +248,7 @@ Dialogue: 0,0:14:09.13,0:14:12.88,Main,Usopp,0,0,0,,Fácil para você dizer!\NVo
 Dialogue: 0,0:14:14.07,0:14:16.92,Main,Franky,0,0,0,,Então minha hora finalmente chegou.
 Dialogue: 0,0:14:16.92,0:14:21.14,Main,Franky,0,0,0,,Super Blindado Eu!
 Dialogue: 0,0:14:21.14,0:14:24.02,Main,Franky,0,0,0,,Agora, venha até mim de onde quiser!
-Dialogue: 0,0:14:24.02,0:14:29.96,Main,Sanji,0,0,0,,Temos dez pessoas.\N.\N.\Nentão cada um de nós tem que retirar dez mil.
+Dialogue: 0,0:14:24.02,0:14:29.96,Main,Sanji,0,0,0,,Temos dez pessoas...\Nentão cada um de nós tem que retirar dez mil.
 Dialogue: 0,0:14:29.96,0:14:33.47,Main,Zoro,0,0,0,,Números superiores nem sempre significam força.
 Dialogue: 0,0:14:33.47,0:14:37.91,Main,Zoro,0,0,0,,Não é como se fossem elites da Marinha ou algo assim. Você está se encolhendo por nada.
 Dialogue: 0,0:14:38.53,0:14:41.49,Main,Sanji,0,0,0,,Quem está se encolhendo, seu idiota de merda?!
@@ -276,7 +276,7 @@ Dialogue: 0,0:16:27.48,0:16:31.83,Main,Sanji,0,0,0,,A Cor do Conquistador. Ele t
 Dialogue: 0,0:16:31.83,0:16:35.73,Main,Zoro,0,0,0,,Se ele não fosse pelo menos tão forte, então eu teria que me tornar o novo capitão.
 Dialogue: 0,0:16:35.73,0:16:38.20,Main,Shirahoshi,0,0,0,,Você é incrível, Luffy-sama.
 Dialogue: 0,0:16:38.71,0:16:42.45,Main,Luffy,0,0,0,,Você é Hody, certo? Eu tenho que chutar sua bunda.
-Dialogue: 0,0:16:43.27,0:16:47.33,Main,Luffy,0,0,0,,Se você quer sair por aí e se tornar o rei de alguns países, então isso não é da minha conta.\N.\N.
+Dialogue: 0,0:16:43.27,0:16:47.33,Main,Luffy,0,0,0,,Se você quer sair por aí e se tornar o rei de alguns países, então isso não é da minha conta...
 Dialogue: 0,0:16:48.86,0:16:52.84,Main,Luffy,0,0,0,,Mas só há espaço para um Rei Pirata!
 Dialogue: 0,0:13:51.03,0:13:51.03,Main,,0,0,0,,
 Dialogue: 0,0:21:08.78,0:21:12.10,Note,TL Note,0,0,0,,{\fad(100,100)}Corda Negra - Grand Dragon Twist/Tornado
@@ -313,7 +313,7 @@ Dialogue: 0,0:19:03.15,0:19:08.22,Main,Robin,0,0,0,,Ilha dos Tritões... Existem
 Dialogue: 0,0:19:08.22,0:19:13.81,Main,Robin,0,0,0,,Não é algo que você deva destruir casualmente!
 Dialogue: 0,0:19:15.43,0:19:17.68,Main,Brook,0,0,0,,Está tão quente.
 Dialogue: 0,0:19:17.68,0:19:19.60,Main,Brook,0,0,0,,Clima perfeito para um concerto!
-Dialogue: 0,0:19:21.92,0:19:26.66,Main,Franky,0,0,0,,Um exército de cinquenta mil.\N.\N.\NEste é o palco ideal para revelar minhas surpresas!
+Dialogue: 0,0:19:21.92,0:19:26.66,Main,Franky,0,0,0,,Um exército de cinquenta mil...\NEste é o palco ideal para revelar minhas surpresas!
 Dialogue: 0,0:19:26.66,0:19:27.58,Main,Usopp,0,0,0,,Surpresas?
 Dialogue: 0,0:19:27.58,0:19:29.79,Main,Chopper,0,0,0,,Do que você está falando, Franky?
 Dialogue: 0,0:19:29.79,0:19:34.12,Main,Franky,0,0,0,,O Sunny tem algumas armas novas! Dois deles!

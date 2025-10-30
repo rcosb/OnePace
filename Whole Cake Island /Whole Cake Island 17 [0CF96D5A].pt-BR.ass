@@ -296,7 +296,7 @@ Comment: 0,0:12:18.84,0:12:20.76,Big Mom,,0,0,0,karaoke,{\k47}{\k35}Hea{\k39}ven
 Comment: 0,0:12:21.26,0:12:22.88,Big Mom,,0,0,0,karaoke,{\k0}{\k39}...{\k38}Feu{\k85}er!
 Dialogue: 0,0:01:34.28,0:01:39.16,Title,,0,0,0,,{\fad(1000,500)\pos(630,467)}Mentiroso
 Dialogue: 0,0:01:41.38,0:01:42.66,Main,,0,0,0,,O que está acontecendo?!
-Dialogue: 0,0:01:42.66,0:01:46.92,Main,,0,0,0,,– Acabei de ouvir um barulho alto vindo daqui!\N– O que foi?\N!
+Dialogue: 0,0:01:42.66,0:01:46.92,Main,,0,0,0,,– Acabei de ouvir um barulho alto vindo daqui!\N– O que foi?!
 Dialogue: 0,0:01:49.20,0:01:50.29,Main,,0,0,0,,Foi isso que aconteceu?
 Dialogue: 0,0:01:52.75,0:01:54.72,Main,,0,0,0,,O que aconteceu?
 Dialogue: 0,0:01:55.75,0:01:57.93,Main,,0,0,0,,{\an8}B-Bobina-sama!
@@ -327,9 +327,9 @@ Dialogue: 0,0:03:37.31,0:03:40.93,Main,,0,0,0,,... o quarto da nossa mamãe!
 Dialogue: 0,0:03:40.93,0:03:43.51,Main,,0,0,0,,Um dos Quatro Imperadores, Big Mom?!
 Dialogue: 0,0:03:44.20,0:03:46.29,Main,,0,0,0,,O que devemos fazer?
 Dialogue: 0,0:03:46.29,0:03:48.95,Main,,0,0,0,,Bem, pelo menos ele está vivo...
-Dialogue: 0,0:03:49.75,0:03:53.37,Main,,0,0,0,,– Brook.\N.\N.\N– Eu não esperava que ele estivesse em um lugar como esse.
+Dialogue: 0,0:03:49.75,0:03:53.37,Main,,0,0,0,,– Brook...\N– Eu não esperava que ele estivesse em um lugar como esse.
 Dialogue: 0,0:03:56.47,0:03:59.34,Main,,0,0,0,,Mas por que ela está dormindo com Brook nos braços?
-Dialogue: 0,0:04:00.72,0:04:04.72,Main,,0,0,0,,– Ele também desmaiou.\N– Como diabos ele consegue dormir?\N!
+Dialogue: 0,0:04:00.72,0:04:04.72,Main,,0,0,0,,– Ele também desmaiou.\N– Como diabos ele consegue dormir?!
 Dialogue: 0,0:04:04.72,0:04:07.26,Main,,0,0,0,,Acorde, Brook!
 Dialogue: 0,0:04:10.64,0:04:13.77,Main,,0,0,0,,Não é bom. Ele não ouve você.
 Dialogue: 0,0:04:15.56,0:04:18.70,Main,,0,0,0,,Mamãe nunca permitiria que você...
@@ -377,7 +377,7 @@ Dialogue: 0,0:07:48.28,0:07:50.32,Main,,0,0,0,,Ok, está feito.
 Dialogue: 0,0:07:50.98,0:07:55.03,Main,,0,0,0,,- Oh!\NParece o Brook!\N- Definitivamente!
 Dialogue: 0,0:07:55.50,0:07:57.45,Main,,0,0,0,,Se conseguirmos trocá-lo com esta coisa...
 Dialogue: 0,0:07:58.00,0:08:01.29,Main,,0,0,0,,... ela não vai perceber que levamos Brook embora!
-Dialogue: 0,0:08:04.71,0:08:08.05,Main,,0,0,0,,Agora, se colocarmos Brûlée bem no espelho.\N.\N.
+Dialogue: 0,0:08:04.71,0:08:08.05,Main,,0,0,0,,Agora, se colocarmos Brûlée bem no espelho...
 Dialogue: 0,0:08:08.50,0:08:12.67,Main,,0,0,0,,... podemos entrar e sair livremente.
 Dialogue: 0,0:08:13.68,0:08:16.97,Thoughts,,0,0,0,,{\i1}Droga! Vou fazê-los pagar por isso!
 Dialogue: 0,0:08:16.97,0:08:21.26,Main,,0,0,0,,Acho que está tudo pronto agora. Vamos começar.
@@ -468,7 +468,7 @@ Dialogue: 0,0:16:01.48,0:16:03.98,Main,,0,0,0,,Aqui estão as fricções.
 Dialogue: 0,0:16:04.86,0:16:09.32,Main,,0,0,0,,{\i1}Mas, de qualquer forma, Pedro-san, não acredito que você também tenha escapado em segurança.
 Dialogue: 0,0:16:09.32,0:16:10.36,Main,,0,0,0,,Fricção...?
 Dialogue: 0,0:16:10.36,0:16:11.65,Main,,0,0,0,,O que?!
-Dialogue: 0,0:16:11.65,0:16:18.16,Main,,0,0,0,,Eu estava tão desesperado por ideias que não consegui pensar em nada além daquele plano chamariz.\N.\N.
+Dialogue: 0,0:16:11.65,0:16:18.16,Main,,0,0,0,,Eu estava tão desesperado por ideias que não consegui pensar em nada além daquele plano chamariz...
 Dialogue: 0,0:16:18.75,0:16:22.58,Main,,0,0,0,,Espere um minuto, Brook! Não me diga que isso é...
 Dialogue: 0,0:16:22.58,0:16:25.37,Main,,0,0,0,,Essas são as esfregações do Poneglyph.
 Dialogue: 0,0:16:26.19,0:16:28.55,Main,,0,0,0,,Foi por um triz!
@@ -591,7 +591,7 @@ Dialogue: 0,0:27:41.34,0:27:42.73,Main,,0,0,0,,Terceiro de tudo...
 Dialogue: 0,0:27:42.73,0:27:47.08,Main,,0,0,0,,Minha família biológica maligna está caindo na armadilha da Big Mom!
 Dialogue: 0,0:27:48.14,0:27:51.27,Main,,0,0,0,,Todos serão mortos em questão de horas!
 Dialogue: 0,0:27:55.62,0:28:02.24,Flashbacks,,0,0,0,,Contanto que você não tente fugir, tudo vai dar certo, Sanji.
-Dialogue: 0,0:28:07.95,0:28:12.46,Main,,0,0,0,,Ao meu pai biológico, irmãos mais velhos e meu irmão mais novo.\N.\N.
+Dialogue: 0,0:28:07.95,0:28:12.46,Main,,0,0,0,,Ao meu pai biológico, irmãos mais velhos e meu irmão mais novo...
 Dialogue: 0,0:28:12.46,0:28:14.64,Main,,0,0,0,,Eu não tenho obrigação.
 Dialogue: 0,0:28:15.34,0:28:17.76,Main,,0,0,0,,Não tenho nada além de ressentimento por esses canalhas!
 Dialogue: 0,0:28:20.84,0:28:24.97,Flashbacks,,0,0,0,,Você é um fracasso que merece morrer!

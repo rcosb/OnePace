@@ -861,7 +861,7 @@ Dialogue: 0,0:02:13.18,0:02:14.98,Main,,0,0,0,,Não conhecemos tal pessoa!
 Dialogue: 0,0:02:16.62,0:02:20.68,Main,,0,0,0,,D-Não mexa com este país! Sair!
 Dialogue: 0,0:02:24.59,0:02:29.19,Main,,0,0,0,,Então foi real!\NO país desconhecido da Tribo Mink!
 Dialogue: 0,0:02:29.19,0:02:31.80,Main,,0,0,0,,Vocês, animais bobos, falam muito!
-Dialogue: 0,0:02:31.80,0:02:34.66,Main,,0,0,0,,Identifique-se!\NQuem são vocês-gara?\N!
+Dialogue: 0,0:02:31.80,0:02:34.66,Main,,0,0,0,,Identifique-se!\NQuem são vocês-gara?!
 Dialogue: 0,0:02:34.66,0:02:35.38,Main,,0,0,0,,Hum?
 Dialogue: 0,0:02:35.70,0:02:39.74,Main,,0,0,0,,Quem você acha que está pedindo para se identificar?!
 Dialogue: 0,0:02:39.74,0:02:41.94,Main,,0,0,0,,Este homem aqui é...
@@ -870,7 +870,7 @@ Dialogue: 0,0:02:45.35,0:02:49.58,Main,,0,0,0,,Um dos três capangas chamados de
 Dialogue: 0,0:02:49.43,0:02:52.67,Captions,,0,0,290,,{\fad(600,0)}Membro proeminente dos Piratas das Feras Capitão do Mammoth Jack the Drought
 Dialogue: 0,0:02:50.04,0:02:52.66,Main,,0,0,650,,Jack, a Seca-sama!
 Dialogue: 0,0:02:53.34,0:02:56.02,Main,,0,0,0,,A terra por onde ele passou...
-Dialogue: 0,0:02:56.02,0:03:00.90,Main,,0,0,0,,.\N.\N.\Nserão destruídos - arruinados como se tivesse ocorrido uma seca.
+Dialogue: 0,0:02:56.02,0:03:00.90,Main,,0,0,0,,...\Nserão destruídos - arruinados como se tivesse ocorrido uma seca.
 Dialogue: 0,0:03:01.70,0:03:05.99,Main,,0,0,0,,Agora entregue Raizo, o guerreiro da Terra de Wano, para nós!
 Dialogue: 0,0:03:05.99,0:03:08.44,Main,,0,0,3,,Você não quer sua vida tranquila
 Dialogue: 0,0:03:06.32,0:03:10.89,Captions,,0,0,240,,{\fad(600,0)}Beasts Pirates atração principal do Gifters Sheepshead
@@ -881,7 +881,7 @@ Dialogue: 0,0:03:20.98,0:03:22.15,Main,,0,0,0,,Seg-ji!
 Dialogue: 0,0:03:22.38,0:03:28.93,Main,,0,0,0,,No entanto, precisamos que você nos ouça para chegar a um acordo.
 Dialogue: 0,0:03:28.93,0:03:32.32,Main,,0,0,0,,Não podemos entregar alguém que não está aqui.
 Dialogue: 0,0:03:32.32,0:03:37.36,Main,,0,0,0,,Jack-san, nós Minks não mentimos.
-Dialogue: 0,0:03:37.36,0:03:42.07,Main,,0,0,0,,Se você quiser procurar esse Raizo, pode ir de porta em porta.\N.\N.
+Dialogue: 0,0:03:37.36,0:03:42.07,Main,,0,0,0,,Se você quiser procurar esse Raizo, pode ir de porta em porta...
 Dialogue: 0,0:03:48.88,0:03:52.64,Main,,0,0,0,,Ele não tem misericórdia nem mesmo das mulheres, das crianças ou dos idosos!
 Dialogue: 0,0:03:54.94,0:03:59.77,Main,,0,0,0,,Estamos aqui para conversar, Ginrummy?
 Dialogue: 0,0:03:59.77,0:04:04.62,Main,,0,0,0,,Não, Jack-sama.\NEstamos aqui para capturar um samurai.
@@ -992,7 +992,7 @@ Dialogue: 0,0:11:35.16,0:11:37.33,Main,,0,0,0,,Muito obrigado.
 Dialogue: 0,0:11:37.70,0:11:42.38,Main,,0,0,0,,Ouvi dizer que minha tripulação salvou seu povo, mas ainda não ouvi a história toda.
 Dialogue: 0,0:11:42.76,0:11:47.66,Main,,0,0,0,,Bem, você-gara e o resto nos salvaram também, Chapéu de Palha Luffy-kun.
 Dialogue: 0,0:11:48.02,0:11:51.84,Main,,0,0,0,,De qualquer forma, aposto que você é forte!\NQuero dizer, muito forte!
-Dialogue: 0,0:11:51.84,0:11:56.58,Main,,0,0,0,,O que?\N!\NIsso é rude!\NDuke-sama é o guerreiro mais poderoso do país!
+Dialogue: 0,0:11:51.84,0:11:56.58,Main,,0,0,0,,O que?!\NIsso é rude!\NDuke-sama é o guerreiro mais poderoso do país!
 Dialogue: 0,0:11:58.06,0:12:01.95,Main,,0,0,0,,Ei, pare.\NIsso não é o que você chama de perdedor.
 Dialogue: 0,0:12:01.95,0:12:03.61,Main,,0,0,0,,Você não é um perdedor!
 Dialogue: 0,0:12:03.61,0:12:07.74,Main,,0,0,0,,Os inimigos certamente eram problemáticos, mas nós estávamos em vantagem!
@@ -1017,7 +1017,7 @@ Dialogue: 0,0:13:24.04,0:13:25.97,Main,,0,0,0,,Aquele gato...
 Dialogue: 0,0:13:25.97,0:13:28.26,Main,,0,0,0,,Mestre Nekomamushi.
 Dialogue: 0,0:13:28.26,0:13:32.45,Main,,0,0,0,,Certa vez, eu estava viajando pelos mares com aquele.
 Dialogue: 0,0:13:33.42,0:13:38.92,Main,,0,0,0,,Shanks, que agora é um dos Quatro Imperadores, usava esse tipo de chapéu na época.
-Dialogue: 0,0:13:38.92,0:13:43.20,Main,,0,0,0,,O que?\N!\NVelho, você conhece Shanks?\N!\NComo?\N!
+Dialogue: 0,0:13:38.92,0:13:43.20,Main,,0,0,0,,O que?!\NVelho, você conhece Shanks?!\NComo?!
 Dialogue: 0,0:13:44.32,0:13:47.48,Main,,0,0,0,,Ganhei esse chapéu dele e...
 Dialogue: 0,0:13:49.38,0:13:50.62,Main,,0,0,0,,Ele adormeceu!
 Dialogue: 0,0:13:51.40,0:13:53.13,Main,,0,0,0,,Já são seis horas.
@@ -1087,8 +1087,8 @@ Dialogue: 0,0:18:31.72,0:18:33.82,Main,,0,0,0,,Você é Jack, não é?
 Dialogue: 0,0:18:33.82,0:18:36.90,Main,,0,0,0,,Pare com essa vandalização e violência agora!
 Dialogue: 0,0:18:42.00,0:18:44.90,Main,,0,0,0,,Você deve ser o governante deste país!
 Dialogue: 0,0:19:05.46,0:19:06.54,Main,,0,0,0,,O que?!
-Dialogue: 0,0:19:07.20,0:19:09.98,Main,,0,0,0,,Duque-sama!\NPor que você largou sua espada?\N!
-Dialogue: 0,0:19:11.86,0:19:16.86,Main,,0,0,0,,Não vamos resistir!\NVocê pode pesquisar o país ou a ilha.\N.\N.
+Dialogue: 0,0:19:07.20,0:19:09.98,Main,,0,0,0,,Duque-sama!\NPor que você largou sua espada?!
+Dialogue: 0,0:19:11.86,0:19:16.86,Main,,0,0,0,,Não vamos resistir!\NVocê pode pesquisar o país ou a ilha...
 Dialogue: 0,0:19:17.46,0:19:20.50,Main,,0,0,0,,...para aquele samurai, tudo que você quiser!
 Dialogue: 0,0:19:21.12,0:19:22.74,Main,,0,0,0,,Então pare a destruição!
 Dialogue: 0,0:19:25.26,0:19:27.48,Main,,0,0,0,,Este país tem uma história gloriosa!

@@ -65,7 +65,7 @@ Dialogue: 0,0:01:35.20,0:01:40.48,Lyrics,,0,0,0,,{\i1}sob a mesma bandeira - jun
 Dialogue: 0,0:01:50.30,0:01:55.00,Title,,0,0,420,,{\fad(250,250)}Anel Grogue!!
 Dialogue: 0,0:01:52.05,0:01:55.55,Main,,0,0,0,,Nossos poderosos combatentes do Groggy Ring entraram em campo!
 Dialogue: 0,0:01:55.55,0:01:56.93,Main,,0,0,0,,Opondo-se a eles...
-Dialogue: 0,0:01:57.15,0:02:00.35,Main,,0,0,0,,.\N.\N.\Né o cozinheiro violento que chutou os esquadrões de interferência'
+Dialogue: 0,0:01:57.15,0:02:00.35,Main,,0,0,0,,...\Né o cozinheiro violento que chutou os esquadrões de interferência'
 Dialogue: 0,0:02:00.35,0:02:02.77,Main,,0,0,0,,bunda na primeira rodada; Sanji!
 Dialogue: 0,0:02:02.77,0:02:04.77,Main,,0,0,0,,Isso é "cozinheiro de primeira linha".
 Dialogue: 0,0:02:05.90,0:02:12.18,Main,,0,0,0,,E o caçador de piratas com uma recompensa de 60 milhões; Roronoa Zoro!
@@ -119,7 +119,7 @@ Dialogue: 0,0:04:28.49,0:04:31.05,Main,,0,0,0,,É uma questão de caráter.
 Dialogue: 0,0:04:31.05,0:04:32.82,Main,,0,0,0,,É assim que você justifica?
 Dialogue: 0,0:04:32.82,0:04:35.44,Main,,0,0,0,,Afinal, o que há com esse seu time?!
 Dialogue: 0,0:04:36.03,0:04:38.12,Main,,0,0,0,,Se é que você pode chamar isso de equipe!
-Dialogue: 0,0:04:38.69,0:04:42.43,Main,,0,0,0,,Fale o quanto quiser!\NAssim que a partida começar, você verá o que eles podem.\N.\N.\N!
+Dialogue: 0,0:04:38.69,0:04:42.43,Main,,0,0,0,,Fale o quanto quiser!\NAssim que a partida começar, você verá o que eles podem...!
 Dialogue: 0,0:04:42.43,0:04:45.76,Main,,0,0,0,,Você chegou muito cedo agora!
 Dialogue: 0,0:04:45.76,0:04:48.10,Main,,0,0,0,,Não! Eu ganhei!
 Dialogue: 0,0:04:48.63,0:04:49.73,Main,,0,0,0,,Em tudo.
@@ -159,11 +159,11 @@ Dialogue: 0,0:06:35.57,0:06:37.61,Main,,0,0,0,,Não é tão engraçado, não é?
 Dialogue: 0,0:06:38.69,0:06:42.61,Main,,0,0,0,,Os Groggy Monsters estão tão alegres como sempre!
 Dialogue: 0,0:06:42.82,0:06:45.78,Main,,0,0,0,,Vamos colocar esse show delicioso na estrada!
 Dialogue: 0,0:06:46.11,0:06:49.09,Main,,0,0,0,,Não há limite de tempo e a primeira equipe a marcar vence!
-Dialogue: 0,0:06:49.75,0:06:55.03,Main,,0,0,0,,Então ganhamos se batermos a cabeça do Jumbo no outro ringue.\N.\N.
-Dialogue: 0,0:06:58.98,0:07:02.92,Main,,0,0,0,,E perderemos se a cabeça do cozinheiro bater no nosso ringue.\N.\N.
-Dialogue: 0,0:07:06.25,0:07:10.60,Main,,0,0,0,,Será que a Equipe Chapéu de Palha conseguirá reconquistar as renas que perderam na primeira rodada?\N!
+Dialogue: 0,0:06:49.75,0:06:55.03,Main,,0,0,0,,Então ganhamos se batermos a cabeça do Jumbo no outro ringue...
+Dialogue: 0,0:06:58.98,0:07:02.92,Main,,0,0,0,,E perderemos se a cabeça do cozinheiro bater no nosso ringue...
+Dialogue: 0,0:07:06.25,0:07:10.60,Main,,0,0,0,,Será que a Equipe Chapéu de Palha conseguirá reconquistar as renas que perderam na primeira rodada?!
 Dialogue: 0,0:07:10.60,0:07:12.14,Main,,0,0,0,,Esmague-os!
-Dialogue: 0,0:07:12.14,0:07:16.45,Main,,0,0,0,,Ou a Equipe Foxy irá roubar outro membro da tripulação?\N!
+Dialogue: 0,0:07:12.14,0:07:16.45,Main,,0,0,0,,Ou a Equipe Foxy irá roubar outro membro da tripulação?!
 Dialogue: 0,0:07:16.45,0:07:18.92,Main,,0,0,0,,Eles estão prestes a entrar em confronto no Groggy Ring!
 Dialogue: 0,0:07:19.45,0:07:21.20,Main,,0,0,0,,O apito está prestes a soar!
 Dialogue: 0,0:07:28.28,0:07:30.28,Main,,0,0,0,,Deixe o jogo começar!
@@ -181,7 +181,7 @@ Dialogue: 0,0:07:56.10,0:07:57.39,Main,,0,0,0,,{\fad(150,150)}Mineiro...!
 Dialogue: 0,0:08:02.36,0:08:06.40,Main,,0,0,0,,O que...?! A pele dele está toda viscosa!
 Dialogue: 0,0:08:06.40,0:08:10.28,Main,,0,0,0,,Sanji, o cozinheiro, escorrega e desliza no braço estendido do Big Pan!
 Dialogue: 0,0:08:10.28,0:08:12.20,Main,,0,0,0,,Mas é natural...
-Dialogue: 0,0:08:12.45,0:08:17.24,Main,,0,0,0,,.\N.\N.\Npois Big Pan é um wotan de pele escorregadia de origem loach!
+Dialogue: 0,0:08:12.45,0:08:17.24,Main,,0,0,0,,...\Npois Big Pan é um wotan de pele escorregadia de origem loach!
 Dialogue: 0,0:08:17.55,0:08:20.31,Main,,0,0,0,,O que diabos você está fazendo?!
 Dialogue: 0,0:08:20.31,0:08:21.48,Main,,0,0,0,,Corra e atire!
 Dialogue: 0,0:08:21.48,0:08:23.32,Main,,0,0,0,,Seu idiota!
@@ -195,7 +195,7 @@ Dialogue: 0,0:08:50.34,0:08:53.70,Main,,0,0,0,,Eu vou te cortar se eles marcarem
 Dialogue: 0,0:08:53.70,0:08:56.51,Main,,0,0,0,,Cale-se! Pare de choramingar!
 Dialogue: 0,0:08:57.51,0:08:58.85,Main,,0,0,0,,{\fad(150,150)}Equipamento arrebatador!
 Dialogue: 0,0:08:59.35,0:09:02.72,Main,,0,0,0,,Pickles entra em território inimigo!
-Dialogue: 0,0:09:02.72,0:09:05.83,Main,,0,0,0,,Enquanto isso, Hamburgo conseguirá pegar Sanji no ar?\N!
+Dialogue: 0,0:09:02.72,0:09:05.83,Main,,0,0,0,,Enquanto isso, Hamburgo conseguirá pegar Sanji no ar?!
 Dialogue: 0,0:09:06.19,0:09:08.43,Main,,0,0,0,,Sim! E então...!
 Dialogue: 0,0:09:08.43,0:09:10.13,Main,,0,0,0,,{\fad(150,150)}Lançamento de gorila!
 Dialogue: 0,0:09:11.40,0:09:12.84,Main,,0,0,0,,Eu entendi! Eu entendi!
@@ -280,7 +280,7 @@ Dialogue: 0,0:13:59.99,0:14:01.72,Main,,0,0,0,,Acontece que estou desviando o ol
 Dialogue: 0,0:14:01.72,0:14:03.53,Main,,0,0,0,,Olhe lá fora, árbitro!
 Dialogue: 0,0:14:03.53,0:14:06.43,Main,,0,0,0,,Aquele idiota está usando um machado agora! Um machado!
 Dialogue: 0,0:14:06.43,0:14:09.36,Main,,0,0,0,,Não! Parar! Você não pode se dar ao luxo de ser expulso!
-Dialogue: 0,0:14:09.36,0:14:13.09,Main,,0,0,0,,Você está brincando comigo?\N!\NNão posso deixá-los escapar impunes dessa insanidade!
+Dialogue: 0,0:14:09.36,0:14:13.09,Main,,0,0,0,,Você está brincando comigo?!\NNão posso deixá-los escapar impunes dessa insanidade!
 Dialogue: 0,0:14:13.09,0:14:15.98,Main,,0,0,0,,Você não vê?! Eles querem que você fique bravo!
 Dialogue: 0,0:14:15.98,0:14:18.14,Main,,0,0,0,,Controle-se!\NIsso é pelo bem de Chopper!
 Dialogue: 0,0:14:18.14,0:14:20.39,Main,,0,0,0,,Tudo bem! Então eu vou bater nele!
@@ -297,7 +297,7 @@ Dialogue: 0,0:14:51.63,0:14:55.07,Main,,0,0,0,,Fique fora do meu caminho! Eu pos
 Dialogue: 0,0:14:55.07,0:14:58.04,Main,,0,0,0,,Trabalhem juntos! Você é uma equipe que você conhece!
 Dialogue: 0,0:14:58.39,0:15:01.47,Main,,0,0,0,,E lá vão eles!\NTodos os três estão prestes a colidir!
 Dialogue: 0,0:15:03.98,0:15:09.19,Main,,0,0,0,,Não pode atacar onde sua pele está exposta!\NEle é muito escorregadio!
-Dialogue: 0,0:15:09.19,0:15:12.92,Main,,0,0,0,,Isso deixa suas mãos, pés, máscara e calção.\N.\N.
+Dialogue: 0,0:15:09.19,0:15:12.92,Main,,0,0,0,,Isso deixa suas mãos, pés, máscara e calção...
 Dialogue: 0,0:15:13.66,0:15:15.39,Main,,0,0,0,,{\fad(150,150)}Slide de escavação de Loach!
 Dialogue: 0,0:15:15.95,0:15:17.12,Main,,0,0,0,,Besteira!
 Dialogue: 0,0:15:18.36,0:15:20.73,Main,,0,0,0,,{\fad(150,150)}Circo de Corrida Loach!
@@ -371,7 +371,7 @@ Dialogue: 0,0:19:13.23,0:19:16.90,Main,,0,0,0,,Eles estão de pé! A Equipe Chap
 Dialogue: 0,0:19:17.90,0:19:22.45,Main,,0,0,0,,Roronoa, o espadachim, e Sanji, o cozinheiro, são terrivelmente durões!
 Dialogue: 0,0:19:22.45,0:19:25.08,Main,,0,0,0,,Eles realmente sabem como tornar um jogo emocionante!
 Dialogue: 0,0:19:26.97,0:19:30.82,Main,,0,0,0,,Eles estão de volta! Agora pegue esses idiotas!
-Dialogue: 0,0:19:31.63,0:19:36.99,Main,,0,0,0,,Mas será que esses dois ainda têm força suficiente para lutar?\N!
+Dialogue: 0,0:19:31.63,0:19:36.99,Main,,0,0,0,,Mas será que esses dois ainda têm força suficiente para lutar?!
 Dialogue: 0,0:19:36.99,0:19:39.19,Main,,0,0,0,,Ei vocês...
 Dialogue: 0,0:19:42.66,0:19:45.60,Main,,0,0,0,,Um hambúrguer monstro, por favor!
 Dialogue: 0,0:19:50.46,0:19:51.42,Main,,0,0,0,,O quê?!
@@ -397,7 +397,7 @@ Dialogue: 0,0:21:16.94,0:21:19.22,Main,,0,0,0,,Precisamos sorrir e aguentar, Luf
 Dialogue: 0,0:21:19.68,0:21:24.66,Main,,0,0,0,,Está tudo pronto!\NOs Monstros Groggy iniciam seu ataque!
 Dialogue: 0,0:21:24.66,0:21:28.43,Main,,0,0,0,,Aconteça o que acontecer agora, não me culpe!
 Dialogue: 0,0:21:29.14,0:21:31.68,Main,,0,0,0,,Naturalmente eles vão atrás de Sanji, o homem da bola!
-Dialogue: 0,0:21:31.68,0:21:37.94,Main,,0,0,0,,Ele será cortado em fatias e esmagado em um hambúrguer?\N!
+Dialogue: 0,0:21:31.68,0:21:37.94,Main,,0,0,0,,Ele será cortado em fatias e esmagado em um hambúrguer?!
 Dialogue: 0,0:21:39.55,0:21:44.20,Main,,0,0,0,,Não consigo ganhar muito com ingredientes de terceira categoria como vocês
 Dialogue: 0,0:21:44.20,0:21:46.58,Main,,0,0,0,,mas vou cozinhar cada um de vocês!
 Dialogue: 0,0:21:47.65,0:21:49.12,Main,,0,0,0,,Você é picadinho agora!
@@ -439,7 +439,7 @@ Dialogue: 0,0:24:20.13,0:24:23.94,Main,,0,0,0,,Minhas cartas e apito... Eles se 
 Dialogue: 0,0:24:24.95,0:24:26.28,Main,,0,0,0,,Você é uma garota safada.
 Dialogue: 0,0:24:27.52,0:24:29.85,Main,,0,0,0,,Não pude evitar. É um velho hábito meu.
 Dialogue: 0,0:24:35.67,0:24:37.38,Main,,0,0,0,,Oh! O que é isso?!
-Dialogue: 0,0:24:37.38,0:24:42.86,Main,,0,0,0,,A Equipe Chapéu de Palha está discutindo novamente na frente do solitário Big Pan?\N!
+Dialogue: 0,0:24:37.38,0:24:42.86,Main,,0,0,0,,A Equipe Chapéu de Palha está discutindo novamente na frente do solitário Big Pan?!
 Dialogue: 0,0:24:47.56,0:24:51.70,Main,,0,0,0,,{\fad(150,150)}Tiro de Força da Força Aérea!
 Dialogue: 0,0:24:47.56,0:24:51.70,Note,,0,0,0,,{\fad(150,150)}Tiro de Força da Força Aérea
 Dialogue: 0,0:24:55.47,0:24:57.58,Main,,0,0,0,,Eu-incrível!

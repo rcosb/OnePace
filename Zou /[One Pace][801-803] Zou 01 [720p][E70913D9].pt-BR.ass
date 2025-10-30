@@ -877,7 +877,7 @@ Dialogue: 0,0:02:31.04,0:02:35.62,Main,,0,0,0,,Então, para onde você vai agora
 Dialogue: 0,0:02:37.97,0:02:41.90,Narrator,,0,0,0,,Esta era uma terra de tragédia.
 Dialogue: 0,0:02:42.53,0:02:48.48,Narrator,,0,0,0,,Fios escuros foram tecidos, um após o outro.
 Dialogue: 0,0:02:48.48,0:02:50.69,Narrator,,0,0,0,,Apesar das inúmeras tragédias que se abateram sobre eles,
-Dialogue: 0,0:02:50.69,0:02:54.66,Narrator,,0,0,0,,eles conseguem conter as lágrimas por enquanto, e a música continua.\N.\N.
+Dialogue: 0,0:02:50.69,0:02:54.66,Narrator,,0,0,0,,eles conseguem conter as lágrimas por enquanto, e a música continua...
 Dialogue: 0,0:02:57.89,0:02:59.60,Main,,0,0,0,,Oh sim!
 Dialogue: 0,0:03:00.07,0:03:03.28,Narrator,,0,0,0,,Música que ressoa ao ritmo de palmas.
 Dialogue: 0,0:03:12.90,0:03:19.26,Narrator,,0,0,0,,A cortina se fecha após a longa, triste e sem nome apresentação sem alarde.
@@ -918,7 +918,7 @@ Dialogue: 0,0:05:32.01,0:05:34.70,Narrator,,0,0,0,,... Dressrosa.
 Dialogue: 0,0:05:42.65,0:05:46.84,Main,,0,0,0,,{\an8}Quando terminarmos de transportar nosso prisioneiro, partirei em viagem.
 Dialogue: 0,0:05:43.90,0:05:48.41,Captions,,0,0,170,,{\fad(500,0)}Frota Naval
 Dialogue: 0,0:05:46.84,0:05:48.41,Main,,0,0,0,,{\an8}Uma viagem, você diz?
-Dialogue: 0,0:05:51.70,0:05:57.83,Main,,0,0,0,,Sem os chefes do Chapéu de Palha e do Law, não posso pôr os pés numa base da Marinha, por isso.\N.\N.
+Dialogue: 0,0:05:51.70,0:05:57.83,Main,,0,0,0,,Sem os chefes do Chapéu de Palha e do Law, não posso pôr os pés numa base da Marinha, por isso...
 Dialogue: 0,0:06:00.70,0:06:02.38,Main,,0,0,0,,Tão teimoso...
 Dialogue: 0,0:06:02.38,0:06:06.59,Main,,0,0,0,,Se você apenas pedir desculpas, Sakazuki pode salvar sua aparência.
 Dialogue: 0,0:06:06.59,0:06:08.22,Main,,0,0,0,,Não!
@@ -1022,7 +1022,7 @@ Dialogue: 0,0:12:21.22,0:12:25.26,Main,,0,0,0,,Certo, vocês!\NDefina o curso pa
 Dialogue: 0,0:12:25.26,0:12:27.30,Main,,0,0,0,,Site, vida!
 Dialogue: 0,0:12:27.30,0:12:30.60,Main,,0,0,0,,Eu me pergunto se Sanji e os outros chegaram à ilha em segurança?
 Dialogue: 0,0:12:30.60,0:12:33.60,Main,,0,0,0,,Nami estava com eles, então tenho certeza que eles estavam bem em termos de navegação,
-Dialogue: 0,0:12:33.60,0:12:36.40,Main,,0,0,0,,mas o navio da Big Mom estava atrás deles.\N.\N.
+Dialogue: 0,0:12:33.60,0:12:36.40,Main,,0,0,0,,mas o navio da Big Mom estava atrás deles...
 Dialogue: 0,0:12:36.40,0:12:37.82,Main,,0,0,0,,É preocupante, de fato.
 Dialogue: 0,0:12:38.66,0:12:40.58,Main,,0,0,0,,Olá, Luffy.
 Dialogue: 0,0:12:40.58,0:12:43.11,Main,,0,0,0,,Nossas recompensas aumentaram!
@@ -1057,14 +1057,14 @@ Dialogue: 0,0:13:43.04,0:13:45.17,Main,,0,0,0,,{\an8}Oh não. Subiu.
 Dialogue: 0,0:13:45.84,0:13:50.43,Main,,0,0,0,,O Ciborgue, Franky-senpai!\N94 milhões de barriga!
 Dialogue: 0,0:13:50.43,0:13:51.82,Main,,0,0,0,,{\an8}Muito curto!
 Dialogue: 0,0:13:50.43,0:13:55.81,Captions,,0,0,0,,{\pos(397.\N333,519.\N334)}"Cyborg" Franky Bounty: 94 milhões de barriga
-Dialogue: 0,0:13:51.82,0:13:55.81,Main,,0,0,0,,{\an8}Além disso, a foto do General Franky.\N.\N.
+Dialogue: 0,0:13:51.82,0:13:55.81,Main,,0,0,0,,{\an8}Além disso, a foto do General Franky...
 Dialogue: 0,0:13:55.81,0:13:59.69,Main,,0,0,0,,Deus Usopp-senpai! 200 milhões de barriga!
 Dialogue: 0,0:13:59.69,0:14:03.19,Captions,,0,0,0,,{\pos(885.\N333,515.\N333)}Recompensa de "Deus" Usopp: 200 milhões de barriga
 Dialogue: 0,0:14:00.42,0:14:03.19,Main,,0,0,0,,{\an8}Estou desmascarado e o preço é exorbitante!
 Dialogue: 0,0:14:03.19,0:14:04.78,Main,,0,0,0,,Sou um homem marcado!
 Dialogue: 0,0:14:04.78,0:14:06.20,Main,,0,0,0,,Mas isso me deixa muito feliz!
 Dialogue: 0,0:14:06.20,0:14:08.07,Main,,0,0,0,,Mesmo assim, essa imagem é horrível!
-Dialogue: 0,0:14:08.07,0:14:13.76,Main,,0,0,0,,Ei, vá se ferrar!\NComo você conseguiu sua recompensa tão alta?\N!
+Dialogue: 0,0:14:08.07,0:14:13.76,Main,,0,0,0,,Ei, vá se ferrar!\NComo você conseguiu sua recompensa tão alta?!
 Dialogue: 0,0:14:13.76,0:14:16.79,Main,,0,0,0,,Até o meu companheiro de tripulação está tentando me matar!
 Dialogue: 0,0:14:16.79,0:14:21.34,Main,,0,0,0,,Eu sou o único com menos de cem milhões!\NÉ tão injusto!
 Dialogue: 0,0:14:21.34,0:14:22.88,Main,,0,0,0,,Espere, espere um segundo! Olhe mais de perto!
@@ -1076,7 +1076,7 @@ Dialogue: 0,0:14:33.68,0:14:35.70,Main,,0,0,0,,Tsk! Isso é chato.
 Dialogue: 0,0:14:35.70,0:14:37.52,Main,,0,0,0,,O último foi mais engraçado.
 Dialogue: 0,0:14:39.73,0:14:44.72,Main,,0,0,0,,{\an8}Ladrão de gatos Nami-senpai, barriga de 66 milhões!
 Dialogue: 0,0:14:43.77,0:14:48.15,Captions,,0,0,0,,{\pos(912,514)}Recompensa de Nami "Ladrão de Gatos": 66.\N000.\N000 de barriga
-Dialogue: 0,0:14:44.72,0:14:48.15,Main,,0,0,0,,{\an8}Quando diabos ela tirou uma foto de novo?\N!
+Dialogue: 0,0:14:44.72,0:14:48.15,Main,,0,0,0,,{\an8}Quando diabos ela tirou uma foto de novo?!
 Dialogue: 0,0:14:48.15,0:14:51.38,Main,,0,0,0,,Amante de algodão doce Chopper-senpai!
 Dialogue: 0,0:14:51.38,0:14:53.20,Main,,0,0,0,,Cem barriga!
 Dialogue: 0,0:14:53.20,0:14:56.20,Captions,,0,0,0,,{\pos(402.\N667,519.\N333)}Recompensa do Chopper "Amante de Algodão Doce": 100 Barriga
@@ -1094,13 +1094,13 @@ Dialogue: 0,0:15:24.74,0:15:27.37,Main,,0,0,0,,e o que está escrito aqui é ain
 Dialogue: 0,0:15:27.37,0:15:30.33,Main,,0,0,0,,"Só vivo"?
 Dialogue: 0,0:15:34.24,0:15:35.70,Main,,0,0,0,,É granizo!
 Dialogue: 0,0:15:35.70,0:15:37.62,Main,,0,0,0,,Eles são grandes! Atenção!
-Dialogue: 0,0:15:39.50,0:15:42.47,Main,,0,0,0,,- Huh?\N!\N– Fez um buraco no convés!
+Dialogue: 0,0:15:39.50,0:15:42.47,Main,,0,0,0,,- Huh?!\N– Fez um buraco no convés!
 Dialogue: 0,0:15:42.47,0:15:45.34,Main,,0,0,0,,Luffy-senpai e todo mundo!\NEntre agora!
-Dialogue: 0,0:15:45.34,0:15:47.67,Main,,0,0,0,,Do que você está falando?\N!\NNós vamos ajudar você!
+Dialogue: 0,0:15:45.34,0:15:47.67,Main,,0,0,0,,Do que você está falando?!\NNós vamos ajudar você!
 Dialogue: 0,0:15:47.67,0:15:49.92,Main,,0,0,0,,Para que lado devemos virar?!
-Dialogue: 0,0:15:49.92,0:15:52.84,Main,,0,0,0,,Quem é o seu navegador?\N!\NDê-nos instruções!
+Dialogue: 0,0:15:49.92,0:15:52.84,Main,,0,0,0,,Quem é o seu navegador?!\NDê-nos instruções!
 Dialogue: 0,0:15:52.84,0:15:58.81,Main,,0,0,0,,Oh, não temos navegador, pois originalmente éramos uma gangue terrestre.
-Dialogue: 0,0:15:59.85,0:16:02.56,Main,,0,0,0,,O que?\N!\NVocê está no Novo Mundo, sabia?\N!
+Dialogue: 0,0:15:59.85,0:16:02.56,Main,,0,0,0,,O que?!\NVocê está no Novo Mundo, sabia?!
 Dialogue: 0,0:16:02.56,0:16:05.62,Main,,0,0,0,,Olá, vovó? Sou eu, Gâmbia!
 Dialogue: 0,0:16:05.62,0:16:09.70,Main,,0,0,0,,A questão é que um enorme granizo começou a cair sobre nós.
 Dialogue: 0,0:16:09.70,0:16:13.69,Main,,0,0,0,,Sempre que estamos com problemas, ligamos para a vovó em nossa cidade natal.
@@ -1129,7 +1129,7 @@ Dialogue: 0,0:17:11.30,0:17:12.92,Main,,0,0,0,,Eles são de verdade?!
 Dialogue: 0,0:17:12.92,0:17:16.54,Main,,0,0,0,,Pessoal!\NTemos os Chapéus de Palha que nem temem a Deus
 Dialogue: 0,0:17:16.54,0:17:19.08,Main,,0,0,0,,e isso é como receber ajuda de mil pessoas!
 Dialogue: 0,0:17:19.08,0:17:21.89,Main,,0,0,0,,Nosso agradecimento chove como granizo e neve!
-Dialogue: 0,0:17:21.89,0:17:25.64,Main,,0,0,0,,Como vocês sobreviveram até agora?\N!
+Dialogue: 0,0:17:21.89,0:17:25.64,Main,,0,0,0,,Como vocês sobreviveram até agora?!
 Dialogue: 0,0:17:25.64,0:17:27.35,Main,,0,0,0,,Eu estou tão feliz!
 Dialogue: 0,0:17:27.35,0:17:29.65,Main,,0,0,0,,Vocês também fazem alguma coisa, seus idiotas!
 Dialogue: 0,0:17:31.02,0:17:34.04,Main,,0,0,0,,{\an8}O A.\NO.\NPiratas, anteriormente dos Piratas do Barba Branca,
@@ -1138,7 +1138,7 @@ Dialogue: 0,0:17:34.04,0:17:35.07,Main,,0,0,0,,{\an8}foram exterminados.
 Dialogue: 0,0:17:35.07,0:17:36.99,Main,,0,0,0,,{\an8}É aquele cara de novo?
 Dialogue: 0,0:17:36.99,0:17:40.24,Main,,0,0,0,,Sim, é o Senhor da Guerra, Edward Weevil.
 Dialogue: 0,0:17:40.24,0:17:46.12,Captions,,0,0,0,,{\pos(629.\N333,486.\N333)}Kizaru (Borsalino) Almirante do QG da Marinha
-Dialogue: 0,0:17:40.24,0:17:43.35,Main,,0,0,0,,{\an8}Quantos capitães que trabalharam sob o comando do Barba Branca.\N.\N.
+Dialogue: 0,0:17:40.24,0:17:43.35,Main,,0,0,0,,{\an8}Quantos capitães que trabalharam sob o comando do Barba Branca...
 Dialogue: 0,0:17:43.35,0:17:46.12,Main,,0,0,0,,{\an8}... foram derrubados?
 Dialogue: 0,0:17:46.12,0:17:47.58,Main,,0,0,0,,16 capitães, senhor.
 Dialogue: 0,0:17:49.33,0:17:51.92,Main,,0,0,0,,Como os outros casos, parece que eles explodiram
@@ -1148,7 +1148,7 @@ Dialogue: 0,0:17:57.43,0:18:01.89,Main,,0,0,0,,Ele sempre causa muitos danos col
 Dialogue: 0,0:18:01.89,0:18:05.76,Main,,0,0,0,,Mesmo sendo o Senhor da Guerra, não podemos simplesmente ignorar isso.
 Dialogue: 0,0:18:05.76,0:18:08.31,Main,,0,0,0,,O que devemos fazer?
 Dialogue: 0,0:18:08.31,0:18:12.69,Main,,0,0,0,,Ele diz que é filho biológico de "Barba Branca" Edward Newgate
-Dialogue: 0,0:18:12.69,0:18:15.57,Main,,0,0,0,,e isso o torna especial, mas muitas pessoas não acreditam.\N.\N.
+Dialogue: 0,0:18:12.69,0:18:15.57,Main,,0,0,0,,e isso o torna especial, mas muitas pessoas não acreditam...
 Dialogue: 0,0:18:15.57,0:18:22.53,Note,,0,0,0,,{\an8}Parede é lida como "Justiça pouco clara".
 Dialogue: 0,0:18:15.57,0:18:22.53,Main,,0,0,0,,Bem, não importa para nós se é verdade ou não.
 Dialogue: 0,0:18:22.53,0:18:27.87,Main,,0,0,0,,Quem quer que seja seu pai, ele tem um valor seguro.
@@ -1183,7 +1183,7 @@ Dialogue: 0,0:20:00.76,0:20:04.34,Main,,0,0,0,,Ah, você está certo!\NIsso sign
 Dialogue: 0,0:20:05.86,0:20:09.89,Main,,0,0,0,,Usopp, você parece doente.\NVocê também quer chiclete?
 Dialogue: 0,0:20:09.89,0:20:13.52,Main,,0,0,0,,Tenho me recusado a encarar a realidade...
 Dialogue: 0,0:20:14.44,0:20:15.40,Main,,0,0,0,,Ouvi...
-Dialogue: 0,0:20:15.40,0:20:21.36,Main,,0,0,0,,.\N.\N.\NZou bloqueia invasores com neblina densa e uma corrente adversa.
+Dialogue: 0,0:20:15.40,0:20:21.36,Main,,0,0,0,,...\NZou bloqueia invasores com neblina densa e uma corrente adversa.
 Dialogue: 0,0:20:21.36,0:20:23.49,Main,,0,0,0,,Também há ventos contrários!
 Dialogue: 0,0:20:23.49,0:20:27.33,Main,,0,0,0,,Pegue as velas! Vamos remar para frente!
 Dialogue: 0,0:20:27.33,0:20:29.96,Main,,0,0,0,,Entendido...
@@ -1215,15 +1215,15 @@ Dialogue: 0,0:22:03.30,0:22:06.88,Main,,0,0,0,,Ei!\NOuvi dizer que existe uma tr
 Dialogue: 0,0:22:06.88,0:22:09.54,Main,,0,0,0,,Sim, é a tribo Mink.
 Dialogue: 0,0:22:09.54,0:22:12.88,Main,,0,0,0,,Eles afastam os humanos e as pessoas contam a história do seu país
 Dialogue: 0,0:22:12.88,0:22:14.89,Main,,0,0,0,,remonta a quase mil anos.
-Dialogue: 0,0:22:14.89,0:22:18.65,Main,,0,0,0,,Mil anos?\N!\NNas costas do elefante?\N!
-Dialogue: 0,0:22:21.14,0:22:26.15,Main,,0,0,0,,Isso significa que o elefante está vivo há mil anos?\N!
+Dialogue: 0,0:22:14.89,0:22:18.65,Main,,0,0,0,,Mil anos?!\NNas costas do elefante?!
+Dialogue: 0,0:22:21.14,0:22:26.15,Main,,0,0,0,,Isso significa que o elefante está vivo há mil anos?!
 Dialogue: 0,0:22:31.08,0:22:32.54,Main,,0,0,0,,Oh? Isso é...
 Dialogue: 0,0:22:32.54,0:22:35.75,Main,,0,0,0,,O que?! D-D-Não me diga que é...
 Dialogue: 0,0:22:41.50,0:22:43.42,Main,,0,0,0,,O ensolarado!
 Dialogue: 0,0:22:54.46,0:22:55.81,Main,,0,0,0,,Cale-se!
 Dialogue: 0,0:22:56.14,0:22:57.85,Main,,0,0,0,,Então isso é...
 Dialogue: 0,0:22:59.73,0:23:02.27,Main,,0,0,0,,Isso é...
-Dialogue: 0,0:23:02.27,0:23:07.11,Main,,0,0,0,,.\N.\N.\No grande navio que transporta os corpos sagrados dos Chapéus de Palha!
+Dialogue: 0,0:23:02.27,0:23:07.11,Main,,0,0,0,,...\No grande navio que transporta os corpos sagrados dos Chapéus de Palha!
 Dialogue: 0,0:23:07.11,0:23:13.24,Main,,0,0,0,,{\i1}Os Mil Sunny-senpai!\NEu me sinto abençoado!\NEu me sinto abençoado!
 Dialogue: 0,0:23:13.24,0:23:15.26,Main,,0,0,0,,Eu me sinto abençoado!
 Dialogue: 0,0:23:15.26,0:23:16.37,Main,,0,0,0,,Não adore isso!
@@ -1233,7 +1233,7 @@ Dialogue: 0,0:23:23.59,0:23:25.96,Main,,0,0,0,,Não há grandes danos.
 Dialogue: 0,0:23:25.96,0:23:28.36,Main,,0,0,0,,Ei! Sanji!
 Dialogue: 0,0:23:28.36,0:23:33.08,Main,,0,0,0,,Nami! Helicóptero! Ribeiro! Momo!
 Dialogue: 0,0:23:33.08,0:23:36.39,Main,,0,0,0,,E... qual era o nome do cara do gás?
-Dialogue: 0,0:23:36.39,0:23:38.98,Main,,0,0,0,,{\i1}Todos vocês senpai, apressem-se e atravessem.\N.\N.
+Dialogue: 0,0:23:36.39,0:23:38.98,Main,,0,0,0,,{\i1}Todos vocês senpai, apressem-se e atravessem...
 Dialogue: 0,0:23:38.98,0:23:39.85,Main,,0,0,0,,Oh?
 Dialogue: 0,0:23:39.85,0:23:41.48,Main,,0,0,0,,Para onde eles foram?
 Dialogue: 0,0:23:41.48,0:23:44.23,Main,,0,0,0,,Oh! Eles já estão atravessando!
@@ -1247,7 +1247,7 @@ Dialogue: 0,0:23:56.33,0:23:58.50,Main,,0,0,0,,Há mais alguma coisa que você p
 Dialogue: 0,0:23:58.50,0:24:00.46,Main,,0,0,0,,Eu gostaria de poder segui-los
 Dialogue: 0,0:24:00.46,0:24:02.52,Main,,0,0,0,,e ver todas as estrelas dos Chapéus de Palha
 Dialogue: 0,0:24:02.52,0:24:05.63,Main,,0,0,0,,dos meus sonhos por um tempinho, mas...
-Dialogue: 0,0:24:05.63,0:24:09.96,Main,,0,0,0,,.\N.\N.\NNão quero atrapalhar as aventuras desses deuses!
+Dialogue: 0,0:24:05.63,0:24:09.96,Main,,0,0,0,,...\NNão quero atrapalhar as aventuras desses deuses!
 Dialogue: 0,0:24:09.96,0:24:14.34,Main,,0,0,0,,Nosso barômetro da felicidade já está a todo vapor!
 Dialogue: 0,0:24:14.78,0:24:16.98,Main,,0,0,0,,Da próxima vez que nos vermos,
 Dialogue: 0,0:24:16.98,0:24:21.82,Main,,0,0,0,,todos teremos habilidades dignas de serem chamadas
@@ -1271,7 +1271,7 @@ Dialogue: 0,0:25:38.39,0:25:39.55,Main,,0,0,0,,Legal!
 Dialogue: 0,0:25:46.20,0:25:51.44,Main,,0,0,0,,Dragão...
 Dialogue: 0,0:25:51.44,0:25:56.00,Main,,0,0,0,,D-Dragão...
 Dialogue: 0,0:25:56.00,0:25:59.24,Main,,0,0,0,,Algum tipo de criatura patética apareceu!
-Dialogue: 0,0:26:00.28,0:26:03.58,Main,,0,0,0,,– Por que você.\N.\N.\N?\N– Como dizem, olho por olho.
+Dialogue: 0,0:26:00.28,0:26:03.58,Main,,0,0,0,,– Por que você...?\N– Como dizem, olho por olho.
 Dialogue: 0,0:26:04.32,0:26:05.75,Thoughts,,0,0,0,,É fofo...
 Dialogue: 0,0:26:12.08,0:26:16.30,Main,,0,0,0,,Muito bem, pessoal, agarrem-se às suas costas!\NVai subir!
 Dialogue: 0,0:26:16.30,0:26:17.76,Main,,0,0,0,,Não vai voar?!
@@ -1329,7 +1329,7 @@ Dialogue: 0,0:29:10.64,0:29:13.31,Main,,0,0,0,,Precisamos da ajuda deles.
 Dialogue: 0,0:29:13.98,0:29:15.27,Main,,0,0,0,,Deles?
 Dialogue: 0,0:29:16.88,0:29:21.23,Main,,0,0,0,,Convoque todos os líderes do Exército Revolucionário de todo o mundo!
 Dialogue: 0,0:29:21.23,0:29:22.36,Main,,0,0,0,,OK.
-Dialogue: 0,0:29:22.36,0:29:27.03,Main,,0,0,0,,O que?\N!\NVocê realmente quer convocar todas aquelas grandes personalidades de novo?\N!
+Dialogue: 0,0:29:22.36,0:29:27.03,Main,,0,0,0,,O que?!\NVocê realmente quer convocar todas aquelas grandes personalidades de novo?!
 Dialogue: 0,0:29:27.16,0:29:32.04,Captions,,0,0,0,,{\fad(500,500)}Um mar em algum lugar do Novo Mundo
 Dialogue: 0,0:29:37.20,0:29:39.13,Main,,0,0,0,,Toque, toque, toque... Toque, toque, toque...
 Dialogue: 0,0:29:39.13,0:29:40.96,Main,,0,0,0,,Toque, toque, toque... Toque, toque, toque...
@@ -1411,7 +1411,7 @@ Dialogue: 0,0:34:10.73,0:34:13.38,Main,,0,0,0,,Então, talvez ele saiba alguma c
 Dialogue: 0,0:34:13.38,0:34:15.15,Main,,0,0,0,,Devemos ir espancá-lo?
 Dialogue: 0,0:34:25.00,0:34:30.04,Captions,,0,0,0,,{\pos(641.\N333,479.\N333)}"Buggy Town" Ilha Falsa Brovado, Novo Mundo
 Dialogue: 0,0:34:30.04,0:34:34.50,Main,,0,0,0,,Toque, toque, toque... Toque, toque, toque...
-Dialogue: 0,0:34:34.50,0:34:36.97,Main,,0,0,0,,– Diretor Buggy!\N- O que você quer?\N!
+Dialogue: 0,0:34:34.50,0:34:36.97,Main,,0,0,0,,– Diretor Buggy!\N- O que você quer?!
 Dialogue: 0,0:34:36.97,0:34:40.22,Main,,0,0,0,,Continuamos recebendo pedidos e os Caracóis não param de tocar!
 Dialogue: 0,0:34:41.50,0:34:43.18,Main,,0,0,0,,Bom, bom!
 Dialogue: 0,0:34:43.18,0:34:46.52,Main,,0,0,0,,Já que eles não podem obter armas de Doflamingo agora,
@@ -1422,8 +1422,8 @@ Dialogue: 0,0:35:01.12,0:35:02.53,Main,,0,0,0,,Ei pessoal!
 Dialogue: 0,0:35:02.92,0:35:04.66,Main,,0,0,0,,Quem terminar de comer,
 Dialogue: 0,0:35:04.66,0:35:08.21,Main,,0,0,0,,vá para os campos de batalha, corra solto e traga o saque!
 Dialogue: 0,0:35:11.08,0:35:15.50,Captions,,0,0,0,,{\pos(654.\N667,482)}Buggy, o "Palhaço Estelar" - Um Senhor da Guerra/Pirata O Diretor da Entrega de Buggy
-Dialogue: 0,0:35:11.04,0:35:14.80,Main,,0,0,0,,{\an8}Sua pirataria é legítima em nome de.\N.\N.
-Dialogue: 0,0:35:14.80,0:35:19.05,Main,,0,0,0,,{\i1}.\N.\N.\No Senhor da Guerra – Buggy, o "Palhaço Estelar"-sama!
+Dialogue: 0,0:35:11.04,0:35:14.80,Main,,0,0,0,,{\an8}Sua pirataria é legítima em nome de...
+Dialogue: 0,0:35:14.80,0:35:19.05,Main,,0,0,0,,{\i1}...\No Senhor da Guerra – Buggy, o "Palhaço Estelar"-sama!
 Dialogue: 0,0:35:22.01,0:35:27.73,Captions,,0,0,0,,{\pos(640,502)}Buggy's Delivery – Uma Agência Mercenária Pirata
 Dialogue: 0,0:35:22.01,0:35:27.77,Main,,0,0,0,,{\an8}Buggy! Buggy! Buggy! Buggy! Buggy!
 Dialogue: 0,0:35:29.31,0:35:31.40,Main,,0,0,0,,Ah, sim, Diretor Buggy!
@@ -1455,7 +1455,7 @@ Dialogue: 0,0:37:31.22,0:37:35.60,Main,,0,0,0,,Hum-hm.\NZou sempre foi nosso des
 Dialogue: 0,0:37:35.60,0:37:37.86,Main,,0,0,0,,Queremos ver se Momonosuke está bem
 Dialogue: 0,0:37:37.86,0:37:41.23,Main,,0,0,0,,e se outro amigo de quem nos separássemos no mar,
 Dialogue: 0,0:37:41.23,0:37:46.82,Main,,0,0,0,,Raizo, um ninja, chegou aqui em segurança.
-Dialogue: 0,0:37:46.82,0:37:49.66,Main,,0,0,0,,– Um ninja?\N!\N– Ele é um ninja?\N!
+Dialogue: 0,0:37:46.82,0:37:49.66,Main,,0,0,0,,– Um ninja?!\N– Ele é um ninja?!
 Dialogue: 0,0:37:49.66,0:37:50.70,Main,,0,0,0,,O que...
 Dialogue: 0,0:37:50.70,0:37:53.45,Main,,0,0,0,,Um ninja... quero conhecê-lo!
 Dialogue: 0,0:37:53.45,0:37:55.75,Main,,0,0,0,,Alimentando ...

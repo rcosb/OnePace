@@ -80,7 +80,7 @@ Dialogue: 0,0:02:43.23,0:02:48.35,Main,Brook,0,0,0,,Essa coisa se parece exatame
 Dialogue: 0,0:02:50.01,0:02:52.75,Main,Brook,0,0,0,,Fiquei fascinado com o que li!
 Dialogue: 0,0:02:52.75,0:02:56.65,Main,Brook,0,0,0,,Os monstros chamados Slimes tendem a atacar as mulheres...
 Dialogue: 0,0:02:56.65,0:03:02.93,Main,Brook,0,0,0,,e seus fluidos corporais derretem as roupas das mulheres!\NMonstros verdadeiramente indecentes!
-Dialogue: 0,0:03:06.31,0:03:09.03,Main,Sanji,0,0,0,,Quem inventaria um monstro tão ridiculamente conveniente?\N!
+Dialogue: 0,0:03:06.31,0:03:09.03,Main,Sanji,0,0,0,,Quem inventaria um monstro tão ridiculamente conveniente?!
 Dialogue: 0,0:03:09.03,0:03:11.50,Main,Sanji,0,0,0,,C-C-Você poderia me emprestar esse livro mais tarde?
 Dialogue: 0,0:03:11.50,0:03:12.54,Main,Kinemon,0,0,0,,E eu!
 Dialogue: 0,0:03:12.54,0:03:14.72,Main,Zoro,0,0,0,,Ei idiotas, dêem uma boa olhada.
@@ -108,7 +108,7 @@ Dialogue: 0,0:04:40.87,0:04:42.53,Thoughts,Law,0,0,0,,Esta é minha chance.
 Dialogue: 0,0:04:42.53,0:04:44.53,Main,Monet,0,0,0,,Se você está procurando pelo Mestre, ele não está aqui.
 Dialogue: 0,0:04:44.86,0:04:46.84,Main,Law,0,0,0,,Eu vejo. Onde ele está?
 Dialogue: 0,0:04:46.84,0:04:52.25,Main,Monet,0,0,0,,Quem sabe.\NEle é muito distorcido, então provavelmente está assistindo a batalha lá fora.
-Dialogue: 0,0:04:55.21,0:05:00.00,Main,Law,0,0,0,,Encontrei tudo o que vou encontrar nesta ilha.\N.\N.
+Dialogue: 0,0:04:55.21,0:05:00.00,Main,Law,0,0,0,,Encontrei tudo o que vou encontrar nesta ilha...
 Dialogue: 0,0:05:00.00,0:05:03.31,Main,Law,0,0,0,,então estou planejando partir em breve.
 Dialogue: 0,0:05:03.31,0:05:05.77,Main,Monet,0,0,0,,Eu vejo. Será solitário sem você.
 Dialogue: 0,0:05:06.63,0:05:09.05,Main,Law,0,0,0,,Primeiro, sua habilidade pode ser útil para uma tarefa pequena.
@@ -254,7 +254,7 @@ Dialogue: 0,0:15:42.26,0:15:46.44,Main,Marine,0,0,0,,Nunca pensei que veria o di
 Dialogue: 0,0:15:46.99,0:15:51.05,Main,Marine,0,0,0,,Os três Chapéus de Palha também foram derrotados!
 Dialogue: 0,0:15:51.05,0:15:53.49,Main,Marine,0,0,0,,Poderia ter sido o Haki dos Conquistadores?
 Dialogue: 0,0:15:53.49,0:15:56.96,Main,Marine,0,0,0,,Sem chance!\NNão poderia haver uma lacuna tão grande em seu poder!
-Dialogue: 0,0:15:56.96,0:16:01.50,Main,Marine,0,0,0,,Então o que foi?\N!\NEle tirou todos eles sem levantar um dedo!
+Dialogue: 0,0:15:56.96,0:16:01.50,Main,Marine,0,0,0,,Então o que foi?!\NEle tirou todos eles sem levantar um dedo!
 Dialogue: 0,0:16:08.21,0:16:10.16,Main,Centaur,0,0,0,,Bem feito, Marinha!
 Dialogue: 0,0:16:10.16,0:16:14.38,Main,Centaur,0,0,0,,Esse é o verdadeiro poder do nosso deus da salvação, Mestre!
 Dialogue: 0,0:16:14.38,0:16:21.71,Main,Centaur,0,0,0,,{\i1}Mestre! Mestre! Mestre!
@@ -278,7 +278,7 @@ Dialogue: 0,0:17:28.48,0:17:30.98,Main,Brook,0,0,0,,Por que você faria isso?!
 Dialogue: 0,0:17:30.98,0:17:34.09,Main,Brook,0,0,0,,Você é apenas uma aberração com geleia no lugar!
 Dialogue: 0,0:17:35.25,0:17:36.74,Main,Brook,0,0,0,,Mais gás venenoso!
 Dialogue: 0,0:17:37.25,0:17:40.44,Main,Brook,0,0,0,,O que devemos fazer, Zoro-san?! Ele vomita gás venenoso!
-Dialogue: 0,0:17:40.44,0:17:44.33,Main,Zoro,0,0,0,,Eu acabei de fazer isso, não foi?\N!\NTente aprender com os outros, esqueleto!
+Dialogue: 0,0:17:40.44,0:17:44.33,Main,Zoro,0,0,0,,Eu acabei de fazer isso, não foi?!\NTente aprender com os outros, esqueleto!
 Dialogue: 0,0:17:44.33,0:17:46.62,Main,Brook,0,0,0,,Pensei que talvez você tivesse tido azar.
 Dialogue: 0,0:17:48.29,0:17:50.75,Main,Zoro,0,0,0,,Eu sei! O inimigo é a gelatina!
 Dialogue: 0,0:17:50.75,0:17:52.40,Main,Zoro,0,0,0,,Você deve comê-los e digeri-los.
@@ -295,7 +295,7 @@ Dialogue: 0,0:18:17.33,0:18:18.76,Thoughts,Sanji,0,0,0,,Poderia ser isso...
 Dialogue: 0,0:18:18.76,0:18:20.75,Thoughts,Sanji,0,0,0,,a toxina do Slime?!
 Dialogue: 0,0:18:20.75,0:18:22.24,Thoughts,Sanji,0,0,0,,Vamos, agora!
 Dialogue: 0,0:18:22.24,0:18:25.36,Thoughts,Sanji,0,0,0,,Espero que o torso do samurai não tenha sido consumido pelas toxinas!
-Dialogue: 0,0:18:25.36,0:18:28.76,Thoughts,Sanji,0,0,0,,Já uso a Cor da Percepção há algum tempo e ainda assim.\N.\N.
+Dialogue: 0,0:18:25.36,0:18:28.76,Thoughts,Sanji,0,0,0,,Já uso a Cor da Percepção há algum tempo e ainda assim...
 Dialogue: 0,0:18:28.76,0:18:31.11,Thoughts,Sanji,0,0,0,,Ele deve estar bem fraco.
 Dialogue: 0,0:18:31.11,0:18:35.83,Thoughts,Sanji,0,0,0,,Seus sinais de vida estão se misturando com os dos peixes, então não posso dizer onde ele está!
 Dialogue: 0,0:18:36.40,0:18:37.18,Thoughts,Sanji,0,0,0,,Um tubarão?!
@@ -348,16 +348,16 @@ Dialogue: 0,0:22:00.13,0:22:03.55,Main,Brook,0,0,0,,Esse casaco vai desaparecer 
 Dialogue: 0,0:22:03.55,0:22:07.61,Main,Kinemon,0,0,0,,Homem com sobrancelhas, você me dará seu nome em troca?
 Dialogue: 0,0:22:10.23,0:22:11.31,Main,Sanji,0,0,0,,Eu sou o Sanji!
 Dialogue: 0,0:22:11.76,0:22:13.81,Main,Sanji,0,0,0,,E o que você quer dizer com isso?!
-Dialogue: 0,0:22:13.81,0:22:17.12,Main,Sanji,0,0,0,,Só porque você recuperou seu corpo, de repente você quer um festival de apresentação educado?\N!
+Dialogue: 0,0:22:13.81,0:22:17.12,Main,Sanji,0,0,0,,Só porque você recuperou seu corpo, de repente você quer um festival de apresentação educado?!
 Dialogue: 0,0:22:17.12,0:22:20.08,Main,Sanji,0,0,0,,Você aproveitou ao máximo quando estava indefeso...
-Dialogue: 0,0:22:20.08,0:22:25.53,Main,Sanji,0,0,0,,e fez inúmeros comentários rudes e atrevidos para mim!\NVocê não esqueceu, não é?\N!
+Dialogue: 0,0:22:20.08,0:22:25.53,Main,Sanji,0,0,0,,e fez inúmeros comentários rudes e atrevidos para mim!\NVocê não esqueceu, não é?!
 Dialogue: 0,0:22:28.74,0:22:30.60,Flashbacks,Kinemon,0,0,0,,{Copy-paste from 582}Vocês são piratas?!
 Dialogue: 0,0:22:32.04,0:22:34.38,Flashbacks,Kinemon,0,0,0,,Isso explica sua selvageria!
 Dialogue: 0,0:22:34.38,0:22:37.68,Flashbacks,Kinemon,0,0,0,,{End copy-paste from 582}Eu odeio piratas. Eles me fazem vomitar!
 Dialogue: 0,0:22:39.96,0:22:42.06,Flashbacks,Sanji,0,0,0,,{Copy-paste from 585}Você é um bastardo tão chato!
 Dialogue: 0,0:22:42.06,0:22:45.11,Flashbacks,Sanji,0,0,0,,Basta nos perguntar! Diga "Por favor, procure meu corpo"!
 Dialogue: 0,0:22:45.68,0:22:49.48,Flashbacks,Kinemon,0,0,0,,Recuso-me a ficar em dívida com um pirata!\NPrefiro morrer a pedir sua ajuda!
-Dialogue: 0,0:22:50.04,0:22:55.68,Flashbacks,Kinemon,0,0,0,,Infelizmente, eu ficaria indefeso se você me deixasse aqui, mas se quiser me levar com você.\N.\N.
+Dialogue: 0,0:22:50.04,0:22:55.68,Flashbacks,Kinemon,0,0,0,,Infelizmente, eu ficaria indefeso se você me deixasse aqui, mas se quiser me levar com você...
 Dialogue: 0,0:22:55.68,0:22:57.35,Flashbacks,Kinemon,0,0,0,,{End copy-paste from 585}Eu não reclamaria.
 Dialogue: 0,0:23:05.75,0:23:07.48,Main,Kinemon,0,0,0,,Eu não esqueci!
 Dialogue: 0,0:23:08.92,0:23:10.10,Main,Kinemon,0,0,0,,Eu nunca vou...
@@ -374,7 +374,7 @@ Dialogue: 0,0:23:45.28,0:23:50.11,Main,Brook,0,0,0,,Uh, odeio interromper, mas..
 Dialogue: 0,0:23:51.10,0:23:54.96,Main,Brook,0,0,0,,Parece que estamos no meio de uma crise desesperadora.
 Dialogue: 0,0:23:56.75,0:23:58.73,Main,Brook,0,0,0,,Olhar. Ver?
 Dialogue: 0,0:24:01.66,0:24:04.03,Main,Brook,0,0,0,,Não há mais para onde correr!
-Dialogue: 0,0:24:07.51,0:24:11.90,Main,Sanji,0,0,0,,Ei, pessoal!\NEu não falei para você cuidar dessas coisas?\N!
+Dialogue: 0,0:24:07.51,0:24:11.90,Main,Sanji,0,0,0,,Ei, pessoal!\NEu não falei para você cuidar dessas coisas?!
 Dialogue: 0,0:24:12.56,0:24:15.76,Main,Zoro,0,0,0,,Tentamos mas nada funcionou. Não é nossa culpa.
 Dialogue: 0,0:24:15.76,0:24:17.43,Main,Brook,0,0,0,,Exatamente.
 Dialogue: 0,0:24:17.43,0:24:20.28,Main,Sanji,0,0,0,,Não sejam tão relaxados, idiotas!

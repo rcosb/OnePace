@@ -133,7 +133,7 @@ Dialogue: 0,0:05:16.49,0:05:18.91,Main,Usopp,0,0,0,,Por que você fez isso, estr
 Dialogue: 0,0:05:18.91,0:05:21.31,Main,Usopp,0,0,0,,Deveríamos estar fugindo!
 Dialogue: 0,0:05:21.31,0:05:23.47,Main,Usopp,0,0,0,,Agora vamos acabar brigando, não é mesmo?!
 Dialogue: 0,0:05:23.76,0:05:29.44,Main,Caribou,0,0,0,,Eu venho dizendo que deveríamos correr desde o início, mas aquele seu capitão estúpido não escuta, não é?
-Dialogue: 0,0:05:29.88,0:05:34.04,Main,Caribou,0,0,0,,{ tlc: "Would you rather it went wild while we were still on the ship?\N!\N" makes it easier to understand }Você preferiria que ele enlouquecesse enquanto ainda estava no navio?\N!
+Dialogue: 0,0:05:29.88,0:05:34.04,Main,Caribou,0,0,0,,{ tlc: "Would you rather it went wild while we were still on the ship?!\N" makes it easier to understand }Você preferiria que ele enlouquecesse enquanto ainda estava no navio?!
 Dialogue: 0,0:05:34.43,0:05:37.15,Main,Usopp,0,0,0,,Tudo bem, vá em frente! O mais longe possível do navio!
 Dialogue: 0,0:05:37.15,0:05:39.78,Main,Nami,0,0,0,,Se você vai lutar com ele, então saia do navio!
 Dialogue: 0,0:05:39.78,0:05:41.28,Main,Luffy,0,0,0,,Esta corda está no caminho.
@@ -229,7 +229,7 @@ Dialogue: 0,0:10:28.47,0:10:29.92,Main,Usopp,0,0,0,,O que?!
 Dialogue: 0,0:10:29.92,0:10:33.64,Main,Robin,0,0,0,,Só espero que não tenham sido despedaçados por um monstro marinho.
 Dialogue: 0,0:10:33.64,0:10:35.67,Main,Usopp,0,0,0,,Sua imaginação é muito assustadora.
 Dialogue: 0,0:10:36.21,0:10:39.80,Main,Usopp,0,0,0,,Ainda assim, não os encontraremos nesta escuridão, por mais que procuremos.
-Dialogue: 0,0:10:39.80,0:10:44.83,Main,Brook,0,0,0,,Não gosto da escuridão.\N.\N.\NAlgum de vocês sente que está sendo observado?
+Dialogue: 0,0:10:39.80,0:10:44.83,Main,Brook,0,0,0,,Não gosto da escuridão...\NAlgum de vocês sente que está sendo observado?
 Dialogue: 0,0:10:45.48,0:10:48.57,Main,Franky,0,0,0,,Provavelmente já estamos a pelo menos 7 quilômetros de profundidade.
 Dialogue: 0,0:10:48.57,0:10:52.49,Main,Franky,0,0,0,,Nessa profundidade, a pressão achataria o Shark Submerge como uma panqueca.
 Dialogue: 0,0:10:52.49,0:10:55.03,Main,Chopper,0,0,0,,Estamos perto da Ilha dos Tritões?
@@ -310,7 +310,7 @@ Dialogue: 0,0:14:47.77,0:14:48.84,Main,Usopp,0,0,0,,Onde ele poderia estar?!
 Dialogue: 0,0:14:49.49,0:14:52.11,Main,Nami,0,0,0,,Ele poderia estar escondido em algum lugar dentro do navio.
 Dialogue: 0,0:14:55.01,0:14:57.59,Thoughts,Caribou,0,0,0,,Se você quer que eu fique à espreita, talvez eu deva.
 Dialogue: 0,0:14:57.59,0:14:59.40,Thoughts,Caribou,0,0,0,,Como nos aposentos das mulheres?
-Dialogue: 0,0:14:59.40,0:15:04.88,Main,Usopp,0,0,0,,Droga.\N.\N.\NEntão não podemos nem baixar a guarda em nosso navio?
+Dialogue: 0,0:14:59.40,0:15:04.88,Main,Usopp,0,0,0,,Droga...\NEntão não podemos nem baixar a guarda em nosso navio?
 Dialogue: 0,0:15:05.19,0:15:09.05,Main,Franky,0,0,0,,Não se preocupe. Ele não é tão forte, de qualquer maneira.
 Dialogue: 0,0:15:11.38,0:15:13.14,Thoughts,Caribou,0,0,0,,Isso é ótimo!
 Dialogue: 0,0:15:14.38,0:15:21.69,Thoughts,Caribou,0,0,0,,O trio de monstros que lutou contra o Kraken desapareceu!
@@ -360,7 +360,7 @@ Dialogue: 0,0:17:46.74,0:17:47.77,Main,Franky,0,0,0,,{\fad(150,150)}Pequeno...
 Dialogue: 0,0:17:47.77,0:17:49.19,Main,Franky,0,0,0,,{\fad(150,150)}Tiro Explosivo!
 Dialogue: 0,0:17:49.53,0:17:51.88,Main,Chopper,0,0,0,,O mar profundo é assustador!
 Dialogue: 0,0:17:52.71,0:17:56.81,Main,Chopper,0,0,0,,Não há como Luffy e os outros sobreviverem aqui.
-Dialogue: 0,0:17:56.81,0:18:00.79,Main,Chopper,0,0,0,,Estou tão triste.\NFinalmente nos conhecemos depois de dois anos, e agora.\N.\N.
+Dialogue: 0,0:17:56.81,0:18:00.79,Main,Chopper,0,0,0,,Estou tão triste.\NFinalmente nos conhecemos depois de dois anos, e agora...
 Dialogue: 0,0:18:00.79,0:18:03.72,Main,Usopp,0,0,0,,Não seja ridículo! Eles não morrerão tão facilmente!
 Dialogue: 0,0:18:03.72,0:18:09.01,Main,Franky,0,0,0,,Usamos um Coup de Burst atrás do outro... Não sobrou muito ar.
 Dialogue: 0,0:18:10.58,0:18:13.43,Main,Chopper,0,0,0,,O que é isso? É tão brilhante!
