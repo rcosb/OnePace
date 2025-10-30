@@ -19,7 +19,7 @@ Se você não está familiarizado com Git e GitHub, não se preocupe! Siga estes
     ![Imagem mostrando o botão Code e a opção Download ZIP](https://docs.github.com/assets/cb-79190/mw-1440/images/help/repository/code-button.webp)
 3.  O GitHub irá baixar um arquivo compactado (ZIP) para o seu computador.
 4.  Localize o arquivo baixado (geralmente na pasta "Downloads") e extraia seu conteúdo. No Windows, você pode clicar com o botão direito do mouse nele e selecionar "Extrair Tudo...".
-5.  Pronto! Dentro da pasta extraída, você encontrará todas as pastas dos arcos e episódios com os arquivos de legenda (`.srt`).
+5.  Pronto! Dentro da pasta extraída, você encontrará todas as pastas dos arcos e episódios com os arquivos de legenda (`.ass`).
 
 ### Contribuições e Revisões
 Como estas são traduções não revisadas, contribuições para corrigir erros são muito bem-vindas! Se você quiser ajudar a melhorar a qualidade das legendas:
